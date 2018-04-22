@@ -1,0 +1,26 @@
+{% extends "dev_base.html" %}
+{% block title %}{{ chapter.book }} chapter {{ chapter.number }}{% endblock title %}
+
+{% load bible_ttags %}
+
+{% block  content_content %}
+
+<div class="container">
+    
+    <div class="row">
+        <div class="col-sm-12">
+            <h2>{{ chapter.book }} chapter {{ chapter.number }}</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            {% for verse in chapter.verse_set.all %}
+                <a href="#">{{ verse.number }}</a> 
+                
+                <p>{{ verse.text|markdown_format }}</p>
+            {% endfor %}
+        </div>
+    </div>
+
+{% endblock content_content %}

@@ -1,0 +1,42 @@
+{% extends "dev_base.html" %}
+
+{% block title %}Bible Index{% endblock title %}
+{% block  content_content %}
+
+<div class="container">
+    
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h1>APIs</h1>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-12">
+            <ul style="display:inline; list-style-type:none">
+                <li><h3><a href="{% url 'api:verses' %}">Verses</a></h3></li>
+                <li><h3><a href="{% url 'api:chapters' %}">Chapters</a></h3></li>
+                <li><h3><a href="{% url 'api:commentaries' %}">Commentaries</a></h3></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h2><a href="{% url 'bible:commentaries' %}">Commentaries</a></h2>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-sm-12">
+            {% for book in books %}
+            <p><a href="{% url 'bible:book-detail' book.pk %}">{{ book.name }}
+                {% if book.alt_name %} ({{ book.alt_name }}){% endif %}</a></p>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% endblock content_content %}

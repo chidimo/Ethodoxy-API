@@ -1,0 +1,819 @@
+ï»¿
+<!-- Â© Copyright drbo.org 2001-2013.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Catholic Bible: Douay-Rheims Bible Online, Verses Search.
+  </title>
+  <!--   123456789 123456789 123456789 123456789 123456789 123456789 123456789  
+                1         2         3         4         5         6         7 -->
+  <meta content="Douay-Rheims Bible Online, Roman Catholic Bible Verses, Search Scriptures, Challoner Footnotes." name="description"/>
+  <meta content="Roman, Catholic, Douay, Rheims, Bible, study, online, holy, scriptures, 
+verses, search, commentary, quote, story, scripture, book, prophesy, christian, 
+word of God, Jesus Christ, mother Mary, church, Challoner, footnotes, Roman." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="7 days" name="revisit-after"/>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+  <script src="code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         DRBO.ORG
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="index.htm">
+         <img border="0" class="imglink" src="img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+       <td width="22">
+       </td>
+       <td valign="top" width="250">
+        <!--	<a href="photos.htm">3 photos</a> -->
+       </td>
+      </tr>
+     </table>
+     <table border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="drl/index.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="lvb/index.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+       <td class="helpbox">
+        <a href="help.htm">
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+      <tr>
+       <td valign="top">
+        <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+         <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+           <td class="searchbox">
+            <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+            <input class="button" type="submit" value="Search"/>
+            <input name="b" type="hidden" value="drb"/>
+           </td>
+          </tr>
+         </table>
+        </form>
+       </td>
+      </tr>
+     </table>
+     <table border="0" cellpadding="0" cellspacing="0" class="nametable">
+      <tr>
+       <td class="OT1" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0">
+         <tr>
+          <td valign="top">
+           <table border="0" cellpadding="0" cellspacing="0">
+            <tr>
+             <td class="bookphoto" colspan="2">
+              <img border="0" src="img/DRB6.jpg"/>
+              <br/>
+             </td>
+            </tr>
+            <tr>
+             <td class="books1" valign="top">
+              <font class="section">
+               Old Testament
+              </font>
+              <br/>
+              <a class="b" href="chapter/01001.htm">
+               Genesis
+              </a>
+              <a class="b" href="chapter/02001.htm">
+               Exodus
+              </a>
+              <a class="b" href="chapter/03001.htm">
+               Leviticus
+              </a>
+              <a class="b" href="chapter/04001.htm">
+               Numbers
+              </a>
+              <a class="b" href="chapter/05001.htm">
+               Deuteronomy
+              </a>
+              <a class="b" href="chapter/06001.htm">
+               Josue
+              </a>
+              <a class="b" href="chapter/07001.htm">
+               Judges
+              </a>
+              <a class="b" href="chapter/08001.htm">
+               Ruth
+              </a>
+              <a class="b" href="chapter/09001.htm">
+               1 Kings
+              </a>
+              <a class="b" href="chapter/10001.htm">
+               2 Kings
+              </a>
+              <a class="b" href="chapter/11001.htm">
+               3 Kings
+              </a>
+              <a class="b" href="chapter/12001.htm">
+               4 Kings
+              </a>
+              <a class="b" href="chapter/13001.htm">
+               1 Paralipomenon
+              </a>
+              <a class="b" href="chapter/14001.htm">
+               2 Paralipomenon
+              </a>
+              <a class="b" href="chapter/15001.htm">
+               1 Esdras
+              </a>
+              <a class="b" href="chapter/16001.htm">
+               2 Esdras
+              </a>
+              <a class="b" href="chapter/17001.htm">
+               Tobias
+               <font class="ast">
+                *
+               </font>
+              </a>
+              <a class="b" href="chapter/18001.htm">
+               Judith
+               <font class="ast">
+                *
+               </font>
+              </a>
+             </td>
+             <td class="books2" valign="top">
+              <font class="section">
+              </font>
+              <br/>
+              <font class="b">
+              </font>
+              <br/>
+              <font class="b">
+              </font>
+              <br/>
+              <font class="b">
+              </font>
+              <br/>
+              <font class="b">
+              </font>
+              <br/>
+              <font class="b">
+              </font>
+              <br/>
+              <a class="b" href="chapter/06001.htm">
+               Joshua
+              </a>
+              <font class="b">
+              </font>
+              <br/>
+              <font class="b">
+              </font>
+              <br/>
+              <a class="b" href="chapter/09001.htm">
+               1 Samuel
+              </a>
+              <a class="b" href="chapter/10001.htm">
+               2 Samuel
+              </a>
+              <a class="b" href="chapter/11001.htm">
+               1 Kings
+              </a>
+              <a class="b" href="chapter/12001.htm">
+               2 Kings
+              </a>
+              <a class="b" href="chapter/13001.htm">
+               1 Chronicles
+              </a>
+              <a class="b" href="chapter/14001.htm">
+               2 Chronicles
+              </a>
+              <a class="b" href="chapter/15001.htm">
+               Ezra
+              </a>
+              <a class="b" href="chapter/16001.htm">
+               Nehemiah
+              </a>
+              <a class="b" href="chapter/17001.htm">
+               Tobit
+               <font class="ast">
+                *
+               </font>
+              </a>
+              <font class="b">
+              </font>
+              <br/>
+             </td>
+            </tr>
+           </table>
+          </td>
+         </tr>
+        </table>
+       </td>
+       <td class="OT2" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0">
+         <tr>
+          <td class="books3" valign="top">
+           <font class="section">
+            Old Testament
+           </font>
+           <br/>
+           <a class="b" href="chapter/19001.htm">
+            Esther
+           </a>
+           <a class="b" href="chapter/20001.htm">
+            Job
+           </a>
+           <a class="b" href="chapter/21001.htm">
+            Psalms
+           </a>
+           <a class="b" href="chapter/22001.htm">
+            Proverbs
+           </a>
+           <a class="b" href="chapter/23001.htm">
+            Ecclesiastes
+           </a>
+           <a class="b" href="chapter/24001.htm">
+            Canticles
+           </a>
+           <a class="b" href="chapter/25001.htm">
+            Wisdom
+            <font class="ast">
+             *
+            </font>
+           </a>
+           <a class="b" href="chapter/26001.htm">
+            Ecclesiasticus
+            <font class="ast">
+             *
+            </font>
+           </a>
+           <a class="b" href="chapter/27001.htm">
+            Isaias
+           </a>
+           <a class="b" href="chapter/28001.htm">
+            Jeremias
+           </a>
+           <a class="b" href="chapter/29001.htm">
+            Lamentations
+           </a>
+           <a class="b" href="chapter/30001.htm">
+            Baruch
+            <font class="ast">
+             *
+            </font>
+           </a>
+           <a class="b" href="chapter/31001.htm">
+            Ezechiel
+           </a>
+           <a class="b" href="chapter/32001.htm">
+            Daniel
+           </a>
+           <a class="b" href="chapter/33001.htm">
+            Osee
+           </a>
+           <a class="b" href="chapter/34001.htm">
+            Joel
+           </a>
+           <a class="b" href="chapter/35001.htm">
+            Amos
+           </a>
+           <a class="b" href="chapter/36001.htm">
+            Abdias
+           </a>
+           <a class="b" href="chapter/37001.htm">
+            Jonas
+           </a>
+           <a class="b" href="chapter/38001.htm">
+            Micheas
+           </a>
+           <a class="b" href="chapter/39001.htm">
+            Nahum
+           </a>
+           <a class="b" href="chapter/40001.htm">
+            Habacuc
+           </a>
+           <a class="b" href="chapter/41001.htm">
+            Sophonias
+           </a>
+           <a class="b" href="chapter/42001.htm">
+            Aggeus
+           </a>
+           <a class="b" href="chapter/43001.htm">
+            Zacharias
+           </a>
+           <a class="b" href="chapter/44001.htm">
+            Malachias
+           </a>
+           <a class="b" href="chapter/45001.htm">
+            1 Machabees
+            <font class="ast">
+             *
+            </font>
+           </a>
+           <a class="b" href="chapter/46001.htm">
+            2 Machabees
+            <font class="ast">
+             *
+            </font>
+           </a>
+          </td>
+          <td class="books4" valign="top">
+           <font class="section">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+           <a class="b" href="chapter/24001.htm">
+            Solomon
+           </a>
+           <font class="b">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+           <a class="b" href="chapter/27001.htm">
+            Isaiah
+           </a>
+           <a class="b" href="chapter/28001.htm">
+            Jeremiah
+           </a>
+           <font class="b">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+           <a class="b" href="chapter/31001.htm">
+            Ezeckiel
+           </a>
+           <font class="b">
+           </font>
+           <br/>
+           <a class="b" href="chapter/33001.htm">
+            Hosea
+           </a>
+           <font class="b">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+           <a class="b" href="chapter/36001.htm">
+            Obadiah
+           </a>
+           <a class="b" href="chapter/37001.htm">
+            Jonah
+           </a>
+           <a class="b" href="chapter/38001.htm">
+            Micah
+           </a>
+           <font class="b">
+           </font>
+           <br/>
+           <a class="b" href="chapter/40001.htm">
+            Habakkuk
+           </a>
+           <a class="b" href="chapter/41001.htm">
+            Zephaniah
+           </a>
+           <a class="b" href="chapter/42001.htm">
+            Haggai
+           </a>
+           <a class="b" href="chapter/43001.htm">
+            Zachariah
+           </a>
+           <a class="b" href="chapter/44001.htm">
+            Malachi
+           </a>
+           <font class="b">
+           </font>
+           <br/>
+           <font class="b">
+           </font>
+           <br/>
+          </td>
+         </tr>
+        </table>
+       </td>
+       <td class="NT" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0">
+         <tr>
+          <td class="books5" valign="top">
+           <font class="section">
+            New Testament
+           </font>
+           <br/>
+           <a class="b" href="chapter/47001.htm">
+            Matthew
+           </a>
+           <a class="b" href="chapter/48001.htm">
+            Mark
+           </a>
+           <a class="b" href="chapter/49001.htm">
+            Luke
+           </a>
+           <a class="b" href="chapter/50001.htm">
+            John
+           </a>
+           <a class="b" href="chapter/51001.htm">
+            Acts of Apostles
+           </a>
+           <a class="b" href="chapter/52001.htm">
+            Romans
+           </a>
+           <a class="b" href="chapter/53001.htm">
+            1 Corinthians
+           </a>
+           <a class="b" href="chapter/54001.htm">
+            2 Corinthians
+           </a>
+           <a class="b" href="chapter/55001.htm">
+            Galatians
+           </a>
+           <a class="b" href="chapter/56001.htm">
+            Ephesians
+           </a>
+           <a class="b" href="chapter/57001.htm">
+            Philippians
+           </a>
+           <a class="b" href="chapter/58001.htm">
+            Colossians
+           </a>
+           <a class="b" href="chapter/59001.htm">
+            1 Thessalonians
+           </a>
+           <a class="b" href="chapter/60001.htm">
+            2 Thessalonians
+           </a>
+           <a class="b" href="chapter/61001.htm">
+            1 Timothy
+           </a>
+           <a class="b" href="chapter/62001.htm">
+            2 Timothy
+           </a>
+           <a class="b" href="chapter/63001.htm">
+            Titus
+           </a>
+           <a class="b" href="chapter/64001.htm">
+            Philemon
+           </a>
+           <a class="b" href="chapter/65001.htm">
+            Hebrews
+           </a>
+           <a class="b" href="chapter/66001.htm">
+            James
+           </a>
+           <a class="b" href="chapter/67001.htm">
+            1 Peter
+           </a>
+           <a class="b" href="chapter/68001.htm">
+            2 Peter
+           </a>
+           <a class="b" href="chapter/69001.htm">
+            1 John
+           </a>
+           <a class="b" href="chapter/70001.htm">
+            2 John
+           </a>
+           <a class="b" href="chapter/71001.htm">
+            3 John
+           </a>
+           <a class="b" href="chapter/72001.htm">
+            Jude
+           </a>
+           <a class="b" href="chapter/73001.htm">
+            Apocalypse / Revelation
+           </a>
+          </td>
+         </tr>
+        </table>
+       </td>
+      </tr>
+      <tr>
+       <td class="AP" colspan="3">
+        <font class="ast">
+         *
+        </font>
+        One of the seven Deutero-Canonical books, missing from most non-Catholic Bibles.
+       </td>
+      </tr>
+      <tr>
+       <td colspan="3">
+        <table align="left" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+          <td class="olinksheader">
+           Articles
+          </td>
+         </tr>
+         <tr>
+          <td class="olinks" valign="top" width="280">
+           <ul>
+            <li>
+             <a class="ul" href="about.htm">
+              About This Douay-Rheims Bible
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="difficult.htm">
+              Difficult Bible Verses for Protestants
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="preface.htm">
+              1989 Preface
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="catechism.htm">
+              Catechism of the Bible
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="church.htm">
+              The Church or the Bible
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="church2.htm">
+              The One True Church
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="churchenemies.htm">
+              The Church &amp; Her Enemies
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="againstreformers.htm">
+              Against The Reformers
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="conversion.htm">
+              Dr David White's Conversion
+             </a>
+            </li>
+           </ul>
+          </td>
+          <td class="olinks" valign="top">
+           <ul>
+            <li>
+             <a class="ul" href="popeleo.htm">
+              Pope Leo's Encyclical
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="modesty.htm">
+              Christian Modesty
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="valtorta.htm">
+              The Poem Of The Man-God by Maria Valtorta
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="sacredheart.htm">
+              First Friday Devotion
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="immaculate.htm">
+              First Saturday Devotion
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="rosary.htm">
+              The Rosary Devotion
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="motherofsorrows.htm">
+              Mother of Sorrows Devotion
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="scapular.htm">
+              The Brown Scapular Promises
+             </a>
+            </li>
+            <li>
+             <a class="ul" href="masses.htm">
+              SSPX Latin Masses
+             </a>
+            </li>
+           </ul>
+          </td>
+         </tr>
+         <tr>
+          <td class="olinksheader">
+           Videos/Audios
+           <img src="img/new.gif"/>
+          </td>
+         </tr>
+         <tr>
+          <td class="olinks" colspan="2">
+           <ul>
+            <li>
+             <a class="ul" href="https://www.youtube.com/watch?v=VTYkvsQd18M&amp;list=PLMBXTIiqlLowoaQ7EIcRFaf8psLijT4Ru" target="_blank">
+              Fr Hesse: Vatican II New Religion.
+              <li>
+               <a class="ul" href="https://www.youtube.com/watch?v=ozJWEzguR3g" target="_blank">
+                Fr Hesse: The New Mass (part 1).
+                <li>
+                 <a class="ul" href="https://www.youtube.com/watch?v=4WsoeaxrhG4" target="_blank">
+                  Fr Hesse: The New Mass (part 2).
+                  <li>
+                   <a class="ul" href="https://www.youtube.com/watch?v=tjckUEBkkBI" target="_blank">
+                    Fr Hesse: SSPX, FSSP, ICKSP &amp; Sedevacantists.
+                   </a>
+                  </li>
+                 </a>
+                </li>
+               </a>
+              </li>
+             </a>
+            </li>
+           </ul>
+          </td>
+         </tr>
+         <tr>
+          <td class="olinksheader">
+           Links
+          </td>
+         </tr>
+         <tr>
+          <td class="olinks" colspan="2">
+           <ul>
+            <li>
+             <a class="ul" href="http://bestcatholicbible.com" target="_blank">
+              Best Catholic Bible
+             </a>
+             , Douay-Rheims and Latin Vulgate Bibles.
+             <li>
+              <a class="ul" href="http://www.deenterprisesmn.com/" target="_blank">
+               D. E. Enterprises
+              </a>
+              , Buy and sell gold and silver, Catholic precious metals broker.
+              <li>
+               <a class="ul" href="http://www.douayrheimsaudiobible.org/" target="_blank">
+                Douay-Rheims Audio Bible
+               </a>
+               , Audio version of the Bible in MP4 format.
+               <li>
+                <a class="ul" href="http://www.loretopubs.org/" target="_blank">
+                 Loreto Publications
+                </a>
+                , Bibles and many other Catholic books.
+                <li>
+                 <a class="ul" href="http://www.valtorta.org/home_defaultpage.asp" target="_blank">
+                  Valtorta Books
+                 </a>
+                 , Books by Maria Valtorta and other books.
+                </li>
+               </li>
+              </li>
+             </li>
+            </li>
+           </ul>
+          </td>
+         </tr>
+         <tr>
+          <td class="olinksheader">
+           Company
+          </td>
+         </tr>
+         <tr>
+          <td class="olinks" colspan="2">
+           <ul>
+            <li>
+             <a class="ul" href="aboutus.htm">
+              About us
+             </a>
+             .
+            </li>
+            <li>
+             <a class="ul" href="donate.htm">
+              Make a donation
+             </a>
+             .
+            </li>
+            <li>
+             <a class="ul" href="advertising.htm">
+              Advertising rates
+             </a>
+             .
+            </li>
+            <li>
+             <a class="ul" href="contact.htm">
+              Contact us
+             </a>
+             .
+            </li>
+           </ul>
+          </td>
+         </tr>
+        </table>
+       </td>
+      </tr>
+     </table>
+    </td>
+    <td align="right" valign="top" width="272">
+     <script>
+      side_ads("")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="872">
+   <tr>
+    <td class="copyrightbox">
+     <font class="smalltext">
+      © Copyright DRBO.ORG 2001-2017.  All rights reserved.
+     </font>
+    </td>
+   </tr>
+  </table>
+  <table border="0" cellpadding="0" cellspacing="0" width="872">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2016.  All rights reserved. -->

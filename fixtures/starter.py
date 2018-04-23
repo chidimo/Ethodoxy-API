@@ -1,24 +1,31 @@
 """docstring"""
 
+import os
 import json
 import glob
-from drb.models import (
-    Version, Book, Chapter, Verse, Commentary,
-    CommentaryText)
+from drb.models import (Version, Book, Chapter, Verse, Commentary, CommentaryText)
 
-NT = "fixes/new_test.json"
-OT = "fixes/old_test.json"
-CHAPS = glob.glob("fixes/douay/chapters/*.json")
-VERSES = glob.glob("fixes/douay/verses/*.json")
-COMMENTARIES = glob.glob("fixes/douay/commentary/challoner/*.json")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+save_path = os.path.join(BASE_DIR, "drbo_org_scrap")
+data_store = os.path.join(BASE_DIR, "drbo_data")
+chapter_store = os.path.join(BASE_DIR, "drbo_data", "chapters")
+verse_store = os.path.join(BASE_DIR, "drbo_data", "verses")
+challoner_store = os.path.join(BASE_DIR, "drbo_data", "challoner")
 
-def remove_asterisk(name):
+NT = (os.path.join(data_store, "new_test.json"))
+OT = (os.path.join(data_store, "old_test.json"))
+
+CHAPS = glob.glob("{}/*.json".format(chapter_store))
+VERSES = glob.glob("{}/*.json".format(verse_store))
+COMMENTARIES = glob.glob("{}/*.json".format(challoner_store))
+
+def clean_name(name):
     """Remove asterisk"""
     return name.replace("*", "").lstrip().rstrip()
 
 def create_version(name="Douay-Rheims", location="http://drbo.org/"):
     Version.objects.create(name=name, location=location)
- 
+
 def create_old_testament_books(file_name):
     version, _ = Version.objects.get_or_create(name="Douay-Rheims")
     with open(file_name, "r+") as rh:
@@ -27,7 +34,7 @@ def create_old_testament_books(file_name):
     for name, value in booking.items():
         book = Book(
             version=version,
-            name=remove_asterisk(name),
+            name=clean_name(name),
             testament="OLD TESTAMENT",
             position=int(value[1][:2]),
             location=value[0])
@@ -37,19 +44,18 @@ def create_old_testament_books(file_name):
 
         if " or " in name:
             both_names = name.split(" or ")
-            book.name = remove_asterisk(both_names[0])
-            book.alt_name = remove_asterisk(both_names[1])
-
+            book.name = clean_name(both_names[0])
+            book.alt_name = clean_name(both_names[1])
         book.save()
 
 def create_new_testament_books(file_name):
     version, _ = Version.objects.get_or_create(name="Douay-Rheims")
     with open(file_name, "r+") as rh:
         booking = json.load(rh)
-    for name, value in booking.items(): 
+    for name, value in booking.items():
         book = Book(
             version=version,
-            name=remove_asterisk(name),
+            name=clean_name(name),
             testament="NEW TESTAMENT",
             position=int(value[1][:2]),
             location=value[0])
@@ -62,7 +68,7 @@ def create_chapters(file_name):
     for name, number_location in chapters_dictionary.items():
         if " or " in name:
             name = name.split(" or ")[0]
-        name = remove_asterisk(name)
+        name = clean_name(name)
         book = Book.objects.get(name=name)
 
         for number, location in number_location.items():
@@ -87,7 +93,7 @@ def create_verses(file_name):
 
         if " or " in name:
             name = name.split(" or ")[0]
-        name = remove_asterisk(name)
+        name = clean_name(name)
         book = Book.objects.get(name=name)
         chapter = Chapter.objects.get(book=book, number=chapter_number)
 
@@ -113,7 +119,7 @@ def create_alt_verses(file_name):
 
         if " or " in name:
             name = name.split(" or ")[0]
-        name = remove_asterisk(name)
+        name = clean_name(name)
         book = Book.objects.get(name=name)
 
         for number, text in chapter_text_dictionary.items():
@@ -145,7 +151,7 @@ def create_commentary_for_book(commentary_file_name):
         if " or " in book_name:
             book_name = book_name.split(" or ")[0]
 
-        book_name = remove_asterisk(book_name)
+        book_name = clean_name(book_name)
         book = Book.objects.get(name=book_name)
 
         for verse_heading, text in comment_dictionary.items():

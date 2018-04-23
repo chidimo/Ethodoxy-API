@@ -3,7 +3,7 @@
 
 # http://drbo.org/
 
-# In[1]:
+# In[ ]:
 
 import re
 import os
@@ -13,19 +13,18 @@ from django.template.defaultfilters import slugify
 from pywebber import Ripper
 
 
-# In[2]:
+# In[ ]:
 
 domain = "http://drbo.org/"
-base = "/home/parousia/catholic"
-# base = "D:\git\catholic"
-save_path = os.path.join(base, "drbo_org_scrap")
-data_store = os.path.join(base, "drbo_data")
-chapter_store = os.path.join(base, "drbo_data", "chapters")
-verse_store = os.path.join(base, "drbo_data", "verses")
-challoner_store = os.path.join(base, "drbo_data", "challoner")
+BASE_DIR = os.path.dirname(os.path.abspath("__file__"))
+save_path = os.path.join(BASE_DIR, "drbo_org_scrap")
+data_store = os.path.join(BASE_DIR, "drbo_data")
+chapter_store = os.path.join(BASE_DIR, "drbo_data", "chapters")
+verse_store = os.path.join(BASE_DIR, "drbo_data", "verses")
+challoner_store = os.path.join(BASE_DIR, "drbo_data", "challoner")
 
 
-# In[3]:
+# In[ ]:
 
 def normalize_filename(file_name):
     return "_".join([each.lower() for each in re.split(r"[\, *, \/]", file_name) if each != ''])
@@ -34,7 +33,7 @@ def normalize_filename(file_name):
 # home = Ripper(domain, save_path="D:\git\catholic\drbo_org_scrap")
 # home_links = list(home.links())
 
-# In[4]:
+# In[ ]:
 
 def get_all_books_page_links(raw_page_rip):
     """Get page links for each book"""
@@ -91,7 +90,7 @@ def get_all_books_page_links(raw_page_rip):
         json.dump(rev_old, wh)
 
 
-# In[5]:
+# In[ ]:
 
 def export_chapter_links_to_json(book_name, book_link, idd):
     """Get all chapters and write to json"""
@@ -123,7 +122,7 @@ def export_chapter_links_to_json(book_name, book_link, idd):
 
 
 
-# In[9]:
+# In[ ]:
 
 def join_chapter_text(chapter_content_list):
     """Join paragraphs of a chapter"""
@@ -184,23 +183,23 @@ def get_all_text_for_book(book_file_name):
                 chapter_text = {}
 
 
-# In[7]:
+# In[ ]:
 
-def make_dictionary_from_each_commentary_text(commentary_parts_list):
+def export_commentary_text_as_dictionary(commentary_parts_list):
     """Make a dictionary from each commentary text.
     Input is a list consisting of a 3 items.
     [verse, underlined text from bible, commentary text]
     """
     verse_string = str(commentary_parts_list[0])
     header_string = str(commentary_parts_list[1])
-    
-    verse = re.search(r"\n\[(\d+)\]", verse_string).group(1)
-    header = re.search(r'<u>"(.+)"</u>', header_string).group(1)
+        
+    verse = re.search(r"\[(\d+)\]", verse_string).group(1)
+    header = re.search(r'\<u\>\s*"(.+)"\s*\<\/u\>', header_string).group(1)
 
     commentary_text = commentary_parts_list[2].replace(": ", "")
     key = verse + "__" + header
     
-    return key, commentary_text
+    return key, commentary_text.strip()
 
 def get_commentary_for_chapter(location):
     """Get commentary text for single chapter"""
@@ -216,13 +215,16 @@ def get_commentary_for_chapter(location):
                 pass
             elif "note" in attributes["class"]:
                 new_content = each.contents
-                verse_header, text = make_dictionary_from_each_commentary_text(new_content)
+                verse_header, text = export_commentary_text_as_dictionary(new_content)
                 chapter_commentary_dictionary[verse_header] = text
         else:
             continue
     return chapter_commentary_dictionary
 
-def get_commentary_for_all_book_chapters(book_file_name):
+def get_commentary_for_book_chapters(book_file_name):
+    """Get commentary for all chapters of all books"""
+    if not os.path.exists(challoner_store):
+        os.mkdir(challoner_store)
     with open(book_file_name, "r+") as rh:
         book = json.load(rh)
     chapter_text = {}
@@ -255,22 +257,13 @@ def get_commentary_for_all_book_chapters(book_file_name):
 #         idd = link[1]
 #         export_chapter_links_to_json(name, link, idd)
 
-# In[8]:
+# all_books = glob.glob("{}/*.json".format(chapter_store))
 
-all_books = glob.glob("{}/*.json".format(chapter_store))
+# for each in all_books:
+#     get_all_text_for_book(each)
 
-
-# In[10]:
-
-for each in all_books:
-    get_all_text_for_book(each)
-
-
-# In[11]:
-
-for each in all_books:
-    get_commentary_for_all_book_chapters(each)
-
+# for each in all_books:
+#     get_commentary_for_book_chapters(each)
 
 # In[ ]:
 

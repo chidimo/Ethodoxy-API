@@ -22,7 +22,16 @@ SHELL_PLUS_POST_IMPORTS = [
     ('fixtures')
     ]
 
-# Application definition
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'drb',
+        'USER': 'postgres',
+        'PASSWORD': 'douay-rheims',
+        'HOST': 'localhost',
+        'PORT': 5432
+    }
+}
 
 INSTALLED_APPS = [
     'drb',
@@ -65,18 +74,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'catholic.wsgi.application'
-
-
-# Database
-# https://docs.djangoproject.com/en/2.0/ref/settings/#databases
-
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
-}
-
 
 # Password validation
 # https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators

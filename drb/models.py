@@ -41,7 +41,7 @@ class Book(TimeStampedModel):
         return self.version.name
 
     def __str__(self):
-        return "Book: {}".format(self.name)
+        return self.name
 
     def get_absolute_url(self):
         pass
@@ -50,7 +50,6 @@ class Chapter(TimeStampedModel):
     book = models.ForeignKey(Book, on_delete=models.CASCADE)
     number = models.IntegerField()
     location = models.URLField(blank=True)
-    slug = AutoMultipleSlugField(set_using=['book', 'number'])
 
     class Meta:
         ordering = ("book", "number")
@@ -67,7 +66,6 @@ class Chapter(TimeStampedModel):
 class Verse(TimeStampedModel):
     chapter = models.ForeignKey(Chapter, on_delete=models.CASCADE)
     number = models.IntegerField()
-    slug = AutoSlugField(set_using='name')
     text = models.TextField()
 
     class Meta:
@@ -114,7 +112,7 @@ class CommentaryText(TimeStampedModel):
     heading = models.CharField(max_length=500, blank=True)
     book = models.ForeignKey(Book, on_delete=models.CASCADE)
     chapter = models.IntegerField(default=1)
-    slug = AutoSlugField(set_using='name')
+    slug = AutoSlugField(set_using='heading', max_length=255)
     verse = models.IntegerField(default=1)
     text = models.TextField()
 

@@ -1,0 +1,536 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Hebrews Chapter 10
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/65010.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/65010.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="64001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Hebrews
+           </td>
+           <td class="next">
+            <a href="66001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="65009.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 10
+           </td>
+           <td class="next">
+            <a href="65011.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="65001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="65002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="65003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="65004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="65005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="65006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="65007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="65008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="65009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             10
+            </td>
+            <td width="30">
+             <a href="65011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="65012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="65013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Because of the insufficiency of the sacrifices of the law, Christ our high priest shed his own blood for us, offering up once for all the sacrifice of our redemption. He exhorts them to perseverance.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=1-#x">
+                [1]
+               </a>
+               For the law having a shadow of the good things to come, not the very image of the things; by the selfsame sacrifices which they offer continually every year, can never make the comers thereunto perfect:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=2-#x">
+                [2]
+               </a>
+               For then
+               <u>
+                they would have ceased
+               </u>
+               to be offered: because the worshippers once cleansed should have no conscience of sin any longer:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=3-#x">
+                [3]
+               </a>
+               But in them there is made a commemoration of sins every year.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=4-#x">
+                [4]
+               </a>
+               For it is impossible that with the blood of oxen and goats sin should be taken away.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=5-#x">
+                [5]
+               </a>
+               Wherefore when he cometh into the world, he saith: Sacrifice and oblation thou wouldest not: but a body thou hast fitted to me:
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "They would have ceased"
+               </u>
+               : If they had been of themselves perfect to all the intents of redemption and remission, as Christ's death is there would have been no occasion of so often repeating them: as there is no occasion for Christ's dying any more for our sins.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=6-#x">
+                [6]
+               </a>
+               Holocausts for sin did not please thee.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=7-#x">
+                [7]
+               </a>
+               Then said I: Behold I come: in the head of the book it is written of me: that I should do thy will, O God.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=8-#x">
+                [8]
+               </a>
+               In saying before, Sacrifices, and oblations, and holocausts for sin thou wouldest not, neither are they pleasing to thee, which are offered according to the law.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=9-#x">
+                [9]
+               </a>
+               Then said I: Behold, I come to do thy will, O God: he taketh away the first, that he may establish that which followeth.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=10-#x">
+                [10]
+               </a>
+               In the which will, we are sanctified by the oblation of the body of Jesus Christ once.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=11-#x">
+                [11]
+               </a>
+               And every priest indeed standeth daily ministering, and often offering the same sacrifices, which can never take away sins.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=12-#x">
+                [12]
+               </a>
+               But this man offering one sacrifice for sins, for ever sitteth on the right hand of God,
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=13-#x">
+                [13]
+               </a>
+               From henceforth expecting, until his enemies be made his footstool.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=14-#x">
+                [14]
+               </a>
+               For by one oblation he hath perfected for ever them that are sanctified.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=15-#x">
+                [15]
+               </a>
+               And the Holy Ghost also doth testify this to us. For after that he said:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=16-#x">
+                [16]
+               </a>
+               And this is the testament which I will make unto them after those days, saith the Lord. I will give my laws in their hearts, and on their minds will I write them:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=17-#x">
+                [17]
+               </a>
+               And their sins and iniquities I will remember no more.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=18-#x">
+                [18]
+               </a>
+               Now where there is a remission of these,
+               <u>
+                there is no more an oblation for sin
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=19-#x">
+                [19]
+               </a>
+               Having therefore, brethren, a confidence in the entering into the holies by the blood of Christ;
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=20-#x">
+                [20]
+               </a>
+               A new and living way which he hath dedicated for us through the veil, that is to say, his flesh,
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "There is no more an oblation for sin"
+               </u>
+               : Where there is a full remission of sins, as in baptism, there is no more occasion for a sin offering to be made for such sins already remitted; and as for sins committed afterwards, they can only be remitted in virtue of the one oblation of Christ's death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=21-#x">
+                [21]
+               </a>
+               And a high priest over the house of God:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=22-#x">
+                [22]
+               </a>
+               Let us draw near with a true heart in fulness of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with clean water.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=23-#x">
+                [23]
+               </a>
+               Let us hold fast the confession of our hope without wavering (for he is faithful that hath promised),
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=24-#x">
+                [24]
+               </a>
+               And let us consider one another, to provoke unto charity and to good works:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=25-#x">
+                [25]
+               </a>
+               Not forsaking our assembly, as some are accustomed; but comforting one another, and so much the more as you see the day approaching.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=26-#x">
+                [26]
+               </a>
+               For
+               <u>
+                if we sin wilfully
+               </u>
+               after having the knowledge of the truth, there is now left no sacrifice for sins,
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=27-#x">
+                [27]
+               </a>
+               But a certain dreadful expectation of judgment, and the rage of a fire which shall consume the adversaries.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=28-#x">
+                [28]
+               </a>
+               A man making void the law of Moses, dieth without any mercy under two or three witnesses:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=29-#x">
+                [29]
+               </a>
+               How much more, do you think he deserveth worse punishments, who hath trodden under foot the Son of God, and hath esteemed the blood of the testament unclean, by which he was sanctified, and hath offered an affront to the Spirit of grace?
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=30-#x">
+                [30]
+               </a>
+               For we know him that hath said: Vengeance belongeth to me, and I will repay. And again: The Lord shall judge his people.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "If we sin wilfully"
+               </u>
+               : He speaks of the sin of wilful apostasy from the known truth; after which, as we can not be baptized again, we can not expect to have that abundant remission of sins, which Christ purchased by his death, applied to our souls in that ample manner as it is in baptism: but we have rather all manner of reason to look for a dreadful judgment; the more because apostates from the known truth, seldom or never have the grace to return to it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=31-#x">
+                [31]
+               </a>
+               It is a fearful thing to fall into the hands of the living God.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=32-#x">
+                [32]
+               </a>
+               But call to mind the former days, wherein, being illuminated, you endured a great fight of afflictions.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=33-#x">
+                [33]
+               </a>
+               And on the one hand indeed, by reproaches and tribulations, were made a gazingstock; and on the other, became companions of them that were used in such sort.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=34-#x">
+                [34]
+               </a>
+               For you both had compassion on them that were in bands, and took with joy the being stripped of your own goods, knowing that you have a better and a lasting substance.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=35-#x">
+                [35]
+               </a>
+               Do not therefore lose your confidence, which hath a great reward.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=36-#x">
+                [36]
+               </a>
+               For patience is necessary for you; that, doing the will of God, you may receive the promise.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=37-#x">
+                [37]
+               </a>
+               For yet a little and a very little while, and he that is to come, will come, and will not delay.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=38-#x">
+                [38]
+               </a>
+               But my just man liveth by faith; but if he withdraw himself, he shall not please my soul.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=10&amp;l=39-#x">
+                [39]
+               </a>
+               But we are not the children of withdrawing unto perdition, but of faith to the saving of the soul.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="64001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Hebrews
+              </td>
+              <td class="next">
+               <a href="66001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="65009.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 10
+              </td>
+              <td class="next">
+               <a href="65011.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

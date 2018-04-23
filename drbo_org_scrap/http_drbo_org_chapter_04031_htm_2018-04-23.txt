@@ -1,0 +1,694 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 31
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04031.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04031.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04030.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 31
+           </td>
+           <td class="next">
+            <a href="04032.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             31
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Madianites are slain for having drawn the people of Israel into sin. The dividing of the booty.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=2-#x">
+                [2]
+               </a>
+               Revenge first the children of Israel on the Madianites, and so thou shalt be gathered to thy people.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=3-#x">
+                [3]
+               </a>
+               And Moses forthwith said: Arm of you men to fight, who may take the revenge of the Lord on the Madianites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=4-#x">
+                [4]
+               </a>
+               Let a thousand men be chosen out of every tribe of Israel to be sent to the war.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=5-#x">
+                [5]
+               </a>
+               And they gave a thousand of every tribe, that is to say, twelve thousand men well appointed for battle.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=6-#x">
+                [6]
+               </a>
+               And Moses sent them with Phinees the son of Eleazar the priest, and he delivered to him the holy vessels, and the trumpets to sound.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=7-#x">
+                [7]
+               </a>
+               And when they had fought against the Madianites and had overcome them, they slew all the men.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=8-#x">
+                [8]
+               </a>
+               And their kings Evi, and Recem, and Sur, and Hur, and Rebe, five princes of the nation: Balaam also the son of Beer they killed with the sword.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=9-#x">
+                [9]
+               </a>
+               And they took their women, and their children captives, and all their cattle, and all their goods: and all their possessions they plundered:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=10-#x">
+                [10]
+               </a>
+               And all their cities, and their villages, and castles, they burned.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=11-#x">
+                [11]
+               </a>
+               And they carried away the booty, and all that they had taken both of men and of beasts.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=12-#x">
+                [12]
+               </a>
+               And they brought them to Moses, and Eleazar the priest, and to all the multitude of the children of Israel. But the rest of the things for use they carried to the camp on the plains of Moab, beside the Jordan over against Jericho.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=13-#x">
+                [13]
+               </a>
+               And Moses and Eleazar the priest and all the princes of the synagogue went forth to meet them without the camp.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=14-#x">
+                [14]
+               </a>
+               And Moses being angry with the chief officers of the army, the tribunes, and the centurions that were come from the battle,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=15-#x">
+                [15]
+               </a>
+               Said: Why have you saved the women?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=16-#x">
+                [16]
+               </a>
+               Are not these they, that deceived the children of Israel by the counsel of Balaam, and made you transgress against the Lord by
+               <u>
+                the sin of Phogor
+               </u>
+               , for which also the people was punished?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=17-#x">
+                [17]
+               </a>
+               Therefore kill all that are of the male sex, even
+               <u>
+                of the children
+               </u>
+               : and put to death the women, that have carnally known men.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=18-#x">
+                [18]
+               </a>
+               But the girls, and all the women that are virgins save for yourselves:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=19-#x">
+                [19]
+               </a>
+               And stay without the camp seven days. He that hath killed a man, or touched one that is killed, shall be purified the third day and the seventh day.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=20-#x">
+                [20]
+               </a>
+               And of all the spoil, every garment, or vessel, or any thing made for use, of the skins, or hair of goats, or of wood, shall be purified.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "The sin of Phogor"
+               </u>
+               : The sin committed in the worship of Beelphegor.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "Of the children"
+               </u>
+               : Women and children, ordinarily speaking, were not to be killed in war, Deut. 20. 14. But the great Lord of life and death was pleased to order it otherwise in the present case, in detestation of the wickedness of this people, who by the counsel of Balaam, had sent their women among the Israelites on purpose to draw them from God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=21-#x">
+                [21]
+               </a>
+               Eleazar also the priest spoke to the men of the army, that had fought, in this manner: This is the ordinance of the law, which the Lord hath commanded Moses:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=22-#x">
+                [22]
+               </a>
+               Gold, and silver, and brass, and iron, and lend, and tin,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=23-#x">
+                [23]
+               </a>
+               And all that may pass through the fire, shall be purified by fire, but whatsoever cannot abide the fire, shall be sanctified with the water of expiation:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=24-#x">
+                [24]
+               </a>
+               And you shall wash your garments the seventh day, and being purified, you shall afterwards enter into the camp.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=25-#x">
+                [25]
+               </a>
+               And the Lord said to Moses:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=26-#x">
+                [26]
+               </a>
+               Take the sum of the things that were taken both of man and beast, thou and Eleazar the priest and the princes of the multitude:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=27-#x">
+                [27]
+               </a>
+               And thou shalt divide the spoil equally, between them that fought and went out to the war, and between the rest of the multitude.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=28-#x">
+                [28]
+               </a>
+               And thou shalt separate a portion to the Lord from them that fought and were in the battle, one soul of five hundred as well of persons as of oxen and asses and sheep.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=29-#x">
+                [29]
+               </a>
+               And thou shalt give it to Eleazar the priest, because they are the firstfruits of the Lord.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=30-#x">
+                [30]
+               </a>
+               Out of the moiety also of the children of Israel thou shalt take the fiftieth head of persons, and of oxen, and asses, and sheep, and of all beasts, and thou shalt give them to the Levites that watch in the charge of the tabernacle of the Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=31-#x">
+                [31]
+               </a>
+               And Moses and Eleazar did as the Lord had commanded.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=32-#x">
+                [32]
+               </a>
+               And the spoil which the army had taken, was six hundred seventy-five thousand sheep,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=33-#x">
+                [33]
+               </a>
+               Seventy-two thousand oxen,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=34-#x">
+                [34]
+               </a>
+               Sixty-one thousand asses:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=35-#x">
+                [35]
+               </a>
+               And thirty-two thousand persons of the female sex, that had not known men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=36-#x">
+                [36]
+               </a>
+               And one half was given to them that had been in the battle, to wit, three hundred thirty-seven thousand five hundred sheep:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=37-#x">
+                [37]
+               </a>
+               Out of which, for the portion of the Lord, were reckoned six hundred seventy-five sheep.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=38-#x">
+                [38]
+               </a>
+               And out of the thirty-six thousand oxen, seventy-two oxen:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=39-#x">
+                [39]
+               </a>
+               Out of the thirty thousand five hundred asses, sixty-one asses:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=40-#x">
+                [40]
+               </a>
+               Out of the sixteen thousand persons, there fell to the portion of the Lord, thirty-two souls.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=41-#x">
+                [41]
+               </a>
+               And Moses delivered the number of the firstfruits of the Lord to Eleazar the priest, as had been commanded him,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=42-#x">
+                [42]
+               </a>
+               Out of the half of the children of Israel, which he had separated for them that had been in the battle.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=43-#x">
+                [43]
+               </a>
+               But out of the half that fell to the rest of the multitude, that is to say, out of the three hundred thirty-seven thousand five hundred sheep,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=44-#x">
+                [44]
+               </a>
+               And out of the thirty-six thousand oxen,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=45-#x">
+                [45]
+               </a>
+               And out of the thirty thousand five hundred asses,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=46-#x">
+                [46]
+               </a>
+               And out of the sixteen thousand persons,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=47-#x">
+                [47]
+               </a>
+               Moses took the fiftieth head, and gave it to the Levites that watched in the tabernacle of the Lord, as the Lord had commanded.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=48-#x">
+                [48]
+               </a>
+               And when the commanders of the army, and the tribunes and centurions were come to Moses, they said:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=49-#x">
+                [49]
+               </a>
+               We thy servants have reckoned up the number of the fighting men, whom we had under our hand, and not so much as one was wanting.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=50-#x">
+                [50]
+               </a>
+               Therefore we offer as gifts to the Lord what gold every one of us could find in the booty, in garters and tablets, rings and bracelets, and chains, that thou mayst pray to the Lord for us.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=51-#x">
+                [51]
+               </a>
+               And Moses and Eleazar the priest received all the gold in divers kinds,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=52-#x">
+                [52]
+               </a>
+               In weight sixteen thousand seven hundred and fifty sicles, from the tribunes and from the centurions.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=53-#x">
+                [53]
+               </a>
+               For that which every one had taken in the booty was his own.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=31&amp;l=54-#x">
+                [54]
+               </a>
+               And that which was received they brought into the tabernacle of the testimony, for a memorial of the children of Israel before the Lord.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04030.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 31
+              </td>
+              <td class="next">
+               <a href="04032.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

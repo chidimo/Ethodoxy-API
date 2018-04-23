@@ -1,0 +1,561 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="04009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The seven lamps are placed on the golden candlestick, to shine towards the loaves of proposition: the ordination of the Levites: and to what age they shall serve in the tabernacle.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               Speak to Aaron, and thou shalt say to him: When thou shalt place the seven lamps, let the candlestick be set up on the south side. Give orders therefore that the lamps look over against the north, towards the table of the leaves of proposition, over against that part shall they give light, towards which the candlestick looketh.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And Aaron did so, and he put the lamps upon the candlestick, as the Lord had commanded Moses.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               Now this was the work of the candlestick, it was of beaten gold, both the shaft in the middle, and all that came out of both sides of the branches: according to the pattern which the Lord had shewn to Moses, so he made the candlestick.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               And the Lord spoke to Moses, saying:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               Take the Levites out of the midst of the children of Israel, and thou shalt purify them,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               According to this rite:
+               <u>
+                Let them be sprinkled with the water of purification
+               </u>
+               , and let them shave all the hairs of their flesh. And when they shall have washed their garments, and are cleansed,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               They shall take an ox of the herd, and for the offering thereof fine flour tempered with oil: and thou shalt take another ox of the herd for a sin offering:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               And thou shalt bring the Levites before the tabernacle of the covenant, calling together all the multitude of the children of Israel:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               And when the Levites are before the Lord, the children of Israel shall put their hands upon them:
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Let them be sprinkled with the water of purification"
+               </u>
+               : This was the holy water mixed with the ashes of the red cow, Num. 19., appointed for purifying all that were unclean. It was a figure of the blood of Christ, applied to our souls by his holy sacraments.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And Aaron shall offer the Levites, as a gift in the sight of the Lord from the children of Israel, that they may serve in his ministry.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               The Levites also shall put their hands upon the heads of the oxen, of which thou shalt sacrifice one for sin, and the other for a holocaust to the Lord, to pray for them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               And thou shalt set the Levites in the sight of Aaron and of his sons, and shalt consecrate them being offered to the Lord,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               And shalt separate them from the midst of the children of Israel, to be mine.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               And afterwards they shall enter into the tabernacle of the covenant, to serve me. And thus shalt thou purify and consecrate them for an oblation of the Lord: for as a gift they were given me by the children of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               I have taken them instead of the firstborn that open every womb in Israel,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               For all the firstborn of the children of Israel, both of men and of beasts, are mine. From the day that I slew every firstborn in the land of Egypt, have I sanctified them to myself:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               And I have taken the Levites for all the firstborn of the children of Israel:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               And have delivered them for a gift to Aaron and his sons out of the midst of the people, to serve me for Israel in the tabernacle of the covenant, and to pray for them, lest there should be a plague among the people, if they should presume to approach unto my sanctuary.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               And Moses and Aaron and all the multitude of the children of Israel did with the Levites all that the Lord had commanded Moses:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               And they were purified, and washed their garments. And Aaron lifted them up in the sight of the Lord, and prayed for them,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               That being purified they might go into the tabernacle of the covenant to do their services before Aaron and his sons. As the Lord had commanded Moses touching the Levites, so was it done.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               This is the law of the Levites: From twenty-five years old and upwards, they shall go in to minister in the tabernacle of the covenant.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               And when they shall have accomplished the fiftieth year of their age, they shall cease to serve:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               And they shall be the ministers of their brethren in the tabernacle of the covenant, to keep the things that are committed to their care, but not to do the works. Thus shalt thou order the Levites touching their charge.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="04009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

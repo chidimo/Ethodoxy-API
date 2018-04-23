@@ -1,0 +1,514 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 John Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/69002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/69002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="68001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint John
+           </td>
+           <td class="next">
+            <a href="70001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="69001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="69003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="69001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="69003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="69004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="69005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ is our advocate. We must keep his commandments and love one another. We must not love the world nor give ear to new teachers, but abide by the spirit of God in the church.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               My little children, these things I write to you, that you may not sin. But if any man sin, we have an advocate with the Father, Jesus Christ the just:
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And he is the propitiation for our sins: and not for ours only, but also for those of the whole world.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And by this we know that we have known him,
+               <u>
+                if we keep his commandments
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               He who saith that he knoweth him, and keepeth not his commandments, is a liar, and the truth is not in him.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               But he that keepeth his word, in him in very deed the charity of God is perfected; and by this we know that we are in him.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "If we keep his commandments"
+               </u>
+               : He speaks of that practical knowledge by love and affection, which can only be proved by our keeping his commandments; and without which we can not be said to know God as we should do.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               He that saith he abideth in him, ought himself also to walk, even as he walked.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               Dearly beloved, I write not a new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you have heard.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               Again
+               <u>
+                a new commandment
+               </u>
+               I write unto you, which thing is true both in him and in you; because the darkness is passed, and the true light now shineth.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               He that saith he is in the light, and hateth his brother, is in darkness even until now.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               He that loveth his brother, abideth in the light, and there is no scandal in him.
+              </p>
+              <p class="note">
+               [8]
+               <u>
+                "A new commandment"
+               </u>
+               : Viz., the commandment of love, which was first given in the old law; but was renewed and extended by Christ. See John 13. 34.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               But he that hateth his brother, is in darkness, and walketh in darkness, and knoweth not whither he goeth; because the darkness hath blinded his eyes.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               I write unto you, little children, because your sins are forgiven you for his name's sake.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               I write unto you, fathers, because you have known him, who is from the beginning. I write unto you, young men, because you have overcome the wicked one.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               I write unto you, babes, because you have known the Father. I write unto you, young men, because you are strong, and the word of God abideth in you, and you have overcome the wicked one.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Love not the world, nor the things which are in the world. If any man love the world, the charity of the Father is not in him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               For all that is in the world, is the concupiscence of the flesh, and the concupiscence of the eyes, and the pride of life, which is not of the Father, but is of the world.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And the world passeth away, and the concupiscence thereof: but he that doth the will of God, abideth for ever.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               Little children,
+               <u>
+                it is the last hour
+               </u>
+               ; and as you have heard that Antichrist cometh, even now there are become many Antichrists: whereby we know that it is the last hour.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               They went out from us, but
+               <u>
+                they were not of us
+               </u>
+               . For if they had been of us, they would no doubt have remained with us; but that they may be manifest, that they are not all of us.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               But you have
+               <u>
+                the unction from the Holy One
+               </u>
+               , and
+               <u>
+                know all things
+               </u>
+               .
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "It is the last hour"
+               </u>
+               : That is, it is the last age of the world. Many Antichrists, that is, many heretics, enemies of Christ and his church, and forerunners of the great Antichrist.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "They were not of us"
+               </u>
+               : That is, they were not solid, steadfast, genuine Christians: otherwise they would have remained in the church.
+              </p>
+              <p class="note">
+               [20]
+               <u>
+                "The unction from the Holy One"
+               </u>
+               : That is, grace and wisdom from the Holy Ghost.
+              </p>
+              <p class="note">
+               [20]
+               <u>
+                "Know all things"
+               </u>
+               : The true children of God's church, remaining in unity, under the guidance of their lawful pastors, partake of the grace of the Holy Ghost, promised to the church and her pastors; and have in the church all necessary knowledge and instruction; so as to have no need to seek it elsewhere, since it can be only found in that society of which they are members.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               I have not written to you as to them that know not the truth, but as to them that know it: and that no lie is of the truth.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               Who is a liar, but he who denieth that Jesus is the Christ? This is Antichrist, who denieth the Father, and the Son.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               Whosoever denieth the Son, the same hath not the Father. He that confesseth the Son, hath the Father also.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               As for you, let that which you have heard from the beginning, abide in you. If that abide in you, which you have heard from the beginning, you also shall abide in the Son, and in the Father.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               And this is the promise which he hath promised us, life everlasting.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               These things have I written to you, concerning them that seduce you.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               And as for you, let the unction, which you have received from him, abide in you. And
+               <u>
+                you have no need
+               </u>
+               that any man teach you; but as his unction teacheth you of all things, and is truth, and is no lie. And as it hath taught you, abide in him.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               And now, little children, abide in him, that when he shall appear, we may have confidence, and not be confounded by him at his coming.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               If you know, that he is just, know ye, that every one also, who doth justice, is born of him.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "You have no need"
+               </u>
+               : You want not to be taught by any of these men, who, under pretence of imparting more knowledge to you, seek to seduce you (ver. 26), since you are sufficiently taught already, and have all knowledge and grace in the church, with the unction of the Holy Ghost; which these new teachers have no share in.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="68001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint John
+              </td>
+              <td class="next">
+               <a href="70001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="69001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="69003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

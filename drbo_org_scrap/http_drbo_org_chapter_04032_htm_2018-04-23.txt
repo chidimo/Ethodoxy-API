@@ -1,0 +1,620 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 32
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04032.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04032.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04031.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 32
+           </td>
+           <td class="next">
+            <a href="04033.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             32
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The tribes of Ruben and Gad, and half of the tribe of Manasses, receive their inheritance on the east side of Jordan, upon conditions approved of by Moses.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=1-#x">
+                [1]
+               </a>
+               And the sons of Ruben and Gad had many flocks of cattle, and their substance in beasts was infinite. And when they saw the lands of Jazer and Galaad fit for feeding cattle,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=2-#x">
+                [2]
+               </a>
+               They came to Moses and Eleazar the priest, and the princes of the multitude, and said:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=3-#x">
+                [3]
+               </a>
+               Ataroth, and Dibon, and Jazer, and Nemra, Hesebon, and Eleale, and Saban, and Nebo, and Beon,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=4-#x">
+                [4]
+               </a>
+               The land, which the Lord hath conquered in the sight of the children of Israel, is a very fertile soil for the feeding of beasts: and we thy servants have very much cattle:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=5-#x">
+                [5]
+               </a>
+               And we pray thee, if we have found favour in thy sight, that thou give it to us thy servants in possession, and make us not pass over the Jordan.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=6-#x">
+                [6]
+               </a>
+               And Moses answered them: What, shall your brethren go to fight, and will you sit here?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=7-#x">
+                [7]
+               </a>
+               Why do ye overturn the minds of the children of Israel, that they may not dare to pass into the place which the Lord hath given them?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=8-#x">
+                [8]
+               </a>
+               Was it not thus your fathers did, when I sent from Cadesbarne to view the land?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=9-#x">
+                [9]
+               </a>
+               And when they were come as far as the valley of the cluster, having viewed all the country, they overturned the hearts of the children of Israel, that they should not enter into the coasts, which the Lord gave them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=10-#x">
+                [10]
+               </a>
+               And he swore in his anger, saying:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=11-#x">
+                [11]
+               </a>
+               If these men, that came up out of Egypt, from twenty years old and upward, shall see the land, which I promised with an oath to Abraham, Isaac, and Jacob: because they would not follow me,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=12-#x">
+                [12]
+               </a>
+               Except Caleb the son of Jephone the Cenezite, and Josue the son of Nun: these have fulfilled my will.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=13-#x">
+                [13]
+               </a>
+               And the Lord being angry against Israel, led them about through the desert forty years, until the whole generation, that had done evil in his sight, was consumed.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=14-#x">
+                [14]
+               </a>
+               And behold, said he, you are risen up instead of your fathers, the increase and offspring of sinful men, to augment the fury of the Lord against Israel.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=15-#x">
+                [15]
+               </a>
+               For if you will not follow him, he will leave the people in the wilderness, and you shall be the cause of the destruction of all.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=16-#x">
+                [16]
+               </a>
+               But they coming near, said: We will make sheepfolds, and stalls for our cattle, and strong cities for our children:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=17-#x">
+                [17]
+               </a>
+               And we ourselves will go armed and ready for battle before the children of Israel, until we bring them in unto their places. Our little ones, and all we have, shall be in walled cities, for fear of the ambushes of the inhabitants.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=18-#x">
+                [18]
+               </a>
+               We will not return into our houses until the children of Israel possess their inheritance:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=19-#x">
+                [19]
+               </a>
+               Neither will we seek any thing beyond the Jordan, because we have already our possession on the east side thereof,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=20-#x">
+                [20]
+               </a>
+               And Moses said to them: If you do what you promise, go on well appointed for war before the Lord:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=21-#x">
+                [21]
+               </a>
+               And let every fighting man pass over the Jordan, until the Lord overthrow his enemies:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=22-#x">
+                [22]
+               </a>
+               And all the land be brought under him, then shall you be blameless before the Lord and before Israel, and you shall obtain the countries that you desire, before the Lord.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=23-#x">
+                [23]
+               </a>
+               But if you do not what you say, no man can doubt but you sin against God: and know ye, that your sin shall overtake you.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=24-#x">
+                [24]
+               </a>
+               Build therefore cities for your children, and folds and stalls for your sheep and beasts, and accomplish what you have promised.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=25-#x">
+                [25]
+               </a>
+               And the children of Gad and Ruben said to Moses: We are thy servants, we will do what my lord commandeth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=26-#x">
+                [26]
+               </a>
+               We will leave our children, and our wives and sheep and cattle, in the cities of Galaad:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=27-#x">
+                [27]
+               </a>
+               And we thy servants all well appointed will march on to the war, as thou, my lord, speakest.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=28-#x">
+                [28]
+               </a>
+               Moses therefore commanded Eleazar the priest, and Josue the son of Nun, and the princes of the families of all the tribes of Israel, and said to them:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=29-#x">
+                [29]
+               </a>
+               If the children of Gad, and the children of Ruben pass with you over the Jordan, all armed for war before the Lord, and the land be made subject to you: give them Galaad in possession.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=30-#x">
+                [30]
+               </a>
+               But if they will not pass armed with you into the land of Chanaan, let them receive places to dwell in among you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=31-#x">
+                [31]
+               </a>
+               And the children of Gad, and the children of Ruben answered: As the Lord hath spoken to his servants, so will we do:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=32-#x">
+                [32]
+               </a>
+               We will go armed before the Lord into the land of Chanaan, and we confess that we have already received our possession beyond the Jordan.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=33-#x">
+                [33]
+               </a>
+               Moses therefore gave to the children of Cad and of Ruben, and to the half tribe of Manasses the son of Joseph, the kingdom of Sehon king of the Amorrhites, and the kingdom of Og king of Basan, and their land and the cities thereof round about.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=34-#x">
+                [34]
+               </a>
+               And the sons of Cad built Dibon, and Ataroth, and Aroer,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=35-#x">
+                [35]
+               </a>
+               And Etroth, and Sophan, and Jazer, and Jegbaa,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=36-#x">
+                [36]
+               </a>
+               And Bethnemra, and Betharan, fenced cities, and folds for their cattle.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=37-#x">
+                [37]
+               </a>
+               But the children of Ruben built Hesebon, and Eleale, and Cariathaim,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=38-#x">
+                [38]
+               </a>
+               And Nabo, and Baalmeon (their names being changed) and Sabama: giving names to the cities which they had built.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=39-#x">
+                [39]
+               </a>
+               Moreover the children of Machir, the son of Manasses, went into Galaad, and wasted it, cutting off the Amorrhites, the inhabitants thereof.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=40-#x">
+                [40]
+               </a>
+               And Moses gave the land of Galaad to Machir the son of Manasses, and he dwelt in it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=41-#x">
+                [41]
+               </a>
+               And Jair the son of Manasses went, and took the villages thereof, and he called them Havoth Jair, that is to say, the villages of Jair.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=32&amp;l=42-#x">
+                [42]
+               </a>
+               Nobe also went, and took Canath with the villages thereof: and he called it by his own name, Nobe.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04031.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 32
+              </td>
+              <td class="next">
+               <a href="04033.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

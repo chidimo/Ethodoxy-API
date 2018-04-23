@@ -1,0 +1,502 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Daniel Chapter 7
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/32007.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/32007.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="31001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Daniel
+           </td>
+           <td class="next">
+            <a href="33001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="32006.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 7
+           </td>
+           <td class="next">
+            <a href="32008.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="32001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="32002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="32003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="32004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="32005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="32006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             07
+            </td>
+            <td width="30">
+             <a href="32008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="32009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="32010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="32011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="32012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="32013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="32014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Daniel's vision of the four beasts, signifying four kingdoms: of God sitting on his throne: and of the opposite kingdoms of Christ and Antichrist.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=1-#x">
+                [1]
+               </a>
+               In the first year of Baltasar king of Babylon, Daniel saw a dream: and the vision of his head was upon his bed: and writing the dream, he comprehended it in few words: and relating the sum of it in short, he said:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=2-#x">
+                [2]
+               </a>
+               I saw in my vision by night, and behold the four winds of the heaven strove upon the great sea.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=3-#x">
+                [3]
+               </a>
+               And
+               <u>
+                four great beasts
+               </u>
+               , different one from another, came up out of the sea.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=4-#x">
+                [4]
+               </a>
+               The first was like a lioness, and had the wings of an eagle: I beheld till her wings were plucked off, and she was lifted up from the earth, and stood upon her feet as a man, and the heart of a man was given to her.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=5-#x">
+                [5]
+               </a>
+               And behold another beast like a bear stood up on one side: and there were three rows in the mouth thereof, and in the teeth thereof, and thus they said to it: Arise, devour much flesh.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Four great beasts"
+               </u>
+               : Viz., the Chaldean, Persian, Grecian, and Roman empires. But some rather choose to understand the fourth beast of the successors of Alexander the Great, more especially of them that reigned in Asia and Syria.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=6-#x">
+                [6]
+               </a>
+               After this I beheld, and lo, another like a leopard, and it had upon it four wings as of a fowl, and the beast had four heads, and power was given to it.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=7-#x">
+                [7]
+               </a>
+               After this I beheld in the vision of the night, and lo, a fourth beast, terrible and wonderful, and exceeding strong, it had great iron teeth, eating and breaking in pieces, and treading down the rest with its feet: and it was unlike to the other beasts which I had seen before it, and had
+               <u>
+                ten horns
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=8-#x">
+                [8]
+               </a>
+               I considered the horns, and behold
+               <u>
+                another little horn
+               </u>
+               sprung out of the midst of them: and three of the first horns were plucked up at the presence thereof: and behold eyes like the eyes of a man were in this horn, and a mouth speaking great things.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=9-#x">
+                [9]
+               </a>
+               I beheld till thrones were placed, and the Ancient of days sat: his garment was white as snow, and the hair of his head like clean wool: his throne like flames of fire: the wheels of it like a burning fire.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=10-#x">
+                [10]
+               </a>
+               A swift stream of fire issued forth from before him: thousands of thousands ministered to him, and ten thousand times a hundred thousand stood before him: the judgment sat, and the books were opened.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Ten horns"
+               </u>
+               : That is, ten kingdoms, (as Apoc. 17. 12,) among which the empire of the fourth beast shall be parcelled. Or ten kings of the number of the successors of Alexander; as figures of such as shall be about the time of Antichrist.
+              </p>
+              <p class="note">
+               [8]
+               <u>
+                "Another little horn"
+               </u>
+               : This is commonly understood of Antichrist. It may also be applied to that great persecutor Antiochus Epiphanes, as a figure of Antichrist.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=11-#x">
+                [11]
+               </a>
+               I beheld because of the voice of the great words which that horn spoke: and I saw that the beast was slain, and the body thereof was destroyed, and given to the fire to be burnt:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=12-#x">
+                [12]
+               </a>
+               And that the power of the other beasts was taken away: and that times of life were appointed them for a time, and a time.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=13-#x">
+                [13]
+               </a>
+               I beheld therefore in the vision of the night, and lo, one like the son of man came with the clouds of heaven, and he came even to the Ancient of days: and they presented him before him.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=14-#x">
+                [14]
+               </a>
+               And he gave him power, and glory, and a kingdom: and all peoples, tribes and tongues shall serve him: his power is an everlasting power that shall not be taken away: and his kingdom that shall not be destroyed.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=15-#x">
+                [15]
+               </a>
+               My spirit trembled, I Daniel was affrighted at these things, and the visions of my head troubled me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=16-#x">
+                [16]
+               </a>
+               I went near to one of them that stood by, and asked the truth of him concerning all these things, and he told me the interpretation of the words, and instructed me:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=17-#x">
+                [17]
+               </a>
+               These four great beasts are four kingdoms, which shall arise out of the earth.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=18-#x">
+                [18]
+               </a>
+               But the saints of the most high God shall take the kingdom: and they shall possess the kingdom for ever and ever.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=19-#x">
+                [19]
+               </a>
+               After this I would diligently learn concerning the fourth beast, which was very different from all, and exceeding terrible: his teeth and claws were of iron: he devoured and broke in pieces, and the rest he stamped upon with his feet:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=20-#x">
+                [20]
+               </a>
+               And concerning the ten horns that he had on his head: and concerning the other that came up, before which three horns fell: and of that horn that had eyes, and a mouth speaking great things, and was greater than the rest.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=21-#x">
+                [21]
+               </a>
+               I beheld, and lo, that horn made war against the saints, and prevailed over them,
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=22-#x">
+                [22]
+               </a>
+               Till the Ancient of days came and gave judgment to the saints of the most High, and the time came, and the saints obtained the kingdom.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=23-#x">
+                [23]
+               </a>
+               And thus he said: The fourth beast shall be the fourth kingdom upon earth, which shall be greater than all the kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=24-#x">
+                [24]
+               </a>
+               And the ten horns of the same kingdom, shall be ten kings: and another shall rise up after them, and he shall be mightier than the former, and he shall bring down three kings.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=25-#x">
+                [25]
+               </a>
+               And he shall speak words against the High One, and shall crush the saints of the most High: and he shall think himself able to change times and laws, and they shall be delivered into his hand until
+               <u>
+                a time, and times, and half a time
+               </u>
+               .
+              </p>
+              <p class="note">
+               [25]
+               <u>
+                "A time, and times, and half a time"
+               </u>
+               : That is, three years and a half; which is supposed to be the length of the duration of the persecution of Antichrist.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=26-#x">
+                [26]
+               </a>
+               And judgment shall sit, that his power may be taken away, and be broken in pieces, and perish even to the end.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=27-#x">
+                [27]
+               </a>
+               And that the kingdom, and power, and the greatness of the kingdom, under the whole heaven, may be given to the people of the saints of the most High: whose kingdom is an everlasting kingdom, and all kings shall serve him, and shall obey him.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=7&amp;l=28-#x">
+                [28]
+               </a>
+               Hitherto is the end of the word. I Daniel was much troubled with my thoughts, and my countenance was changed in me: but I kept the word in my heart.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="31001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Daniel
+              </td>
+              <td class="next">
+               <a href="33001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="32006.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 7
+              </td>
+              <td class="next">
+               <a href="32008.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

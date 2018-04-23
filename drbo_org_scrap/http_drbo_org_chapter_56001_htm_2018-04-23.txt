@@ -1,0 +1,402 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ephesians Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/56001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/56001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="55001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Epistle Of Saint Paul To The Ephesians
+         </td>
+         <td class="next">
+          <a href="57001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="56002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="56002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="56003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="56004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="56005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="56006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The great blessings we have received through Christ. He is the head of all the church.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             Paul, an apostle of Jesus Christ, by the will of God, to all the saints who are at Ephesus, and to the faithful in Christ Jesus.
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Grace be to you, and peace from God the Father, and from the Lord Jesus Christ.
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with spiritual blessings
+             <u>
+              in heavenly places
+             </u>
+             , in Christ:
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             As he chose us in him before the foundation of the world, that we should be holy and unspotted in his sight in charity.
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             Who hath predestinated us unto the adoption of children through Jesus Christ unto himself: according to the purpose of his will:
+            </p>
+            <p class="note">
+             [3]
+             <u>
+              "In heavenly places"
+             </u>
+             : or, in heavenly things. In coelestibus.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             Unto the praise of the glory of his grace, in which he hath graced us in his beloved son.
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             In whom we have redemption through his blood, the remission of sins, according to the riches of his grace,
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Which hath superabounded in us in all wisdom and prudence,
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             That he might make known unto us the mystery of his will, according to his good pleasure, which he hath purposed in him,
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             In the dispensation of the fulness of times, to re-establish all things in Christ, that are in heaven and on earth, in him.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             In whom we also are called by lot, being predestinated according to the purpose of him who worketh all things according to the counsel of his will.
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             That we may be unto the praise of his glory, we who before hoped Christ:
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             In whom you also, after you had heard the word of truth, (the gospel of your salvation;) in whom also believing, you were signed with the holy Spirit of promise,
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             Who is the pledge of our inheritance, unto the redemption of
+             <u>
+              acquisition
+             </u>
+             , unto the praise of his glory.
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             Wherefore I also, hearing of your faith that is in the Lord Jesus, and of your love towards all the saints,
+            </p>
+            <p class="note">
+             [14]
+             <u>
+              "Acquisition"
+             </u>
+             : that is, a purchased possession.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             Cease not to give thanks for you, making commemoration of you in my prayers,
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and of revelation, in the knowledge of him:
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             The eyes of your heart enlightened, that you may know what the hope is of the glory of his inheritance in the saints.
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             And what is the exceeding greatness of his power towards us, who believe according to the operation of the might of his power,
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             Which he wrought in Christ, raising him up from the dead, and setting him on his right hand in the heavenly places.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             Above all principality, and power, and virtue, and dominion, and every name that is named, not only in this world, but also in that which is to come.
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             And he hath subjected all things under his feet, and hath made him head over all the church,
+             <a href="/x/d?b=drb&amp;bk=56&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             Which is his body, and the fulness of him who is filled all in all.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="55001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Epistle Of Saint Paul To The Ephesians
+            </td>
+            <td class="next">
+             <a href="57001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="56002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

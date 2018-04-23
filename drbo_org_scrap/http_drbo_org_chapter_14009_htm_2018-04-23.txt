@@ -1,0 +1,572 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Paralipomenon (2 Chronicles) Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/14009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/14009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            2 Paralipomenon (2 Chronicles)
+           </td>
+           <td class="next">
+            <a href="15001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="14010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="14001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="14002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="14003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="14004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="14005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="14006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="14007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="14008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="14010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="14011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="14012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="14013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="14014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="14015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="14016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="14017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="14018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="14019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="14020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="14021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="14022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="14023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="14024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="14025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="14026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="14027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="14028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="14029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="14030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="14031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="14032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="14033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="14034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="14035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="14036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The queen of Saba admireth the wisdom of Solomon. His riches and glory. His death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And when the queen of Saba heard of the fame of Solomon, she came to try him with hard questions at Jerusalem, with great riches, and camels, which carried spices, and abundance of gold, and precious stones. And when she was come to Solomon, she proposed to him all that was in her heart.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               And Solomon explained to her all that she proposed: and there was not any thing that he did not make clear unto her.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               And when she had seen these things, to wit, the wisdom of Solomon, and the house which he had built,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               And the meats of his table, and the dwelling places of his servants, and the attendance of his officers, and their apparel, his cupbearers also, and their garments, and the victims which he offered in the house of the Lord: there was no more spirit in her, she was so astonished.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               And she said to the king: The word is true which I heard in my country of thy virtues and wisdom.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               I did not believe them that told it, until I came, and my eyes had seen, and I had proved that scarce one half of thy wisdom had been told me: thou hast exceeded the same with thy virtues.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               Happy are thy men, and happy are thy servants, who stand always before thee, and hear thy wisdom.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               Blessed be the Lord thy God, who hath been pleased to set thee on his throne, king of the Lord thy God. Because God loveth Israel, and will preserve them for ever: therefore hath he made thee king over them, to do judgment and justice.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               And she gave to the king a hundred and twenty talents of gold, and spices in great abundance, and most precious stones: there were no such spices as these which the queen of Saba gave to king Solomon.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And the servants also of Hiram, with the servants of Solomon, brought gold from Ophir, and thyine trees, and most precious stones:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               And the king made of the thyine trees stairs in the house of the Lord, and in the king's house, and harps and psalteries for the singing men: never were there seen such trees in the land of Juda.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               And king Solomon gave to the queen of Saba all that she desired, and that she asked, and many more things than she brought to him: so she returned, and went to her own country with her servants.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               And the weight of the gold, that was brought to Solomon every year, was six hundred and sixty-six talents of gold:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               Beside the sum which the deputies of divers nations, and the merchants were accustomed to bring, and all the kings of Arabia, and the lords of the lands, who I brought gold and silver to Solomon.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               And king Solomon made two hundred golden spears, of the sum of six hundred pieces of gold, which went to every spear:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               And three hundred golden shields of three hundred pieces of gold, which went to the covering of every shield: and the king put them in the armoury, which was compassed with a wood.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               The king also made a great throne of ivory, and overlaid it with pure gold.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               And six steps to go up to the throne, and a footstool of gold, and two arms one on either side, and two lions standing by the arms:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               Moreover twelve other little lions standing upon the steps on both sides: there was not such a throne in any kingdom.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               And all the vessels of the king's table were of gold, and the vessels of the house of the forest of Libanus were of the purest gold. For no account was made of silver in those days.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               For the king's ships went to Tharsis with the servants of Hiram, once in three years: and they brought thence gold and silver, and ivory, and apes, and peacocks.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               And Solomon was magnified above all the kings of the earth for riches and glory.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               And all the kings of the earth desired to see the face of Solomon, that they might hear the wisdom which God had given in his heart.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               And every year they brought him presents, vessels of silver and of gold, and garments, and armour, and spices, and horses, and mules.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               And Solomon had forty thousand horses in the stables, and twelve thousand chariots, and horsemen, and he placed them in the cities of the chariots, and where the king was in Jerusalem.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               And he exercised authority over all the kings from the river Euphrates to the land of the Philistines, and to the borders of Egypt.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               And he made silver as plentiful in Jerusalem as stones: and cedars as common as the sycamores, which grow in the plains.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               And horses were brought to him out of Egypt, and out of all countries.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               Now the rest of the acts of Solomon first and last are written in the words of Nathan the prophet, and in the books of Ahias the Silonite, and in the vision of Addo the seer, against Jeroboam the son of Nabat.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               And Solomon reigned in Jerusalem over all Israel forty years.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               And he slept with his fathers: and they buried him in the city of David: and Roboam his son reigned in his stead.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               2 Paralipomenon (2 Chronicles)
+              </td>
+              <td class="next">
+               <a href="15001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="14010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

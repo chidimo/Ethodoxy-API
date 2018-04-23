@@ -1,0 +1,367 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Malachias (Malachi) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/44001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/44001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="43001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Malachias (Malachi)
+         </td>
+         <td class="next">
+          <a href="45001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="44002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="44002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="44003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="44004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             God reproaches the Jews with their ingratitude: and the priests for not offering pure sacrifices. He will accept of the sacrifice that shall be offered in every place among the Gentiles.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The burden of the word of the Lord to Israel by the hand of Malachias.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             I have loved you, saith the Lord: and you have said: Wherein hast thou loved us? Was not Esau brother to Jacob, saith the Lord, and
+             <u>
+              I have loved Jacob
+             </u>
+             ,
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             But have hated Esau? and I have made his mountains a wilderness, and given his inheritance to the dragons of the desert.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             But if Edom shall say: We are destroyed, but we will return and build up what hath been destroyed: thus saith the Lord of hosts: They shall build up, and I will throw down: and they shall be called the borders of wickedness, and the people with whom the Lord is angry for ever.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And your eyes shall see, and you shall say: The Lord be magnified upon the border of Israel.
+            </p>
+            <p class="note">
+             [2]
+             <u>
+              "I have loved Jacob"
+             </u>
+             : I have preferred his posterity, to make them my chosen people, and to lead them with my blessings, without any merit on their part, and though they have been always ungrateful; whilst I have rejected Esau, and executed severe judgments upon his posterity. Not that God punished Esau, or his posterity, beyond their desert: but that by his free election and grace he loved Jacob, and favoured his posterity above their deserts. See the annotations upon Rom. 9.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             The son honoureth the father, and the servant his master: if then I be a father, where is my honour? and if I be a master, where is my fear? saith the Lord of hosts.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             To you, O priests, that despise my name, and have said: Wherein have we despised thy name? You offer polluted bread upon my altar, and you say: Wherein have we polluted thee? In that you say: The table of the Lord is contemptible.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             If you offer the blind for sacrifice, is it not evil? and if you offer the lame and the sick, is it not evil? offer it to thy prince, if he will be pleased with it, or if he will regard thy face, saith the Lord of hosts.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And now beseech ye the face of God, that he may have mercy on you, (for by your hand hath this been done,) if by any means he will receive your faces, saith the Lord of hosts.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             Who is there among you, that will shut the doors, and will kindle the fire on my altar gratis? I have no pleasure in you, saith the Lord of hosts: and I will not receive a gift of your hand.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             For from the rising of the sun even to the going down, my name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my name
+             <u>
+              a clean oblation
+             </u>
+             : for my name is great among the Gentiles, saith the Lord of hosts.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And you have profaned it in that you say: The table of the Lord is defiled: and that which is laid thereupon is contemptible with the fire that devoureth it.
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And you have said:
+             <u>
+              Behold of our labour
+             </u>
+             , and you puffed it away, saith the Lord of hosts, and you brought in of rapine the lame, and the sick, and brought in an offering: shall I accept it at your hands, saith the Lord?
+             <a href="/x/d?b=drb&amp;bk=44&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             Cursed is the deceitful man that hath in his flock a male, and making a vow offereth in sacrifice that which is feeble to the Lord: for I am a great King, saith the Lord of hosts, and my name is dreadful among the Gentiles.
+             <p class="note">
+              [11]
+              <u>
+               "A clean oblation"
+              </u>
+              : Viz., the precious body and blood of Christ in the eucharistic sacrifice.
+             </p>
+             <p class="note">
+              [13]
+              <u>
+               "Behold of our labour"
+              </u>
+              : You pretended labour and weariness, when you brought your offering; and so made it of no value, by offering it with an evil mind. Moreover, what you offered was both defective in itself, and gotten by rapine and extortion.
+             </p>
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="43001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Prophecy Of Malachias (Malachi)
+            </td>
+            <td class="next">
+             <a href="45001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="44002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

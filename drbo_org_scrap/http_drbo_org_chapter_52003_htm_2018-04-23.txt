@@ -1,0 +1,511 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Romans Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/52003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/52003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Romans
+           </td>
+           <td class="next">
+            <a href="53001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="52004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="52001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="52002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="52004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="52005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="52006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="52007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="52008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="52009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="52010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="52011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="52012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="52013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="52014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="52015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="52016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The advantages of the Jews. All men are sinners and none can be justified by the works of the law, but only by the grace of Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               What advantage then hath the Jew, or what is the profit of circumcision?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               Much every way. First indeed, because the words of God were committed to them.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               For what if some of them have not believed? shall their unbelief make the faith of God without effect? God forbid.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               But
+               <u>
+                God is true
+               </u>
+               ; and every man a liar, as it is written, That thou mayest be justified in thy words, and mayest overcome when thou art judged.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               But if our injustice commend the justice of God, what shall we say? Is God unjust, who executeth wrath?
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "God is true"
+               </u>
+               : God only is essentially true. All men in their own capacity are liable to lies and errors: nevertheless God, who is the truth, will make good his promise of keeping his church in all truth. See St. John 16. 13.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               (I speak according to man.) God forbid: otherwise how shall God judge this world?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               For if the truth of God hath more abounded through my lie, unto his glory, why am I also yet judged as a sinner?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And not rather (as we are slandered, and as some affirm that we say) let us do evil, that there may come good? whose damnation is just.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               What then? Do we excel them? No, not so. For we have charged both Jews, and Greeks, that they are all under sin.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               As it is written:
+               <u>
+                There is not any man just
+               </u>
+               .
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "There is not any man just"
+               </u>
+               : viz. By virtue either of the law of nature, or of the law of Moses; but only by faith and grace.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               There is none that understandeth, there is none that seeketh after God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               All have turned out of the way; they are become unprofitable together: there is none that doth good, there is not so much as one.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Their throat is an open sepulchre; with their tongues they have dealt deceitfully. The venom of asps is under their lips.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               Whose mouth is full of cursing and bitterness:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               Their feet swift to shed blood:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               Destruction and misery in their ways:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               And the way of peace they have not known:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               There is no fear of God before their eyes.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               Now we know, that what things soever the law speaketh, it speaketh to them that are in the law; that every mouth may be stopped, and all the world may be made subject to God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               Because by the works of the law no flesh shall be justified before him. For by the law is the knowledge of sin.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               But now without the law the justice of God is made manifest, being witnessed by the law and the prophets.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               Even the justice of God, by faith of Jesus Christ, unto all and upon all them that believe in him: for there is no distinction:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               For all have sinned, and do need the glory of God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               Being justified freely by his grace, through the redemption, that is in Christ Jesus,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=25-#x">
+                [25]
+               </a>
+               Whom God hath proposed to be a propitiation, through faith in his blood, to the shewing of his justice, for the remission of former sins,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=26-#x">
+                [26]
+               </a>
+               Through the forbearance of God, for the shewing of his justice in this time; that he himself may be just, and the justifier of him, who is of the faith of Jesus Christ.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=27-#x">
+                [27]
+               </a>
+               Where is then thy boasting? It is excluded. By what law? Of works? No, but by the law of faith.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=28-#x">
+                [28]
+               </a>
+               For we account a man to be justified
+               <u>
+                by faith
+               </u>
+               , without the works of the law.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=29-#x">
+                [29]
+               </a>
+               Is he the God of the Jews only? Is he not also of the Gentiles? Yes, of the Gentiles also.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=30-#x">
+                [30]
+               </a>
+               For it is one God, that justifieth circumcision by faith, and uncircumcision through faith.
+              </p>
+              <p class="note">
+               [28]
+               <u>
+                "By faith"
+               </u>
+               : The faith, to which the apostle here attributes man's justification, is not a presumptuous assurance of our being justified; but a firm and lively belief of all that God has revealed or promised. Heb. 11. A faith working through charity in Jesus Christ. Gal. 5. 6. In short, a faith which takes in hope, love, repentance, and the use of the sacraments. And the works which he here excludes, are only the works of the law: that is, such as are done by the law of nature, or that of Moses, antecedent to the faith of Christ: but by no means, such as follow faith, and proceed from it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=3&amp;l=31-#x">
+                [31]
+               </a>
+               Do we, then, destroy the law through faith? God forbid: but we establish the law.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Romans
+              </td>
+              <td class="next">
+               <a href="53001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="52004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,591 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 33
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02033.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02033.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02032.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 33
+           </td>
+           <td class="next">
+            <a href="02034.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             33
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The people mourn for their sin. Moses pitcheth the tabernacle without the camp. He converseth familiarly with God. Desireth to see his glory.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke to Moses, saying: God, get thee up from this place, thou and thy people which thou has brought out of the land of Egypt, into the land concerning which I swore to Abraham, Isaac, and Jacob, saying: To thy seed I will give it.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=2-#x">
+                [2]
+               </a>
+               And I will send an angel before thee, that I may cast out the Chanaanite, and the Amorrhite, and the Hethite, and the Pherezite, and the Hevite, and the Jebusite.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=3-#x">
+                [3]
+               </a>
+               That thou mayst enter into the land that floweth with milk and honey. For I will not go up with thee, because thou art a stiffnecked people: lest I destroy thee in the way.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=4-#x">
+                [4]
+               </a>
+               And the people hearing these very bad tidings, mourned: and no man put on his ornaments according to custom.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=5-#x">
+                [5]
+               </a>
+               And the Lord said to Moses: Say to the children of Israel: Thou are a stiffnecked people; once I shall come up in the midst of thee, and shall destroy thee. Now presently lay aside thy ornaments, that I may know what to do with thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=6-#x">
+                [6]
+               </a>
+               So the children of Israel laid aside their ornaments by mount Horeb.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=7-#x">
+                [7]
+               </a>
+               Moses also taking the tabernacle, pitched it without the camp afar off, and called the name thereof, The tabernacle of the covenant. And all the people that had any question, went forth to the tabernacle of the covenant, without the camp.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=8-#x">
+                [8]
+               </a>
+               And when Moses went forth to the tabernacle, all the people rose up, and every one stood in the door of his pavilion, and they beheld the back of Moses, till he went into the tabernacle.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=9-#x">
+                [9]
+               </a>
+               And when he was gone into the tabernacle of the covenant, the pillar of the cloud came down, and stood at the door, and he spoke with Moses.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=10-#x">
+                [10]
+               </a>
+               And all saw that the pillar of the cloud stood at the door of the tabernacle. And they stood, and worshipped at the doors of their tents.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=11-#x">
+                [11]
+               </a>
+               And the Lord spoke to Moses
+               <u>
+                face to face
+               </u>
+               , as a man is wont to speak to his friend. And when he returned into the camp, his servant Josue the son of Nun, a young man, departed not from the tabernacle.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=12-#x">
+                [12]
+               </a>
+               And Moses said to the Lord; Thou commandest me to lead forth this people: and thou dost not let me know whom thou wilt send with me, especially whereas thou hast said:
+               <u>
+                I know thee by name
+               </u>
+               , and thou hast found favour in my sight.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=13-#x">
+                [13]
+               </a>
+               If therefore I have found favour in thy sight, shew me thy face, that I may know thee, and may find grace before thy eyes: look upon thy people this nation.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=14-#x">
+                [14]
+               </a>
+               And the Lord said: My face shall go before thee, and I will give thee rest.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=15-#x">
+                [15]
+               </a>
+               And Moses said: If thou thyself dost not go before, bring us not out of this place.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "Face to face"
+               </u>
+               : That is, in a most familiar manner. Though as we learn from this very chapter, Moses could not see the face of the Lord.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "I know thee by name"
+               </u>
+               : In the language of the scriptures, God is said to know such as he approves and loves: and to know by name, those whom he favours in a most singular manner, as he did his servant Moses.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=16-#x">
+                [16]
+               </a>
+               For how shall we be able to know, I and thy people, that we have found grace in thy sight, unless thou walk with us, that we may be glorified by all people that dwell upon the earth?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=17-#x">
+                [17]
+               </a>
+               And the Lord said to Moses: This word also, which thou hast spoken, will I do: for thou hast found grace before me, and thee I have known by name.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=18-#x">
+                [18]
+               </a>
+               And he said: shew me thy glory.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=19-#x">
+                [19]
+               </a>
+               He answered: I will shew thee all good, and I will proclaim in the name of the Lord before thee: and I will have mercy on whom I will, and I will be merciful to whom it shall please me.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=20-#x">
+                [20]
+               </a>
+               And again he said: Thou canst not see my face: for man shall not see me and live.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=21-#x">
+                [21]
+               </a>
+               And again he said: Behold there is a place with me, and thou shalt stand upon the rock.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=22-#x">
+                [22]
+               </a>
+               And when my glory shall pass, I will set thee in a hole of the rock, and protect thee with my right hand, till I pass:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=33&amp;l=23-#x">
+                [23]
+               </a>
+               And I will take away my hand, and thou shalt
+               <u>
+                see my back parts
+               </u>
+               : but my face thou canst not see.
+              </p>
+              <p class="note">
+               [23]
+               <u>
+                "See my back parts"
+               </u>
+               : The Lord by his angel, usually spoke to Moses in the pillar of the cloud; so that he could not see the glory of him that spoke familiarly with him. In the vision here mentioned he was allowed to see something of him, in an assumed corporeal form: not in the face, the rays of which were too bright for mortal eye to bear, but to view him as it were behind, when his face was turned from him.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02032.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 33
+              </td>
+              <td class="next">
+               <a href="02034.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

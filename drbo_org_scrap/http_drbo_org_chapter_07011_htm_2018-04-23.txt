@@ -1,0 +1,569 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/07011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/07011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judges
+           </td>
+           <td class="next">
+            <a href="08001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="07010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="07012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="07001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="07002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="07003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="07004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="07005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="07006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="07007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="07008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="07009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="07010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="07012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="07013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="07014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="07015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="07016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="07017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="07018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="07019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="07020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="07021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Jephte is made ruler of the people of Galaad: he first pleads their cause against the Ammonites; then making a vow obtains a signal victory; he performs his vow.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               There was at that time Jephte the Galaadite, a most valiant man and a warrior, the son of a woman that was a harlot, and his father was Galaad.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               Now Galaad had a wife of whom he had sons: who after they were grown up, thrust out Jephte, saying: Thou canst not inherit in the house of our father, because thou art born of another mother.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               Then he fled and avoided them and dwelt in the land of Tob: and there were gathered to him needy men, and robbers, and they followed him as their prince.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               In those days the children of Ammon made war against Israel.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               And as they pressed hard upon them, the ancients of Galaad went to fetch Jephte out of the land of Tob to help them:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               And they said to him: Come thou and be our prince, and fight against the children of Ammon.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               And he answered them: Are not you the men that hated me, and cast me out of my father's house, and now you are come to me constrained by necessity?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               And the princes of Galaad said to Jephte: For this cause we are now come to thee, that thou mayst go with us, and fight against the children of Ammon, and be head over all the inhabitants of Galaad.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               Jephte also said to them: If you be come to me sincerely, that I should fight for you against the children of Ammon, and the Lord shall deliver them into my band, shall I be your prince?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               They answered him: The Lord who heareth these things, he himself is mediator and witness that we will do as we have promised.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=11-#x">
+                [11]
+               </a>
+               Jephte therefore went with the princes of Galaad, and all the people made him their prince. And Jephte spoke all his words before the Lord in Maspha.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=12-#x">
+                [12]
+               </a>
+               And he sent messengers to the king of the children of Ammon, to say in his name, What hast thou to do with me, that thou art come against me, to waste my land?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=13-#x">
+                [13]
+               </a>
+               And he answered them: I Because Israel took away my land when he came up out of Egypt, from the confines of the Arnon unto the Jaboc and the Jordan: now therefore restore the same peaceably to me.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=14-#x">
+                [14]
+               </a>
+               And Jephte again sent word by them, and commanded them to say to the king of Ammon:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=15-#x">
+                [15]
+               </a>
+               Thus saith Jephte: Israel did not take away the land of Moab, nor the land of the children of Ammon:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=16-#x">
+                [16]
+               </a>
+               But when they came up out of Egypt, he walked through the desert to the Red Sea and came into Cades.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=17-#x">
+                [17]
+               </a>
+               And he sent messengers to the king of Edom, saying: Suffer me to pass through thy land. But he would not condescend to his request. He sent also to the king of Moab, who likewise refused to give him passage. He abode therefore in Cades,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=18-#x">
+                [18]
+               </a>
+               And went round the land of Edom at the side, and the land of Moab: and came over against the east coast of the land of Moab, and camped on the other side of the Arnon: and he would not enter the bounds of Moab.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=19-#x">
+                [19]
+               </a>
+               So Israel sent messengers to Sehon king of the Amorrhites, who dwelt in Hesebon, and they said to him: Suffer me to pass through thy land to the river.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=20-#x">
+                [20]
+               </a>
+               But he also despising the words of Israel, suffered him not to pass through his borders: but gathering an infinite multitude, went out against him to Jasa, and made strong opposition.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=21-#x">
+                [21]
+               </a>
+               And the Lord delivered him with all his army into the hands of Israel, and he slew him, and possessed all the land of the Amorrhite the inhabitant of that country,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=22-#x">
+                [22]
+               </a>
+               And all the coasts thereof from the Arnon to the Jaboc, and from the wilderness to the Jordan.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=23-#x">
+                [23]
+               </a>
+               So the Lord the God of Israel destroyed the Amorrhite, his people of Israel fighting against him, and wilt thou now possess this land?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=24-#x">
+                [24]
+               </a>
+               Are not those things which thy god
+               <u>
+                Chamos
+               </u>
+               possesseth, due to thee by right? But what the Lord our God hath obtained by conquest, shall be our possession:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=25-#x">
+                [25]
+               </a>
+               Unless perhaps thou art better than Balac the son of Sephor king of Moab: or canst shew that he strove against Israel and fought against him,
+              </p>
+              <p class="note">
+               [24]
+               <u>
+                "Chamos"
+               </u>
+               : The idol of the Moabites and Ammonites. He argues from their opinion, who thought they had a just title to the countries which they imagined they had conquered by the help of their gods: how much more then had Israel in indisputable title to the countries which God, by visible miracles, had conquered for them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=26-#x">
+                [26]
+               </a>
+               Whereas he hath dwelt in Hesebon, and the villages thereof, and in Aroer, and its villages, and in all the cities near the Jordan, for three hundred years. Why have you for so long a time attempted nothing about this claim?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=27-#x">
+                [27]
+               </a>
+               Therefore I do not trespass against thee, but thou wrongest me by declaring an unjust war against me. The Lord be judge and decide this day between Israel and the children of Ammon.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=28-#x">
+                [28]
+               </a>
+               And the king of the children of Ammon would not hearken to the words of Jephte, which he sent him by the messengers.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=29-#x">
+                [29]
+               </a>
+               Therefore the spirit of the Lord came upon Jephte, and going round Galaad, and Manasses, and Maspha of Galaad, and passing over from thence to the children of Ammon,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=30-#x">
+                [30]
+               </a>
+               He made a vow to the Lord, saying: If thou wilt deliver the children of Ammon into my hands,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=31-#x">
+                [31]
+               </a>
+               <u>
+                Whosoever
+               </u>
+               shall first come forth out of the doors of my house, and shall meet me when I return in peace from the children of Ammon, the same will I offer a holocaust to the Lord.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=32-#x">
+                [32]
+               </a>
+               And Jephte passed over to the children of Ammon, to fight against them: and the Lord delivered them into his hands.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=33-#x">
+                [33]
+               </a>
+               And he smote them from Aroer till you come to Mennith, twenty cities, and as far as Abel, which is set with vineyards, with a very great slaughter: and the children of Ammon were humbled by the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=34-#x">
+                [34]
+               </a>
+               And when Jephte returned into Maspha to his house, his only daughter met him with timbrels and with dances: for he had no other children.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=35-#x">
+                [35]
+               </a>
+               And when he saw her, he rent his garments, and said: Alas! my daughter, thou hast deceived me, and thou thyself art deceived: for I have opened my mouth to the Lord, and I can do no other thing.
+              </p>
+              <p class="note">
+               [31]
+               <u>
+                "Whosoever"
+               </u>
+               : Some are of opinion, that the meaning of this vow of Jephte, was to consecrate to God whatsoever should first meet him, according to the condition of the thing; so as to offer it up as a holocaust, if it were such a thing as might be offered by the law; or to devote it otherwise to God, if it were not such as the law allowed to be offered in sacrifice. And therefore they think the daughter of Jephte was not slain by her father, but only consecrated to perpetual virginity. But the common opinion followed by the generality of the holy fathers and divines is, that she was offered as a holocaust, in consequence of her father's vow: and that Jephte did not sin, at least not mortally, neither in making, nor in keeping, his vow: since he is no ways blamed for it in scripture; and was even inspired by God himself to make the vow (as appears from ver. 29, 30) in consequence of which he obtained the victory; and therefore he reasonably concluded that God, who is the master of life and death, was pleased on this occasion to dispense with his own law; and that it was the divine will he should fulfil his vow.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=36-#x">
+                [36]
+               </a>
+               And she answered him: My father, if thou hast opened thy mouth to the Lord, do unto me whatsoever thou hast promised, since the victory hath been granted to thee, and revenge of thy enemies.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=37-#x">
+                [37]
+               </a>
+               And she said to her father: Grant me only this which I desire: Let me go, that I may go about the mountains for two months, and may
+               <u>
+                bewail my virginity
+               </u>
+               with my companions.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=38-#x">
+                [38]
+               </a>
+               And he answered her: Go. And he sent her away for two months. And when she was gone with her comrades and companions, she mourned her virginity in the mountains.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=39-#x">
+                [39]
+               </a>
+               And the two months being expired, she returned to her father, and he did to her as he had vowed, and she knew no man. From thence came a fashion in Israel, and a custom has been kept:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=11&amp;l=40-#x">
+                [40]
+               </a>
+               That from year to year the daughters of Israel assemble together, and lament the daughter of Jephte the Galaadite for four days.
+              </p>
+              <p class="note">
+               [37]
+               <u>
+                "Bewail my virginity"
+               </u>
+               : The bearing of children was much coveted under the Old Testament, when women might hope that from some child of theirs, the Saviour of the world might one day spring. But under the New Testament virginity is preferred. 1 Cor. 7. 35.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judges
+              </td>
+              <td class="next">
+               <a href="08001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="07010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="07012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

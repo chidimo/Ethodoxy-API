@@ -1,0 +1,722 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 26
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04026.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04026.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04025.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 26
+           </td>
+           <td class="next">
+            <a href="04027.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             26
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The people are again numbered by their tribes and families.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=1-#x">
+                [1]
+               </a>
+               After the blood of the guilty was shed, the Lord said to Moses and to Eleazar the son of Aaron, the priest:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=2-#x">
+                [2]
+               </a>
+               Number the whole sum of the children of Israel from twenty years old and upward, by their houses and kindreds, all that are able to go forth to war.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=3-#x">
+                [3]
+               </a>
+               Moses therefore and Eleazar the priest, being in the plains of Moab upon the Jordan over against Jericho, spoke to them that were
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=4-#x">
+                [4]
+               </a>
+               From twenty years old and upward, as the Lord had commanded: and this is the number of them:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=5-#x">
+                [5]
+               </a>
+               Ruben the firstborn of Israel. His sons were Henoch, of whom is the family of the Henochites: and Phallu, of whom is the family of the Phalluites:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=6-#x">
+                [6]
+               </a>
+               And Hesron, of whom is the family of the Hesronites: and Charmi, of whom is the family of the Charmites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=7-#x">
+                [7]
+               </a>
+               These are the families of the stock of Ruben: whose number was found to be forty-three thousand seven hundred and thirty.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=8-#x">
+                [8]
+               </a>
+               The son of Phallu was Eliab.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=9-#x">
+                [9]
+               </a>
+               His sons, were Namuel and Dathan and Abiron. These are Dathan and Abiron the princes of the people, that rose against Moses and Aaron in the sedition of Core, when they rebelled against the Lord:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=10-#x">
+                [10]
+               </a>
+               And the earth opening her mouth swallowed up Core, many others dying, when the fire burned two hundred and fifty men. And there was a great miracle wrought,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=11-#x">
+                [11]
+               </a>
+               That when Core perished, his sons did not perish.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=12-#x">
+                [12]
+               </a>
+               The sons of Simeon by their kindreds: Namuel, of him is the family of the Namuelites: Jamin, of him is the family of the Jaminites: Jachin, of him is the family of the Jachinites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=13-#x">
+                [13]
+               </a>
+               Zare, of him is the family of the Zarites: Saul, of him is the family of the Saulites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=14-#x">
+                [14]
+               </a>
+               These are the families of the stock of Simeon, of which the whole number was twenty-two thousand two hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=15-#x">
+                [15]
+               </a>
+               The sons of Gad by their kindreds: Sephon, of hin; Is the family of the Sephonites: Aggi, of him is the family of the Aggites: Suni, of him is the family of the Sunites:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=16-#x">
+                [16]
+               </a>
+               Ozni, of him is the family of the Oznites: Her, of him is the family of the Herites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=17-#x">
+                [17]
+               </a>
+               Arod, of him is the family of the Arodites: Ariel, of him is the family of the Arielites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=18-#x">
+                [18]
+               </a>
+               These are the families of Gad, of which the whole number was forty thousand five hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=19-#x">
+                [19]
+               </a>
+               The sons of Juda, Her and Onan, who both died in the land of Chanaan.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=20-#x">
+                [20]
+               </a>
+               And the sons of Juda by their kindreds were: Sela, of whom is the family of the Selaites: Phares, of whom is the family of the Pharesites: Zare, of whom is the family of the Zarites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=21-#x">
+                [21]
+               </a>
+               Moreover the sons of Phares were: Hesron, of whom is the family of the Hesronites: and Hamul, of whom is the family of the Hamulites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=22-#x">
+                [22]
+               </a>
+               These are the families of Juda, of which the whole number was seventy-six thousand five hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=23-#x">
+                [23]
+               </a>
+               The sons of Issachar, by their kindreds: Thola, of whom is the family of the Tholaites: Phua, of whom is the family of the Phuaites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=24-#x">
+                [24]
+               </a>
+               Jasub, of whom is the family of the Jasubites: Semran, of whom is the family of the Semranites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=25-#x">
+                [25]
+               </a>
+               These are the kindreds of Issachar, whose number was sixty-four thousand three hundred.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=26-#x">
+                [26]
+               </a>
+               The sons of Zabulon by their kindreds: Sared, of whom is the family of the Saredites: Elon, of whom is the family of the Elonites: Jalel, of whom is the family of the Jalelites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=27-#x">
+                [27]
+               </a>
+               These are the kindreds of Zabulon, whose number was sixty thousand five hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=28-#x">
+                [28]
+               </a>
+               The sons of Joseph by their kindred, Manasses and Ephraim.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=29-#x">
+                [29]
+               </a>
+               Of Manasses was born Machir, of whom is the family of the Machirites. Machir beget Galaad, of whom is the family of the Galaadites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=30-#x">
+                [30]
+               </a>
+               Galaad had sons: Jezer, of whom is the family of the Jezerites: and Helec, of whom is the family of the Helecites:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=31-#x">
+                [31]
+               </a>
+               And Asriel, of whom is the family of the Asrielites: and Sechem, of whom is the family of the Sechemites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=32-#x">
+                [32]
+               </a>
+               And Semida, of whom is the family of the Semidaites: and Hepher, of whom is the family of the Hepherites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=33-#x">
+                [33]
+               </a>
+               And Hepher was the father of Salphaad, who had no sons, but only daughters, whose names are these: Maala, and Noa, and Hegla, and Melcha, and Thersa.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=34-#x">
+                [34]
+               </a>
+               These are the families of Manasses, and the number of them fifty-two thousand seven hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=35-#x">
+                [35]
+               </a>
+               And the sons of Ephraim by their kindreds were these: Suthala, of whom is the family of the Suthalaites: Becher, of whom is the family of the Becherites: Thehen, of whom is the family of the Thehenites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=36-#x">
+                [36]
+               </a>
+               Now the son of Suthala was Heran, of whom is the family of the Heranites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=37-#x">
+                [37]
+               </a>
+               These are the kindreds of the sons of Ephraim: whose number was thirty-two thousand five hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=38-#x">
+                [38]
+               </a>
+               These are the sons of Joseph by their families. The sons of Benjamin in their kindreds: Bela, of whom is the family of the Belaites: Asbel, of whom is the family of the Asbelites: Ahiram, of whom is the family of the Ahiramites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=39-#x">
+                [39]
+               </a>
+               Supham, of whom is the family of the Suphamites: Hupham, of whom is the family of the Huphamites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=40-#x">
+                [40]
+               </a>
+               The sons of Bela: Hered, and Noeman. Of Hered, is the family of the Heredites: of Noeman, the family of tile Noemanites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=41-#x">
+                [41]
+               </a>
+               These are the sons of Benjamin by their kindreds, whose number was forty-five thousand six hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=42-#x">
+                [42]
+               </a>
+               The sons of Dan by their kindreds: Suham, of whom is the family of the Suhamites: These are the kindreds of Dan by their families.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=43-#x">
+                [43]
+               </a>
+               All were Suhamites, whose number was sixty-four thousand four hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=44-#x">
+                [44]
+               </a>
+               The sons of Aser by their kindreds: Jemna, of whom is the family of the Jemnaites: Jessui, of whom is the family of the Jessuites: Brie, of whom is the family of the Brieites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=45-#x">
+                [45]
+               </a>
+               The sons of Brie: Heber, of whom is the family of the Heberites: and Melchiel, of whom is the family of the Melchielites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=46-#x">
+                [46]
+               </a>
+               And the name of the daughter of Aser, was Sara.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=47-#x">
+                [47]
+               </a>
+               These are the kindreds of the sons of Aser, and their number fifty-three thousand four hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=48-#x">
+                [48]
+               </a>
+               The sons of Nephtali by their kindreds: Jesiel, of whom is the family of the Jesielites: Guni, of whom is the family of the Gunites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=49-#x">
+                [49]
+               </a>
+               Jeser, of whom is the family of the Jeserites: Sellem, of whom is the family of the Sellemites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=50-#x">
+                [50]
+               </a>
+               These are the kindreds of the sons of Nephtali by their families: whose number was forty-five thousand four hundred.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=51-#x">
+                [51]
+               </a>
+               This is the sum of the children of Israel, that were reckoned up, six hundred and one thousand seven hundred and thirty.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=52-#x">
+                [52]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=53-#x">
+                [53]
+               </a>
+               To these shall the land be divided for their possessions according to the number of names.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=54-#x">
+                [54]
+               </a>
+               To the greater number thou shalt give a greater portion, and to the fewer a less: to every one, as they have now been reckoned up, shall a possession be delivered:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=55-#x">
+                [55]
+               </a>
+               Yet so that by lot the land be divided to the tribe and families.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=56-#x">
+                [56]
+               </a>
+               Whatsoever shall fall by lot, that shall be taken by the more, or the fewer.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=57-#x">
+                [57]
+               </a>
+               This also is the number of the sons of Levi by their families: Gerson, of whom is the family of the Gersonites: Caath, of whom is the family of the Caathites: Merari, of whom is the family of the Merarites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=58-#x">
+                [58]
+               </a>
+               These are the families of Levi: The family of Lobni, the family of Hebroni, the family of Moholi, the family of Musi, the family of Core. Now Caath beget Amram:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=59-#x">
+                [59]
+               </a>
+               Who had to wife Jochabed the daughter of Levi, who was horn to him in Egypt. She bore to her husband Amram sons, Aaron and Moses, and Mary their sister.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=60-#x">
+                [60]
+               </a>
+               Of Aaron were born Nadab and Abiu, and Eleazar and Ithamar:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=61-#x">
+                [61]
+               </a>
+               Of whom Nadab and Abiu died, when they had offered the strange fire before the Lord.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=62-#x">
+                [62]
+               </a>
+               And all that were numbered, were twenty-three thousand males from one month old and upward: for they were not reckoned up among the children of Israel, neither was a possession given to them with the rest.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=63-#x">
+                [63]
+               </a>
+               This is the number of the children of Israel, that were enrolled by Moses and Eleazar the priest, in the plains of Moab upon the Jordan, over against Jericho.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=64-#x">
+                [64]
+               </a>
+               Among whom there was not one of them that were numbered before by Moses and Aaron in the desert of Sinai.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=26&amp;l=65-#x">
+                [65]
+               </a>
+               For the Lord had foretold that they should die in the wilderness. And none remained of them, but Caleb the son of Jephone, and Josue the son of Nun.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04025.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 26
+              </td>
+              <td class="next">
+               <a href="04027.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

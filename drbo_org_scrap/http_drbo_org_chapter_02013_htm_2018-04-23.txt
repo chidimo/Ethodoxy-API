@@ -1,0 +1,562 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="02014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The paschal solemnity is to be observed; and the firstborn are to be consecrated to God. The people are conducted through the desert by a pillar of fire in the night, and a cloud in the day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               <u>
+                Sanctify unto me every firstborn
+               </u>
+               that openeth the womb among the children of Israel, as well of men as of beasts: for they are all mine.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               And Moses said to the people: Remember this day in which you came forth out of Egypt, and out of the house of bondage, for with a strong hand hath the Lord brought you forth out of this place: that you eat no leavened bread.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               This day you go forth in the month of new corn.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               And when the Lord shall have brought thee into the land of the Chanaanite, and the Hethite, and the Amorrhite, and the Hevite, and the Jebusite, which he swore to thy fathers that he would give thee, a land that floweth with milk and honey, thou shalt celebrate this manner of sacred rites in this month.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Sanctify unto me every firstborn"
+               </u>
+               : Sanctification in this place means that the firstborn males of the Hebrews should be deputed to the ministry in the divine worship; and the firstborn of beasts to be given for a sacrifice.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               Seven days shalt thou eat unleavened bread: and on the seventh day shall be the solemnity of the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               Unleavened bread shall you eat seven days: there shall not be seen any thing leavened with thee, nor in all thy coasts.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               And thou shalt tell thy son in that day, saying: This is what the Lord did to me when I came forth out of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               And it shall be as a sign in thy hand, and as a memorial before thy eyes: and that the law of the Lord be always in thy mouth, for with a strong hand the Lord hath brought thee out of the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               Thou shalt keep this observance at the set time from days to days.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               And when the Lord shall have brought thee into the land of the Chanaanite, as he swore to thee and thy fathers, and shall give it thee:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               Thou shalt set apart all that openeth the womb for the Lord, and all that is first brought forth of thy cattle: whatsoever thou shalt have of the male sex, thou shalt consecrate to the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               The firstborn of an ass thou shalt change for a sheep: and if thou do not redeem it, thou shalt kill it. And every firstborn of men thou shalt redeem with a price.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               And when thy son shall ask thee tomorrow, saying: What is this? thou shalt answer him: With a strong hand did the Lord bring us forth out of the land of Egypt, out of the house of bondage.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               For when Pharao was hardened, and would not let us go, the Lord slew every firstborn in the land of Egypt, from the firstborn of man to the firstborn of beasts: therefore I sacrifice to the Lord all that openeth the womb of the male sex, and all the firstborn of my sons I redeem.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               And it shall be as a sign in thy hand, and as a thing hung between thy eyes, for a remembrance: because the Lord hath brought us forth out of Egypt by a strong hand.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               And when Pharao had sent out the people, the Lord led them not by the way of the land of the Philistines which is near: thinking lest perhaps they would repent, if they should see wars arise against them, and would return into Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               But he led them about by the way of the desert, which is by the Red Sea: and the children of Israel went up armed out of the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=19-#x">
+                [19]
+               </a>
+               And Moses took Joseph's bones with him: because he had adjured the children of Israel, saying: God shall visit you, carry out my bones from hence with you.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=20-#x">
+                [20]
+               </a>
+               And marching from Socoth they encamped in Etham in the utmost coasts of the wilderness.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=21-#x">
+                [21]
+               </a>
+               And the Lord went before them to shew the way by day in a pillar of a cloud, and by night in a pillar of fire: that he might be the guide of their journey at both times.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=13&amp;l=22-#x">
+                [22]
+               </a>
+               There never failed the pillar of the cloud by day, nor the pillar of fire by night, before the people.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="02014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

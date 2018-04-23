@@ -1,0 +1,447 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judith Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/18006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/18006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="17001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judith
+           </td>
+           <td class="next">
+            <a href="19001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="18005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="18007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="18001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="18002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="18003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="18004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="18005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="18007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="18008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="18009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="18010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="18011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="18012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="18013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="18014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="18015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="18016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Holofernes in great rage sendeth Achior to Bethulia, there to be slain with the Israelites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               And it came to pass when they had left off speaking, that Holofernes being in a violent passion, said to Achior:
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               Because thou hast prophesied unto us, saying: That the nation of Israel is defended by their God, to shew thee that there is no God, but Nabuchodonosor:
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               When we shall slay them all as one man, then thou also shalt die with them by the sword of the Assyrians, and all Israel shall perish with thee:
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               And thou shalt find that Nabuchodonosor is lord of the whole earth: and then the sword of my soldiers shall pass through thy sides, and thou shalt be stabbed and fall among the wounded of Israel, and thou shalt breathe no more till thou be destroyed with them.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               But if thou think thy prophecy true, let not thy countenance sink, and let the paleness that is in thy face, depart from thee, if thou imaginest these my words cannot be accomplished.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               And that thou mayst know that thou shalt experience these things together with them, behold from this hour thou shalt be associated to their people, that when they shall receive the punishment they deserve from my sword, thou mayst fall under the same vengeance.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               Then Holofernes commanded his servants to take Achior, and to lead him to Bethulia, and to deliver him into the hands of the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               And the servants of Holofernes taking him, went through the plains: but when they came near the mountains, the slingers came out against them.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               Then turning out of the way by the side of the mountain, they tied Achior to a tree hand and foot, and so left him bound with ropes, and returned to their master.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               And the children of Israel coming down from Bethulia, came to him, and loosing him they brought him to Bethulia, and setting him in the midst of the people, asked him what was the matter, that the Assyrians had left him bound.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               In those days the rulers there, were Ozias the son of Micha of the tribe of Simeon, and Charmi, called also Gothoniel.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               And Achior related in the midst of the ancients, and in the presence of all the people, all that he had said being asked by Holofernes: and how the people of Holofernes would have killed him for this word,
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               And how Holofernes himself being angry had commanded him to be delivered for this cause to the Israelites: that when he should overcome the children of Israel, then he might command Achior also himself to be put to death by diverse torments, for having said: The God of heaven is their defender.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               And when Achior had declared all these things, all the people fell upon their faces, adoring the Lord, and all of them together mourning and weeping poured out their prayers with one accord to the Lord,
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               Saying: O Lord God of heaven and earth, behold their pride, and look on our low condition, and have regard to the face of thy saints, and shew that thou forsakes not them that trust on thee, and that thou humblest them that presume of themselves, and glory in their own strength.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               So when their weeping was ended, and the peoples prayer, in which they continued all the day, was concluded, they comforted Achior,
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               Saying: the God of our fathers, whose power thou hast set forth, will make this return to thee, that thou rather shalt see their destruction.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               And when the Lord our God shall give this liberty to his servants, let God be with thee also in the midst of us: that as it shall please thee, so thou with all thine mayst converse with us.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               Then Ozias, after the assembly was broken up, received him into his house, and made him a great supper.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               And all the ancients were invited, and they refreshed themselves together after their fast was over.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               And afterwards all the people were called together, and they prayed all the night long within
+               <u>
+                the church
+               </u>
+               , desiring help of the God of Israel.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "The church"
+               </u>
+               : That is, the synagogue or place where they met for prayer.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="17001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judith
+              </td>
+              <td class="next">
+               <a href="19001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="18005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="18007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,548 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="50014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ washes his disciples' feet. The treason of Judas. The new commandment of love.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               <u>
+                Before the festival day of the pasch
+               </u>
+               , Jesus knowing that his hour was come, that he should pass out of this world to the Father: having loved his own who were in the world, he loved them unto the end.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               And when supper was done, (the devil having now put into the heart of Judas Iscariot, the son of Simon, to betray him,)
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               Knowing that the Father had given him all things into his hands, and that he came from God, and goeth to God;
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               He riseth from supper, and layeth aside his garments, and having taken a towel, girded himself.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               After that, he putteth water into a basin, and began to wash the feet of the disciples, and to wipe them with the towel wherewith he was girded.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Before the festival day of the pasch"
+               </u>
+               : This was the fourth and last pasch of the ministry of Christ, and according to the common computation, was in the thirty-third year of our Lord: and in the year of the world 4036. Some chronologers are of opinion that our Saviour suffered in the thirty-seventh year of his age: but these different opinions on this subject are of no consequence.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               He cometh therefore to Simon Peter. And Peter saith to him: Lord, dost thou wash my feet?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               Jesus answered, and said to him: What I do thou knowest not now; but thou shalt know hereafter.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               Peter saith to him: Thou shalt never wash my feet. Jesus answered him: If I wash thee not, thou shalt have no part with me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               Simon Peter saith to him: Lord, not only my feet, but also my hands and my head.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               Jesus saith to him: He that is washed, needeth not but to wash his feet, but is clean wholly. And you are clean, but not all.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               For he knew who he was that would betray him; therefore he said: You are not all clean.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               Then after he had washed their feet, and taken his garments, being set down again, he said to them: Know you what I have done to you?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               You call me Master, and Lord; and you say well, for so I am.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               If then I being your Lord and Master, have washed your feet; you also ought to wash one another's feet.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               For I have given you an example, that as I have done to you, so you do also.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               Amen, amen I say to you: The servant is not greater than his lord; neither is the apostle greater than he that sent him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               If you know these things, you shall be blessed if you do them.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               I speak not of you all: I know whom I have chosen. But that the scripture may be fulfilled: He that eateth bread with me, shall lift up his heel against me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=19-#x">
+                [19]
+               </a>
+               At present I tell you, before it come to pass: that when it shall come to pass, you may believe that I am he.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=20-#x">
+                [20]
+               </a>
+               Amen, amen I say to you, he that receiveth whomsoever I send, receiveth me; and he that receiveth me, receiveth him that sent me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=21-#x">
+                [21]
+               </a>
+               When Jesus had said these things, he was troubled in spirit; and he testified, and said: Amen, amen I say to you, one of you shall betray me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=22-#x">
+                [22]
+               </a>
+               The disciples therefore looked one upon another, doubting of whom he spoke.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=23-#x">
+                [23]
+               </a>
+               Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=24-#x">
+                [24]
+               </a>
+               Simon Peter therefore beckoned to him, and said to him: Who is it of whom he speaketh?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=25-#x">
+                [25]
+               </a>
+               He therefore, leaning on the breast of Jesus, saith to him: Lord, who is it?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=26-#x">
+                [26]
+               </a>
+               Jesus answered: He it is to whom I shall reach bread dipped. And when he had dipped the bread, he gave it to Judas Iscariot, the son of Simon.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=27-#x">
+                [27]
+               </a>
+               And after the morsel, Satan entered into him. And Jesus said to him:
+               <u>
+                That which thou dost, do quickly
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=28-#x">
+                [28]
+               </a>
+               Now no man at the table knew to what purpose he said this unto him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=29-#x">
+                [29]
+               </a>
+               For some thought, because Judas had the purse, that Jesus had said to him: Buy those things which we have need of for the festival day: or that he should give something to the poor.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=30-#x">
+                [30]
+               </a>
+               He therefore having received the morsel, went out immediately. And it was night.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "That which thou dost, do quickly"
+               </u>
+               : It is not a license, much less a command, to go about his treason: but a signification to him that Christ would not hinder or resist what he was about, do it as soon as he pleased: but was both ready and desirous to suffer for our redemption.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=31-#x">
+                [31]
+               </a>
+               When he therefore was gone out, Jesus said: Now is the Son of man glorified, and God is glorified in him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=32-#x">
+                [32]
+               </a>
+               If God be glorified in him, God also will glorify him in himself; and immediately will he glorify him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=33-#x">
+                [33]
+               </a>
+               Little children, yet a little while I am with you. You shall seek me; and as I said to the Jews: Whither I go you cannot come; so I say to you now.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=34-#x">
+                [34]
+               </a>
+               A new commandment I give unto you: That you love one another, as I have loved you, that you also love one another.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=35-#x">
+                [35]
+               </a>
+               By this shall all men know that you are my disciples, if you have love one for another.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=36-#x">
+                [36]
+               </a>
+               Simon Peter saith to him: Lord, whither goest thou? Jesus answered: Whither I go, thou canst not follow me now; but thou shalt follow hereafter.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=37-#x">
+                [37]
+               </a>
+               Peter saith to him: Why cannot I follow thee now? I will lay down my life for thee.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=13&amp;l=38-#x">
+                [38]
+               </a>
+               Jesus answered him: Wilt thou lay down thy life for me? Amen, amen I say to thee, the cock shall not crow, till thou deny me thrice.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="50014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

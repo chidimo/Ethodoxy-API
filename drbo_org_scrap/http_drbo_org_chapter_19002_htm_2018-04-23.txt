@@ -1,0 +1,442 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Esther Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/19002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/19002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="18001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Esther
+           </td>
+           <td class="next">
+            <a href="20001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="19003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="19001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="19003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="19004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="19005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="19006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="19007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="19008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="19009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="19010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="19011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="19012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="19013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="19014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="19015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="19016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Esther is advanced to be queen. Mardochai detecteth a plot against the king.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               After this, when the wrath of king Assuerus was appeased, he remembered Vasthi, and what she had done and what she had suffered:
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And the king's servants and his officers said: Let young women be sought for the king, virgins and beautiful,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And let some persons be sent through all the provinces to look for beautiful maidens and virgins: and let them bring them to the city of Susan, and put them into the house of the women under the hand of Egeus the eunuch, who is the overseer and keeper of the king's women: and let them receive women's ornaments, and other things necessary for their use.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And whosoever among them all shall please the king's eyes, let her be queen instead of Vasthi. The word pleased the king: and he commanded it should be done as they had suggested.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               There was a man in the city of Susan, a Jew, named Mardochai, the son of Jair, the son of Semei, the son of Cis, of the race of Jemini,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               Who had been carried away from Jerusalem at the time that Nabuchodonosor king of Babylon carried away Jechonias king of Juda,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               And he had brought up his brother's daughter Edissa, who by another name was called Esther: now she had lost both her parents: and was exceeding fair and beautiful. And her father and mother being dead, Mardochai adopted her for his daughter.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And when the king's ordinance was noised abroad, and according to his commandment many beautiful virgins were brought to Susan, and were delivered to Egeus the eunuch: Esther also among the rest of the maidens was delivered to him to be kept in the number of the women.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               And she pleased him, and found favour in his sight. And he commanded the eunuch to hasten the women's ornaments, and to deliver to her her part, and seven of the most beautiful maidens of the king's house, and to adorn and deck out both her and her waiting maids.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And she would not tell him her people nor her country. For Mardochai had charged her to say nothing at all of that:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               And he walked every day before the court of the house, in which the chosen virgins were kept, having a care for Esther's welfare, and desiring to know what would befall her.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               Now when every virgin's turn came to go in to the king, after all had been done for setting them off to advantage, it was the twelfth month: so that for six months they were anointed with oil of myrrh, and for other six months they used certain perfumes and sweet spices.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               And when they were going in to the king, whatsoever they asked to adorn themselves they received: and being decked out, as it pleased them, they passed from the chamber of the women to the king's chamber.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               And she that went in at evening, came out in the morning, and from thence she was conducted to the second house, that was under the hand of Susagaz the eunuch, who had the charge over the king's concubines: neither could she return any more to the king, unless the king desired it, and had ordered her by name to come.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               And as the time came orderly about, the day was at hand, when Esther, the daughter of Abihail the brother of Mardochai, whom he had adopted for his daughter, was to go in to the king. But she sought not women's ornaments, but whatsoever Egeus the eunuch the keeper of the virgins had a mind, he gave her to adorn her. For she was exceeding fair, and her incredible beauty made her appear agreeable and amiable in the eyes of all.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               So she was brought to the chamber of king Assuerus the tenth month, which is called Tebeth, in the seventh year of his reign.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And the king loved her more than all the women, and she had favour and kindness before him above all the women, and he set the royal crown on her head, and made her queen instead of Vasthi.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               And he commanded a magnificent feast to be prepared for all the princes, and for his servants, for the marriage and wedding of Esther. And he gave rest to all the provinces, and bestowed gifts according to princely magnificence.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               And when the virgins were sought the second time, and gathered together, Mardochai stayed at the king's gate,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               Neither had Esther as yet declared her country and people, according to his commandment. For whatsoever he commanded, Esther observed: and she did all things in the same manner as she was wont at that time when he brought her up a little one.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               At that time, therefore, when Mardochai abode at the king's gate, Bagathan and Thares, two of the king's eunuchs, who were porters, and presided in the first entry of the palace, were angry: and they designed to rise up against the king, and to kill him.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               And Mardochai had notice of it, and immediately he told it to queen Esther: and she to the king in Mardochai's name, who had reported the thing unto her.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               It was inquired into, and found out: and they were both hanged on a gibbet. And it was put in the histories, and recorded in the chronicles before the king.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="18001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Esther
+              </td>
+              <td class="next">
+               <a href="20001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="19003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

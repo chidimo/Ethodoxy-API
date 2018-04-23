@@ -1,0 +1,701 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ecclesiasticus Chapter 23
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/26023.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/26023.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="25001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Ecclesiasticus
+           </td>
+           <td class="next">
+            <a href="27001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="26022.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 23
+           </td>
+           <td class="next">
+            <a href="26024.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="26001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="26002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="26003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="26004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="26005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="26006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="26007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="26008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="26009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="26010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="26011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="26012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="26013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="26014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="26015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="26016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="26017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="26018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="26019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="26020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="26021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="26022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             23
+            </td>
+            <td width="30">
+             <a href="26024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="26025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="26026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="26027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="26028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="26029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="26030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="26031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="26032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="26033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="26034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="26035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="26036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="26037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="26038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="26039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="26040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="26041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="26042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="26043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="26044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="26045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="26046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="26047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="26048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="26049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="26050.htm">
+              50
+             </a>
+            </td>
+            <td width="30">
+             <a href="26051.htm">
+              51
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               A prayer for grace to flee sin: cautions against profane swearing and other vices.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=1-#x">
+                [1]
+               </a>
+               O Lord, father, and sovereign ruler of my life, leave me not to their counsel: nor suffer me to fall
+               <u>
+                by them
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=2-#x">
+                [2]
+               </a>
+               Who will set scourges over my thoughts, and the discipline of wisdom over my heart,
+               <u>
+                that they spare me not in their ignorances
+               </u>
+               , and that their sins may not appear:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=3-#x">
+                [3]
+               </a>
+               Lest my ignorance increase, and my offences be multiplied, and my sins abound, and I fall before my adversaries, and my enemy rejoice over me?
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=4-#x">
+                [4]
+               </a>
+               O Lord, father, and God of my life, leave me not to their devices.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=5-#x">
+                [5]
+               </a>
+               Give me not haughtiness of my eyes, and turn away from me all coveting.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "By them"
+               </u>
+               : Viz., the tongue and the lips, mentioned in the last verse of the foregoing chapter.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "That they spare me not in their ignorances"
+               </u>
+               : That is, that the scourges and discipline of wisdom may restrain the ignorances, that is, the slips and offences which are usually committed by the tongue and the lips.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=6-#x">
+                [6]
+               </a>
+               Take from me the greediness of the belly, and let not the lusts of the flesh take hold of me, and give me not over to a shameless and foolish mind.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=7-#x">
+                [7]
+               </a>
+               Hear, O ye children, the discipline of the mouth: and he that will keep it shall not perish by his lips, nor be brought to fall into most wicked works.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=8-#x">
+                [8]
+               </a>
+               A sinner is caught in his own vanity, and the proud and the evil speakers shall fall thereby.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=9-#x">
+                [9]
+               </a>
+               Let not thy mouth be accustomed to swearing: for in it there are many falls.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=10-#x">
+                [10]
+               </a>
+               And let not the naming of God be usual in thy mouth, and meddle not with the names of saints, for thou shalt not escape free from them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=11-#x">
+                [11]
+               </a>
+               For as a slave daily put to the question, is never without a blue mark: so every one that sweareth, and nameth, shall not be wholly pure from sin.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=12-#x">
+                [12]
+               </a>
+               A man that sweareth much, shall be filled with iniquity, and a scourge shall not depart from his house.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=13-#x">
+                [13]
+               </a>
+               And if he make it void, his sin shall be upon him: and if he dissemble it, he offendeth double:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=14-#x">
+                [14]
+               </a>
+               And if he swear in vain, he shall not be justified: for his house shall be filled with his punishment.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=15-#x">
+                [15]
+               </a>
+               There is also another speech opposite to death, let it not be found in the inheritance of Jacob.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=16-#x">
+                [16]
+               </a>
+               For from the merciful all these things shall be taken away, and they shall not wallow in sins.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=17-#x">
+                [17]
+               </a>
+               Let not thy mouth be accustomed to indiscreet speech: for therein is the word of sin.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=18-#x">
+                [18]
+               </a>
+               Remember thy father and thy mother, for thou sittest is the midst of great men:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=19-#x">
+                [19]
+               </a>
+               Lest God forget thee in their sight, and thou, by thy daily custom, be infatuated and suffer reproach: and wish that thou hadst not been born, and curse the day of thy nativity.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=20-#x">
+                [20]
+               </a>
+               The man that is accustomed to opprobrious words, will never be corrected all the days of his life.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=21-#x">
+                [21]
+               </a>
+               Two sorts of men multiply sins, and the third bringeth wrath and destruction.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=22-#x">
+                [22]
+               </a>
+               A hot soul is a burning fire, it will never be quenched, till it devour some thing.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=23-#x">
+                [23]
+               </a>
+               And a man that is wicked in the mouth of his flesh, will not leave off till he hath kindled a fire.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=24-#x">
+                [24]
+               </a>
+               To a man that is a fornicator all bread is sweet, he will not be weary of sinning unto the end.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=25-#x">
+                [25]
+               </a>
+               Every man that passeth beyond his own bed, despising his own soul, and saying: Who seeth me?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=26-#x">
+                [26]
+               </a>
+               Darkness compasseth me about, and the walls cover me, and no man seeth me: whom do I fear? the most High will not remember my sins.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=27-#x">
+                [27]
+               </a>
+               And he understandeth not that his eye seeth all things, for such a man's fear driveth from him the fear of God, and the eyes of men fearing him:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=28-#x">
+                [28]
+               </a>
+               And he knoweth not that the eyes of the Lord are far brighter than the sun, beholding round about all the ways of men, and the bottom of the deep, and looking into the hearts of men, into the most hidden parts.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=29-#x">
+                [29]
+               </a>
+               For all things were known to the Lord God, before they were created: so also after they were perfected he beholdeth all things.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=30-#x">
+                [30]
+               </a>
+               This man shall be punished in the streets of the city, and he shall be chased as a colt: and where he suspected not, he shall be taken.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=31-#x">
+                [31]
+               </a>
+               And he shall be in disgrace with all men, because he understood not the fear of the Lord.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=32-#x">
+                [32]
+               </a>
+               So every woman also that leaveth her husband, and bringeth in an heir by another:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=33-#x">
+                [33]
+               </a>
+               For first she hath been unfaithful to the law of the most High: and secondly, she hath offended against her husband: thirdly, she hath fornicated in adultery, and hath gotten her children of another man.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=34-#x">
+                [34]
+               </a>
+               This woman shall be brought into the assembly, and inquisition shall be made of her children.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=35-#x">
+                [35]
+               </a>
+               Her children shall not take root, and her branches shall bring forth no fruit.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=36-#x">
+                [36]
+               </a>
+               She shall leave her memory to be cursed, and her infamy shall not be blotted out.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=37-#x">
+                [37]
+               </a>
+               And they that remain shall know. that there is nothing better than the fear of God: and that there is nothing sweeter than to have regard to the commandments of the Lord.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=23&amp;l=38-#x">
+                [38]
+               </a>
+               It is great glory to follow the Lord for length of days shall be received from him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="25001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Ecclesiasticus
+              </td>
+              <td class="next">
+               <a href="27001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="26022.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 23
+              </td>
+              <td class="next">
+               <a href="26024.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

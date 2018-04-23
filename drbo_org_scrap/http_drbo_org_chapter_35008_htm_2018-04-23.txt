@@ -1,0 +1,381 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Amos Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/35008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/35008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="34001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Amos
+           </td>
+           <td class="next">
+            <a href="36001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="35007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="35009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="35001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="35002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="35003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="35004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="35005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="35006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="35007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="35009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Under the figure of a hook, which bringeth down the fruit, the approaching desolation of Israel is foreshewed for their avarice and injustices.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               These things the Lord shewed to me: and behold a hook to draw down the fruit.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               And he said: What seest thou, Amos? And I said: A hook to draw down fruit. And the Lord said to me: The end is come upon my people Israel: I will not again pass by them any more.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And the hinges of the temple shall screak in that day, saith the Lord God: many shall die: silence shall be cast in every place.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               Hear this, you that crush the poor, and make the needy of the land to fail,
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               Saying: When will the month be over, and we shall sell our wares: and the sabbath, and we shall open the corn: that we may lessen the measure, and increase the sicle, and may convey in deceitful balances,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               That we may possess the needy for money, and the poor for a pair of shoes, and may sell the refuse of the corn?
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               The Lord hath sworn against the pride of Jacob: surely I will never forget all their works.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               Shall not the land tremble for this, and every one mourn that dwelleth therein: and rise up altogether as a river, and be cast out, and run down as the river of Egypt?
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               And it shall come to pass in that day, saith the Lord God, that the sun shall go down at midday, and I will make the earth dark in the day of light:
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               And I will turn your feasts into mourning, and all your songs into lamentation: and I will bring up sackcloth upon every back of yours, and baldness upon every head: and I will make it as the mourning of an only son, and the latter end thereof as a bitter day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               Behold the days come, saith the Lord, and I will send forth a famine into the land: not a famine of bread, nor a thirst of water, but of hearing the word of the Lord.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               And they shall move from sea to sea, and from the north to the east: they shall go about seeking the word of the Lord, and shall not find it.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               In that day the fair virgins, and the young men shall faint for thirst.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               They that swear by the sin of Samaria, and say: Thy God, O Dan, liveth: and the way of Bersabee liveth: and they shall fall, and shall rise no more.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="34001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Amos
+              </td>
+              <td class="next">
+               <a href="36001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="35007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="35009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,693 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 12
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/47012.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/47012.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Matthew
+           </td>
+           <td class="next">
+            <a href="48001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47011.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 12
+           </td>
+           <td class="next">
+            <a href="47013.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="47001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="47002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="47003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="47004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="47005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="47006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="47007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="47008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="47009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="47010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="47011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             12
+            </td>
+            <td width="30">
+             <a href="47013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="47014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="47015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="47016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="47017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="47018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="47019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="47020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="47021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="47022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="47023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="47024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="47025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="47026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="47027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="47028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ reproves the blindness of the Pharisees, and confutes their attributing his miracles to Satan.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=1-#x">
+                [1]
+               </a>
+               At that time Jesus went through the corn on the sabbath: and his disciples being hungry, began to pluck the ears, and to eat.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=2-#x">
+                [2]
+               </a>
+               And the Pharisees seeing them, said to him: Behold thy disciples do that which is not lawful to do on the sabbath days.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=3-#x">
+                [3]
+               </a>
+               But he said to them: Have you not read what David did when he was hungry, and they that were with him:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=4-#x">
+                [4]
+               </a>
+               How he entered into the house of God, and did eat
+               <u>
+                the loaves of proposition
+               </u>
+               , which it was not lawful for him to eat, nor for them that were with him, but for the priests only?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=5-#x">
+                [5]
+               </a>
+               Or have ye not read in the law, that on the sabbath days the priests in the temple break the sabbath, and are without blame?
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "The loaves of proposition"
+               </u>
+               : So were called the twelve loaves which were placed before the sanctuary in the temple of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=6-#x">
+                [6]
+               </a>
+               But I tell you that there is here a greater than the temple.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=7-#x">
+                [7]
+               </a>
+               And if you knew what this meaneth: I will have mercy, and not sacrifice: you would never have condemned the innocent.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=8-#x">
+                [8]
+               </a>
+               For the Son of man is Lord even of the sabbath.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=9-#x">
+                [9]
+               </a>
+               And when he had passed from thence, he came into their synagogues.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=10-#x">
+                [10]
+               </a>
+               And behold there was a man who had a withered hand, and they asked him, saying: Is it lawful to heal on the sabbath days? that they might accuse him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=11-#x">
+                [11]
+               </a>
+               But he said to them: What man shall there be among you, that hath one sheep: and if the same fall into a pit on the sabbath day, will he not take hold on it and lift it up?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=12-#x">
+                [12]
+               </a>
+               How much better is a man than a sheep? Therefore it is lawful to do a good deed on the sabbath days.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=13-#x">
+                [13]
+               </a>
+               Then he saith to the man: Stretch forth thy hand; and he stretched it forth, and it was restored to health even as the other.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=14-#x">
+                [14]
+               </a>
+               And the Pharisees going out made a consultation against him, how they might destroy him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=15-#x">
+                [15]
+               </a>
+               But Jesus knowing it, retired from thence: and many followed him, and he healed them all.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=16-#x">
+                [16]
+               </a>
+               And he charged them that they should not make him known.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=17-#x">
+                [17]
+               </a>
+               That it might be fulfilled which was spoken by Isaias the prophet, saying:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=18-#x">
+                [18]
+               </a>
+               Behold my servant whom I have chosen, my beloved in whom my soul hath been well pleased. I will put my spirit upon him, and he shall shew judgment to the Gentiles.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=19-#x">
+                [19]
+               </a>
+               He shall not contend, nor cry out, neither shall any man hear his voice in the streets.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=20-#x">
+                [20]
+               </a>
+               The bruised reed he shall not break: and smoking flax he shall not extinguish: till he send forth judgment unto victory.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=21-#x">
+                [21]
+               </a>
+               And in his name the Gentiles shall hope.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=22-#x">
+                [22]
+               </a>
+               Then was offered to him one possessed with a devil, blind and dumb: and he healed him, so that he spoke and saw.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=23-#x">
+                [23]
+               </a>
+               And all the multitudes were amazed, and said: Is not this the son of David?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=24-#x">
+                [24]
+               </a>
+               But the Pharisees hearing it, said: This man casteth not out the devils but by Beelzebub the prince of the devils.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=25-#x">
+                [25]
+               </a>
+               And Jesus knowing their thoughts, said to them: Every kingdom divided against itself shall be made desolate: and every city or house divided against itself shall not stand.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=26-#x">
+                [26]
+               </a>
+               And if Satan cast out Satan, he is divided against himself: how then shall his kingdom stand?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=27-#x">
+                [27]
+               </a>
+               And if I by Beelzebub cast out devils, by whom do your children cast them out? Therefore they shall be your judges.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=28-#x">
+                [28]
+               </a>
+               But if I by the Spirit of God cast out devils, then is the kingdom of God come upon you.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=29-#x">
+                [29]
+               </a>
+               Or how can any one enter into the house of the strong, and rifle his goods, unless he first bind the strong? and then he will rifle his house.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=30-#x">
+                [30]
+               </a>
+               He that is not with me, is against me: and he that gathereth not with me, scattereth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=31-#x">
+                [31]
+               </a>
+               Therefore I say to you: Every sin and blasphemy shall be forgiven men, but
+               <u>
+                the blasphemy of the Spirit
+               </u>
+               shall not be forgiven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=32-#x">
+                [32]
+               </a>
+               And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against the Holy Ghost, it shall not be forgiven him, neither in this world,
+               <u>
+                nor in the world to come
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=33-#x">
+                [33]
+               </a>
+               Either make the tree good and its fruit good: or make the tree evil, and its fruit evil. For by the fruit the tree is known.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=34-#x">
+                [34]
+               </a>
+               O generation of vipers, how can you speak good things, whereas you are evil? for out of the abundance of the heart the mouth speaketh.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=35-#x">
+                [35]
+               </a>
+               A good man out of a good treasure bringeth forth good things: and an evil man out of an evil treasure bringeth forth evil things.
+              </p>
+              <p class="note">
+               [31]
+               <u>
+                "The blasphemy of the Spirit"
+               </u>
+               : The sin here spoken of is that blasphemy, by which the Pharisees attributed the miracles of Christ, wrought by the Spirit of God, to Beelzebub the prince of devils. Now this kind of sin is usually accompanied with so much obstinacy, and such wilful opposing the Spirit of God, and the known truth, that men who are guilty of it, are seldom or never converted: and therefore are never forgiven, because they will not repent. Otherwise there is no sin, which God cannot or will not forgive to such as sincerely repent, and have recourse to the keys of the church.
+              </p>
+              <p class="note">
+               [32]
+               <u>
+                "Nor in the world to come"
+               </u>
+               : From these words St. Augustine (De Civ. Dei, lib. 21, c. 13) and St. Gregory (Dialog., 4, c. 39) gather, that some sins may be remitted in the world to come; and, consequently, that there is a purgatory or a middle place.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=36-#x">
+                [36]
+               </a>
+               But I say unto you, that
+               <u>
+                every idle word
+               </u>
+               that men shall speak, they shall render an account for it in the day of judgment.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=37-#x">
+                [37]
+               </a>
+               For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=38-#x">
+                [38]
+               </a>
+               Then some of the scribes and Pharisees answered him, saying: Master we would see
+               <u>
+                a sign
+               </u>
+               from thee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=39-#x">
+                [39]
+               </a>
+               Who answering said to them: An evil and adulterous generation seeketh a sign: and a sign shall not be given it, but the sign of Jonas the prophet.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=40-#x">
+                [40]
+               </a>
+               For as Jonas was in the whale's belly
+               <u>
+                three days
+               </u>
+               and three nights: so shall the Son of man be in the heart of the earth three days and three nights.
+              </p>
+              <p class="note">
+               [36]
+               <u>
+                "Every idle word"
+               </u>
+               : This shews there must be a place of temporal punishment hereafter where these slighter faults shall be punished.
+              </p>
+              <p class="note">
+               [38]
+               <u>
+                "A sign"
+               </u>
+               : That is, a miracle from heaven. St. Luke 11. 16.
+              </p>
+              <p class="note">
+               [40]
+               <u>
+                "Three days"
+               </u>
+               : Not complete days and nights; but part of three days, and three nights taken according to the way that the Hebrews counted their days and nights, viz., from evening to evening.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=41-#x">
+                [41]
+               </a>
+               The men of Ninive shall rise in judgment with this generation, and shall condemn it: because they did penance at the preaching of Jonas. And behold a greater than Jonas here.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=42-#x">
+                [42]
+               </a>
+               The queen of the south shall rise in judgment with this generation, and shall condemn it: because she came from the ends of the earth to hear the wisdom of Solomon, and behold a greater than Solomon here.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=43-#x">
+                [43]
+               </a>
+               And when an unclean spirit is gone out of a man he walketh through dry places seeking rest, and findeth none.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=44-#x">
+                [44]
+               </a>
+               Then he saith: I will return into my house from whence I came out. And coming he findeth it empty, swept, and garnished.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=45-#x">
+                [45]
+               </a>
+               Then he goeth, and taketh with him seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is made worse than the first. So shall it be also to this wicked generation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=46-#x">
+                [46]
+               </a>
+               As he was yet speaking to the multitudes, behold his mother and his brethren stood without, seeking to speak to him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=47-#x">
+                [47]
+               </a>
+               And one said unto him: Behold thy mother and thy brethren stand without, seeking thee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=48-#x">
+                [48]
+               </a>
+               But he answering him that told him, said:
+               <u>
+                Who is my mother
+               </u>
+               , and who are my brethren?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=49-#x">
+                [49]
+               </a>
+               And stretching forth his hand towards his disciples, he said: Behold my mother and my brethren.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=12&amp;l=50-#x">
+                [50]
+               </a>
+               For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother.
+              </p>
+              <p class="note">
+               [48]
+               <u>
+                "Who is my mother?"
+               </u>
+               : This was not spoken by way of slighting his mother, but to shew that we are never to suffer ourselves to be taken from the service of God, by any inordinate affection to our earthly parents: and that which our Lord chiefly regarded in his mother, was her doing the will of his Father in heaven. It may also further allude to the reprobation of the Jews, his carnal kindred, and the election of the Gentiles.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Matthew
+              </td>
+              <td class="next">
+               <a href="48001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47011.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 12
+              </td>
+              <td class="next">
+               <a href="47013.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

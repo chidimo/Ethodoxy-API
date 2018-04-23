@@ -1,0 +1,522 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 7
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/47007.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/47007.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Matthew
+           </td>
+           <td class="next">
+            <a href="48001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47006.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 7
+           </td>
+           <td class="next">
+            <a href="47008.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="47001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="47002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="47003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="47004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="47005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="47006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             07
+            </td>
+            <td width="30">
+             <a href="47008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="47009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="47010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="47011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="47012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="47013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="47014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="47015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="47016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="47017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="47018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="47019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="47020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="47021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="47022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="47023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="47024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="47025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="47026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="47027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="47028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The third part of the sermon on the mount.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=1-#x">
+                [1]
+               </a>
+               Judge not, that you may not be judged,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=2-#x">
+                [2]
+               </a>
+               For with what judgment you judge, you shall be judged: and with what measure you mete, it shall be measured to you again.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=3-#x">
+                [3]
+               </a>
+               And why seest thou the mote that is in thy brother's eye; and seest not the beam that is in thy own eye?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=4-#x">
+                [4]
+               </a>
+               Or how sayest thou to thy brother: Let me cast the mote out of thy eye; and behold a beam is in thy own eye?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=5-#x">
+                [5]
+               </a>
+               Thou hypocrite, cast out first the beam in thy own eye, and then shalt thou see to cast out the mote out of thy brother's eye.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=6-#x">
+                [6]
+               </a>
+               Give not that which is holy to dogs; neither cast ye your pearls before swine, lest perhaps they trample them under their feet, and turning upon you, they tear you.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=7-#x">
+                [7]
+               </a>
+               Ask, and it shall be given you: seek, and you shall find: knock, and it shall be opened to you.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=8-#x">
+                [8]
+               </a>
+               For every one that asketh, receiveth: and he that seeketh, findeth: and to him that knocketh, it shall be opened.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=9-#x">
+                [9]
+               </a>
+               Or what man is there among you, of whom if his son shall ask bread, will he reach him a stone?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=10-#x">
+                [10]
+               </a>
+               Or if he shall ask him a fish, will he reach him a serpent?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=11-#x">
+                [11]
+               </a>
+               If you then being evil, know how to give good gifts to your children: how much more will your Father who is in heaven, give good things to them that ask him?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=12-#x">
+                [12]
+               </a>
+               All things therefore whatsoever you would that men should do to you, do you also to them. For this is the law and the prophets.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=13-#x">
+                [13]
+               </a>
+               Enter ye in at the narrow gate: for wide is the gate, and broad is the way that leadeth to destruction, and many there are who go in thereat.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=14-#x">
+                [14]
+               </a>
+               How narrow is the gate, and strait is the way that leadeth to life: and few there are that find it!
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=15-#x">
+                [15]
+               </a>
+               Beware of false prophets, who come to you in the clothing of sheep, but inwardly they are ravening wolves.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=16-#x">
+                [16]
+               </a>
+               By their fruits you shall know them. Do men gather grapes of thorns, or figs of thistles?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=17-#x">
+                [17]
+               </a>
+               Even so every good tree bringeth forth good fruit, and the evil tree bringeth forth evil fruit.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=18-#x">
+                [18]
+               </a>
+               A good tree cannot bring forth evil fruit, neither can an evil tree bring forth good fruit.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=19-#x">
+                [19]
+               </a>
+               Every tree that bringeth not forth good fruit, shall be cut down, and shall be cast into the fire.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=20-#x">
+                [20]
+               </a>
+               Wherefore by their fruits you shall know them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=21-#x">
+                [21]
+               </a>
+               Not every one that saith to me, Lord, Lord, shall enter into the kingdom of heaven: but he that doth the will of my Father who is in heaven, he shall enter into the kingdom of heaven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=22-#x">
+                [22]
+               </a>
+               Many will say to me in that day: Lord, Lord, have not we prophesied in thy name, and cast out devils in thy name, and done many miracles in thy name?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=23-#x">
+                [23]
+               </a>
+               And then will I profess unto them, I never knew you: depart from me, you that work iniquity.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=24-#x">
+                [24]
+               </a>
+               Every one therefore that heareth these my words, and doth them, shall be likened to a wise man that built his house upon a rock,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=25-#x">
+                [25]
+               </a>
+               And the rain fell, and the floods came, and the winds blew, and they beat upon that house, and it fell not, for it was founded on a rock.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=26-#x">
+                [26]
+               </a>
+               And every one that heareth these my words, and doth them not, shall be like a foolish man that built his house upon the sand,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=27-#x">
+                [27]
+               </a>
+               And the rain fell, and the floods came, and the winds blew, and they beat upon that house, and it fell, and great was the fall thereof.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=28-#x">
+                [28]
+               </a>
+               And it came to pass when Jesus had fully ended these words, the people were in admiration at his doctrine.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=7&amp;l=29-#x">
+                [29]
+               </a>
+               For he was teaching them as one having power, and not as the scribes and Pharisees.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Matthew
+              </td>
+              <td class="next">
+               <a href="48001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47006.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 7
+              </td>
+              <td class="next">
+               <a href="47008.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

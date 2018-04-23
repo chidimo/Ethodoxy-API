@@ -1,0 +1,411 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Joel Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/34003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/34003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="33001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Joel
+           </td>
+           <td class="next">
+            <a href="35001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="34002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="34001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="34002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Lord shall judge all nations in the valley of Josaphat. The evils that shall fall upon the enemies of God's people: his blessing upon the church of the saints.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               For behold in those days, and in that time when I shall bring back the captivity of Juda and Jerusalem:
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               I will gather together all nations, and will bring them down into the valley of Josaphat: and I will plead with them there for my people, and for my inheritance Israel, whom they have scattered among the nations, and have parted my land.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               And they have cast lots upon my people: and the boy they have put in the stews, and the girl they have sold for wine, that they might drink.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               But what have you to do with me, O Tyre, and Sidon, and all the coast of the Philistines? will you revenge yourselves on me? and if you revenge yourselves on me, I will very soon return you a recompense upon your own head.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               For you have taken away my silver and my gold: and my desirable and most beautiful things you have carried into your temples.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And the children of Juda, and the children of Jerusalem you have sold to the children of the Greeks, that you might remove them far off from their own country.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Behold, I will raise them up out of the place wherein you have sold them: and I will return your recompense upon your own heads.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And I will sell your sons, and your daughters by the hands of the children of Juda, and they shall sell them to the Sabeans, a nation far off, for the Lord hath spoken it.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Proclaim ye this among the nations: prepare war, rouse up the strong: let them come, let all the men of war come up.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               Cut your ploughshares into swords, and your spades into spears. Let the weak say: I am strong.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               Break forth, and come, all ye nations, from round about, and gather yourselves together: there will the Lord cause all thy strong ones to fall down.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               Let them arise, and let the nations come up into the valley of Josaphat: for there I will sit to judge all nations round about.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Put ye in the sickles, for the harvest is ripe: come and go down, for the press is full, the fats run over: for their wickedness is multiplied.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               Nations, nations in the valley of destruction: for the day of the Lord is near in the valley of destruction.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               The sun and the moon are darkened, and the stars have withdrawn their shining.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               And the Lord shall roar out of Sion, and utter his voice from Jerusalem: and the heavens and the earth shall be moved, and the Lord shall be the hope of his people, and the strength of the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               And you shall know that I am the Lord your God, dwelling in Sion my holy mountain: and Jerusalem shall be holy and strangers shall pass through it no more.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               And it shall come to pass in that day, that the mountains shall drop down sweetness, and the hills shall flow with milk: and waters shall flow through all the rivers of Juda: and
+               <u>
+                a fountain shall come forth of the house of the Lord
+               </u>
+               , and shall water the torrent of thorns.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               Egypt shall be a desolation, and Edom a wilderness destroyed: because they have done unjustly against the children of Juda, and have shed innocent blood in their land.
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               And Judea shall be inhabited for ever,
+               <u>
+                and Jerusalem
+               </u>
+               to generation and generation.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "A fountain shall come forth of the house of the Lord"
+               </u>
+               : Viz., the fountain of grace in the church militant, and of glory in the church triumphant: which shall water the torrent or valley of thorns, that is, the souls that before, like barren ground brought forth nothing but thorns; or that were afflicted with the thorns of crosses and tribulations.
+              </p>
+              <p class="note">
+               [20]
+               <u>
+                "And Jerusalem"
+               </u>
+               : That is, the spiritual Jerusalem, viz., the church of Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=34&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               And I will cleanse their blood which I had not cleansed: and the Lord will dwell in Sion.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="33001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Joel
+              </td>
+              <td class="next">
+               <a href="35001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="34002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

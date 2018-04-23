@@ -1,0 +1,451 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Zacharias (Zachariah) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/43001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/43001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="42001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Zacharias (Zachariah)
+         </td>
+         <td class="next">
+          <a href="44001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="43002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="43002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="43003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="43004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="43005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="43006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="43007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="43008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="43009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="43010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="43011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="43012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="43013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="43014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The prophet exhorts the people to return to God, and declares his visions, by which he puts them in hopes of better times.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             In the eighth month, in the second year of king Darius, the word of the Lord came to Zacharias the son of Barachias, the son of Addo, the prophet, saying:
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             The Lord hath been exceeding angry with your fathers.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And thou shalt say to them: Thus saith the Lord of hosts: Turn ye to me, saith the Lord of hosts: and I will turn to you, saith the Lord of hosts.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             Be not as your fathers, to whom the former prophets have cried, saying: Thus saith the Lord of hosts: Turn ye from your evil ways, and from your wicked thoughts: but they did not give ear, neither did they hearken to me, saith the Lord.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             Your fathers, where are they? and the prophets, shall they live always?
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             But yet my words, and my ordinances, which I gave in charge to my servants the prophets, did they not take hold of your fathers, and they returned, and said: As the Lord of hosts thought to do to us according to our ways, and according to our devices, so he hath done to us.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             In the four and twentieth day of the eleventh month which is called Sabath, in the second year of Darius, the word of the Lord came to Zacharias the son of Barachias, the son of Addo, the prophet, saying:
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             I saw by night, and behold
+             <u>
+              a man
+             </u>
+             riding upon a red horse, and he stood among the myrtle trees, that were in the bottom: and behind him were horses, red, speckled, and white.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And I said: What are these, my Lord? and the angel that spoke in me, said to me: I will shew thee what these are:
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And the man that stood among the myrtle trees answered, and said:
+             <u>
+              These are they
+             </u>
+             , whom the Lord hath sent to walk through the earth.
+            </p>
+            <p class="note">
+             [8]
+             <u>
+              "A man"
+             </u>
+             : An angel in the shape of a man. It was probably Michael, the guardian angel of the church of God.
+            </p>
+            <p class="note">
+             [10]
+             <u>
+              "These are they"
+             </u>
+             : The guardian angels of provinces and nations.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And they answered the angel of the Lord, that stood among the myrtle trees, and said: We have walked through the earth, and behold all the earth is inhabited, and is at rest.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And the angel of the Lord answered, and said: O Lord of hosts, how long wilt thou not have mercy on Jerusalem, and on the cities of Juda, with which thou hast been angry? this is now
+             <u>
+              the seventieth year
+             </u>
+             .
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And the Lord answered the angel, that spoke in me, good words, comfortable words.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And the angel that spoke in me, said to me: Cry thou, saying: Thus saith the Lord of hosts: I am zealous for Jerusalem, and Sion with a great zeal.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And I am angry with a great anger with the wealthy nations: for I was angry a little, but they helped forward the evil.
+            </p>
+            <p class="note">
+             [12]
+             <u>
+              "The seventieth year"
+             </u>
+             : Viz., from the beginning of the siege of Jerusalem, in the ninth year of king Sedecias, to the second year of king Darius. These seventy years of the desolation of Jerusalem and the cities of Juda, are different from the seventy years of captivity foretold by Jeremias; which began in the fourth year of Joakim, and ended in the first year of king Cyrus.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             Therefore thus saith the Lord: I will return to Jerusalem in mercies: my house shall be built in it, saith the Lord of hosts: and the building line shall be stretched forth upon Jerusalem.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             Cry yet, saying: Thus saith the Lord of hosts: My cities shall yet flow with good things: and the Lord will yet comfort Sion, and he will yet choose Jerusalem.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             And I lifted up my eyes, and saw: and behold
+             <u>
+              four horns
+             </u>
+             .
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             And I said to the angel that spoke to me: What are these? And he said to me: These are the horns that have scattered Juda, and Israel, and Jerusalem.
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             And the Lord shewed me
+             <u>
+              four smiths
+             </u>
+             .
+            </p>
+            <p class="note">
+             [18]
+             <u>
+              "Four horns"
+             </u>
+             : The four horns represent the empires, or kingdoms, that persecute and oppress the kingdom of God.
+            </p>
+            <p class="note">
+             [20]
+             <u>
+              "Four smiths"
+             </u>
+             : The four smiths, or carpenters (for faber may signify either) represent those whom God makes his instruments in bringing to nothing the power of persecutors.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=43&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             And I said: What come these to do? and he spoke, saying: These are the horns which have scattered Juda every man apart, and none of them lifted up his head: and these are come to fray them, to cast down the horns of the nations, that have lifted up the horn upon the land of Juda to scatter it.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="42001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Prophecy Of Zacharias (Zachariah)
+            </td>
+            <td class="next">
+             <a href="44001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="43002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

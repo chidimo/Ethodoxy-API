@@ -1,0 +1,432 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Tobias (Tobit) Chapter 12
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/17012.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/17012.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="16001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Tobias (Tobit)
+           </td>
+           <td class="next">
+            <a href="18001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="17011.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 12
+           </td>
+           <td class="next">
+            <a href="17013.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="17001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="17002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="17003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="17004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="17005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="17006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="17007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="17008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="17009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="17010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="17011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             12
+            </td>
+            <td width="30">
+             <a href="17013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="17014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Raphael maketh himself known.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=1-#x">
+                [1]
+               </a>
+               Then Tobias called to him his son, and said to him: What can we give to this holy man, that is come with thee?
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=2-#x">
+                [2]
+               </a>
+               Tobias answering, said to his father: Father, what wages shall we give him? or what can be worthy of his benefits?
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=3-#x">
+                [3]
+               </a>
+               He conducted me and brought me safe again, he received the money of Gabelus, he caused me to have my wife, and he chased from her the evil spirit, he gave joy to her parents, myself he delivered from being devoured by the fish, thee also he hath made to see the light of heaven, and we are filled with all good things through him. What can we give him sufficient for these things?
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=4-#x">
+                [4]
+               </a>
+               But I beseech thee, my father, to desire him, that he would vouchsafe to accept one half of all things that have been brought.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=5-#x">
+                [5]
+               </a>
+               So the father and the son, calling him, took him aside: and began to desire him that he would vouchsafe to accept of half of all things that they had brought.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=6-#x">
+                [6]
+               </a>
+               Then he said to them secretly: Bless ye the God of heaven, give glory to him in the sight of all that live, because he hath shewn his mercy to you.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=7-#x">
+                [7]
+               </a>
+               For it is good to hide the secret of a king: but honourable to reveal and confess the works of God.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=8-#x">
+                [8]
+               </a>
+               Prayer is good with fasting and alms more than to lay up treasures of gold:
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=9-#x">
+                [9]
+               </a>
+               For alms delivereth from death, and the same is that which purgeth away sins, and maketh to find mercy and life everlasting.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=10-#x">
+                [10]
+               </a>
+               But they that commit sin and iniquity, are enemies to their own soul.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=11-#x">
+                [11]
+               </a>
+               I discover then the truth unto you, and I will not hide the secret from you.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=12-#x">
+                [12]
+               </a>
+               When thou didst pray with tears, and didst bury the dead, and didst leave thy dinner, and hide the dead by day in thy house, and bury them by night, I offered thy prayer to the Lord.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=13-#x">
+                [13]
+               </a>
+               And because thou wast acceptable to God, it was necessary that temptation should prove thee.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=14-#x">
+                [14]
+               </a>
+               And now the Lord hath sent me to heal thee, and to deliver Sara thy son's wife from the devil.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=15-#x">
+                [15]
+               </a>
+               For I am the angel Raphael, one of the seven, who stand before the Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=16-#x">
+                [16]
+               </a>
+               And when they had heard these things, they were troubled, and being seized with fear they fell upon the ground on their face.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=17-#x">
+                [17]
+               </a>
+               And the angel said to them: Peace be to you, fear not.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=18-#x">
+                [18]
+               </a>
+               For when I was with you, I was there by the will of God: bless ye him, and sing praises to him.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=19-#x">
+                [19]
+               </a>
+               I seemed indeed to eat and to drink with you: but I use an invisible meat and drink, which cannot be seen by men.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=20-#x">
+                [20]
+               </a>
+               It is time therefore that I return to him that sent me: but bless ye God, and publish all his wonderful works.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=21-#x">
+                [21]
+               </a>
+               And when he had said these things, he was taken from their sight, and they could see him no more.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=12&amp;l=22-#x">
+                [22]
+               </a>
+               Then they lying prostrate for three hours upon their face, blessed God: and rising up, they told all his wonderful works.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="16001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Tobias (Tobit)
+              </td>
+              <td class="next">
+               <a href="18001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="17011.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 12
+              </td>
+              <td class="next">
+               <a href="17013.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

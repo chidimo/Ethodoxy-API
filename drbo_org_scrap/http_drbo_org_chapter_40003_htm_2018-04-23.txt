@@ -1,0 +1,531 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Habacuc (Habakkuk) Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/40003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/40003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="39001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Habacuc (Habakkuk)
+           </td>
+           <td class="next">
+            <a href="41001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="40002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="40001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="40002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               (No prolog)
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               A PRAYER OF HABACUC THE PROPHET
+               <u>
+                FOR IGNORANCES
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               O Lord, I have heard
+               <u>
+                thy hearing
+               </u>
+               , and was afraid. O Lord,
+               <u>
+                thy work
+               </u>
+               , in the midst of the years bring it to life: In the midst of the years thou shalt make it known: when thou art angry, thou wilt remember mercy.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               <u>
+                God will come from the south
+               </u>
+               , and the holy one from mount Pharan: His glory covered the heavens, and the earth is full of his praise.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               His brightness shall be as the light;
+               <u>
+                horns
+               </u>
+               are in his hands: There is his strength hid:
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               <u>
+                Death shall go before his face
+               </u>
+               . And the devil shall go forth before his feet.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "For ignorances"
+               </u>
+               : That is, for the sins of his people. In the Hebrew, it is Sigionoth: which some take to signify a musical instrument, or tune; with which this sublime prayer and canticle was to be sung.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Thy hearing"
+               </u>
+               : That is, thy oracles, the great and wonderful things thou hast revealed to me; and I was struck with a reverential fear and awe.-- Ibid.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Thy work"
+               </u>
+               : The great work of the redemption of man, which thou wilt bring to life and light in the midst of the years, when our calamities and miseries shall be at their height.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "God will come from the south"
+               </u>
+               : God himself will come to give us his law, and to conduct us into the true land of promise: as heretofore he came from the South (in the Hebrew Theman) and from mount Pharan to give his law to his people in the desert. See Deut. 33. 2.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Horns"
+               </u>
+               : That is, strength and power, which, by a Hebrew phrase, are called horns. Or beams of light, which come forth from his hands. Or it may allude to the cross, in the horns of which the hands of Christ were fastened, where his strength was hidden, by which he overcame the world, and drove out death and the devil.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "Death shall go before his face"
+               </u>
+               : Both death and the devil shall be the executioners of his justice against his enemies: as they were heretofore against the Egyptians and Chanaanites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               He stood and measured the earth.
+               <u>
+                He beheld
+               </u>
+               , and melted the nations: and
+               <u>
+                the ancient mountains
+               </u>
+               were crushed to pieces. The hills of the world were bowed down by the journeys of his eternity.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               I saw the tents of
+               <u>
+                Ethiopia
+               </u>
+               for their iniquity, the curtains of the land of Madian shall be troubled.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               Wast thou angry, O Lord,
+               <u>
+                with the rivers
+               </u>
+               ? or was thy wrath upon the rivers? or thy indignation in the sea? Who will ride upon thy horses: and thy chariots are salvation.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Thou wilt surely take up thy bow: according to the oaths which thou hast spoken to the tribes. Thou wilt divide the rivers of the earth.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               The mountains saw thee, and were grieved: the great body of waters passed away. The deep put forth its voice: the deep lifted up its hands.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "He beheld"
+               </u>
+               : One look of his eye is enough to melt all the nations, and to reduce them to nothing. For all heaven and earth disappear when they come before his light. Apoc. 20. 11. Ibid.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "The ancient mountains"
+               </u>
+               : By the mountains and hills are signified the great ones of the world, that persecute the church, whose power was quickly crushed by the Almighty.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Ethiopia"
+               </u>
+               : the land of the Blacks, and Madian, are here taken for the enemies of God and his people: who shall perish for their iniquity.
+              </p>
+              <p class="note">
+               [8]
+               <u>
+                "With the rivers"
+               </u>
+               : He alludes to the wonders wrought heretofore by the Lord in favour of his people Israel, when the waters of the rivers, viz., of Arnon and Jordan, and of the Red Sea, retired before their face: when he came as it were with his horses and chariots to save them when he took up his bow for their defence, in consequence of the oath he had made to their tribes: when the mountains trembled, and the deep stood with its waves raised up in a heap, as with hands lifted up to heaven: when the sun and the moon stood still at his command, etc., to comply with his anger, not against the rivers and sea, but against the enemies of his people. How much more will he do in favour of his Son: and against the enemies of his church?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               The sun and the moon stood still in their habitation, in the light of thy arrows, they shall go in the brightness of thy glittering spear.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               In thy anger thou wilt tread the earth under foot: in thy wrath thou wilt astonish the nations.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Thou wentest forth for the salvation of thy people: for salvation with thy Christ. Thou struckest
+               <u>
+                the head of the house of the wicked
+               </u>
+               : thou hast laid bare his foundation even to the neck.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               Thou hast cursed his sceptres, the head of his warriors, them that came out as a whirlwind to scatter me. Their joy was like that of him that devoureth the poor man in secret.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               <u>
+                Thou madest a way in the sea
+               </u>
+               for thy horses, in the mud of many waters.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "The head of the house of the wicked"
+               </u>
+               : Such was Pharao heretofore: such shall Antichrist be hereafter.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "Thou madest a way in the sea"
+               </u>
+               : To deliver thy people from the Egyptian bondage: and thou shalt work the like wonders in the spiritual way, to rescue the children of the church from their enemies.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               <u>
+                I have heard
+               </u>
+               and my bowels were troubled: my lips trembled at the voice. Let rottenness enter into my bones, and swarm under me. That I may rest in the day of tribulation:
+               <u>
+                that I may go up to our people
+               </u>
+               that are girded.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               For the fig tree shall not blossom: and there shall be no spring in the vines. The labour of the olive tree shall fail: and the fields shall yield no food: the flock shall be cut off from the fold, and there shall be no herd in the stalls.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               But I will rejoice in the Lord: and I will joy in God my Jesus.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               The Lord God is my strength: and he will make my feet like the feet of harts: and he the conqueror will lead me upon my high places singing psalms.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "I have heard"
+               </u>
+               : Viz., the evils that are now coming upon the Israelites for their sins; and that shall come hereafter upon all impenitent sinners; and the foresight that I have of these miseries makes me willing to die, that I may be at rest, before this general tribulation comes, in which all good things shall be withdrawn from the wicked.-- Ibid.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "That I may go up to our people"
+               </u>
+               : That I may join the happy company in the bosom of Abraham, that are girded, that is, prepared for their journey, by which they shall attend their Lord, when he shall ascend into heaven. To which high and happy place, my Jesus, that is, my Saviour, the great conqueror of death and hell, shall one day conduct me rejoicing and singing psalms of praise, ver. 18 and 19.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="39001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Habacuc (Habakkuk)
+              </td>
+              <td class="next">
+               <a href="41001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="40002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,460 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Corinthians Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/54005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/54005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="53001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Epistle Of Saint Paul To The Corinthians
+           </td>
+           <td class="next">
+            <a href="55001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="54004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="54006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="54001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="54002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="54003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="54004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="54006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="54007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="54008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="54009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="54010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="54011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="54012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="54013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               He is willing to leave his earthly mansion to be with the Lord. His charity to the Corinthians.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               For we know, if our earthly house of this habitation be dissolved, that we have a building of God, a house not made with hands, eternal in heaven.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               For in this also we groan, desiring to be clothed upon with our habitation that is from heaven.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               Yet so that we be found clothed, not naked.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               For we also, who are in this tabernacle, do groan, being burthened; because we would not be unclothed, but clothed upon, that that which is mortal may be swallowed up by life.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               Now he that maketh us for this very thing, is God, who hath given us the pledge of the Spirit.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               Therefore having always confidence, knowing that, while we are in the body, we are absent from the Lord.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               (For we walk by faith, and not by sight.)
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               But we are confident, and have a good will to be absent rather from the body, and to be present with the Lord.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               And therefore we labour, whether absent or present, to please him.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               For we must all be manifested before the judgement seat of Christ, that every one may receive
+               <u>
+                the proper things of the body
+               </u>
+               , according as he hath done, whether it be good or evil.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "The proper things of the body"
+               </u>
+               : In the particular judgment, immediately after death, the soul is rewarded or punished according to what it has done in the body.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               Knowing therefore the fear of the Lord, we use persuasion to men; but to God we are manifest. And I trust also that in your consciences we are manifest.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               We commend not ourselves again to you, but give you occasion to glory in our behalf; that you may have somewhat to answer them who glory in face, and not in heart.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               For whether we be transported in mind, it is to God; or whether we be sober, it is for you.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               For the charity of Christ presseth us: judging this, that if one died for all, then all were dead.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               And Christ died for all; that they also who live, may not now live to themselves, but unto him who died for them, and rose again.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               Wherefore henceforth,
+               <u>
+                we know no man according to the flesh
+               </u>
+               . And if we have known Christ according to the flesh; but now we know him so no longer.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               If then any be in Christ a new creature, the old things are passed away, behold all things are made new.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               But all things are of God, who hath reconciled us to himself by Christ; and hath given to us the ministry of reconciliation.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               For God indeed was in Christ, reconciling the world to himself, not imputing to them their sins; and he hath placed in us the word of reconciliation.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               For Christ therefore we are ambassadors, God as it were exhorting by us. For Christ, we beseech you, be reconciled to God.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "We know no man according to the flesh"
+               </u>
+               : That is, we consider not any man with regard to his nation, family, kindred, or other natural qualities or advantages; but only with relation to Christ, and according to the order of divine charity, in God, and for God. The apostle adds, that even with respect to Christ himself, he now no longer considers him according to the flesh, by taking a satisfaction in his being his countryman; his affection being now purified from all such earthly considerations.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               Him, who knew no sin, he hath made
+               <u>
+                sin for us
+               </u>
+               , that we might be made the justice of God in him.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "Sin for us"
+               </u>
+               : That is, to be a sin offering, a victim for sin.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="53001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Epistle Of Saint Paul To The Corinthians
+              </td>
+              <td class="next">
+               <a href="55001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="54004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="54006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

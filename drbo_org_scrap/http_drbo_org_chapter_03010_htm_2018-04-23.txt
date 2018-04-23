@@ -1,0 +1,479 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Leviticus Chapter 10
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/03010.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/03010.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Leviticus
+           </td>
+           <td class="next">
+            <a href="04001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03009.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 10
+           </td>
+           <td class="next">
+            <a href="03011.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="03001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="03002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="03003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="03004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="03005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="03006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="03007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="03008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="03009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             10
+            </td>
+            <td width="30">
+             <a href="03011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="03012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="03013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="03014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="03015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="03016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="03017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="03018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="03019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="03020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="03021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="03022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="03023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="03024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="03025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="03026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="03027.htm">
+              27
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Nadab and Abiu for offering strange fire, are burnt by fire. Priests are forbidden to drink wine, when they enter into the tabernacle. The law of eating the holy things.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=1-#x">
+                [1]
+               </a>
+               And Nadab and Abiu, the sons of Aaron, taking their censers, put fire therein, and incense on it, offering before the Lord strange fire: which was not commanded them.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=2-#x">
+                [2]
+               </a>
+               And fire coming out from the Lord destroyed them, and they died before the Lord.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=3-#x">
+                [3]
+               </a>
+               And Moses said to Aaron: This is what the Lord hath spoken: I will be sanctified in them that approach to me, and I will be glorified in the sight of all the people. And when Aaron heard this, he held his peace.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=4-#x">
+                [4]
+               </a>
+               And Moses called Misael and Elisaphan, the sons of Oziel, the uncle of Aaron, and said to them: Go and take away your brethren from before the sanctuary, and carry them without the camp.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=5-#x">
+                [5]
+               </a>
+               And they went forthwith and took them as they lay, vested with linen tunicks, and cast them forth, as had been commanded them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=6-#x">
+                [6]
+               </a>
+               And Moses said to Aaron, and to Eleazar and Ithamar, his sons: Uncover not your heads, and rend not your garments, lest perhaps you die, and indignation come upon all the congregation. Let your brethren, and all the house of Israel, bewail the burning which the Lord has kindled:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=7-#x">
+                [7]
+               </a>
+               But you shall not go out of the door of the tabernacle, otherwise you shall perish, for the oil of the holy unction is on you. And they did all things according to the precept of Moses.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=8-#x">
+                [8]
+               </a>
+               The Lord also said to Aaron:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=9-#x">
+                [9]
+               </a>
+               You shall not drink wine nor any thing that may make drunk, thou nor thy sons, when you enter into the tabernacle of the testimony, lest you die: because it is an everlasting precept through your generations:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=10-#x">
+                [10]
+               </a>
+               And that you may have knowledge to discern between holy and unholy, between unclean and clean:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=11-#x">
+                [11]
+               </a>
+               And may teach the children of Israel all my ordinances which the Lord hath spoken to them by the hand of Moses.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=12-#x">
+                [12]
+               </a>
+               And Moses spoke to Aaron, and to Eleazar and Ithamar, his sons that were left: Take the sacrifice that is remaining of the oblation of the Lord, and eat it without leaven beside the altar, because it is holy of holies.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=13-#x">
+                [13]
+               </a>
+               And you shall eat it in a holy place: which is given to thee and thy sons of the oblations of the Lord, as it hath been commanded me.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=14-#x">
+                [14]
+               </a>
+               The breast also that is offered, and the shoulder that is separated, you shall eat in a most clean place, thou and thy sons, and thy daughters with thee. For they are set aside for thee and thy children, of the victims of peace offerings of the children of Israel:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=15-#x">
+                [15]
+               </a>
+               Because they have elevated before the Lord the shoulder and the breast, and the fat that is burnt on the altar, and they belong to thee and to thy sons by a perpetual law, as the Lord hath commanded.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=16-#x">
+                [16]
+               </a>
+               While these things were a doing, when Moses sought for the buck goat, that had been offered for sin, he found it burnt: and being angry with Eleazar and Ithamar, the sons of Aaron that were left, he said:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=17-#x">
+                [17]
+               </a>
+               Why did you not eat in the holy place the sacrifice for sin, which is most holy, and given to you, that you may bear the iniquity of the people, and may pray for them in the sight of the Lord,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=18-#x">
+                [18]
+               </a>
+               Especially whereas none of the blood thereof hath been carried within the holy places, and you ought to have eaten it in the sanctuary, as was commanded me?
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=19-#x">
+                [19]
+               </a>
+               Aaron answered: This day hath been offered the victim for sin, and the holocaust before the Lord: and to me what thou seest has happened: how could I eat it, or please the Lord in the ceremonies, having a sorrowful heart?
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=10&amp;l=20-#x">
+                [20]
+               </a>
+               Which when Moses had heard he was satisfied.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Leviticus
+              </td>
+              <td class="next">
+               <a href="04001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03009.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 10
+              </td>
+              <td class="next">
+               <a href="03011.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

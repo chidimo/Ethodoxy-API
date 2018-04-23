@@ -1,0 +1,650 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 35
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01035.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01035.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01034.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 35
+           </td>
+           <td class="next">
+            <a href="01036.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             35
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Jacob purgeth his family from idols: goeth by God's commandment to Bethel, and there buildeth an altar. God appearing again to Jacob blesseth him, and changeth his name into Israel. Rachel dieth in childbirth. Isaac also dieth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=1-#x">
+                [1]
+               </a>
+               In the meantime God said to Jacob: Arise, and go up to Bethel, and dwell there, and make there an altar to God, who appeared to thee when thou didst flee from Esau thy brother.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=2-#x">
+                [2]
+               </a>
+               And Jacob having called together all his household, said: Cast away the strange gods that are among you, and be cleansed and change your garments.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=3-#x">
+                [3]
+               </a>
+               Arise, and let us go up to Bethel, that we may make there an altar to God: who heard me in the day of my affliction, and accompanied me in my journey.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=4-#x">
+                [4]
+               </a>
+               So they gave him all the strange gods they had, and the earrings which were in their ears: and he buried them under the turpentine tree, that is behind the city of Sichem.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=5-#x">
+                [5]
+               </a>
+               And when they were departed, the terror of God fell upon all the cities round about, and they durst not pursue after them as they went away.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=6-#x">
+                [6]
+               </a>
+               And Jacob came to Luza, which is in the land of Chanaan, surnamed Bethel: he and all the people that were with him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=7-#x">
+                [7]
+               </a>
+               And he built there an altar, and called the name of that place, The house of God: for there God appeared to him when he fled from his brother.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=8-#x">
+                [8]
+               </a>
+               At the same time Debora the nurse of Rebecca died, and was buried at the foot of Bethel under an oak: and the name of that place was called, The oak of weeping.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=9-#x">
+                [9]
+               </a>
+               And God appeared again to Jacob, after he returned from Mesopotamia of Syria, and he blessed him,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=10-#x">
+                [10]
+               </a>
+               Saying: Thou shalt not be called any more Jacob, but
+               <u>
+                Israel
+               </u>
+               shall be thy name. And he called him Israel.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "Israel"
+               </u>
+               : This name signifieth one that prevaileth with God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=11-#x">
+                [11]
+               </a>
+               And said to him: I am God Almighty, increase thou and be multiplied. Nations and peoples of nations shall be from thee, and kings shall come out of thy loins.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=12-#x">
+                [12]
+               </a>
+               And the land which I gave to Abraham and Isaac, I will give to thee, and to thy seed after thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=13-#x">
+                [13]
+               </a>
+               And he departed from him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=14-#x">
+                [14]
+               </a>
+               But he set up a monument of stone, in the place where God had spoken to him: pouring drink offerings upon it, and pouring oil thereon:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=15-#x">
+                [15]
+               </a>
+               And calling the name of that place Bethel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=16-#x">
+                [16]
+               </a>
+               And going forth from thence, he came in the springtime to the land which leadeth to Ephrata: wherein when Rachel was in travail,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=17-#x">
+                [17]
+               </a>
+               By reason of her hard labour she began to be in danger, and the midwife said to her: Fear not, for thou shalt have this son also.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=18-#x">
+                [18]
+               </a>
+               And when her soul was departing for pain, and death was now at hand, she called the name of her son Benoni, that is, The son of my pain: but his father called him Benjamin, that is, The son of the right hand.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=19-#x">
+                [19]
+               </a>
+               So Rachel died, and was buried in the highway that leadeth to Ephrata, this is Bethlehem.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=20-#x">
+                [20]
+               </a>
+               And Jacob erected a pillar over her sepulchre: this is the pillar of Rachel's monument, to this day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=21-#x">
+                [21]
+               </a>
+               Departing thence, he pitched his tent beyond the Flock tower.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=22-#x">
+                [22]
+               </a>
+               And when he dwelt in that country, Ruben went, and slept with Bala,
+               <u>
+                the concubine
+               </u>
+               of his father: which he was not ignorant of. Now the sons of Jacob were twelve.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=23-#x">
+                [23]
+               </a>
+               The sons of Lia: Ruben the first born, and Simeon, and Levi, and Juda, and Issachar, and Zabulon.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=24-#x">
+                [24]
+               </a>
+               The sons of Rachel: Joseph and Benjamin.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=25-#x">
+                [25]
+               </a>
+               The sons of Bala, Rachel's handmaid: Dan and Nephtali.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "The concubine"
+               </u>
+               : She was his lawful wife; but, according to the style of the Hebrews, is called concubine, because of her servile extraction.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=26-#x">
+                [26]
+               </a>
+               The sons of Zelpha, Lia's handmaid: Gad and Aser: these are the sons of Jacob, that were born to him in Mesopotamia of Syria.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=27-#x">
+                [27]
+               </a>
+               And he came to Isaac his father in Mambre, the city of Arbee, this is Hebron: wherein Abraham and Isaac sojourned.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=28-#x">
+                [28]
+               </a>
+               And the days of Isaac were a hundred and eighty years.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=35&amp;l=29-#x">
+                [29]
+               </a>
+               And being spent with age he died, and was gathered to his people, being old and full of days: and his sons Esau and Jacob buried him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01034.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 35
+              </td>
+              <td class="next">
+               <a href="01036.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

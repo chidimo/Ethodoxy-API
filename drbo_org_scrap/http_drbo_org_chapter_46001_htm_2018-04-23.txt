@@ -1,0 +1,520 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Machabees Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/46001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/46001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="45001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Second Book Of Machabees
+         </td>
+         <td class="next">
+          <a href="47001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="46002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="46002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="46003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="46004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="46005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="46006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="46007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="46008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="46009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="46010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="46011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="46012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="46013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="46014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="46015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Letters of the Jews of Jerusalem to them that were in Egypt. They give thanks for their delivery from Antiochus: and exhort their brethren to keep the feast of the dedication of the altar, and of the miraculous fire.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             To the brethren the Jews that are throughout Egypt, the brethren, the Jews that are in Jerusalem, and in the land of Judea, send health, and good peace.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             May God be gracious to you, and remember his covenant that he made with Abraham, and Isaac, and Jacob, his faithful servants:
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And give you all a heart to worship him, and to do his will with a great heart, and a willing mind.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             May he open your heart in his law, and in his commandments, and send you peace.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             May he hear your prayers, and be reconciled unto you, and never forsake you in the evil time.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And now here we are praying for you.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             When Demetrius reigned, in the year one hundred and sixty-nine, we Jews wrote to you, in the trouble, and violence, that came upon us in those years, after Jason withdrew himself from the holy land, and from the kingdom.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             They burnt the gate, and shed innocent blood: then we prayed to the Lord, and were heard, and we offered sacrifices, and fine flour, and lighted the lamps, and set forth the loaves.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And now celebrate ye the days of
+             <u>
+              Scenopegia
+             </u>
+             in the month of Casleu.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             In the year one hundred and eighty-eight, the people that is at Jerusalem, and in Judea, and the senate, and Judas, to Aristobolus, the preceptor of king Ptolemee, who is of the stock of the anointed priests, and to the Jews that are in Egypt, health and welfare.
+            </p>
+            <p class="note">
+             [9]
+             <u>
+              "Scenopegia"
+             </u>
+             : Viz., the Encenia, or feast of the dedication of the altar, called here Scenopegia, or feast of tabernacles, from being celebrated with the like solemnity.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             Having been delivered by God out of great dangers, we give him great thanks, forasmuch as we have been in war with
+             <u>
+              such a king
+             </u>
+             .
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             For he made numbers of men swarm out of Persia that have fought against us, and the holy city.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             For when the leader himself was in Persia, and with him a very great army, he fell in the temple of
+             <u>
+              Nanea
+             </u>
+             , being deceived by the counsel of the priests of Nanea.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             For Antiochus, with his friends, came to the place as though he would marry her, and that he might receive great sums of money under the title of a dowry.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And when the priests of Nanea had set it forth, and he with a small company had entered into the compass of the temple, they shut the temple,
+            </p>
+            <p class="note">
+             [11]
+             <u>
+              "Such a king"
+             </u>
+             : Viz., Antiochus Sidetes, who began to make war upon the Jews, whilst Simon was yet alive. 1 Mac. 15. 39. And afterwards besieged Jerusalem under John Hircanus. So that the Judas here mentioned, ver. 10, is not Judas Machabeus, who was dead long before the year 188 of the kingdom of the Greeks, for he died in the year 146 of that epoch, (see above 1 Mac. chap. 2., ver. 70, also the note on chap. 1, ver. 2,) but either Judas the eldest son of John Hircanus, or Judas the Essene, renowned for the gift of prophecy, who flourished about that time.
+            </p>
+            <p class="note">
+             [13]
+             <u>
+              "Nanea"
+             </u>
+             : A Persian goddess, which some have taken for Diana, others for Venus.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             When Antiochus was come in: and opening a secret entrance of the temple, they cast stones and slew the leader, and them that were with him, and hewed them in pieces, and cutting off their heads they threw them forth.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             Blessed be God in all things, who hath delivered up the wicked.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             Therefore whereas we purpose to keep the purification of the temple on the five and twentieth day of the month of Casleu, we thought it necessary to signify it to you: that you also may keep the day of Scenopegia, and the day of the fire, that was given when Nehemias offered sacrifice, after the temple and the altar was built.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             For when our fathers were led into
+             <u>
+              Persia
+             </u>
+             , the priests that then were worshippers of God took privately the fire from the altar, and hid it in a valley where there was a deep pit without water, and there they kept it safe, so that the place was unknown to all men.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             But when many years had passed, and it pleased God that Nehemias should be sent by the king of Persia, he sent some of the posterity of those priests that had hid it, to seek for the fire: and as they told us, they found no fire, but thick water.
+            </p>
+            <p class="note">
+             [19]
+             <u>
+              "Persia"
+             </u>
+             : Babylonia, called here Persia, from being afterwards a part of the Persian empire.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             Then he bade them draw it up, and bring it to him: and the priest Nehemias commanded the sacrifices that were laid on, to be sprinkled with the same water, both the wood, and the things that were laid upon it.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             And when this was done, and the time came that the sun shone out, which before was in a cloud, there was a great fire kindled, so that all wondered.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             And all the priests made prayer, while the sacrifice was consuming, Jonathan beginning, and the rest answering.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             And the prayer of Nehemias was after this manner: O Lord God, Creator of all things, dreadful and strong, just and merciful, who alone art the good king,
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             Who alone art gracious, who alone art just, and almighty, and eternal, who deliverest Israel from all evil, who didst choose the fathers and didst sanctify them:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             Receive the sacrifice for all thy people Israel, and preserve thy own portion, and sanctify it.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             Gather together our scattered people, deliver them that are slaves to the Gentiles, and look upon them that are despised and abhorred: that the Gentiles may know that thou art our God.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=28-#x">
+              [28]
+             </a>
+             Punish them that oppress us, and that treat us injuriously with pride.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=29-#x">
+              [29]
+             </a>
+             Establish thy people in thy holy place, as Moses hath spoken.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=30-#x">
+              [30]
+             </a>
+             And the priests sung hymns till the sacrifice was consumed.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=31-#x">
+              [31]
+             </a>
+             And when the sacrifice was consumed, Nehemias commanded the water that was left to be poured out upon the great stones.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=32-#x">
+              [32]
+             </a>
+             Which being done, there was kindled a flame from them: but it was consumed by the light that shined from the altar.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=33-#x">
+              [33]
+             </a>
+             And when this matter became public, it was told to the king of Persia, that in the place where the priests that were led away, had hid the fire, there appeared water, with which Nehemias and they that were with him had purified the sacrifices.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=34-#x">
+              [34]
+             </a>
+             And the king considering, and diligently examining the matter, made
+             <u>
+              a temple
+             </u>
+             for it, that he might prove what had happened.
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=35-#x">
+              [35]
+             </a>
+             And when he had proved it, he gave the priests many goods, and divers presents, and he took and distributed them to them with his own hand.
+            </p>
+            <p class="note">
+             [34]
+             <u>
+              "A temple"
+             </u>
+             : That is, an enclosure, or a wall round about the place where the fire was hid, to separate it from profane uses, to the end that it might be respected as a holy place.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=46&amp;ch=1&amp;l=36-#x">
+              [36]
+             </a>
+             And Nehemias called this place Nephthar, which is interpreted purification. But many call it Nephi.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="45001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Second Book Of Machabees
+            </td>
+            <td class="next">
+             <a href="47001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="46002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,496 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/47002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/47002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Matthew
+           </td>
+           <td class="next">
+            <a href="48001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="47003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="47001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="47003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="47004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="47005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="47006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="47007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="47008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="47009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="47010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="47011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="47012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="47013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="47014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="47015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="47016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="47017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="47018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="47019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="47020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="47021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="47022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="47023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="47024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="47025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="47026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="47027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="47028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The offerings of the wise men: the flight into Egypt: the massacre of the Innocents.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               When Jesus therefore was born in Bethlehem of Juda, in the days of king Herod, behold, there came wise men from the east to Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               Saying, Where is he that is born king of the Jews? For we have seen his star in the east, and are come to adore him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And king Herod hearing this, was troubled, and all Jerusalem with him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And assembling together all the chief priests and the scribes of the people, he inquired of them where Christ should be born.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               But they said to him: In Bethlehem of Juda. For so it is written by the prophet:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               And thou Bethlehem the land of Juda art not the least among the princes of Juda: for out of thee shall come forth the captain that shall rule my people Israel.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               Then Herod, privately calling the wise men, learned diligently of them the time of the star which appeared to them;
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And sending them into Bethlehem, said: Go and diligently inquire after the child, and when you have found him, bring me word again, that I also may come to adore him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               Who having heard the king, went their way; and behold the star which they had seen in the east, went before them, until it came and stood over where the child was.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And seeing the star they rejoiced with exceeding great joy.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               And entering into the house, they found the child with Mary his mother, and falling down they adored him; and opening their treasures, they offered him gifts; gold, frankincense, and myrrh.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               And having received an answer in sleep that they should not return to Herod, they went back another way into their country.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               And after they were departed, behold an angel of the Lord appeared in sleep to Joseph, saying: Arise, and take the child and his mother, and fly into Egypt: and be there until I shall tell thee. For it will come to pass that Herod will seek the child to destroy him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               Who arose, and took the child and his mother by night, and retired into Egypt: and he was there until the death of Herod:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               That it might be fulfilled which the Lord spoke by the prophet, saying: Out of Egypt have I called my son.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               Then Herod perceiving that he was deluded by the wise men, was exceeding angry; and sending killed all the men children that were in Bethlehem, and in all the borders thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               Then was fulfilled that which was spoken by Jeremias the prophet, saying:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               A voice in Rama was heard, lamentation and great mourning; Rachel bewailing her children, and would not be comforted, because they are not.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               But when Herod was dead, behold an angel of the Lord appeared in sleep to Joseph in Egypt,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               Saying: Arise, and take the child and his mother, and go into the land of Israel. For they are dead that sought the life of the child.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               Who arose, and took the child and his mother, and came into the land of Israel.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               But hearing that Archelaus reigned in Judea in the room of Herod his father, he was afraid to go thither: and being warned in sleep retired into the quarters of Galilee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by prophets: That he shall be called a Nazarene.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Matthew
+              </td>
+              <td class="next">
+               <a href="48001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="47003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

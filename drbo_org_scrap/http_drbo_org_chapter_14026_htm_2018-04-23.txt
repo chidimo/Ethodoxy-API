@@ -1,0 +1,536 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Paralipomenon (2 Chronicles) Chapter 26
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/14026.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/14026.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            2 Paralipomenon (2 Chronicles)
+           </td>
+           <td class="next">
+            <a href="15001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14025.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 26
+           </td>
+           <td class="next">
+            <a href="14027.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="14001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="14002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="14003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="14004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="14005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="14006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="14007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="14008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="14009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="14010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="14011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="14012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="14013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="14014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="14015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="14016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="14017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="14018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="14019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="14020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="14021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="14022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="14023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="14024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="14025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             26
+            </td>
+            <td width="30">
+             <a href="14027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="14028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="14029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="14030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="14031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="14032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="14033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="14034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="14035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="14036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Ozias reigneth prosperously, till he invadeth the priests' office, upon which he is struck with a leprosy.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=1-#x">
+                [1]
+               </a>
+               And all the people of Juda took his son Ozias, who was sixteen years old, and made him king in the room of Amasias his father.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=2-#x">
+                [2]
+               </a>
+               He built Ailath, and restored it to the dominion of Juda, after that the king slept with his fathers.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=3-#x">
+                [3]
+               </a>
+               Ozias was sixteen years old when he began to reign, and he reigned two and fifty years in Jerusalem: the name of his mother was Jechelia of Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=4-#x">
+                [4]
+               </a>
+               And he did that which was right in the eyes of the Lord, according to all that Amasias his father had done.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=5-#x">
+                [5]
+               </a>
+               And he sought the Lord in the days of Zacharias that understood and saw God: and as long as he sought the Lord, he directed him in all things.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=6-#x">
+                [6]
+               </a>
+               Moreover he went forth and fought against the Philistines, and broke down the wall of Geth, and the wall of Jabnia, and the wall of Azotus: and he built towns in Azotus, and among the Philistines.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=7-#x">
+                [7]
+               </a>
+               And God helped him against the Philistines, and against the Arabians, that dwelt in Gurbaal, and against the Ammonites.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=8-#x">
+                [8]
+               </a>
+               And the ammonites gave gifts to Ozias: and his name was spread abroad even to the entrance of Egypt for his frequent victories.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=9-#x">
+                [9]
+               </a>
+               And Ozias built towers in Jerusalem over the gate of the corner, and over the gate of the valley, and the rest, in the same side of the wall, and fortified them.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=10-#x">
+                [10]
+               </a>
+               And he built towers in the wilderness, and dug many cisterns, for he had much cattle both in the plains, and in the waste of the desert: he had also vineyards and dressers of vines in the mountains, and in Carmel: for he was a man that loved husbandry.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=11-#x">
+                [11]
+               </a>
+               And the army of his fighting men, that went out to war, was under the hand of Jehiel the scribe, and Maasias the doctor, and under the hand of Henanias, who was one of the king's captains.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=12-#x">
+                [12]
+               </a>
+               And the whole number of the chiefs by the families of valiant men were two thousand six hundred.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=13-#x">
+                [13]
+               </a>
+               And the whole army under them three hundred and seven thousand five hundred: who were fit for war, and fought for the king against the enemy.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=14-#x">
+                [14]
+               </a>
+               And Ozias prepared for them, that is, for the whole army, shields, and spears, and helmets, and coats of mail, and bows, and slings to cast stones.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=15-#x">
+                [15]
+               </a>
+               And he made in Jerusalem engines of diverse kinds, which he placed in the towers, and in the corners of the walls, to shoot arrows, and great stones: and his name went forth far abroad, for the Lord helped him, and had strengthened him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=16-#x">
+                [16]
+               </a>
+               But when he was made strong, his heart was lifted up to his destruction, and he neglected the Lord his God: and going into the temple of the Lord, he had a mind to burn incense upon the altar of incense.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=17-#x">
+                [17]
+               </a>
+               And immediately Azarias the priest going in after him, and with him fourscore priests of the Lord, most valiant men,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=18-#x">
+                [18]
+               </a>
+               Withstood the king and said: It doth not belong to thee, Ozias, to burn incense to the Lord, but to the priests, that is, to the sons of Aaron, who are consecrated for this ministry: go out of the sanctuary, do not despise: for this thing shall not be accounted to thy glory by the Lord God.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=19-#x">
+                [19]
+               </a>
+               And Ozias was angry, and holding in his hand the censer to burn incense, threatened the priests. And presently there rose a leprosy in his forehead before the priests, in the house of the Lord at the altar of incense.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=20-#x">
+                [20]
+               </a>
+               And Azarias the high priest, and all the rest of the priests looked upon him, and saw the leprosy in his forehead, and they made haste to thrust him out. Yea himself also being frightened, hasted to go out, because he had quickly felt the stroke of the Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=21-#x">
+                [21]
+               </a>
+               And Ozias the king was a leper unto the day of his death, and he dwelt in a house apart being full of the leprosy, for which he had been cast out of the house of the Lord. And Joatham his son governed the king's house, and judged the people of the land.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=22-#x">
+                [22]
+               </a>
+               But the rest of the acts of Ozias first and last were written by Isaias the son of Amos, the prophet.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=26&amp;l=23-#x">
+                [23]
+               </a>
+               And Ozias slept with his fathers, and they buried him in the field of the royal sepulchres, because he was a leper: and Joatham his son reigned in his stead.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               2 Paralipomenon (2 Chronicles)
+              </td>
+              <td class="next">
+               <a href="15001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14025.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 26
+              </td>
+              <td class="next">
+               <a href="14027.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

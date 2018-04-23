@@ -1,0 +1,633 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Luke Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/49011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/49011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Luke
+           </td>
+           <td class="next">
+            <a href="50001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="49012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="49001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="49002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="49003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="49004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="49005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="49006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="49007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="49008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="49009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="49010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="49012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="49013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="49014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="49015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="49016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="49017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="49018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="49019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="49020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="49021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="49022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="49023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="49024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ teaches his disciples to pray. He casts out a dumb devil, confutes the Pharisees, and pronounces woes against them for their hypocrisy.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               And it came to pass, that as he was in a certain place praying, when he ceased, one of his disciples said to him: Lord, teach us to pray, as John also taught his disciples.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               And he said to them: When you pray, say: Father, hallowed be thy name. Thy kingdom come.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               Give us this day our daily bread.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               And forgive us our sins, for we also forgive every one that is indebted to us. And lead us not into temptation.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               And he said to them: Which of you shall have a friend, and shall go to him at midnight, and shall say to him: Friend, lend me three loaves,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               Because a friend of mine is come off his journey to me, and I have not what to set before him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               And he from within should answer, and say: Trouble me not, the door is now shut, and my children are with me in bed; I cannot rise and give thee.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               Yet if he shall continue knocking, I say to you, although he will not rise and give him, because he is his friend; yet, because of his importunity, he will rise, and give him as many as he needeth.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               And I say to you, Ask, and it shall be given you: seek, and you shall find: knock, and it shall be opened to you.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               For every one that asketh, receiveth; and he that seeketh, findeth; and to him that knocketh, it shall be opened.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=11-#x">
+                [11]
+               </a>
+               And which of you, if he ask his father bread, will he give him a stone? or a fish, will he for a fish give him a serpent?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=12-#x">
+                [12]
+               </a>
+               Or if he shall ask an egg, will he reach him a scorpion?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=13-#x">
+                [13]
+               </a>
+               If you then, being evil, know how to give good gifts to your children, how much more will your Father from heaven give the good Spirit to them that ask him?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=14-#x">
+                [14]
+               </a>
+               And he was casting out a devil, and the same was dumb: and when he had cast out the devil, the dumb spoke: and the multitudes were in admiration at it:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=15-#x">
+                [15]
+               </a>
+               But some of them said: He casteth out devils by Beelzebub, the prince of devils.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=16-#x">
+                [16]
+               </a>
+               And others tempting, asked of him a sign from heaven.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=17-#x">
+                [17]
+               </a>
+               But he seeing their thoughts, said to them: Every kingdom divided against itself, shall be brought to desolation, and house upon house shall fall.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=18-#x">
+                [18]
+               </a>
+               And if Satan also be divided against himself, how shall his kingdom stand? because you say, that through Beelzebub I cast out devils.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=19-#x">
+                [19]
+               </a>
+               Now if I cast out devils by Beelzebub; by whom do your children cast them out? Therefore they shall be your judges.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=20-#x">
+                [20]
+               </a>
+               But if I by the finger of God cast out devils; doubtless the kingdom of God is come upon you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=21-#x">
+                [21]
+               </a>
+               When a strong man armed keepeth his court, those things are in peace which he possesseth.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=22-#x">
+                [22]
+               </a>
+               But if a stronger than he come upon him, and overcome him; he will take away all his armour wherein he trusted, and will distribute his spoils.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=23-#x">
+                [23]
+               </a>
+               He that is not with me, is against me; and he that gathereth not with me, scattereth.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=24-#x">
+                [24]
+               </a>
+               When the unclean spirit is gone out of a man, he walketh through places without water, seeking rest; and not finding, he saith: I will return into my house whence I came out.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=25-#x">
+                [25]
+               </a>
+               And when he is come, he findeth it swept and garnished.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=26-#x">
+                [26]
+               </a>
+               Then he goeth and taketh with him seven other spirits more wicked than himself, and entering in they dwell there. And the last state of that man becomes worse than the first.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=27-#x">
+                [27]
+               </a>
+               And it came to pass, as he spoke these things, a certain woman from the crowd, lifting up her voice, said to him: Blessed is the womb that bore thee, and the paps that gave thee suck.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=28-#x">
+                [28]
+               </a>
+               But he said: Yea rather, blessed are they who hear the word of God, and keep it.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=29-#x">
+                [29]
+               </a>
+               And the multitudes running together, he began to say: This generation is a wicked generation: it asketh a sign, and a sign shall not be given it, but the sign of Jonas the prophet.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=30-#x">
+                [30]
+               </a>
+               For as Jonas was a sign to the Ninivites; so shall the Son of man also be to this generation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=31-#x">
+                [31]
+               </a>
+               The queen of the south shall rise in the judgment with the men of this generation, and shall condemn them: because she came from the ends of the earth to hear the wisdom of Solomon; and behold more than Solomon here.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=32-#x">
+                [32]
+               </a>
+               The men of Ninive shall rise in the judgment with this generation, and shall condemn it; because they did penance at the preaching of Jonas; and behold more than Jonas here.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=33-#x">
+                [33]
+               </a>
+               No man lighteth a candle, and putteth it in a hidden place, nor under a bushel; but upon a candlestick, that they that come in, may see the light.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=34-#x">
+                [34]
+               </a>
+               The light of thy body is thy eye. If thy eye be single, thy whole body will be lightsome: but if it be evil, thy body also will be darksome.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=35-#x">
+                [35]
+               </a>
+               Take heed therefore, that the light which is in thee, be not darkness.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=36-#x">
+                [36]
+               </a>
+               If then thy whole body be lightsome, having no part of darkness; the whole shall be lightsome; and as a bright lamp, shall enlighten thee.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=37-#x">
+                [37]
+               </a>
+               And as he was speaking, a certain Pharisee prayed him, that he would dine with him. And he going in, sat down to eat.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=38-#x">
+                [38]
+               </a>
+               And the Pharisee began to say, thinking within himself, why he was not washed before dinner.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=39-#x">
+                [39]
+               </a>
+               And the Lord said to him: Now you Pharisees make clean the outside of the cup and of the platter; but your inside is full of rapine and iniquity.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=40-#x">
+                [40]
+               </a>
+               Ye fools, did not he that made that which is without, make also that which is within?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=41-#x">
+                [41]
+               </a>
+               But yet that which remaineth, give alms; and behold, all things are clean unto you.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=42-#x">
+                [42]
+               </a>
+               But woe to you, Pharisees, because you tithe mint and rue and every herb; and pass over judgment, and the charity of God. Now these things you ought to have done, and not to leave the other undone.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=43-#x">
+                [43]
+               </a>
+               Woe to you, Pharisees, because you love the uppermost seats in the synagogues, and salutations in the marketplace.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=44-#x">
+                [44]
+               </a>
+               Woe to you, because you are as sepulchres that appear not, and men that walk over are not aware.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=45-#x">
+                [45]
+               </a>
+               And one of the lawyers answering, saith to him: Master, in saying these things, thou reproachest us also.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=46-#x">
+                [46]
+               </a>
+               But he said:
+               <u>
+                Woe to you lawyers
+               </u>
+               also, because you load men with burdens which they cannot bear, and you yourselves touch not the packs with one of your fingers.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=47-#x">
+                [47]
+               </a>
+               <u>
+                Woe to you who build
+               </u>
+               the monuments of the prophets: and your fathers killed them.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=48-#x">
+                [48]
+               </a>
+               Truly you bear witness that you consent to the doings of your fathers: for they indeed killed them, and you build their sepulchres.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=49-#x">
+                [49]
+               </a>
+               For this cause also the wisdom of God said: I will send to them prophets and apostles; and some of them they will kill and persecute.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=50-#x">
+                [50]
+               </a>
+               That the blood of all the prophets which was shed from the foundation of the world, may be required of this generation,
+              </p>
+              <p class="note">
+               [46]
+               <u>
+                "Woe to you lawyers"
+               </u>
+               : He speaks of the doctors of the law of Moses, commonly called the scribes.
+              </p>
+              <p class="note">
+               [47]
+               <u>
+                "Woe to you who build"
+               </u>
+               : Not that the building of the monuments of the prophets was in itself blameworthy, but only the intention of these unhappy men, who made use of this outward shew of religion and piety, as a means to carry on their wicked designs against the prince of prophets.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=51-#x">
+                [51]
+               </a>
+               From the blood of Abel unto the blood of Zacharias, who was slain between the altar and the temple: Yea I say to you, It shall be required of this generation.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=52-#x">
+                [52]
+               </a>
+               Woe to you lawyers, for you have taken away the key of knowledge: you yourselves have not entered in, and those that were entering in, you have hindered.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=53-#x">
+                [53]
+               </a>
+               And as he was saying these things to them, the Pharisees and the lawyers began violently to urge him, and to oppress his mouth about many things,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=11&amp;l=54-#x">
+                [54]
+               </a>
+               Lying in wait for him, and seeking to catch something from his mouth, that they might accuse him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Luke
+              </td>
+              <td class="next">
+               <a href="50001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="49012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

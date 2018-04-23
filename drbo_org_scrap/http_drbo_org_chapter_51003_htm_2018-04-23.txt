@@ -1,0 +1,510 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Acts Of Apostles Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/51003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/51003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            The Acts Of The Apostles
+           </td>
+           <td class="next">
+            <a href="52001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="51004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="51001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="51002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="51004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="51005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="51006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="51007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="51008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="51009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="51010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="51011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="51012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="51013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="51014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="51015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="51016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="51017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="51018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="51019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="51020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="51021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="51022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="51023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="51024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="51025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="51026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="51027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="51028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The miracle upon the lame man, followed by the conversion of many.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Now Peter and John went up into the temple at the ninth hour of prayer.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               And a certain man who was lame from his mother's womb, was carried: whom they laid every day at the gate of the temple, which is called Beautiful, that he might ask alms of them that went into the temple.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               He, when he had seen Peter and John about to go into the temple, asked to receive an alms.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               But Peter with John fastening his eyes upon him, said: Look upon us.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               But he looked earnestly upon them, hoping that he should receive something of them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               But Peter said: Silver and gold I have none; but what I have, I give thee: In the name of Jesus Christ of Nazareth, arise, and walk.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               And taking him by the right hand, he lifted him up, and forthwith his feet and soles received strength.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And he leaping up, stood, and walked, and went in with them into the temple, walking, and leaping, and praising God.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               And all the people saw him walking and praising God.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And they knew him, that it was he who sat begging alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened to him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               And as he held Peter and John, all the people ran to them to the porch which is called Solomon's, greatly wondering.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               But Peter seeing, made answer to the people: Ye men of Israel, why wonder you at this? or why look you upon us, as if by our strength or power we had made this man to walk?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               The God of Abraham, and the God of Isaac, and the God of Jacob, the God of our fathers, hath glorified his Son Jesus, whom you indeed delivered up and denied before the face of Pilate, when he judged he should be released.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               But you denied the Holy One and the Just, and desired a murderer to be granted unto you.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               But the author of life you killed, whom God hath raised from the dead, of which we are witnesses.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               And in the faith of his name, this man, whom you have seen and known, hath his name strengthened; and the faith which is by him, hath given this perfect soundness in the sight of you all.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               And now, brethren, I know that you did it through ignorance, as did also your rulers.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               But those things which God before had shewed by the mouth of all the prophets, that his Christ should suffer, he hath so fulfilled.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               Be penitent, therefore, and be converted, that your sins may be blotted out.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               That when the times of refreshment shall come from the presence of the Lord, and he shall send him who hath been preached unto you, Jesus Christ,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               Whom heaven indeed must receive, until the times of the restitution of all things, which God hath spoken by the mouth of his holy prophets, from the beginning of the world.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               For Moses said: A prophet shall the Lord your God raise up unto you of your brethren, like unto me: him you shall hear according to all things whatsoever he shall speak to you.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               And it shall be, that every soul which will not hear that prophet, shall be destroyed from among the people.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               And all the prophets, from Samuel and afterwards, who have spoken, have told of these days.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=25-#x">
+                [25]
+               </a>
+               You are the children of the prophets, and of the testament which God made to our fathers, saying to Abraham: And in thy seed shall all the kindreds of the earth be blessed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=3&amp;l=26-#x">
+                [26]
+               </a>
+               To you first God, raising up his Son, hath sent him to bless you; that every one may convert himself from his wickedness.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               The Acts Of The Apostles
+              </td>
+              <td class="next">
+               <a href="52001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="51004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

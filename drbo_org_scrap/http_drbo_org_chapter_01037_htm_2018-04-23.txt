@@ -1,0 +1,706 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 37
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01037.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01037.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01036.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 37
+           </td>
+           <td class="next">
+            <a href="01038.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             37
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Joseph's dreams: he is sold by his brethren, and carried into Egypt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=1-#x">
+                [1]
+               </a>
+               And Jacob dwelt in the land of Chanaan wherein his father sojourned.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=2-#x">
+                [2]
+               </a>
+               And these are his generations: Joseph, when he was sixteen years old, was feeding the flock with his brethren, being but a boy: and he was with the sons of Bala and of Zelpha his father's wives: and he accused his brethren to his father of a most wicked crime.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=3-#x">
+                [3]
+               </a>
+               Now Israel loved Joseph above all his sons, because he had him in his old age: and he made him a coat of divers colours.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=4-#x">
+                [4]
+               </a>
+               And his brethren seeing that he was loved by his father, more than all his sons, hated him, and could not speak peaceably to him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=5-#x">
+                [5]
+               </a>
+               Now it fell out also that he told his brethren
+               <u>
+                a dream
+               </u>
+               , that he had dreamed: which occasioned them to hate him the more.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "A dream"
+               </u>
+               : These dreams of Joseph were prophetical, and sent from God; as were also those which he interpreted, Gen. 40. and 41.; otherwise generally speaking, the observing of dreams is condemned in the Scripture, as superstitious and sinful. See Deut. 18. 10; Eccli. 34. 2, 3.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=6-#x">
+                [6]
+               </a>
+               And he said to them: Hear my dream which I dreamed.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=7-#x">
+                [7]
+               </a>
+               I thought we were binding sheaves in the field: and my sheaf arose as it were, and stood, and your sheaves standing about, bowed down before my sheaf.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=8-#x">
+                [8]
+               </a>
+               His brethren answered: Shalt thou be our king? or shall we be subject to thy dominion? Therefore this matter of his dreams and words ministered nourishment to their envy and hatred.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=9-#x">
+                [9]
+               </a>
+               He dreamed also another dream, which he told his brethren, saying: I saw in a dream, as it were the sun, and the moon, and eleven stars worshipping me.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=10-#x">
+                [10]
+               </a>
+               And when he had told this to his father and brethren, his father rebuked him, and said: What meaneth this dream that thou hast dreamed? shall I and thy mother, and thy brethren
+               <u>
+                worship
+               </u>
+               thee upon the earth?
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "Worship"
+               </u>
+               : This word is not used here to signify divine worship, but an inferior veneration, expressed by the bowing of the body, and that, according to the manner of the eastern nations, down to the ground.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=11-#x">
+                [11]
+               </a>
+               His brethren therefore envied him: but his father considered the thing with himself.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=12-#x">
+                [12]
+               </a>
+               And when his brethren abode in Sichem feeding their father's flocks,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=13-#x">
+                [13]
+               </a>
+               Israel said to him: Thy brethren feed the sheep in Sichem: come, I will send thee to them. And when he answered:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=14-#x">
+                [14]
+               </a>
+               I am ready: he said to him: Go, and see if all things be well with thy brethren, and the cattle: and bring me word again what is doing. So being sent from the vale of Hebron, he came to Sichem:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=15-#x">
+                [15]
+               </a>
+               And a man found him there wandering in the field, and asked what he sought.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=16-#x">
+                [16]
+               </a>
+               But he answered: I seek my brethren; tell me where they feed the flocks.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=17-#x">
+                [17]
+               </a>
+               And the man said to him: They are departed from this place: for I heard them say: Let us go to Dothain. And Joseph went forward after his brethren, and found them in Dothain.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=18-#x">
+                [18]
+               </a>
+               And when they saw him afar off, before he came nigh them, they thought to kill him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=19-#x">
+                [19]
+               </a>
+               And said one to another: Behold the dreamer cometh.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=20-#x">
+                [20]
+               </a>
+               Come, let us kill him, and cast him into some old pit: and we will say: Some evil beast hath devoured him: and then it shall appear what his dreams avail him:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=21-#x">
+                [21]
+               </a>
+               And Ruben hearing this, endeavoured to deliver him out of their hands, and said:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=22-#x">
+                [22]
+               </a>
+               Do not take away his life, nor shed his blood: but cast him into this pit, that is in the wilderness, and keep your hands harmless: now he said this, being desirous to deliver him out of their hands and to restore him to his father.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=23-#x">
+                [23]
+               </a>
+               And as soon as he came to his brethren, they forthwith stript him of his outside coat, that was of divers colours:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=24-#x">
+                [24]
+               </a>
+               And cast him into an old pit, where there was no water.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=25-#x">
+                [25]
+               </a>
+               And sitting down to eat bread, they saw some Ismaelites on their way coming from Galaad, with their camels, carrying spices, and balm, and myrrh to Egypt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=26-#x">
+                [26]
+               </a>
+               And Juda said to his brethren: What will it profit us to kill our brother, and conceal his blood?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=27-#x">
+                [27]
+               </a>
+               It is better that he be sold to the Ismaelites, and that our hands be not defiled: for he is our brother and our flesh. His brethren agreed to his words.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=28-#x">
+                [28]
+               </a>
+               And when the Madianite merchants passed by, they drew him out of the pit, and sold him to the Ismaelites, for twenty pieces of silver: and they led him into Egypt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=29-#x">
+                [29]
+               </a>
+               And Ruben, returning to the pit, found not the boy:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=30-#x">
+                [30]
+               </a>
+               And rending his garments he went to his brethren, and said: The boy doth not appear and whither shall I go?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=31-#x">
+                [31]
+               </a>
+               And they took his coat, and dipped it in the blood of a kid, which they had killed:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=32-#x">
+                [32]
+               </a>
+               Sending some to carry it to their father, and to say: This we have found: see whether it be thy son's coat, or not.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=33-#x">
+                [33]
+               </a>
+               And the father acknowledging it, said: It is my son's coat, an evil wild beast hath eaten him, a beast hath devoured Joseph.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=34-#x">
+                [34]
+               </a>
+               And tearing his garments, he put on sackcloth, mourning for his son a long time.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=35-#x">
+                [35]
+               </a>
+               And all his children being gathered together to comfort their father in his sorrow, he would not receive comfort, but said: I will go down to my son
+               <u>
+                into hell
+               </u>
+               , mourning. And whilst he continued weeping,
+              </p>
+              <p class="note">
+               [35]
+               <u>
+                "Into hell"
+               </u>
+               : That is, into limbo, the place where the souls of the just were received before the death of our Redeemer. For allowing that the word hell sometimes is taken for the grave, it cannot be so taken in this place; since Jacob did not believe his son to be in the grave, (whom he supposed to be devoured by a wild beast,) and therefore could not mean to go down to him thither: but certainly meant the place of rest where he believed his soul to be.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=37&amp;l=36-#x">
+                [36]
+               </a>
+               The Madianites sold Joseph in Egypt to Putiphar,
+               <u>
+                an eunuch
+               </u>
+               of Pharao, captain of the soldiers.
+              </p>
+              <p class="note">
+               [36]
+               <u>
+                "An eunuch"
+               </u>
+               : This word sometimes signifies a chamberlain, courtier, or officer of the king: and so it is taken in this place.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01036.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 37
+              </td>
+              <td class="next">
+               <a href="01038.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

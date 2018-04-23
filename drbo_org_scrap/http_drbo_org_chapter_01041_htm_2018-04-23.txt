@@ -1,0 +1,785 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 41
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01041.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01041.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01040.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 41
+           </td>
+           <td class="next">
+            <a href="01042.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             41
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Joseph interpreteth the two dreams of Pharao: he is made ruler over all Egypt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=1-#x">
+                [1]
+               </a>
+               After two years Pharao had a dream. He thought he stood by the river,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=2-#x">
+                [2]
+               </a>
+               Out of which came up seven kine, very beautiful and fat: and they fed in marshy places.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=3-#x">
+                [3]
+               </a>
+               Other seven also came up out of the river, ill favoured, and leanfleshed: and they fed on the very bank of the river, in green places:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=4-#x">
+                [4]
+               </a>
+               And they devoured them, whose bodies were very beautiful and well conditioned. So Pharao awoke.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=5-#x">
+                [5]
+               </a>
+               He slept again, and dreamed another dream: Seven ears of corn came up upon one stalk full and fair:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=6-#x">
+                [6]
+               </a>
+               Then seven other ears sprung up thin and blasted,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=7-#x">
+                [7]
+               </a>
+               And devoured all the beauty of the former. Pharao awaked after his rest:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=8-#x">
+                [8]
+               </a>
+               And when morning was come, being struck with fear, he sent to all the interpreters of Egypt, and to all the wise men: and they being called for, he told them his dream, and there was not any one that could interpret it.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=9-#x">
+                [9]
+               </a>
+               Then at length the chief butler remembering, said: I confess my sin:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=10-#x">
+                [10]
+               </a>
+               The king being angry with his servants, commanded me and the chief baker to be cast into the prison of the captain of the soldiers:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=11-#x">
+                [11]
+               </a>
+               Where in one night both of us dreamed a dream foreboding things to come.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=12-#x">
+                [12]
+               </a>
+               There was there a young man a Hebrew, servant to the same captain of the soldiers: to whom we told our dreams,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=13-#x">
+                [13]
+               </a>
+               And we heard what afterwards the event of the thing proved to be so. For I was restored to my office: and he was hanged upon a gibbet.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=14-#x">
+                [14]
+               </a>
+               Forthwith at the king's command, Joseph was brought out of the prison, and they shaved him, and changing his apparel, brought him in to him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=15-#x">
+                [15]
+               </a>
+               And he said to him: I have dreamed dreams, and there is no one that can expound them: Now I have heard that thou art very wise at interpreting them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=16-#x">
+                [16]
+               </a>
+               Joseph answered: Without me, God shall give Pharao a prosperous answer.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=17-#x">
+                [17]
+               </a>
+               So Pharao told what he had dreamed: Methought I stood upon the bank of the river,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=18-#x">
+                [18]
+               </a>
+               And seven kine came up out of the river exceeding beautiful and full of flesh: and they grazed on green places in a marshy pasture.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=19-#x">
+                [19]
+               </a>
+               And behold, there followed these, other seven kine, so very ill favoured and lean, that I never saw the like in the land of Egypt:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=20-#x">
+                [20]
+               </a>
+               And they devoured and consumed the former,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=21-#x">
+                [21]
+               </a>
+               And yet gave no mark of their being full: but were as lean and ill favoured as before. I awoke, and then fell asleep again,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=22-#x">
+                [22]
+               </a>
+               And dreamed a dream: Seven ears of corn grew upon one stalk, full and very fair.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=23-#x">
+                [23]
+               </a>
+               Other seven also thin and blasted, sprung of the stock:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=24-#x">
+                [24]
+               </a>
+               And they devoured the beauty of the former: I told this dream to the conjecturers, and there is no man that can expound it.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=25-#x">
+                [25]
+               </a>
+               Joseph answered: The king's dream is one: God hath shewn to Pharao what he is about to do.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=26-#x">
+                [26]
+               </a>
+               The seven beautiful kine, and the seven full ears, are seven years of plenty: and both contain the same meaning of the dream.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=27-#x">
+                [27]
+               </a>
+               And the seven lean and thin kine that came up after them, and the seven thin ears that were blasted with the burning wind, are seven years of famine to come:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=28-#x">
+                [28]
+               </a>
+               Which shall be fulfilled in this order:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=29-#x">
+                [29]
+               </a>
+               Behold, there shall come seven years of great plenty in the whole land of Egypt:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=30-#x">
+                [30]
+               </a>
+               After which shall follow other seven years of so great scarcity, that all the abundance before shall be forgotten: for the famine shall consume all the land,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=31-#x">
+                [31]
+               </a>
+               And the greatness of the scarcity shall destroy the greatness of the plenty.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=32-#x">
+                [32]
+               </a>
+               And for that thou didst see the second time a dream pertaining to the same thing: it is a token of the certainty, and that the word of God cometh to pass, and is fulfilled speedily.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=33-#x">
+                [33]
+               </a>
+               Now therefore let the king provide a wise and industrious man, and make him ruler over the land of Egypt:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=34-#x">
+                [34]
+               </a>
+               That he may appoint overseers over all the countries: and gather into barns the fifth part of the fruits, during the seven fruitful years,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=35-#x">
+                [35]
+               </a>
+               That shall now presently ensue: and let all the corn be laid up under Pharao's hands and be reserved in the cities.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=36-#x">
+                [36]
+               </a>
+               And let it be in readiness, against the famine of seven years to come, which shall oppress Egypt, and the land shall not be consumed with scarcity.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=37-#x">
+                [37]
+               </a>
+               The counsel pleased Pharao and all his servants.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=38-#x">
+                [38]
+               </a>
+               And he said to them: Can we find such another man, that is full of the spirit of God?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=39-#x">
+                [39]
+               </a>
+               He said therefore to Joseph: Seeing God hath shewn thee all that thou hast said, can I find one wiser and one like unto thee?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=40-#x">
+                [40]
+               </a>
+               Thou shalt be over my house, and at the commandment of thy mouth all the people shall obey: only in the kingly throne will I be above thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=41-#x">
+                [41]
+               </a>
+               And again Pharao said to Joseph: Behold, I have appointed thee over the whole land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=42-#x">
+                [42]
+               </a>
+               And he took his ring from his own hand, and gave it into his hand: and he put upon him a robe of silk, and put a chain of gold about his neck.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=43-#x">
+                [43]
+               </a>
+               And he made him go up into his second chariot, the crier proclaiming that all should bow their knee before him, and that they should know he was made governor over the whole land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=44-#x">
+                [44]
+               </a>
+               And the king said to Joseph: I am Pharao; without thy commandment no man shall move hand or foot in all the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=45-#x">
+                [45]
+               </a>
+               And he turned his name, and called him in the Egyptian tongue,
+               <u>
+                The saviour of the world
+               </u>
+               . And he gave him to wife Aseneth the daughter of Putiphare priest of Heliopolis. Then Joseph went out to the land of Egypt:
+              </p>
+              <p class="note">
+               [45]
+               <u>
+                "The saviour of the world"
+               </u>
+               : Zaphnah paaneah.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=46-#x">
+                [46]
+               </a>
+               (Now he was thirty years old when he stood before king Pharao) and he went round all the countries of Egypt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=47-#x">
+                [47]
+               </a>
+               And the fruitfulness of the seven years came: and the corn being bound up into sheaves was gathered together into the barns of Egypt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=48-#x">
+                [48]
+               </a>
+               And all the abundance of grain was laid up in every city.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=49-#x">
+                [49]
+               </a>
+               And there was so great abundance of wheat, that it was equal to the sand of the sea, and the plenty exceeded measure.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=50-#x">
+                [50]
+               </a>
+               And before the famine came, Joseph had two sons born: whom Aseneth the daughter of Putiphare priest of Heliopolis bore unto him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=51-#x">
+                [51]
+               </a>
+               And he called the name of the firstborn
+               <u>
+                Manasses
+               </u>
+               , saying: God hath made me to forget all my labours, and my father's house.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=52-#x">
+                [52]
+               </a>
+               And he named the second
+               <u>
+                Ephraim
+               </u>
+               , saying: God hath made me to grow in the land of my poverty.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=53-#x">
+                [53]
+               </a>
+               Now when the seven years of the plenty that had been in Egypt were past:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=54-#x">
+                [54]
+               </a>
+               The seven years of scarcity, which Joseph had foretold, began to come: and the famine prevailed in the whole world, but there was bread in all the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=55-#x">
+                [55]
+               </a>
+               And when there also they began to be famished, the people cried to Pharao for food. And he said to them: Go to Joseph: and do all that he shall say to you.
+              </p>
+              <p class="note">
+               [51]
+               <u>
+                "Manasses"
+               </u>
+               : That is, oblivion, or forgetting.
+              </p>
+              <p class="note">
+               [52]
+               <u>
+                "Ephraim"
+               </u>
+               : That is, fruitful, or growing.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=56-#x">
+                [56]
+               </a>
+               And the famine increased daily in all the land: and Joseph opened all the barns, and sold to the Egyptians: for the famine had oppressed them also.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=41&amp;l=57-#x">
+                [57]
+               </a>
+               And all provinces came into Egypt, to buy food, and to seek some relief of their want.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01040.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 41
+              </td>
+              <td class="next">
+               <a href="01042.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

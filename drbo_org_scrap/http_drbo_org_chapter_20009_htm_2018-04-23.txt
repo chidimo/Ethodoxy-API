@@ -1,0 +1,644 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Job Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/20009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/20009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Job
+           </td>
+           <td class="next">
+            <a href="21001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="20008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="20010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="20001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="20002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="20003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="20004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="20005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="20006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="20007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="20008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="20010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="20011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="20012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="20013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="20014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="20015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="20016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="20017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="20018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="20019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="20020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="20021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="20022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="20023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="20024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="20025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="20026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="20027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="20028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="20029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="20030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="20031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="20032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="20033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="20034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="20035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="20036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="20037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="20038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="20039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="20040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="20041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="20042.htm">
+              42
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Job acknowledges God's justice: although He often afflicts the innocent.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And Job answered, and said:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               Indeed I know it is so, and that man cannot be justified compared with God.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               If he will contend with him, he cannot answer him one for a thousand.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               He is wise in heart, and mighty in strength: who hath resisted him, and hath had peace?
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               Who hath removed mountains, and they whom he overthrew in his wrath, knew it not.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               Who shaketh the earth out of her place, and the pillars thereof tremble.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               Who commandeth the sun and it riseth not: and shutteth up the stars as it were under a seal:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               Who alone spreadeth out the heavens, and walketh upon the waves of the sea.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               Who maketh
+               <u>
+                Arcturus
+               </u>
+               , and Orion, and Hyades, and the inner parts of the south.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               Who doth things great and incomprehensible, and wonderful, of which there is no number.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "Arcturus"
+               </u>
+               : These are names of stars or constellations. In Hebrew, Ash, Cesil, and Cimah. See note chap. 38, ver. 31.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               If he come to me, I shall not see him: if he depart I shall not understand.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               If he examine on a sudden, who shall answer him? or who can say: Why dost thou so?
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               God, whose wrath no man can resist, and under whom they stoop that bear up the world.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               What am I then, that I should answer him, and have words with him?
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               I, who although I should have any just thing, would not answer, but would make supplication to my judge.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               And if he should hear me when I call, I should not believe that he had heard my voice.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               For he shall crush me in a whirlwind, and multiply my wounds even
+               <u>
+                without cause
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               He alloweth not my spirit to rest, and he filleth me with bitterness.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               If strength be demanded, he is most strong: if equity of judgment, no man dare bear witness for me.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               If I would justify myself, my own mouth shall condemn me: if I would shew myself innocent, he shall prove me wicked.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "Without cause"
+               </u>
+               : That is, without my knowing the cause: or without any crime of mine.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               Although I should be simple, even this my soul shall be ignorant of, and I shall be weary of my life.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               One thing there is that I have spoken, both the innocent and the wicked he consumeth.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               If he scourge, let him kill at once, and not laugh at the pains of the innocent.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               The earth is given into the hand of the wicked, he covereth the face of the judges thereof: and if it be not he, who is it then?
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               My days have been swifter than a post: they have fled away and have not seen good.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               They have passed by as ships carrying fruits, as an eagle flying to the prey.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               If I say: I will not speak so: I change my face, and am tormented with sorrow.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               I feared all my works, knowing that thou didst not spare the offender.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               But if so also I am wicked, why have I laboured in vain?
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               If I be washed as it were with snow waters, and my hands shall shine ever so clean:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               Yet thou shalt plunge me in filth, and my garments shall abhor me,
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=32-#x">
+                [32]
+               </a>
+               For I shall not answer a man that is like myself: nor one that may be heard with me equally in judgment.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=33-#x">
+                [33]
+               </a>
+               There is none that may be able to reprove both, and to put his hand between both.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=34-#x">
+                [34]
+               </a>
+               Let him take his rod away from me, and let not his fear terrify me.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=9&amp;l=35-#x">
+                [35]
+               </a>
+               I will speak, and will not fear him: for I cannot answer while I am in fear.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Job
+              </td>
+              <td class="next">
+               <a href="21001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="20008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="20010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

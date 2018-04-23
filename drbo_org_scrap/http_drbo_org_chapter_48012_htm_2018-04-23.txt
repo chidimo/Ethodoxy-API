@@ -1,0 +1,534 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Mark Chapter 12
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/48012.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/48012.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Mark
+           </td>
+           <td class="next">
+            <a href="49001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48011.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 12
+           </td>
+           <td class="next">
+            <a href="48013.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="48001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="48002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="48003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="48004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="48005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="48006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="48007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="48008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="48009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="48010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="48011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             12
+            </td>
+            <td width="30">
+             <a href="48013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="48014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="48015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="48016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The parable of the vineyard and husbandmen. Caesar's right to tribute. The Sadducees are confuted. The first commandment. The widow's mite.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=1-#x">
+                [1]
+               </a>
+               And he began to speak to them in parables: A certain man planted a vineyard and made a hedge about it, and dug a place for the winefat, and built a tower, and let it to husbandmen; and went into a far country.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=2-#x">
+                [2]
+               </a>
+               And at the season he sent to the husbandmen a servant to receive of the husbandmen of the fruit of the vineyard.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=3-#x">
+                [3]
+               </a>
+               Who having laid hands on him, beat him, and sent him away empty.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=4-#x">
+                [4]
+               </a>
+               And again he sent to them another servant; and him they wounded in the head, and used him reproachfully.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=5-#x">
+                [5]
+               </a>
+               And again he sent another, and him they killed: and many others, of whom some they beat, and others they killed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=6-#x">
+                [6]
+               </a>
+               Therefore having yet one son, most dear to him; he also sent him unto them last of all, saying: They will reverence my son.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=7-#x">
+                [7]
+               </a>
+               But the husbandmen said one to another: This is the heir; come let us kill him; and the inheritance shall be ours.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=8-#x">
+                [8]
+               </a>
+               And laying hold on him, they killed him, and cast him out of the vineyard.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=9-#x">
+                [9]
+               </a>
+               What therefore will the lord of the vineyard do? He will come and destroy those husbandmen; and will give the vineyard to others.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=10-#x">
+                [10]
+               </a>
+               And have you not read this scripture, The stone which the builders rejected, the same is made the head of the corner:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=11-#x">
+                [11]
+               </a>
+               By the Lord has this been done, and it is wonderful in our eyes.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=12-#x">
+                [12]
+               </a>
+               And they sought to lay hands on him, but they feared the people. For they knew that he spoke this parable to them. And leaving him, they went their way.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=13-#x">
+                [13]
+               </a>
+               And they sent to him some of the Pharisees and of the Herodians; that they should catch him in his words.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=14-#x">
+                [14]
+               </a>
+               Who coming, say to him: Master, we know that thou art a true speaker, and carest not for any man; for thou regardest not the person of men, but teachest the way of God in truth. Is it lawful to give tribute to Caesar; or shall we not give it?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=15-#x">
+                [15]
+               </a>
+               Who knowing their wiliness, saith to them: Why tempt you me? bring me a penny that I may see it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=16-#x">
+                [16]
+               </a>
+               And they brought it him. And he saith to them: Whose is this image and inscription? They say to him, Caesar's.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=17-#x">
+                [17]
+               </a>
+               And Jesus answering, said to them: Render therefore to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=18-#x">
+                [18]
+               </a>
+               And there came to him the Sadducees, who say there is no resurrection; and they asked him, saying:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=19-#x">
+                [19]
+               </a>
+               Master, Moses wrote unto us, that if any man's brother die, and leave his wife behind him, and leave no children, his brother should take his wife, and raise up seed to his brother.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=20-#x">
+                [20]
+               </a>
+               Now there were seven brethren; and the first took a wife, and died leaving no issue.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=21-#x">
+                [21]
+               </a>
+               And the second took her, and died: and neither did he leave any issue. And the third in like manner.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=22-#x">
+                [22]
+               </a>
+               And the seven all took her in like manner; and did not leave issue. Last of all the woman also died.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=23-#x">
+                [23]
+               </a>
+               In the resurrection therefore, when they shall rise again, whose wife shall she be of them? for the seven had her to wife.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=24-#x">
+                [24]
+               </a>
+               And Jesus answering, saith to them: Do ye not therefore err, because you know not the scriptures, nor the power of God?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=25-#x">
+                [25]
+               </a>
+               For when they shall rise again from the dead, they shall neither marry, nor be married, but are as the angels in heaven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=26-#x">
+                [26]
+               </a>
+               And as concerning the dead that they rise again, have you not read in the book of Moses, how in the bush God spoke to him, saying: I am the God of Abraham, and the God of Isaac, and the God of Jacob?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=27-#x">
+                [27]
+               </a>
+               He is not the God of the dead, but of the living. You therefore do greatly err.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=28-#x">
+                [28]
+               </a>
+               And there came one of the scribes that had heard them reasoning together, and seeing that he had answered them well, asked him which was the first commandment of all.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=29-#x">
+                [29]
+               </a>
+               And Jesus answered him: The first commandment of all is, Hear, O Israel: the Lord thy God is one God.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=30-#x">
+                [30]
+               </a>
+               And thou shalt love the Lord thy God, with thy whole heart, and with thy whole soul, and with thy whole mind, and with thy whole strength. This is the first commandment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=31-#x">
+                [31]
+               </a>
+               And the second is like to it: Thou shalt love thy neighbour as thyself. There is no other commandment greater than these.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=32-#x">
+                [32]
+               </a>
+               And the scribe said to him: Well, Master, thou hast said in truth, that there is one God, and there is no other besides him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=33-#x">
+                [33]
+               </a>
+               And that he should be loved with the whole heart, and with the whole understanding, and with the whole soul, and with the whole strength; and to love one's neighbour as one's self, is a greater thing than all holocausts and sacrifices.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=34-#x">
+                [34]
+               </a>
+               And Jesus seeing that he had answered wisely, said to him: Thou art not far from the kingdom of God. And no man after that durst ask him any question.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=35-#x">
+                [35]
+               </a>
+               And Jesus answering, said, teaching in the temple: How do the scribes say, that Christ is the son of David?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=36-#x">
+                [36]
+               </a>
+               For David himself saith by the Holy Ghost: The Lord said to my Lord, Sit on my right hand, until I make thy enemies thy footstool.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=37-#x">
+                [37]
+               </a>
+               David therefore himself calleth him Lord, and whence is he then his son? And a great multitude heard him gladly.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=38-#x">
+                [38]
+               </a>
+               And he said to them in his doctrine: Beware of the scribes, who love to walk in long robes, and to be saluted in the marketplace,
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=39-#x">
+                [39]
+               </a>
+               And to sit in the first chairs, in the synagogues, and to have the highest places at suppers:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=40-#x">
+                [40]
+               </a>
+               Who devour the houses of widows under the pretence of long prayer: these shall receive greater judgment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=41-#x">
+                [41]
+               </a>
+               And Jesus sitting over against the treasury, beheld how the people cast money into the treasury, and many that were rich cast in much.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=42-#x">
+                [42]
+               </a>
+               And there came a certain poor widow, and she cast in two mites, which make a farthing.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=43-#x">
+                [43]
+               </a>
+               And calling his disciples together, he saith to them: Amen I say to you, this poor widow hath cast in more than all they who have cast into the treasury.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=12&amp;l=44-#x">
+                [44]
+               </a>
+               For all they did cast in of their abundance; but she of her want cast in all she had, even her whole living.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Mark
+              </td>
+              <td class="next">
+               <a href="49001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48011.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 12
+              </td>
+              <td class="next">
+               <a href="48013.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

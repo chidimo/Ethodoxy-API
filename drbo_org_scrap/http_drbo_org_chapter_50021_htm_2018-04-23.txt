@@ -1,0 +1,476 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 21
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50021.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50021.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50020.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 21
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             21
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ manifests himself to his disciples by the sea side and gives Peter the charge of his sheep.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=1-#x">
+                [1]
+               </a>
+               After this, Jesus shewed himself again to the disciples at the sea of Tiberias. And he shewed himself after this manner.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=2-#x">
+                [2]
+               </a>
+               There were together Simon Peter, and Thomas, who is called Didymus, and Nathanael, who was of Cana of Galilee, and the sons of Zebedee, and two others of his disciples.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=3-#x">
+                [3]
+               </a>
+               Simon Peter saith to them: I go a fishing. They say to him: We also come with thee. And they went forth, and entered into the ship: and that night they caught nothing.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=4-#x">
+                [4]
+               </a>
+               But when the morning was come, Jesus stood on the shore: yet the disciples knew not that it was Jesus.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=5-#x">
+                [5]
+               </a>
+               Jesus therefore said to them: Children, have you any meat? They answered him: No.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=6-#x">
+                [6]
+               </a>
+               He saith to them: Cast the net on the right side of the ship, and you shall find. They cast therefore; and now they were not able to draw it, for the multitude of fishes.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=7-#x">
+                [7]
+               </a>
+               That disciple therefore whom Jesus loved, said to Peter: It is the Lord. Simon Peter, when he heard that it was the Lord, girt his coat about him, (for he was naked,) and cast himself into the sea.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=8-#x">
+                [8]
+               </a>
+               But the other disciples came in the ship, (for they were not far from the land, but as it were two hundred cubits,) dragging the net with fishes.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=9-#x">
+                [9]
+               </a>
+               As soon then as they came to land, they saw hot coals lying, and a fish laid thereon, and bread.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=10-#x">
+                [10]
+               </a>
+               Jesus saith to them: Bring hither of the fishes which you have now caught.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=11-#x">
+                [11]
+               </a>
+               Simon Peter went up, and drew the net to land, full of great fishes, one hundred and fifty-three. And although there were so many, the net was not broken.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=12-#x">
+                [12]
+               </a>
+               Jesus saith to them: Come, and dine. And none of them who were at meat, durst ask him: Who art thou? knowing that it was the Lord.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=13-#x">
+                [13]
+               </a>
+               And Jesus cometh and taketh bread, and giveth them, and fish in like manner.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=14-#x">
+                [14]
+               </a>
+               This is now the third time that Jesus was manifested to his disciples, after he was risen from the dead.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=15-#x">
+                [15]
+               </a>
+               When therefore they had dined, Jesus saith to Simon Peter: Simon son of John, lovest thou me more than these? He saith to him: Yea, Lord, thou knowest that I love thee. He saith to him: Feed my lambs.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=16-#x">
+                [16]
+               </a>
+               He saith to him again: Simon, son of John, lovest thou me? He saith to him: Yea, Lord, thou knowest that I love thee. He saith to him: Feed my lambs.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=17-#x">
+                [17]
+               </a>
+               He said to him the third time: Simon, son of John, lovest thou me? Peter was grieved, because he had said to him the third time: Lovest thou me? And he said to him: Lord, thou knowest all things: thou knowest that I love thee. He said to him:
+               <u>
+                Feed my sheep
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=18-#x">
+                [18]
+               </a>
+               Amen, amen I say to thee, when thou wast younger, thou didst gird thyself, and didst walk where thou wouldst. But when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and lead thee whither thou wouldst not.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=19-#x">
+                [19]
+               </a>
+               And this he said, signifying by what death he should glorify God. And when he had said this, he saith to him: Follow me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=20-#x">
+                [20]
+               </a>
+               Peter turning about, saw that disciple whom Jesus loved following, who also leaned on his breast at supper, and said: Lord, who is he that shall betray thee?
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "Feed my sheep"
+               </u>
+               : Our Lord had promised the spiritual supremacy to St. Peter; St. Matt. 16. 19; and here he fulfils that promise, by charging him with the superintendency of all his sheep, without exception; and consequently of his whole flock, that is, of his own church.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=21-#x">
+                [21]
+               </a>
+               Him therefore when Peter had seen, he saith to Jesus: Lord, and what shall this man do?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=22-#x">
+                [22]
+               </a>
+               Jesus saith to him: So I will have him to remain till I come, what is it to thee? follow thou me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=23-#x">
+                [23]
+               </a>
+               This saying therefore went abroad among the brethren, that that disciple should not die. And Jesus did not say to him: He should not die; but, So I will have him to remain till I come, what is it to thee?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=24-#x">
+                [24]
+               </a>
+               This is that disciple who giveth testimony of these things, and hath written these things; and we know that his testimony is true.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=21&amp;l=25-#x">
+                [25]
+               </a>
+               But there are also many other things which Jesus did; which, if they were written every one, the world itself, I think, would not be able to contain the books that should be written.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50020.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 21
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

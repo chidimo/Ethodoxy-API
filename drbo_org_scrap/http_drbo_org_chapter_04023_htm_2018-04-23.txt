@@ -1,0 +1,568 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 23
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04023.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04023.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04022.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 23
+           </td>
+           <td class="next">
+            <a href="04024.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             23
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Balaam, instead of cursing Israel, is obliged to bless them, and prophesy good things of them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=1-#x">
+                [1]
+               </a>
+               And Balaam said to Balac: Build me here seven altars, and prepare as many calves, and the same number of rams.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=2-#x">
+                [2]
+               </a>
+               And when he had done according to the word of Balaam, they laid together a calf and a ram upon every altar.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=3-#x">
+                [3]
+               </a>
+               And Balaam said to Balac: Stand a while by thy burnt offering, until I go, to see if perhaps the Lord will meet me, and whatsoever he shall command, I will speak to thee.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=4-#x">
+                [4]
+               </a>
+               And when he was gone with speed, God met him. And Balaam speaking to him, said: I have erected seven altars, and have laid on everyone a calf and a ram.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=5-#x">
+                [5]
+               </a>
+               And the Lord put the word in his mouth, and said: Return to Balac, and thus shalt thou speak.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=6-#x">
+                [6]
+               </a>
+               Returning he found Balac standing by his burnt offering, with all the princes of the Moabites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=7-#x">
+                [7]
+               </a>
+               And taking up his parable, he said: Balac king of the Moabites hath brought me from Aram, from the mountains of the east: Come, said he, and curse Jacob: make haste and detest Israel.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=8-#x">
+                [8]
+               </a>
+               How shall I curse him, whom God hath not cursed? By what means should I detest him, whom the Lord detesteth not?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=9-#x">
+                [9]
+               </a>
+               I shall see him from the tops of the rocks, and shall consider him from the hills. This people shall dwell alone, and shall not be reckoned among the nations.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=10-#x">
+                [10]
+               </a>
+               Who can count the dust of Jacob, and know the number of the stock of Israel? Let my soul die the death of the just, and my last end be like to them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=11-#x">
+                [11]
+               </a>
+               And Balac said to Balaam: What is this that thou dost? I sent for thee to curse my enemies: and thou contrariwise blessest them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=12-#x">
+                [12]
+               </a>
+               He answered him: Call I speak any thing else but what the Lord commandeth?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=13-#x">
+                [13]
+               </a>
+               Balac therefore said: Come with me to another place from whence thou mayest see part of Israel, and canst not see them all: curse them from thence.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=14-#x">
+                [14]
+               </a>
+               And when he had brought him to a high place, upon the top of mount Phasga, Balaam built seven altars, and laying on every one a calf and a ram,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=15-#x">
+                [15]
+               </a>
+               He said to Balac: Stand here by thy burnt offering while I go to meet him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=16-#x">
+                [16]
+               </a>
+               And when the Lord had met him, and had put the word in his mouth, he said: Return to Balac, and thus shalt thou say to him.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=17-#x">
+                [17]
+               </a>
+               Returning he found him standing by his burnt sacrifice, and the princes of the Moabites with him. And Balac said to him: What hath the Lord spoken?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=18-#x">
+                [18]
+               </a>
+               But he taking up his parable, said: Stand, O Balac, and give ear: hear, thou son of Sephor:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=19-#x">
+                [19]
+               </a>
+               God is not a man, that he should lie, nor as the son of man, that he should be changed. Hath he said then, and will he not do? hath he spoken, and will he not fulfill?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=20-#x">
+                [20]
+               </a>
+               I was brought to bless, the blessing I am not able to hinder.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=21-#x">
+                [21]
+               </a>
+               There is no idol in Jacob, neither is there an image god to be seen in Israel. The Lord his God is with him, and the sound of the victory of the king in him.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=22-#x">
+                [22]
+               </a>
+               God hath brought him out of Egypt, whose strength is like to the rhinoceros.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=23-#x">
+                [23]
+               </a>
+               There is no soothsaying in Jacob, nor divination in Israel. In their times it shall be told to Jacob and to Israel what God hath wrought.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=24-#x">
+                [24]
+               </a>
+               Behold the people shall rise up as a lioness, and shall lift itself up as a lion: it shall not lie down till it devour the prey, and drink the blood of the slain.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=25-#x">
+                [25]
+               </a>
+               And Balac said to Balaam: Neither curse, nor bless him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=26-#x">
+                [26]
+               </a>
+               And he said: Did I not tell thee, that whatsoever God should command me, that I would do?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=27-#x">
+                [27]
+               </a>
+               And Balac said to him: Come and I will bring thee to another place; if peradventure it please God that thou mayest curse them from thence.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=28-#x">
+                [28]
+               </a>
+               And when he had brought him upon the top of mount Phogor, which looketh towards the wilderness,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=29-#x">
+                [29]
+               </a>
+               Balaam said to him: Build me here seven altars, and prepare as many calves, and the same number of rams.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=23&amp;l=30-#x">
+                [30]
+               </a>
+               Balac did as Balaam had said: and he laid on every altar, a calf and a ram.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04022.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 23
+              </td>
+              <td class="next">
+               <a href="04024.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

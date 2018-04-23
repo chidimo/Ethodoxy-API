@@ -1,0 +1,616 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ezechiel (Ezeckiel) Chapter 10
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/31010.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/31010.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="30001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Ezechiel (Ezeckiel)
+           </td>
+           <td class="next">
+            <a href="32001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="31009.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 10
+           </td>
+           <td class="next">
+            <a href="31011.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="31001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="31002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="31003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="31004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="31005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="31006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="31007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="31008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="31009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             10
+            </td>
+            <td width="30">
+             <a href="31011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="31012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="31013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="31014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="31015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="31016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="31017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="31018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="31019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="31020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="31021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="31022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="31023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="31024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="31025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="31026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="31027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="31028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="31029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="31030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="31031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="31032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="31033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="31034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="31035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="31036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="31037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="31038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="31039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="31040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="31041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="31042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="31043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="31044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="31045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="31046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="31047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="31048.htm">
+              48
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Fire is taken from the midst of the wheels under the cherubims, and scattered over the city. A description of the cherubims.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=1-#x">
+                [1]
+               </a>
+               And I saw and behold in the firmament that was over the heads of the cherubims, there appeared over them as it were the sapphire stone, as the appearance of the likeness of a throne.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=2-#x">
+                [2]
+               </a>
+               And he spoke to the man, that was clothed with linen, and said: Go in between the wheels that are under the cherubims and fill thy hand with the coals of fire that are between the cherubims, and pour them out upon the city. And he went in, in my sight:
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=3-#x">
+                [3]
+               </a>
+               And the cherubims stood on the right side of the house, when the man went in, and a cloud filled the inner court.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=4-#x">
+                [4]
+               </a>
+               And the glory of the Lord was lifted up from above the cherub to the threshold of the house: and the house was filled with the cloud, and the court was filled with the brightness of the glory of the Lord.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=5-#x">
+                [5]
+               </a>
+               And the sound of the wings of the cherubims was heard even to the outward court as the voice of God Almighty speaking.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=6-#x">
+                [6]
+               </a>
+               And when he had commanded the man that was clothed with linen, saying: Take fire from the midst of the wheels that are between the cherubims: he went in and stood beside the wheel.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=7-#x">
+                [7]
+               </a>
+               And one cherub stretched out his arm from the midst of the cherubims to the fire that was between the cherubims: and he took, and put it into the hands of him that was clothed with linen: who took it and went forth.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=8-#x">
+                [8]
+               </a>
+               And there appeared in the cherubims the likeness of a man's hand under their wings.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=9-#x">
+                [9]
+               </a>
+               And I saw, and behold there were four wheels by the cherubims: one wheel by one cherub, and another wheel by another cherub: and the appearance of the wheels was to the sight like the chrysolite stone:
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=10-#x">
+                [10]
+               </a>
+               And as to their appearance, all four were alike: as if a wheel were in the midst of a wheel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=11-#x">
+                [11]
+               </a>
+               And when they went, they went
+               <u>
+                by four ways
+               </u>
+               : and they turned not when they went: but to the place whither they first turned, the rest also followed, and did not turn back.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=12-#x">
+                [12]
+               </a>
+               And their whole body, and their necks, and their hands, and their wings, and the circles were full of eyes, round about the four wheels.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=13-#x">
+                [13]
+               </a>
+               And these wheels he called
+               <u>
+                voluble
+               </u>
+               , in my hearing.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=14-#x">
+                [14]
+               </a>
+               And every one had four faces: one face was the face of a cherub, and the second face, the face of a man: and in the third was the face of a lion: and in the fourth the face of an eagle.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=15-#x">
+                [15]
+               </a>
+               And the cherubims were lifted up: this is the living creature that I had seen by the river Chobar.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "By four ways"
+               </u>
+               : That is, by any of the four ways, forward, backward, to the right or to the left.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "Voluble"
+               </u>
+               : That is, rolling wheels, galgal.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=16-#x">
+                [16]
+               </a>
+               And when the cherubims went, the wheels also went by them: and when the cherubims lifted up their wings, to mount up from the earth, the wheels stayed not behind, but were by them.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=17-#x">
+                [17]
+               </a>
+               When they stood, these stood: and when they were lifted up, these were lifted up: for the spirit of life was in them.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=18-#x">
+                [18]
+               </a>
+               And the glory of the Lord went forth from the threshold of the temple: and stood over the cherubims.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=19-#x">
+                [19]
+               </a>
+               And the cherubims lifting up their wings, were raised from the earth before me: and as they went out, the wheels also followed: and it stood in the entry of the east gate of the house of the Lord: and the glory of the God of Israel was over them.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=20-#x">
+                [20]
+               </a>
+               This is the living creature, which I saw under the God of Israel by the river Chobar: and I understood that they were cherubims.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=21-#x">
+                [21]
+               </a>
+               Each one had four faces, and each one had four wings: and the likeness of a man's hand was under their wings.
+               <a href="/x/d?b=drb&amp;bk=31&amp;ch=10&amp;l=22-#x">
+                [22]
+               </a>
+               And as to the likeness of their faces, they were the same faces which I had seen by the river Chobar, and their looks, and the impulse of every one to go straight forward.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="30001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Ezechiel (Ezeckiel)
+              </td>
+              <td class="next">
+               <a href="32001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="31009.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 10
+              </td>
+              <td class="next">
+               <a href="31011.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

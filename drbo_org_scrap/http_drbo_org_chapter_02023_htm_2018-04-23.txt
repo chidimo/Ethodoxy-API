@@ -1,0 +1,600 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 23
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02023.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02023.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02022.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 23
+           </td>
+           <td class="next">
+            <a href="02024.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             23
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Laws for judges; the rest of the seventh year, and day: three principal feasts to be solemnized every year; the promise of an angel, to conduct and protect them: idols are to be destroyed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=1-#x">
+                [1]
+               </a>
+               Thou shalt not receive the voice of a lie: neither shalt thou join thy hand to bear false witness for a wicked person.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=2-#x">
+                [2]
+               </a>
+               Thou shalt not follow the multitude to do evil: neither shalt thou yield in judgment, to the opinion of the most part, to stray from the truth.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=3-#x">
+                [3]
+               </a>
+               Neither shalt thou favour a poor man in judgment.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=4-#x">
+                [4]
+               </a>
+               If thou meet thy enemy's ox or ass going astray, bring it back to him.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=5-#x">
+                [5]
+               </a>
+               If thou see the ass of him that hateth thee lie underneath his burden, thou shalt not pass by, but shalt lift him up with him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=6-#x">
+                [6]
+               </a>
+               Thou shalt not go aside in the poor man's judgment.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=7-#x">
+                [7]
+               </a>
+               Thou shalt fly lying. The innocent and just person thou shalt not put to death: because I abhor the wicked.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=8-#x">
+                [8]
+               </a>
+               Neither shalt thou take bribes, which even blind the wise, and pervert the words of the just.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=9-#x">
+                [9]
+               </a>
+               Thou shalt not molest a stranger, for you know the hearts of strangers: for you also were strangers in the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=10-#x">
+                [10]
+               </a>
+               Six years thou shalt sow thy ground, and shalt gather the corn thereof.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=11-#x">
+                [11]
+               </a>
+               But the seventh year thou shalt let it alone, and suffer it to rest, that the poor of thy people may eat, and whatsoever shall be left, let the beasts of the field eat it: so shalt thou do with thy vineyard and thy oliveyard.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=12-#x">
+                [12]
+               </a>
+               Six days thou shalt work: the seventh day thou shalt cease, that thy ox and thy ass may rest: and the son of thy handmaid and the stranger may be refreshed.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=13-#x">
+                [13]
+               </a>
+               Keep all things that I have said to you. And by the name of strange gods you shall not swear, neither shall it be heard out of your mouth.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=14-#x">
+                [14]
+               </a>
+               Three times every year you shall celebrate feasts to me.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=15-#x">
+                [15]
+               </a>
+               Thou shalt keep the feast of unleavened bread. Seven days shalt thou eat unleavened bread, as I commanded thee, in the time of the month of new corn, when thou didst come forth out of Egypt: thou shalt not appear empty before me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=16-#x">
+                [16]
+               </a>
+               And the feast of the harvest of the firstfruits of thy work, whatsoever thou hast sown in the field. The feast also in the end of the year, when thou hast gathered in all thy corn out of the field.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=17-#x">
+                [17]
+               </a>
+               Thrice a year shall all thy males appear before the Lord thy God.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=18-#x">
+                [18]
+               </a>
+               Thou shalt not sacrifice the blood of my victim upon leaven, neither shall the fat of my solemnity remain until the morning.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=19-#x">
+                [19]
+               </a>
+               Thou shalt carry the firstfruits of the corn of thy ground to the house of the Lord thy God. Thou shalt not boil a kid in the milk of his dam.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=20-#x">
+                [20]
+               </a>
+               Behold I will send my angel, who shall go before thee, and keep thee in thy journey, and bring thee into the place that I have prepared.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=21-#x">
+                [21]
+               </a>
+               Take notice of him, and hear his voice, and do not think him one to be contemned: for he will not forgive when thou hast sinned, and my name is in him.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=22-#x">
+                [22]
+               </a>
+               But if thou wilt hear his voice, and do all that I speak, I will be an enemy to thy enemies, and will afflict them that afflict thee.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=23-#x">
+                [23]
+               </a>
+               And my angel shall go before thee, and shall bring thee in unto the Amorrhite, and the Hethite, and the Pherezite, and the Chanaanite, and the Hevite, and the Jebusite, whom I will destroy.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=24-#x">
+                [24]
+               </a>
+               Thou shalt not adore their gods, nor serve them. Thou shalt not do their works, but shalt destroy them, and break their statues.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=25-#x">
+                [25]
+               </a>
+               And you shall serve the Lord your God, that I may bless your bread and your waters, and may take away sickness from the midst of thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=26-#x">
+                [26]
+               </a>
+               There shall not be one fruitless nor barren in thy land: I will fill the number of thy days.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=27-#x">
+                [27]
+               </a>
+               I will send my fear before thee, and will destroy all the people to whom thou shalt come: and will turn the backs of all thy enemies before thee.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=28-#x">
+                [28]
+               </a>
+               Sending out hornets before, that shall drive away the Hevite, and the Chanaanite, and the Hethite, before thou come in.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=29-#x">
+                [29]
+               </a>
+               I will not cast them out from thy face in one year: lest the land be brought into a wilderness, and the beasts multiply against thee.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=30-#x">
+                [30]
+               </a>
+               By little and little I will drive them out from before thee, till thou be increased, and dost possess the land.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=31-#x">
+                [31]
+               </a>
+               And I will set thy bounds from the Red Sea to the sea of the Palestines, and from the desert to the river: I will deliver the inhabitants of the land into your hands, and will drive them out from before you.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=32-#x">
+                [32]
+               </a>
+               Thou shalt not enter into league with them, nor with their gods.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=23&amp;l=33-#x">
+                [33]
+               </a>
+               Let them not dwell in thy land, lest perhaps thy make thee sin against me, if thou serve their god: which undoubtedly will be a scandal to thee.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02022.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 23
+              </td>
+              <td class="next">
+               <a href="02024.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

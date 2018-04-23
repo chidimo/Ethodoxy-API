@@ -1,0 +1,376 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Baruch Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/30001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/30001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="29001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Baruch
+         </td>
+         <td class="next">
+          <a href="31001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="30002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="30002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="30003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="30004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="30005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="30006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The Jews of Babylon send the book of Baruch with money to Jerusalem, requesting their brethren there to offer sacrifice, and to pray for the king and for them, acknowledging their manifold sins.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Sedei, the son of Helcias, wrote in Babylonia.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             In the fifth year, in the seventh day of the month, at the time that the Chaldeans took Jerusalem, and burnt it with fire.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And Baruch read the words of this book in the hearing of Jechonias the son of Joakim king of Juda, and in the hearing of all the people that came to hear the book.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And in the hearing of the nobles, the sons of the kings, and in the hearing of the ancients, and in the hearing of the people, from the least even to the greatest of them that dwelt in Babylonia, by the river Sedi.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And when they heard it they wept, and fasted, and prayed before the Lord.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And they made a collection of money, according to every man's power.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And they sent it to Jerusalem to Joakim the priest, the son of Helcias, the son of Salom, and to the priests, and to all the people, that were found with him in Jerusalem:
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             At the time when he received the vessels of the temple of the Lord, which had been taken away out of the temple, to return them into the land of Juda the tenth day of the month Sivan, the silver vessels, which Sedecias the son of Josias king of Juda had made,
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             After that Nabuchodonosor the king of Babylon had carried away Jechonias, and the princes, and all the powerful men, and the people of the land from Jerusalem, and brought them bound to Babylon.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And they said: Behold we have sent you money, buy with it holocausts, and frankincense, and make meat offerings, and offerings for sin at the altar of the Lord our God:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And pray ye for the life of Nabuchodonosor the king of Babylon, and for the life of Balthasar his son, that their days may be upon earth as the days of heaven:
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And that the Lord may give us strength, and enlighten our eyes, that we may live under the shadow of Nabuchodonosor the king of Babylon, and under the shadow of Balthasar his son, and may serve them many days, and may find favour in their sight.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And pray ye for us to the Lord our God: for we have sinned against the Lord our God, and his wrath is not turned away from us even to this day.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And read ye this book, which we have sent to you to be read in the temple of the Lord, on feasts, and proper days.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And you shall say: To the Lord our God belongeth justice, but to us confusion of our face: as it is come to pass at this day to all Juda, and to the inhabitants of Jerusalem,
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             To our kings, and to our princes, and to our priests, and to our prophets, and to our fathers.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             We have sinned before the Lord our God, and have not believed him, nor put our trust in him:
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             And we were not obedient to him, and we have not hearkened to the voice of the Lord our God, to walk in his commandments, which he hath given us.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             From the day that he brought our fathers out of the land of Egypt, even to this day, we were disobedient to the Lord our God: and going astray we turned away from hearing his voice.
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             And many evils have cleaved to us, and the curses which the Lord foretold by Moses his servant: who brought our fathers out of the land of Egypt, to give us a land flowing with milk and honey, as at this day.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             And we have not hearkened to the voice of the Lord our God according to all the words of the prophets whom he sent to us:
+             <a href="/x/d?b=drb&amp;bk=30&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             And we have gone away every man after the inclinations of his own wicked heart, to serve strange gods, and to do evil in the sight of the Lord our God.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="29001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Prophecy Of Baruch
+            </td>
+            <td class="next">
+             <a href="31001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="30002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

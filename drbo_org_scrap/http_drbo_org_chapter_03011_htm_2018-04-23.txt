@@ -1,0 +1,640 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Leviticus Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/03011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/03011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Leviticus
+           </td>
+           <td class="next">
+            <a href="04001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="03012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="03001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="03002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="03003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="03004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="03005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="03006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="03007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="03008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="03009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="03010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="03012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="03013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="03014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="03015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="03016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="03017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="03018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="03019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="03020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="03021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="03022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="03023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="03024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="03025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="03026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="03027.htm">
+              27
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The distinction of clean and unclean animals.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke to Moses and Aaron, saying:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               Say to the children of Israel: These are the
+               <u>
+                animals which you are to eat
+               </u>
+               of all the living things of the earth.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               Whatsoever hath the
+               <u>
+                hoof divided, and cheweth the cud
+               </u>
+               among the beasts, you shall eat.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               But whatsoever cheweth indeed the cud, and hath a hoof, but divideth it not, as the camel, and others, that you shall not eat, but shall reckon it among the unclean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               <u>
+                The cherogrillus
+               </u>
+               which cheweth the cud, but divideth not the hoof, is unclean.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Animals which you are to eat"
+               </u>
+               : The prohibition of so many kinds of beasts, birds, and fishes, in the law, was ordered, 1 st, to exercise the people in obedience, and temperance; 2 ndly, to restrain them from the vices of which these animals were symbols; 3 rdly, because the things here forbidden were for the most part unwholesome, and not proper to be eaten; 4 thly, that the people of God, by being obliged to abstain from things corporally unclean, might be trained up to seek a spiritual cleanness.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Hoof divided, and cheweth the cud"
+               </u>
+               : The dividing of the hoof and chewing of the cud, signify discretion between good and evil, and meditating on the law of God; and where either of these is wanting a man is unclean. In like manner fishes were reputed unclean that had not fins and scales: that is, souls that did not raise themselves up by prayer and cover themselves with the scales of virtue.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "The cherogrillus"
+               </u>
+               : Some suppose it to be the rabbit, others the hedgehog. St. Jerome intimates that it is another kind of animal common in Palestine, which lives in the holes of rocks or in the earth. We choose here, as also in the names of several other creatures that follow (which are little known in this part of the world,) to keep the Greek or Latin names.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               The hare also: for that too cheweth the cud, but divideth not the hoof.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               And the swine, which, though it divideth the hoof, cheweth not the cud.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               The flesh of these you shall not eat, nor shall you touch their carcasses, because they are unclean to you.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               These are the things that breed in the waters, and which it is lawful to eat. All that hath fins, and scales, as well in the sea, as in the rivers, and the pools, you shall eat.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               But whatsoever hath not fins and scales, of those things that move and live in the waters, shall be an abomination to you,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=11-#x">
+                [11]
+               </a>
+               And detestable: their flesh you shall not eat, and their carcasses you shall avoid.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=12-#x">
+                [12]
+               </a>
+               All that have not fins and scales, in the waters, shall be unclean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=13-#x">
+                [13]
+               </a>
+               Of birds these are they which you must not eat, and which are to be avoided by you: The eagle, and
+               <u>
+                the griffon
+               </u>
+               , and the osprey,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=14-#x">
+                [14]
+               </a>
+               And the kite, and the vulture, according to their kind,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=15-#x">
+                [15]
+               </a>
+               And all that is of the raven kind, according to their likeness.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "The griffon"
+               </u>
+               : Not the monster which the painter represent, which hath no being upon earth; but a bird of the eagle kind, larger than the common.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=16-#x">
+                [16]
+               </a>
+               The ostrich, and the owl, and the larus, and the hawk according to its kind.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=17-#x">
+                [17]
+               </a>
+               The screech owl, and the cormorant, and the ibis,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=18-#x">
+                [18]
+               </a>
+               And the swan, and the bittern, and the porphyrion,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=19-#x">
+                [19]
+               </a>
+               The heron, and the charadrion according to its kind, the houp also, and the bat.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=20-#x">
+                [20]
+               </a>
+               Of things that fly, whatsoever goeth upon four feet, shall be abominable to you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=21-#x">
+                [21]
+               </a>
+               But whatsoever walketh upon four feet, but hath the legs behind longer, wherewith it hoppeth upon the earth,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=22-#x">
+                [22]
+               </a>
+               That you shall eat, as the bruchus in its kind, the attacus, and ophiomachus, and the locust, every one according to their kind.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=23-#x">
+                [23]
+               </a>
+               But of flying things whatsoever hath four feet only, shall be an abomination to you:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=24-#x">
+                [24]
+               </a>
+               And whosoever shall touch the carcasses of them, shall be defiled, and shall be unclean until the evening:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=25-#x">
+                [25]
+               </a>
+               And if it be necessary that he carry any of these things when they are dead, he shall wash his clothes, and shall be unclean until the sun set.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=26-#x">
+                [26]
+               </a>
+               Every beast that hath a hoof, but divideth it not, nor cheweth the cud, shall be unclean: and he that toucheth it, shall be defiled.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=27-#x">
+                [27]
+               </a>
+               That which walketh upon hands of all animals which go on all four, shall be unclean: he that shall touch their carcasses shall be defiled until evening.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=28-#x">
+                [28]
+               </a>
+               And he that shall carry such carcasses, shall wash his clothes, and shall be unclean until evening: because all these things are unclean to you.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=29-#x">
+                [29]
+               </a>
+               These also shall be reckoned among unclean things, of all that move upon the earth, the weasel, and the mouse, and the crocodile, every one according to their kind:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=30-#x">
+                [30]
+               </a>
+               The shrew, and the chameleon, and the stello, and the lizard, and the mole:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=31-#x">
+                [31]
+               </a>
+               All these are unclean. He that toucheth their carcasses shall be unclean until the evening.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=32-#x">
+                [32]
+               </a>
+               And upon what thing soever any of their carcasses shall fall, it shall be defiled, whether it be a vessel of wood, or a garment, or skins or haircloths; or any thing in which work is done, they shall be dipped in water, and shall be unclean until the evening, and so afterwards shall be clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=33-#x">
+                [33]
+               </a>
+               But an earthen vessel, into which any of these shall fall, shall be defiled, and therefore is to be broken.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=34-#x">
+                [34]
+               </a>
+               Any meat which you eat, if water from such a vessel be poured upon it, shall be unclean; and every liquor that is drunk out of any such vessel, shall be unclean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=35-#x">
+                [35]
+               </a>
+               And upon whatsoever thing any of these dead beasts shall fall, it shall be unclean: whether it be oven, or pots with feet, they shall be destroyed, and shall be unclean.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=36-#x">
+                [36]
+               </a>
+               But fountains and cisterns, and all gatherings together of waters shall be clean. He that toucheth their carcasses shall be defiled.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=37-#x">
+                [37]
+               </a>
+               If it fall upon seed corn, it shall not defile it.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=38-#x">
+                [38]
+               </a>
+               But if any man pour water upon the seed, and afterwards it be touched by the carcasses, it shall be forthwith defiled.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=39-#x">
+                [39]
+               </a>
+               If any beast die, of which it is lawful for you to eat, he that toucheth the carcass thereof, shall be unclean until the evening:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=40-#x">
+                [40]
+               </a>
+               And he that eateth or carrieth any thing thereof, shall wash his clothes, and shall be unclean until the evening.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=41-#x">
+                [41]
+               </a>
+               All that creepeth upon the earth shall be abominable, neither shall it be taken for meat.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=42-#x">
+                [42]
+               </a>
+               Whatsoever goeth upon the breast on four feet, or hath many feet, or traileth on the earth, you shall not eat, because it is abominable.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=43-#x">
+                [43]
+               </a>
+               Do not defile your souls, nor touch aught thereof, lest you be unclean,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=44-#x">
+                [44]
+               </a>
+               For I am the Lord your God: be holy because I am holy. Defile not your souls by any creeping thing, that moveth upon the earth.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=45-#x">
+                [45]
+               </a>
+               For I am the Lord, who brought you out of the land of Egypt, that I might be your God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=46-#x">
+                [46]
+               </a>
+               You shall be holy, because I am holy. This is the law of beasts and fowls, and of every living creature that moveth in the waters, and creepeth on the earth:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=11&amp;l=47-#x">
+                [47]
+               </a>
+               That you may know the differences of the clean, and unclean, and know what you ought to eat, and what to refuse.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Leviticus
+              </td>
+              <td class="next">
+               <a href="04001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="03012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

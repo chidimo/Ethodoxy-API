@@ -1,0 +1,505 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Wisdom Chapter 18
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/25018.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/25018.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="24001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Wisdom
+           </td>
+           <td class="next">
+            <a href="26001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="25017.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 18
+           </td>
+           <td class="next">
+            <a href="25019.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="25001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="25002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="25003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="25004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="25005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="25006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="25007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="25008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="25009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="25010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="25011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="25012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="25013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="25014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="25015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="25016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="25017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             18
+            </td>
+            <td width="30">
+             <a href="25019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The slaughter of the firstborn in Egypt: the efficacy of Aaron's intercession, in the sedition on occasion of Core.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=1-#x">
+                [1]
+               </a>
+               But thy saints had a very great light, and they heard their voice indeed, but did not see their shape. And because they also did not suffer the same things, they glorified thee:
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=2-#x">
+                [2]
+               </a>
+               And they that before had been wronged, gave thanks, because they were not hurt now: and asked this gift, that there might be a difference.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=3-#x">
+                [3]
+               </a>
+               Therefore they received a burning pillar of fire for a guide of the way which they knew not, and thou gavest them
+               <u>
+                a harmless sun
+               </u>
+               of a good entertainment.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=4-#x">
+                [4]
+               </a>
+               The others indeed were worthy to be deprived of light, and imprisoned in darkness, who kept thy children shut up, by whom the pure light of the law was to be given to the world.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=5-#x">
+                [5]
+               </a>
+               And whereas they thought to kill the babes of the just,
+               <u>
+                one child
+               </u>
+               being cast forth, and saved, to reprove them, thou tookest away a multitude of their children, and destroyedst them all together in a mighty water.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "A harmless sun"
+               </u>
+               : A light that should not hurt or molest them; but that should be an agreeable guest to them.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "One child"
+               </u>
+               : Viz., Moses.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=6-#x">
+                [6]
+               </a>
+               For that night was known before by our fathers, that assuredly knowing what oaths they had trusted to, they might be of better courage.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=7-#x">
+                [7]
+               </a>
+               So thy people received the salvation of the just, and destruction of the unjust.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=8-#x">
+                [8]
+               </a>
+               For as thou didst punish the adversaries: so thou didst also encourage and glorify us.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=9-#x">
+                [9]
+               </a>
+               For the just children
+               <u>
+                of good men
+               </u>
+               were offering sacrifice secretly, and they unanimously ordered a law of justice: that the just should receive both good and evil alike, singing now the praises of the fathers.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=10-#x">
+                [10]
+               </a>
+               But on the other side there sounded an ill according cry of the enemies, and a lamentable mourning was heard for the children that were bewailed.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "Of good men"
+               </u>
+               : Viz., of the patriarchs. Their children, the Israelites, offered in private the sacrifice of the paschal lamb; and were regulating what they were to do in their journey, when that last and most dreadful plague was coming upon their enemies.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=11-#x">
+                [11]
+               </a>
+               And the servant suffered the same punishment as the master, and a common man suffered in like manner as the king.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=12-#x">
+                [12]
+               </a>
+               So all alike had innumerable dead, with one kind of death. Neither were the living sufficient to bury them; for in one moment
+               <u>
+                the noblest offspring
+               </u>
+               of them was destroyed.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=13-#x">
+                [13]
+               </a>
+               For whereas they would not believe any thing before by reason of the enchantments, then first upon the destruction of the firstborn, they acknowledged the people to be of God.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=14-#x">
+                [14]
+               </a>
+               For while all things were in quiet silence, and the night was in the midst of her course,
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=15-#x">
+                [15]
+               </a>
+               Thy almighty word leapt down from heaven from thy royal throne, as a fierce conqueror into the midst of the land of destruction.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "The noblest offspring"
+               </u>
+               : That is, the firstborn.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=16-#x">
+                [16]
+               </a>
+               With a sharp sword carrying thy unfeigned commandment, and he stood and filled all things with death, and standing on the earth reached even to heaven.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=17-#x">
+                [17]
+               </a>
+               Then suddenly visions of evil dreams troubled them, and fears unlooked for came upon them.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=18-#x">
+                [18]
+               </a>
+               And one thrown here, another there, half dead, shewed the cause of his death.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=19-#x">
+                [19]
+               </a>
+               For the visions that troubled them foreshewed these things, lest they should perish and not know why they suffered these evils.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=20-#x">
+                [20]
+               </a>
+               But the just also were afterwards touched by an assault of death, and there was a disturbance of the multitude in the wilderness: but thy wrath did not long continue.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=21-#x">
+                [21]
+               </a>
+               For a blameless man made haste to pray for the people, bringing forth the shield of his ministry, prayer, and by incense making supplication, withstood the wrath, and put an end to the calamity, shewing that he was thy servant.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=22-#x">
+                [22]
+               </a>
+               And he overcame the disturbance, not by strength of body nor with force of arms, but with a word he subdued him that punished them, alleging the oaths and covenant made with the fathers.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=23-#x">
+                [23]
+               </a>
+               For when they were now fallen down dead by heaps one upon another, he stood between and stayed the assault, and cut off the way to the living.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=24-#x">
+                [24]
+               </a>
+               For in the priestly robe which he wore, was the whole world: and in the four rows of the stones the glory of the fathers was graven, and thy majesty was written upon the diadem of his head.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=18&amp;l=25-#x">
+                [25]
+               </a>
+               And to these the destroyer gave place, and was afraid of them: for the proof only of wrath was enough.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="24001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Wisdom
+              </td>
+              <td class="next">
+               <a href="26001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="25017.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 18
+              </td>
+              <td class="next">
+               <a href="25019.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,506 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Mark Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/48001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/48001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="47001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Gospel According to Saint Mark
+         </td>
+         <td class="next">
+          <a href="49001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="48002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="48002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="48003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="48004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="48005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="48006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="48007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="48008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="48009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="48010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="48011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="48012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="48013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="48014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="48015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="48016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The preaching of John the Baptist. Christ is baptized by him. He calls his disciples and works many miracles.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The beginning of the gospel of Jesus Christ, the Son of God.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             As it is written in Isaias the prophet: Behold I send my angel before thy face, who shall prepare the way before thee.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             A voice of one crying in the desert: Prepare ye the way of the Lord, make straight his paths.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             John was in the desert baptizing, and preaching the baptism of penance, unto remission of sins.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And there went out to him all the country of Judea, and all they of Jerusalem, and were baptized by him in the river of Jordan, confessing their sins.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And John was clothed with camel's hair, and a leathern girdle about his loins; and he ate locusts and wild honey.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And he preached, saying: There cometh after me one mightier than I, the latchet of whose shoes I am not worthy to stoop down and loose.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             I have baptized you with water; but he shall baptize you with the Holy Ghost.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And it came to pass, in those days, Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And forthwith coming up out of the water, he saw the heavens opened, and the Spirit as a dove descending, and remaining on him.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And there came a voice from heaven: Thou art my beloved Son; in thee I am well pleased.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And immediately the Spirit drove him out into the desert.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And he was in the desert forty days and forty nights, and was tempted by Satan; and he was with beasts, and the angels ministered to him.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And after that John was delivered up, Jesus came into Galilee, preaching the gospel of the kingdom of God,
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And saying: The time is accomplished, and the kingdom of God is at hand: repent, and believe the gospel.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             And passing by the sea of Galilee, he saw Simon and Andrew his brother, casting nets into the sea (for they were fishermen).
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             And Jesus said to them: Come after me, and I will make you to become fishers of men.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             And immediately leaving their nets, they followed him.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             And going on from thence a little farther, he saw James the son of Zebedee, and John his brother, who also were mending their nets in the ship:
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             And forthwith he called them. And leaving their father Zebedee in the ship with his hired men, they followed him.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             And they entered into Capharnaum, and forthwith upon the sabbath days going into the synagogue, he taught them.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             And they were astonished at his doctrine. For he was teaching them as one having power, and not as the scribes.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             And there was in their synagogue a man with an unclean spirit; and he cried out,
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             Saying: What have we to do with thee, Jesus of Nazareth? art thou come to destroy us? I know who thou art, the Holy One of God.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             And Jesus threatened him, saying: Speak no more, and go out of the man.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             And the unclean spirit tearing him, and crying out with a loud voice, went out of him.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             And they were all amazed, insomuch that they questioned among themselves, saying: What thing is this? what is this new doctrine? for with power he commandeth even the unclean spirits, and they obey him.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=28-#x">
+              [28]
+             </a>
+             And the fame of him was spread forthwith into all the country of Galilee.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=29-#x">
+              [29]
+             </a>
+             And immediately going out of the synagogue they came into the house of Simon and Andrew, with James and John.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=30-#x">
+              [30]
+             </a>
+             And Simon's wife's mother lay in a fit of a fever: and forthwith they tell him of her.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=31-#x">
+              [31]
+             </a>
+             And coming to her, he lifted her up, taking her by the hand; and immediately the fever left her, and she ministered unto them.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=32-#x">
+              [32]
+             </a>
+             And when it was evening, after sunset, they brought to him all that were ill and that were possessed with devils.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=33-#x">
+              [33]
+             </a>
+             And all the city was gathered together at the door.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=34-#x">
+              [34]
+             </a>
+             And he healed many that were troubled with divers diseases; and he cast out many devils, and he suffered them not to speak, because they knew him.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=35-#x">
+              [35]
+             </a>
+             And rising very early, going out, he went into a desert place: and there he prayed.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=36-#x">
+              [36]
+             </a>
+             And Simon, and they that were with him, followed after him.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=37-#x">
+              [37]
+             </a>
+             And when they had found him, they said to him: All seek for thee.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=38-#x">
+              [38]
+             </a>
+             And he saith to them: Let us go into the neighbouring towns and cities, that I may preach there also; for to this purpose am I come.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=39-#x">
+              [39]
+             </a>
+             And he was preaching in their synagogues, and in all Galilee, and casting out devils.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=40-#x">
+              [40]
+             </a>
+             And there came a leper to him, beseeching him, and kneeling down said to him: If thou wilt, thou canst make me clean.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=41-#x">
+              [41]
+             </a>
+             And Jesus having compassion on him, stretched forth his hand; and touching him, saith to him: I will. Be thou made clean.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=42-#x">
+              [42]
+             </a>
+             And when he had spoken, immediately the leprosy departed from him, and he was made clean.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=43-#x">
+              [43]
+             </a>
+             And he strictly charged him, and forthwith sent him away.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=44-#x">
+              [44]
+             </a>
+             And he saith to him: See thou tell no one; but go, shew thyself to the high priest, and offer for thy cleansing the things that Moses commanded, for a testimony to them.
+             <a href="/x/d?b=drb&amp;bk=48&amp;ch=1&amp;l=45-#x">
+              [45]
+             </a>
+             But he being gone out, began to publish and to blaze abroad the word: so that he could not openly go into the city, but was without in desert places: and they flocked to him from all sides.
+            </p>
+           </td>
+          </tr>
+         </table>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
+<center>
+ <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+  <tr>
+   <td class="prev">
+    &lt;
+    <a href="47001.htm">
+     previous
+    </a>
+   </td>
+   <td class="bookname">
+    Gospel According to Saint Mark
+   </td>
+   <td class="next">
+    <a href="49001.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+  <tr>
+   <td class="prev">
+    &lt; previous
+   </td>
+   <td class="chapname">
+    Chapter 1
+   </td>
+   <td class="next">
+    <a href="48002.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+ </table>
+</center>
+<td class="adcol" valign="top">
+ <script>
+  side_ads ("../")
+ </script>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+ <tr>
+  <td class="botcenter">
+  </td>
+ </tr>
+</table>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+ var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+ <div class="statcounter">
+  <a href="http://statcounter.com/" target="_blank" title="web stats">
+   <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+  </a>
+ </div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

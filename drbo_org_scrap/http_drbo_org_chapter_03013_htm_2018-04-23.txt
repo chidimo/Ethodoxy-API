@@ -1,0 +1,649 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Leviticus Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/03013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/03013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Leviticus
+           </td>
+           <td class="next">
+            <a href="04001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="03014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="03001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="03002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="03003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="03004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="03005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="03006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="03007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="03008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="03009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="03010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="03011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="03012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="03014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="03015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="03016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="03017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="03018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="03019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="03020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="03021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="03022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="03023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="03024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="03025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="03026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="03027.htm">
+              27
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The law concerning leprosy in men, and in garments.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke to Moses and Aaron, saying:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               The man in whose skin or flesh shalt arise a different colour or a blister, or as it were something shining, that is, the stroke of the leprosy, shall be brought to Aaron the priest, or any one of his sons.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               And if he see the leprosy in his skin, and the hair turned white, and the place where the leprosy appears lower than the skin and the rest of the flesh: it is the stroke of the leprosy, and upon his judgment he shall be separated.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               But if there be a shining whiteness in the skin, and not lower than the other flesh, and the hair be of the former colour, the priest shall shut him up seven days.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               And the seventh day he shall look on him: and if the leprosy be grown no farther, and hath not spread itself in the skin, he shall shut him up again other seven days.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               And on the seventh day, he shall look on him: if the leprosy be somewhat obscure, and not spread in the skin, he shall declare him clean, because it is but a scab: and the man shall wash his clothes, and shall be clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               But if the leprosy grow again, after he was seen by the priest and restored to cleanness, he shall be brought to him,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               And shall be condemned of uncleanness.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               If the stroke of the leprosy be in a man, he shall be brought to the priest,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               And he shall view him. And when there shall be a white colour in the skin, and it shall have changed the look of the hair, and the living flesh itself shall appear:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               It shall be judged an inveterate leprosy, and grown into the skin. The priest therefore shall declare him unclean, and shall not shut him up, because he is evidently unclean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               But if the leprosy spring out running about in the skin, and cover all the skin from the head to the feet, whatsoever falleth under the sight of the eyes,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               The priest shall view him, and shall judge that the leprosy which he has is very clean: because it is all turned into whiteness, and therefore the man shall be clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               But when the live flesh shall appear in him,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               Then by the judgment of the priest he shall be defiled, and shall be reckoned among the unclean: for live flesh, if it be spotted with leprosy, is unclean.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               And if again it be turned into whiteness, and cover all the man,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               The priest shall view him, and shall judge him to be clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               When also there has been an ulcer in the flesh and the skin, and it has been healed,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=19-#x">
+                [19]
+               </a>
+               And in the place of the ulcer, there appeareth a white scar, or somewhat red, the man shall be brought to the priest:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=20-#x">
+                [20]
+               </a>
+               And when he shall see the place of the leprosy lower than the other flesh, and the hair turned white, he shall declare him unclean, for the plague of leprosy is broken out in the ulcer.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=21-#x">
+                [21]
+               </a>
+               But if the hair be of the former colour, and the scar somewhat obscure, and be not lower than the flesh that is near it, he shall shut him up seven days.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=22-#x">
+                [22]
+               </a>
+               And if it spread, he shall judge him to have the leprosy:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=23-#x">
+                [23]
+               </a>
+               But if it stay in its place, it is but the scar of an ulcer, and the man shall be clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=24-#x">
+                [24]
+               </a>
+               The flesh also and skin that hath been burnt, and after it is healed hath a white or a red scar,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=25-#x">
+                [25]
+               </a>
+               The priest shall view it, and if he see it turned white, and the place thereof is lower than the other skin: he shall declare him unclean, because the evil of leprosy is broken out in the scar.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=26-#x">
+                [26]
+               </a>
+               But if the colour of the hair be not changed, nor the blemish lower than the other flesh, and the appearance of the leprosy be somewhat obscure, he shall shut him up seven days,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=27-#x">
+                [27]
+               </a>
+               And on the seventh day he shall view him: if the leprosy be grown farther in the skin, he shall declare him unclean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=28-#x">
+                [28]
+               </a>
+               But if the whiteness stay in its place, and be not very clear, it is the sore of a burning, and therefore he shall be cleansed, because it is only the scar of a burning.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=29-#x">
+                [29]
+               </a>
+               If the leprosy break out in the head or the beard of a man or woman, the Priest shall see them,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=30-#x">
+                [30]
+               </a>
+               And if the place be lower than the other flesh, and the hair yellow, and thinner than usual: he shall declare them unclean, because it is the leprosy of the head and the beard;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=31-#x">
+                [31]
+               </a>
+               But if he perceive the place of the spot is equal with the flesh that is near it, and the hair black: he shall shut him up seven days,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=32-#x">
+                [32]
+               </a>
+               And on the seventh day he shall look upon it. If the spot be not grown, and the hair keep its colour, and the place of the blemish be even with the other flesh:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=33-#x">
+                [33]
+               </a>
+               The man shall be shaven all but the place of the spot, and he shall be shut up other seven days:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=34-#x">
+                [34]
+               </a>
+               If on the seventh day the evil seem to have stayed in its place, and not lower than the other flesh, he shall cleanse him, and his clothes being washed he shall be clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=35-#x">
+                [35]
+               </a>
+               But if after his cleansing the spot spread again in the skin,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=36-#x">
+                [36]
+               </a>
+               He shall seek no more whether the hair be turned yellow, because he is evidently unclean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=37-#x">
+                [37]
+               </a>
+               But if the spot be stayed, and the hair be black, let him know that the man is healed, and let him confidently pronounce him clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=38-#x">
+                [38]
+               </a>
+               If a whiteness appear in the skin of a man or a woman,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=39-#x">
+                [39]
+               </a>
+               The priest shall view them. If he find that a darkish whiteness shineth in the skin, let him know that it is not the leprosy, but a white blemish, and that the man is clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=40-#x">
+                [40]
+               </a>
+               The man whose hair falleth off from his head, he is bald and clean:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=41-#x">
+                [41]
+               </a>
+               And if the hair fall from his forehead, he is bald before and clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=42-#x">
+                [42]
+               </a>
+               But if in the bald head or in the bald forehead there be risen a white or reddish colour,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=43-#x">
+                [43]
+               </a>
+               And the priest perceive this, he shall condemn him undoubtedly of leprosy which is risen in the bald part.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=44-#x">
+                [44]
+               </a>
+               Now whosoever shall be defiled with the leprosy, and is separated by the judgment of the priest,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=45-#x">
+                [45]
+               </a>
+               Shall have his clothes hanging loose, his head bare, his mouth covered with a cloth, and he shall cry out that he is defiled and unclean.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=46-#x">
+                [46]
+               </a>
+               All the time that he is a leper and unclean, he shall dwell alone without the camp.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=47-#x">
+                [47]
+               </a>
+               A woollen or linen garment that shall have the leprosy
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=48-#x">
+                [48]
+               </a>
+               In the warp, and the woof, or a skin. or whatsoever is made of a skin,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=49-#x">
+                [49]
+               </a>
+               If it be infected with a white or red spot, it shall be accounted the leprosy, and shall be shewn to the priest.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=50-#x">
+                [50]
+               </a>
+               And he shall look upon it and shall shut it up seven days:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=51-#x">
+                [51]
+               </a>
+               And on the seventh day when he looketh on it again, if he find that it if grown, it is a fixed leprosy: he shall judge the garment unclean, and every thing wherein it shall be found:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=52-#x">
+                [52]
+               </a>
+               And therefore it shall be burnt with fire.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=53-#x">
+                [53]
+               </a>
+               But if he see that it is not grown,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=54-#x">
+                [54]
+               </a>
+               He shall give orders, and they shall wash that part wherein the leprosy is, and he shall shut it up other seven days.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=55-#x">
+                [55]
+               </a>
+               And when he shall see that the former colour is not returned, nor yet the leprosy spread, he shall judge it unclean, and shall burn it with fire, for the leprosy has taken hold of the outside of the garment, or through the whole.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=56-#x">
+                [56]
+               </a>
+               But if the place of the leprosy be somewhat dark, after the garment is washed, he shall tear it off, and divide it from that which is sound.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=57-#x">
+                [57]
+               </a>
+               And if after this there appear in those places that before were without spot, a flying and wandering leprosy: it must be burnt with fire.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=58-#x">
+                [58]
+               </a>
+               If it cease, he shall wash with water the parts that are pure, the second time, and they shall be clean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=13&amp;l=59-#x">
+                [59]
+               </a>
+               This is the law touching the leprosy of any woollen or linen garment, either in the warp or woof, or any thing of skins, how it ought to be cleansed, or pronounced unclean.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Leviticus
+              </td>
+              <td class="next">
+               <a href="04001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="03014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

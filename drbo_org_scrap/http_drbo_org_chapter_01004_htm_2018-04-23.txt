@@ -1,0 +1,684 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="01005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The history of Cain and Abel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               And Adam knew Eve his wife: who conceived and brought forth Cain, saying: I have gotten a man through God.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               And again she brought forth his brother Abel. And Abel was a shepherd, and Cain a husbandman.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               And it came to pass after many days, that Cain offered, of the fruits of the earth, gifts to the Lord.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               Abel also offered of the firstlings of his flock, and of their fat: and the Lord
+               <u>
+                had respect
+               </u>
+               to Abel, and to his offerings.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               But to Cain and his offerings he had no respect: and Cain was exceedingly angry, and his countenance fell.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Had respect"
+               </u>
+               : That is, shewed his acceptance of his sacrifice (as coming from a heart full of devotion): and that, as we may suppose, by some visible token, such as sending fire from heaven upon his offerings.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And the Lord said to him: Why art thou angry? and why is thy countenance fallen?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               If thou do well, shalt thou not receive? but if ill, shall not sin forthwith be present at the door? but the lust thereof shall be under thee, and thou shalt have dominion over it.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               And Cain said to Abel his brother: Let us go forth abroad. And when they were in the field, Cain rose up against his brother Abel, and slew him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               And the Lord said to Cain: Where is thy brother Abel? And he answered, I know not: am I my brother's keeper?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               And he said to him: What hast thou done? the voice of thy brother's blood crieth to me from the earth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               Now, therefore, cursed shalt thou be upon the earth, which hath opened her mouth and received the blood of thy brother at thy hand.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               When thou shalt till it, it shall not yield to thee its fruit: a fugitive and a vagabond shalt thou be upon the earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               And Cain said to the Lord: My iniquity is greater than that I may deserve pardon.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               Behold thou dost cast me out this day from the face of the earth, and I shall be hidden from thy face, and I shall be a vagabond and a fugitive on the earth:
+               <u>
+                every one, therefore, that findeth me, shall kill me
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And the Lord said to him: No, it shall not be so: but whosoever shall kill Cain, shall be punished sevenfold. And the Lord
+               <u>
+                set a mark
+               </u>
+               upon Cain, that whosoever found him should not kill him.
+              </p>
+              <p class="note">
+               [14]
+               <u>
+                "Every one, therefore, that findeth me, shall kill me"
+               </u>
+               : His guilty conscience made him fear his own brothers and nephews; of whom, by this time, there might be a good number upon the earth; which had now endured near 130 years; as may be gathered from Gen. 5. 3, compared with chap. 4. 25, though in the compendious account given in the scriptures, only Cain and Abel are mentioned.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "Set a mark"
+               </u>
+               : The more common opinion of the interpreters of holy writ supposes this mark to have been a trembling of the body; or a horror and consternation in his countenance.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               And Cain went out from the face of the Lord, and dwelt as a fugitive on the earth, at the east side of Eden.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               And Cain knew
+               <u>
+                his wife
+               </u>
+               , and she conceived, and brought forth Henoch: and he built a city, and called the name thereof by the name of his son Henoch.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               And Henoch begot Irad, and Irad begot Maviael, and Maviael begot Mathusael, and Mathusael begot Lamech:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               Who took two wives: the name of the one was Ada, and the name of the other Sella.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               And Ada brought forth Jabel: who was the father of such as dwell in tents, and of herdsmen.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "His wife"
+               </u>
+               : She was a daughter of Adam, and Cain's own sister; God dispensing with such marriages in the beginning of the world, as mankind could not otherwise be propagated. He built a city, viz. In process of time, when his race was multiplied, so as to be numerous enough to people it. For in the many hundred years he lived, his race might be multiplied even to millions.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               And his brother's name was Jubal; he was the father of them that play upon the harp and the organs.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               Sella also brought forth Tubalcain, who was a hammerer and artificer in every work of brass and iron. And the sister of Tubalcain was Noema.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               And Lamech said to his wives Ada and Sella: Hear my voice, ye wives of Lamech, hearken to my speech: for
+               <u>
+                I have slain a man
+               </u>
+               to the wounding of myself, and a stripling to my own bruising.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               Sevenfold vengeance shall be taken for Cain: but for Lamech seventy times sevenfold.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               Adam also knew his wife again: and she brought forth a son, and called his name Seth, saying: God hath given me another seed, for Abel whom Cain slew.
+              </p>
+              <p class="note">
+               [23]
+               <u>
+                "I have slain a man"
+               </u>
+               : It is the tradition of the Hebrews, that Lamech in hunting slew Cain, mistaking him for a wild beast; and that having discovered what he had done, he beat so unmercifully the youth, by whom he was led into that mistake, that he died of the blows.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               But to Seth also was born a son, whom he called Enos; this man
+               <u>
+                began to call upon
+               </u>
+               the name of the Lord.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "Began to call upon"
+               </u>
+               : Not that Adam and Seth had not called upon God, before the birth of Enos; but that Enos used more solemnity in the worship and invocation of God.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="01005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

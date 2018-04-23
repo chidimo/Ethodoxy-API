@@ -1,0 +1,581 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 20
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02020.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02020.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02019.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 20
+           </td>
+           <td class="next">
+            <a href="02021.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             20
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The ten commandments.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke all these words:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=2-#x">
+                [2]
+               </a>
+               I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=3-#x">
+                [3]
+               </a>
+               Thou shalt not have strange gods before me.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=4-#x">
+                [4]
+               </a>
+               Thou shalt not make to thyself
+               <u>
+                a graven thing, nor the likeness of any thing
+               </u>
+               that is in heaven above, or in the earth beneath, nor of those things that are in the waters under the earth.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=5-#x">
+                [5]
+               </a>
+               Thou shalt not adore them, nor serve them: I am the Lord thy God, mighty, jealous, visiting the iniquity of the fathers upon the children, unto the third and fourth generation of them that hate me:
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "A graven thing, nor the likeness of any thing"
+               </u>
+               : All such images, or likenesses, are forbidden by this commandment, as are made to be adored and served; according to that which immediately follows, thou shalt not adore them, nor serve them. That is, all such as are designed for idols or image-gods, or are worshipped with divine honour. But otherwise images, pictures, or representations, even in the house of God, and in the very sanctuary so far from being forbidden, are expressly authorized by the word of God. See Ex. 25. 15, and etc.; chap. 38. 7; Num. 21. 8, 9; 1 Chron. or Paralip. 28. 18, 19; 2 Chron. or Paralip. 3. 10.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=6-#x">
+                [6]
+               </a>
+               And shewing mercy unto thousands to them that love me, and keep my commandments.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=7-#x">
+                [7]
+               </a>
+               Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that shall take the name of the Lord his God in vain.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=8-#x">
+                [8]
+               </a>
+               Remember that thou keep holy the sabbath day.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=9-#x">
+                [9]
+               </a>
+               Six days shalt thou labour, and shalt do all thy works.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=10-#x">
+                [10]
+               </a>
+               But on the seventh day is the sabbath of the Lord thy God: thou shalt do no work on it, thou nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thy beast, nor the stranger that is within thy gates.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=11-#x">
+                [11]
+               </a>
+               For in six days the Lord made heaven and earth, and the sea, and all things that are in them, and rested on the seventh day: therefore the Lord blessed the seventh day, and sanctified it.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=12-#x">
+                [12]
+               </a>
+               Honour thy father and thy mother, that thou mayest be longlived upon the land which the Lord thy God will give thee.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=13-#x">
+                [13]
+               </a>
+               Thou shalt not kill.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=14-#x">
+                [14]
+               </a>
+               Thou shalt not commit adultery.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=15-#x">
+                [15]
+               </a>
+               Thou shalt not steal.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=16-#x">
+                [16]
+               </a>
+               Thou shalt not bear false witness against thy neighbour.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=17-#x">
+                [17]
+               </a>
+               Thou shalt not covet thy neighbour's house: neither shalt thou desire his wife, nor his servant, nor his handmaid, nor his ox, nor his ass, nor any thing that is his.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=18-#x">
+                [18]
+               </a>
+               And all the people saw the voices and the flames, and the sound of the trumpet, and the mount smoking: and being terrified and struck with fear, they stood afar off,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=19-#x">
+                [19]
+               </a>
+               Saying to Moses: Speak thou to us, and we will hear: let not the Lord speak to us, lest we die.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=20-#x">
+                [20]
+               </a>
+               And Moses said to the people: Fear not: for God is come to prove you, and that the dread of him might be in you, and you should not sin.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=21-#x">
+                [21]
+               </a>
+               And the people stood afar off. But Moses went to the dark cloud wherein God was.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=22-#x">
+                [22]
+               </a>
+               And the Lord said to Moses: Thus shalt thou say to the children of Israel: You have seen that I have spoken to you from heaven.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=23-#x">
+                [23]
+               </a>
+               You shall not make gods of silver, nor shall you make to yourselves gods of gold.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=24-#x">
+                [24]
+               </a>
+               You shall make an altar of earth unto me, and you shall offer upon it your holocausts and peace offerings, your sheep and oxen, in every place where the memory of my name shall be: I will come to thee, and will bless thee.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=25-#x">
+                [25]
+               </a>
+               And if thou make an altar of stone unto me, thou shalt not build it of hewn stones: for if thou lift up a tool upon it, it shall be defiled.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=20&amp;l=26-#x">
+                [26]
+               </a>
+               Thou shalt not go up by steps unto my altar, lest thy nakedness be discovered.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02019.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 20
+              </td>
+              <td class="next">
+               <a href="02021.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

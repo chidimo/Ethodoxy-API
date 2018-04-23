@@ -1,0 +1,610 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 35
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02035.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02035.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02034.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 35
+           </td>
+           <td class="next">
+            <a href="02036.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             35
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The sabbath. Offerings for making the tabernacle. Beseleel and Ooliab are called to the work.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=1-#x">
+                [1]
+               </a>
+               And all the multitude of the children of Israel being gathered together, he said to them: These are the things which the Lord hath commanded to be done.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=2-#x">
+                [2]
+               </a>
+               Six days you shall do work: the seventh day shall be holy unto you, the sabbath, and the rest of the Lord: he that shall do any work on it, shall be put to death.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=3-#x">
+                [3]
+               </a>
+               You shall kindle no fire in any of your habitations on the sabbath day.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=4-#x">
+                [4]
+               </a>
+               And Moses said to all the assembly of the children of Israel: This is the word the Lord hath commanded, saying:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=5-#x">
+                [5]
+               </a>
+               Set aside with you firstfruits to the Lord. Let every one that is willing and hath a ready heart, offer them to the Lord: gold, and silver, and brass,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=6-#x">
+                [6]
+               </a>
+               Violet and purple, and scarlet twice dyed, and fine linen, goats' hair,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=7-#x">
+                [7]
+               </a>
+               And rams' skins dyed red, and violet coloured skins, setim wood,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=8-#x">
+                [8]
+               </a>
+               And oil to maintain lights, and to make ointment, and most sweet incense.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=9-#x">
+                [9]
+               </a>
+               Onyx stones, and precious stones, for the adorning of the ephod and the rational.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=10-#x">
+                [10]
+               </a>
+               Whosoever of you is wise, let him come, and make that which the Lord hath commanded:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=11-#x">
+                [11]
+               </a>
+               To wit, the tabernacle and the roof thereof, and the cover, the rings, and the board work with the oars, the pillars, and the sockets:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=12-#x">
+                [12]
+               </a>
+               The ark and the staves, the propitiatory, and the veil that is drawn before it:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=13-#x">
+                [13]
+               </a>
+               The table with the bars and the vessels, and the loaves of proposition:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=14-#x">
+                [14]
+               </a>
+               The candlestick to bear up the lights, the vessels thereof and the lamps, and the oil for the nourishing of fires:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=15-#x">
+                [15]
+               </a>
+               The altar of incense, and the bars, and the oil of unction and the incense of spices: the hanging at the door of the tabernacle:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=16-#x">
+                [16]
+               </a>
+               The altar of holocaust, and its grate of brass, with the bars and vessels thereof: the laver and its foot:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=17-#x">
+                [17]
+               </a>
+               The curtains of the court with the pillars and the sockets, the hanging in the doors of the entry,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=18-#x">
+                [18]
+               </a>
+               The pins of the tabernacle and of the court with their little cords:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=19-#x">
+                [19]
+               </a>
+               The vestments that are to be used in the ministry of the sanctuary, the vesture of Aaron the high priest, and of his sons, to do the office of priesthood to me.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=20-#x">
+                [20]
+               </a>
+               And all the multitude of the children of Israel going out from the presence of Moses,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=21-#x">
+                [21]
+               </a>
+               Offered firstfruits to the Lord with a most ready and devout mind, to make the work of the tabernacle of the testimony. Whatsoever was necessary to the service, and to the holy vestments,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=22-#x">
+                [22]
+               </a>
+               Both men and women gave bracelets and earrings, rings and tablets: every vessel of gold was set aside to be offered to the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=23-#x">
+                [23]
+               </a>
+               If any man had violet, and purple, and scarlet twice dyed, fine linen and goats' hair, rams' skins dyed red, and violet coloured skins,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=24-#x">
+                [24]
+               </a>
+               Metal of silver and brass, they offered it to the Lord, and setim wood for divers uses.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=25-#x">
+                [25]
+               </a>
+               The skillful women also gave such things as they had spun, violet, purple, and scarlet, and fine linen,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=26-#x">
+                [26]
+               </a>
+               And goats' hair, giving all of their own accord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=27-#x">
+                [27]
+               </a>
+               But the princes offered onyx stone, and precious stones, for the ephod and the rational,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=28-#x">
+                [28]
+               </a>
+               And spices and oil for the lights, and for the preparing of ointment, and to make the incense of most sweet savour.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=29-#x">
+                [29]
+               </a>
+               All both men and women with devout mind offered gifts, that the works might be done which the Lord had commanded by the hand of Moses. All the children of Israel dedicated voluntary offerings to the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=30-#x">
+                [30]
+               </a>
+               And Moses said to the children of Israel: Behold the Lord hath called by name Beseleel the son of Uri the son of Hur of the tribe of Juda.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=31-#x">
+                [31]
+               </a>
+               And hath filled him with the spirit of God, with wisdom and understanding and knowledge and all learning.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=32-#x">
+                [32]
+               </a>
+               To devise and to work in gold and silver and brass,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=33-#x">
+                [33]
+               </a>
+               And in engraving stones, and in carpenters' work. Whatsoever can be devised artificially,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=34-#x">
+                [34]
+               </a>
+               He hath given in his heart: Ooliab also the son of Achisamech of the tribe of Dan:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=35&amp;l=35-#x">
+                [35]
+               </a>
+               Both of them hath he instructed with wisdom, to do carpenters' work and tapestry, and embroidery in blue and purple, and scarlet twice dyed, and fine linen, and to weave all things, and to invent all new things.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02034.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 35
+              </td>
+              <td class="next">
+               <a href="02036.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

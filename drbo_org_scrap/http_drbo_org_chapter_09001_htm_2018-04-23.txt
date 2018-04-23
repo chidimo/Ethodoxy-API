@@ -1,0 +1,523 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Kings (1 Samuel) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/09001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/09001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="08001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          First Book Of Kings (1 Samuel)
+         </td>
+         <td class="next">
+          <a href="10001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="09002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="09002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="09003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="09004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="09005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="09006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="09007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="09008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="09009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="09010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="09011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="09012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="09013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="09014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="09015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="09016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="09017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="09018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="09019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="09020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="09021.htm">
+            21
+           </a>
+          </td>
+          <td width="30">
+           <a href="09022.htm">
+            22
+           </a>
+          </td>
+          <td width="30">
+           <a href="09023.htm">
+            23
+           </a>
+          </td>
+          <td width="30">
+           <a href="09024.htm">
+            24
+           </a>
+          </td>
+          <td width="30">
+           <a href="09025.htm">
+            25
+           </a>
+          </td>
+          <td width="30">
+           <a href="09026.htm">
+            26
+           </a>
+          </td>
+          <td width="30">
+           <a href="09027.htm">
+            27
+           </a>
+          </td>
+          <td width="30">
+           <a href="09028.htm">
+            28
+           </a>
+          </td>
+          <td width="30">
+           <a href="09029.htm">
+            29
+           </a>
+          </td>
+          <td width="30">
+           <a href="09030.htm">
+            30
+           </a>
+          </td>
+          <td width="30">
+           <a href="09031.htm">
+            31
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Anna the wife of Elcana being barren, by vow and prayer obtaineth a son: whom she calleth Samuel: and presenteth him to the service of God in Silo, according to her vow.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             There was a man of Ramathaimsophim, of mount Ephraim, and his name was Elcana, the son of Jeroham, the son of Eliu, the son of Thohu, the son of Suph,
+             <u>
+              an Ephraimite
+             </u>
+             :
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             And he had two wives, the name of one was Anna, and the name of the other Phenenna. Phenenna had children: but Anna had no children.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And this man went up out of his city upon the appointed days, to adore and to offer sacrifice to the Lord of hosts in Silo. And the two sons of Heli, Ophni and Phinees, were there priests of the Lord.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             Now the day came, and Elcana offered sacrifice, and gave to Phenenna his wife, and to all her sons and daughters, portions:
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             But to Anna he gave one portion with sorrow, because he loved Anna. And the Lord had shut up her womb.
+            </p>
+            <p class="note">
+             [1]
+             <u>
+              "An Ephraimite"
+             </u>
+             : He was of the tribe of Levi, 1. Par. 6. 34, but is called an Ephraimite from dwelling in mount Ephraim.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             Her rival also afflicted her, and troubled her exceedingly, insomuch that she upbraided her, that the Lord had shut up her womb:
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And thus she did every year, when the time returned that they went up to the temple of the Lord: and thus she provoked her: but Anna wept, and did not eat.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Then Elcana her husband said to her: Anna, why weepest thou? and why dost thou not eat? And why dost thou afflict thy heart? Am not I better to thee than ten children?
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             So Anna arose after she had eaten and drunk in Silo: And Heli the priest sitting upon a stool, before the door of the temple of the Lord:
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             As Anna had her heart full of grief, she prayed to the Lord, shedding many tears,
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And she made a vow, saying: O Lord, of hosts, if thou wilt look down on the affliction of thy servant, and wilt be mindful of me, and not forget thy handmaid, and wilt give to thy servant a man child: I will give him to the Lord all the days of his life, and no razor shall come upon his head.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And it came to pass, as she multiplied prayers before the Lord, that Heli observed her mouth.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Now Anna spoke in her heart, and only her lips moved, but her voice was not heard at all. Heli therefore thought her to be drunk,
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And said to her: How long wilt thou, be drunk? digest a little the wine, of which thou hast taken too much.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             Anna answering, said: Not so, my lord: for I am an exceeding unhappy woman, and have drunk neither wine nor any strong drink, but I have poured out my soul before the Lord.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             Count not thy handmaid for one of the daughters of Belial: for out of the abundance of my sorrow and grief have I spoken till now.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             Then Heli said to her: Go in peace: and the God of Israel grant thee thy petition, which thou hast asked of him.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             And she said: Would to God thy handmaid may find grace in thy eyes. So the woman went on her way, and ate, and her countenance was no more changed.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             And they rose in the morning, and worshipped before the Lord: and they returned, and came into their house at Ramatha. And Elcana knew Anna his wife: and the Lord remembered her.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             And it came to pass when the time was come about, Anna conceived and bore a son, and called his name
+             <u>
+              Samuel
+             </u>
+             : because she had asked him of the Lord.
+            </p>
+            <p class="note">
+             [20]
+             <u>
+              "Samuel"
+             </u>
+             : This name imports, asked of God.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             And Elcana her husband went up, and all his house, to offer to the Lord the solemn sacrifice, and his vow.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             But Anna went not up: for she said to her husband: I will not go till the child be weaned, and till I may carry him, that he may appear before the Lord, and may abide always there.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             And Elcana her husband said to her: Do what seemeth good to thee, and stay till thou wean him: and I pray that the Lord may fulfill his word. So the woman stayed at home, and gave her son suck, till she weaned him.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             And after she had weaned him, she carried him with her, with three calves, and three bushels of flour, and a bottle of wine, and she brought him to the house of the Lord in Silo. Now the child was as yet very young:
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             And they immolated a calf, and offered the child to Heli.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             And Anna said: I beseech thee, my lord, as thy soul liveth, my lord: I am that woman who stood before thee here praying to the Lord.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             For this child did I pray, and the Lord hath granted me my petition, which I asked of him.
+             <a href="/x/d?b=drb&amp;bk=9&amp;ch=1&amp;l=28-#x">
+              [28]
+             </a>
+             Therefore I also have lent him to the Lord all the days of his life, he shall be lent to the Lord. And they adored the Lord there. And Anna prayed, and said:
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="08001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             First Book Of Kings (1 Samuel)
+            </td>
+            <td class="next">
+             <a href="10001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="09002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

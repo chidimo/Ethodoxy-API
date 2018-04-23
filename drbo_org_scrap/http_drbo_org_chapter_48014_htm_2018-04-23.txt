@@ -1,0 +1,680 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Mark Chapter 14
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/48014.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/48014.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Mark
+           </td>
+           <td class="next">
+            <a href="49001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48013.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 14
+           </td>
+           <td class="next">
+            <a href="48015.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="48001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="48002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="48003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="48004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="48005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="48006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="48007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="48008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="48009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="48010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="48011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="48012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="48013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             14
+            </td>
+            <td width="30">
+             <a href="48015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="48016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The first part of the history of the passion of Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=1-#x">
+                [1]
+               </a>
+               Now the feast of the pasch, and of the
+               <u>
+                Azymes
+               </u>
+               was after two days; and the chief priests and the scribes sought how they might by some wile lay hold on him, and kill him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=2-#x">
+                [2]
+               </a>
+               But they said: Not on the festival day, lest there should be a tumult among the people.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=3-#x">
+                [3]
+               </a>
+               And when he was in Bethania, in the house of Simon the leper, and was at meat, there came a woman having an alabaster box of ointment of precious spikenard: and breaking the alabaster box, she poured it out upon his head.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=4-#x">
+                [4]
+               </a>
+               Now there were some that had indignation within themselves, and said: Why was this waste of the ointment made?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=5-#x">
+                [5]
+               </a>
+               For this ointment might have been sold for more than three hundred pence, and given to the poor. And they murmured against her.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Azymes"
+               </u>
+               : That is, the feast of the unleavened bread.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=6-#x">
+                [6]
+               </a>
+               But Jesus said: Let her alone, why do you molest her? She hath wrought a good work upon me.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=7-#x">
+                [7]
+               </a>
+               For the poor you have always with you: and whensoever you will, you may do them good: but me you have not always.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=8-#x">
+                [8]
+               </a>
+               She hath done what she could: she is come beforehand to anoint my body for burial.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=9-#x">
+                [9]
+               </a>
+               Amen, I say to you, wheresoever this gospel shall be preached in the whole world, that also which she hath done, shall be told for a memorial of her.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=10-#x">
+                [10]
+               </a>
+               And Judas Iscariot, one of the twelve, went to the chief priests, to betray him to them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=11-#x">
+                [11]
+               </a>
+               Who hearing it were glad; and they promised him they would give him money. And he sought how he might conveniently betray him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=12-#x">
+                [12]
+               </a>
+               Now on the first day of the unleavened bread, when they sacrificed the pasch, the disciples say to him: Whither wilt thou that we go, and prepare for thee to eat the pasch?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=13-#x">
+                [13]
+               </a>
+               And he sendeth two of his disciples, and saith to them: Go ye into the city; and there shall meet you a man carrying a pitcher of water, follow him;
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=14-#x">
+                [14]
+               </a>
+               And whithersoever he shall go in, say to the master of the house, The master saith, Where is my refectory, where I may eat the pasch with my disciples?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=15-#x">
+                [15]
+               </a>
+               And he will shew you a large dining room furnished; and there prepare ye for us.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=16-#x">
+                [16]
+               </a>
+               And his disciples went their way, and came into the city; and they found as he had told them, and they prepared the pasch.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=17-#x">
+                [17]
+               </a>
+               And when evening was come, he cometh with the twelve.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=18-#x">
+                [18]
+               </a>
+               And when they were at table and eating, Jesus saith: Amen I say to you, one of you that eateth with me shall betray me.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=19-#x">
+                [19]
+               </a>
+               But they began to be sorrowful, and to say to him one by one: Is it I?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=20-#x">
+                [20]
+               </a>
+               Who saith to them: One of the twelve, who dippeth with me his hand in the dish.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=21-#x">
+                [21]
+               </a>
+               And the Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man shall be betrayed. It were better for him, if that man had not been born.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=22-#x">
+                [22]
+               </a>
+               And whilst they were eating, Jesus took bread; and blessing, broke, and gave to them, and said: Take ye. This is my body.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=23-#x">
+                [23]
+               </a>
+               And having taken the chalice, giving thanks, he gave it to them. And they all drank of it.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=24-#x">
+                [24]
+               </a>
+               And he said to them: This is my blood of the new testament, which shall be shed for many.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=25-#x">
+                [25]
+               </a>
+               Amen I say to you, that I will drink no more of the fruit of the vine, until that day when I shall drink it new in the kingdom of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=26-#x">
+                [26]
+               </a>
+               And when they had said an hymn, they went forth to the mount of Olives.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=27-#x">
+                [27]
+               </a>
+               And Jesus saith to them: You will all be scandalized in my regard this night; for it is written, I will strike the shepherd, and the sheep shall be dispersed.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=28-#x">
+                [28]
+               </a>
+               But after I shall be risen again, I will go before you into Galilee.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=29-#x">
+                [29]
+               </a>
+               But Peter saith to him: Although all shall be scandalized in thee, yet not I.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=30-#x">
+                [30]
+               </a>
+               And Jesus saith to him: Amen I say to thee, today, even in this night, before the cock
+               <u>
+                crow twice
+               </u>
+               , thou shall deny me thrice.
+              </p>
+              <p class="note">
+               [30]
+               <u>
+                "Crow twice"
+               </u>
+               : The cocks crow at two different times of the night; viz., about midnight for the first time; and then about the time commonly called the cock crowing; and this was the cock crowing our Saviour spoke of; and therefore the other Evangelists take no notice of the first crowing.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=31-#x">
+                [31]
+               </a>
+               But he spoke the more vehemently: Although I should die together with thee, I will not deny thee. And in like manner also said they all.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=32-#x">
+                [32]
+               </a>
+               And they came to a farm called Gethsemani. And he saith to his disciples: Sit you here, while I pray.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=33-#x">
+                [33]
+               </a>
+               And he taketh Peter and James and John with him; and he began to fear and to be heavy.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=34-#x">
+                [34]
+               </a>
+               And he saith to them: My soul is sorrowful even unto death; stay you here, and watch.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=35-#x">
+                [35]
+               </a>
+               And when he was gone forward a little, he fell flat on the ground; and he prayed, that if it might be, the hour might pass from him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=36-#x">
+                [36]
+               </a>
+               And he saith: Abba, Father, all things are possible to thee: remove this chalice from me; but not what I will, but what thou wilt.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=37-#x">
+                [37]
+               </a>
+               And he cometh, and findeth them sleeping. And he saith to Peter: Simon, sleepest thou? couldst thou not watch one hour?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=38-#x">
+                [38]
+               </a>
+               Watch ye, and pray that you enter not into temptation. The spirit indeed is willing, but the flesh is weak.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=39-#x">
+                [39]
+               </a>
+               And going away again, he prayed, saying the same words.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=40-#x">
+                [40]
+               </a>
+               And when he returned, he found them again asleep, (for their eyes were heavy,) and they knew not what to answer him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=41-#x">
+                [41]
+               </a>
+               And he cometh the third time, and saith to them: Sleep ye now, and take your rest. It is enough: the hour is come: behold the Son of man shall be betrayed into the hands of sinners.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=42-#x">
+                [42]
+               </a>
+               Rise up, let us go. Behold, he that will betray me is at hand.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=43-#x">
+                [43]
+               </a>
+               And while he was yet speaking, cometh Judas Iscariot, one of the twelve: and with him a great multitude with swords and staves, from the chief priests and the scribes and the ancients.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=44-#x">
+                [44]
+               </a>
+               And he that betrayed him, had given them a sign, saying: Whomsoever I shall kiss, that is he; lay hold on him, and lead him away carefully.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=45-#x">
+                [45]
+               </a>
+               And when he was come, immediately going up to him, he saith: Hail, Rabbi; and he kissed him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=46-#x">
+                [46]
+               </a>
+               But they laid hands on him, and held him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=47-#x">
+                [47]
+               </a>
+               And one of them that stood by, drawing a sword, struck a servant of the chief priest, and cut off his ear.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=48-#x">
+                [48]
+               </a>
+               And Jesus answering, said to them: Are you come out as to a robber, with swords and staves to apprehend me?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=49-#x">
+                [49]
+               </a>
+               I was daily with you in the temple teaching, and you did not lay hands on me. But that the scriptures may be fulfilled.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=50-#x">
+                [50]
+               </a>
+               Then his disciples leaving him, all fled away.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=51-#x">
+                [51]
+               </a>
+               And a certain young man followed him, having a linen cloth cast about his naked body; and they laid hold on him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=52-#x">
+                [52]
+               </a>
+               But he, casting off the linen cloth, fled from them naked.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=53-#x">
+                [53]
+               </a>
+               And they brought Jesus to the high priest; and all the priests and the scribes and the ancients assembled together.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=54-#x">
+                [54]
+               </a>
+               And Peter followed him from afar off, even into the court of the high priest; and he sat with the servants at the fire, and warmed himself.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=55-#x">
+                [55]
+               </a>
+               And the chief priests and all the council sought for evidence against Jesus, that they might put him to death, and found none.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=56-#x">
+                [56]
+               </a>
+               For many bore false witness against him, and their evidences were not agreeing.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=57-#x">
+                [57]
+               </a>
+               And some rising up, bore false witness against him, saying:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=58-#x">
+                [58]
+               </a>
+               We heard him say, I will destroy this temple made with hands, and within three days I will build another not made with hands.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=59-#x">
+                [59]
+               </a>
+               And their witness did not agree.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=60-#x">
+                [60]
+               </a>
+               And the high priest rising up in the midst, asked Jesus, saying: Answerest thou nothing to the things that are laid to thy charge by these men?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=61-#x">
+                [61]
+               </a>
+               But he held his peace, and answered nothing. Again the high priest asked him, and said to him: Art thou the Christ the Son of the blessed God?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=62-#x">
+                [62]
+               </a>
+               And Jesus said to him: I am. And you shall see the Son of man sitting on the right hand of the power of God, and coming with the clouds of heaven.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=63-#x">
+                [63]
+               </a>
+               Then the high priest rending his garments, saith: What need we any further witnesses?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=64-#x">
+                [64]
+               </a>
+               You have heard the blasphemy. What think you? Who all condemned him to be guilty of death.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=65-#x">
+                [65]
+               </a>
+               And some began to spit on him, and to cover his face, and to buffet him, and to say unto him: Prophesy: and the servants struck him with the palms of their hands.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=66-#x">
+                [66]
+               </a>
+               Now when Peter was in the court below, there cometh one of the maidservants of the high priest.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=67-#x">
+                [67]
+               </a>
+               And when she had seen Peter warming himself, looking on him she saith: Thou also wast with Jesus of Nazareth.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=68-#x">
+                [68]
+               </a>
+               But he denied, saying: I neither know nor understand what thou sayest. And he went forth before the court; and the cock crew.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=69-#x">
+                [69]
+               </a>
+               And again a maidservant seeing him, began to say to the standers by: This is one of them.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=70-#x">
+                [70]
+               </a>
+               But he denied again. And after a while they that stood by said again to Peter: Surely thou art one of them; for thou art also a Galilean.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=71-#x">
+                [71]
+               </a>
+               But he began to curse and to swear, saying; I know not this man of whom you speak.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=14&amp;l=72-#x">
+                [72]
+               </a>
+               And immediately the cock crew again. And Peter remembered the word that Jesus had said unto him: Before the cock crow twice, thou shalt thrice deny me. And he began to weep.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Mark
+              </td>
+              <td class="next">
+               <a href="49001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48013.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 14
+              </td>
+              <td class="next">
+               <a href="48015.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

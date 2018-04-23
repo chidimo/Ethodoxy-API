@@ -1,0 +1,584 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Acts Of Apostles Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/51009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/51009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            The Acts Of The Apostles
+           </td>
+           <td class="next">
+            <a href="52001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="51010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="51001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="51002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="51003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="51004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="51005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="51006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="51007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="51008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="51010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="51011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="51012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="51013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="51014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="51015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="51016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="51017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="51018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="51019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="51020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="51021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="51022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="51023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="51024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="51025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="51026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="51027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="51028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Paul's conversion and zeal. Peter heals Eneas and raises up Tabitha to life.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And Saul, as yet breathing out threatenings and slaughter against the disciples of the Lord, went to the high priest,
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               And asked of him letters to Damascus, to the synagogues: that if he found any men and women of this way, he might bring them bound to Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               And as he went on his journey, it came to pass that he drew nigh to Damascus; and suddenly a light from heaven shined round about him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               And falling on the ground, he heard a voice saying to him: Saul, Saul, why persecutest thou me?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               Who said: Who art thou, Lord? And he: I am Jesus whom thou persecutest. It is hard for thee to kick against the goad.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               And he trembling and astonished, said: Lord, what wilt thou have me to do?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               And the Lord said to him: Arise, and go into the city, and there it shall be told thee what thou must do. Now the men who went in company with him, stood amazed, hearing indeed a voice, but seeing no man.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               And Saul arose from the ground; and when his eyes were opened, he saw nothing. But they leading him by the hands, brought him to Damascus.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               And he was there three days, without sight, and he did neither eat nor drink.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               Now there was a certain disciple at Damascus, named Ananias. And the Lord said to him in a vision: Ananias. And he said: Behold I am here, Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               And the Lord said to him: Arise, and go into the street that is called Stait, and seek in the house of Judas, one named Saul of Tarsus. For behold he prayeth.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               (And he saw a man named Ananias coming in, and putting his hands upon him, that he might receive his sight.)
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               But Ananias answered: Lord, I have heard by many of this man, how much evil he hath done to thy saints in Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               And here he hath authority from the chief priests to bind all that invoke thy name.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               And the Lord said to him: Go thy way; for this man is to me a vessel of election, to carry my name before the Gentiles, and kings, and the children of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               For I will shew him how great things he must suffer for my name's sake.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               And Ananias went his way, and entered into the house. And laying his hands upon him, he said: Brother Saul, the Lord Jesus hath sent me, he that appeared to thee in the way as thou camest; that thou mayest receive thy sight, and be filled with the Holy Ghost.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               And immediately there fell from his eyes as it were scales, and he received his sight; and rising up, he was baptized.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               And when he had taken meat, he was strengthened. And he was with the disciples that were at Damascus, for some days.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               And immediately he preached Jesus in the synagogues, that he is the Son of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               And all that heard him, were astonished, and said: Is not this he who persecuted in Jerusalem those that called upon this name: and came hither for that intent, that he might carry them bound to the chief priests?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               But Saul increased much more in strength, and confounded the Jews who dwelt at Damascus, affirming that this is the Christ.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               And when many days were passed, the Jews consulted together to kill him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               But their laying in wait was made known to Saul. And they watched the gates also day and night, that they might kill him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               But the disciples taking him in the night, conveyed him away by the wall, letting him down in a basket.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               And when he was come into Jerusalem, he essayed to join himself to the disciples; and they all were afraid of him, not believing that he was a disciple.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               But Barnabas took him, and brought him to the apostles, and told them how he had seen the Lord, and that he had spoken to him; and how in Damascus he had dealt confidently in the name of Jesus.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               And he was with them coming in and going out in Jerusalem, and dealing confidently in the name of the Lord.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               He spoke also to the Gentiles, and disputed with the Greeks; but they sought to kill him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               Which when the brethren had known, they brought him down to Caesarea, and sent him away to Tarsus.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               Now the church had peace throughout all Judea, and Galilee, and Samaria; and was edified, walking in the fear of the Lord, and was filled with the consolation of the Holy Ghost.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=32-#x">
+                [32]
+               </a>
+               And it came to pass that Peter, as he passed through, visiting all, came to the saints who dwelt at Lydda.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=33-#x">
+                [33]
+               </a>
+               And he found there a certain man named Eneas, who had kept his bed for eight years, who was ill of the palsy.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=34-#x">
+                [34]
+               </a>
+               And Peter said to him: Eneas, the Lord Jesus Christ healeth thee: arise, and make thy bed. And immediately he arose.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=35-#x">
+                [35]
+               </a>
+               And all that dwelt at Lydda and Saron, saw him: who were converted to the Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=36-#x">
+                [36]
+               </a>
+               And in Joppe there was a certain disciple named Tabitha, which by interpretation is called Dorcas. This woman was full of good works and almsdeeds which she did.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=37-#x">
+                [37]
+               </a>
+               And it came to pass in those days that she was sick, and died. Whom when they had washed, they laid her in an upper chamber.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=38-#x">
+                [38]
+               </a>
+               And forasmuch as Lydda was nigh to Joppe, the disciples hearing that Peter was there, sent unto him two men, desiring him that he would not be slack to come unto them.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=39-#x">
+                [39]
+               </a>
+               And Peter rising up, went with them. And when he was come, they brought him into the upper chamber. And all the widows stood about him weeping, and shewing him the coats and garments which Dorcas made them.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=40-#x">
+                [40]
+               </a>
+               And they all being put forth, Peter kneeling down prayed, and turning to the body, he said: Tabitha, arise. And she opened her eyes; and seeing Peter, she sat up.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=41-#x">
+                [41]
+               </a>
+               And giving her his hand, he lifted her up. And when he had called the saints and the widows, he presented her alive.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=42-#x">
+                [42]
+               </a>
+               And it was made known throughout all Joppe; and many believed in the Lord.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=9&amp;l=43-#x">
+                [43]
+               </a>
+               And it came to pass, that he abode many days in Joppe, with one Simon a tanner.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               The Acts Of The Apostles
+              </td>
+              <td class="next">
+               <a href="52001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="51010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

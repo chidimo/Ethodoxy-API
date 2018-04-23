@@ -1,0 +1,650 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="04005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The age and time of the Levites' service: their offices and burdens.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke to Moses, and Aaron, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               Take the sum of the sons of Caath from the midst of the Levites, by their houses and families.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               From thirty years old and upward, to fifty years old, of all that go in to stand and to minister in the tabernacle of the covenant.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               This is the service of the sons of Caath:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               When the camp is to set forward, Aaron and his sons shall go into the tabernacle of the covenant, and the holy of holies, and shall take down the veil that hangeth before the door, and shall wrap up the ark of the testimony in it,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And shall cover it again with a cover of violet skins, and shall spread over it a cloth all of violet, and shall put in the bars.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               They shall wrap up also the table of proposition in a cloth of violet, and shall put with it the censers and little mortars, the cups and bowls to pour out the libations: the leaves shall be always on it:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               And they shall spread over it a cloth of scarlet, which again they shall cover with a covering of violet skins, and shall put in the bars.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               They shall take also a cloth of violet wherewith they shall cover the candlestick with the lamps and tongs thereof and the snuffers and all the oil vessels, which are necessary for the dressing of the lamps:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               And over all they shall put a cover of violet skins and put in the bars.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               And they shall wrap up the golden altar also in a cloth of violet, and shall spread over it a cover of violet skins, and put in the bars.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               All the vessels wherewith they minister in the sanctuary, they shall wrap up in a cloth of violet, and shall spread over it a cover of violet skins, and put in the bars.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               They shall cleanse the altar also from the ashes, and shall wrap it up in a purple cloth,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               And shall put it with all the vessels that they use in the ministry thereof, that is to say, firepans, fleshhooks and forks, pothooks and shovels. They shall cover all the vessels of the altar together with a covering of violet skins, and shall put in the bars.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And when Aaron and his sons have wrapped up the sanctuary and the vessels thereof at the removing of the camp, then shall the sons of Caath enter in to carry the things wrapped up: and they shall not touch the vessels of the sanctuary, lest they die. These are the burdens of the sons of Caath: in the tabernacle of the covenant:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               And over them shall be Eleazar the son of Aaron the priest, to whose charge pertaineth the oil to dress the lamps, and the sweet incense, and the sacrifice, that is always offered, and the oil of unction, and whatsoever pertaineth to the service of the tabernacle, and of all the vessels that are in the sanctuary.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               And the Lord spoke to Moses and Aaron, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               Destroy not the people of Caath from the midst of the Levites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               But do this to them, that they may live, and not die, by touching the holies of holies. Aaron and his sons shall go in, and they shall appoint every man his work, and shall divide the burdens that every man is to carry.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               Let not others by any curiosity see the things that are in the sanctuary before they be wrapped up, otherwise they shall die.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               Take the sum of the soils of Gerson also by their houses and families and kindreds.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               From thirty years old and upward, unto fifty years old. Number them all that go in and minister in the tabernacle of the covenant.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               This is the office of the family of the Gersonites:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               To carry the curtains of the tabernacle and the roof of the covenant, the other covering, and the violet covering over all, and the hanging that hangeth in the entry of the tabernacle of the covenant,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               The curtains of the court, and the veil in the entry that is before the tabernacle. All things that pertain to the altar, the cords and the vessels of the ministry,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=27-#x">
+                [27]
+               </a>
+               The sons of Gerson shall carry, by the commandment of Aaron and his sons: and each man shall know to what burden he must be assigned.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=28-#x">
+                [28]
+               </a>
+               This is the service of the family of the Gersonites in the tabernacle of the covenant, and they shall be under the hand of Ithamar the son of Aaron the priest.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=29-#x">
+                [29]
+               </a>
+               Thou shalt reckon up the sons of Merari also by the families and houses of their fathers,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=30-#x">
+                [30]
+               </a>
+               From thirty years old and upward, unto fifty years old, all that go in to the office of their ministry, and to the service of the covenant of the testimony.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=31-#x">
+                [31]
+               </a>
+               These are their burdens: They shall carry the boards of the tabernacle and the bars thereof, the pillars and their sockets,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=32-#x">
+                [32]
+               </a>
+               The pillars also of the court round about, with their sockets and pins and cords. They shall receive by account all the vessels and furniture, and so shall carry them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=33-#x">
+                [33]
+               </a>
+               This is the office of the family of the Merarites, and their ministry in the tabernacle of the covenant: and they shall be under the hand of Ithamar the son of Aaron the priest.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=34-#x">
+                [34]
+               </a>
+               So Moses and Aaron and the princes of the synagogue reckoned up the sons of Caath, by their kindreds and the houses of their fathers,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=35-#x">
+                [35]
+               </a>
+               From thirty years old and upward, unto fifty years old, all that go in to the ministry of the tabernacle of the covenant:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=36-#x">
+                [36]
+               </a>
+               And they were found two thousand seven hundred and fifty.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=37-#x">
+                [37]
+               </a>
+               This is the number of the people of Caath that go in to the tabernacle of the covenant: these did Moses and Aaron number according to the word of the Lord by the hand of Moses.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=38-#x">
+                [38]
+               </a>
+               The sons of Gerson also were numbered by the kindreds and houses of their fathers,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=39-#x">
+                [39]
+               </a>
+               From thirty years old and upward, unto fifty years old, all that go in to minister in the tabernacle of the covenant:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=40-#x">
+                [40]
+               </a>
+               And they were found two thousand six hundred and thirty.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=41-#x">
+                [41]
+               </a>
+               This is the people of the Gersonites, whom Moses and Aaron numbered according to the word of the Lord.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=42-#x">
+                [42]
+               </a>
+               The sons of Merari also were numbered by the kindreds and houses of their fathers,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=43-#x">
+                [43]
+               </a>
+               From thirty years old and upward, unto fifty years old, all that go in to fulfill the rites of the tabernacle of the covenant:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=44-#x">
+                [44]
+               </a>
+               And they were found three thousand two hundred.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=45-#x">
+                [45]
+               </a>
+               This is the number of the sons of Merari, whom Moses and Aaron reckoned up according to the commandment of the Lord by the hand of Moses.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=46-#x">
+                [46]
+               </a>
+               All that were reckoned up of the Levites, and whom Moses and Aaron and the princes of Israel took by name, by the kindreds and houses of their fathers,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=47-#x">
+                [47]
+               </a>
+               From thirty years old and upward, until fifty years old, that go into the ministry of the tabernacle, and to carry the burdens,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=48-#x">
+                [48]
+               </a>
+               Were in all eight thousand five hundred and eighty.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=4&amp;l=49-#x">
+                [49]
+               </a>
+               Moses reckoned them up according to the word of the Lord, every one according to their office and burdens, as the Lord had commanded him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="04005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

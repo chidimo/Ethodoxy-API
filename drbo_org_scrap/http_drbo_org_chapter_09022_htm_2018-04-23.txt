@@ -1,0 +1,522 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Kings (1 Samuel) Chapter 22
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/09022.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/09022.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="08001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Kings (1 Samuel)
+           </td>
+           <td class="next">
+            <a href="10001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="09021.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 22
+           </td>
+           <td class="next">
+            <a href="09023.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="09001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="09002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="09003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="09004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="09005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="09006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="09007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="09008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="09009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="09010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="09011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="09012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="09013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="09014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="09015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="09016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="09017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="09018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="09019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="09020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="09021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             22
+            </td>
+            <td width="30">
+             <a href="09023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="09024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="09025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="09026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="09027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="09028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="09029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="09030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="09031.htm">
+              31
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Many resort to David. Doeg accuseth Achimelech to Saul. He ordereth him and all the other priests of Nobe to be slain. Abiathar escapeth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=1-#x">
+                [1]
+               </a>
+               David therefore went from thence and fled to the cave of Odollam. And when his brethren, and all his father's house had heard of it, they went down to him thither;
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=2-#x">
+                [2]
+               </a>
+               And all that were in distress and oppressed with debt, and under affliction of mind gathered themselves unto him: and he became their prince, and there were with him about four hundred men.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=3-#x">
+                [3]
+               </a>
+               And David departed from thence into Maspha of Moab: and he said to the king of Moab: Let my father and my mother tarry with you, I beseech thee, till I know what God will do for me.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=4-#x">
+                [4]
+               </a>
+               And he left them under the eyes of the king of Moab, and they abode with him all the days that David was in
+               <u>
+                the hold
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=5-#x">
+                [5]
+               </a>
+               And Gad the prophet said to David: Abide not in the hold, depart, and go into the land of Juda. And David departed, and came into the forest of Haret.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "The hold"
+               </u>
+               : The strong hold, or fortress of Maspha.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=6-#x">
+                [6]
+               </a>
+               And Saul heard that David was seen, and the men that were with him. Now whilst Saul abode in Gabaa, and was in the wood, which is by Rama, having his spear in his hand, and all his servants were standing about him,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=7-#x">
+                [7]
+               </a>
+               He said to his servants that stood about him: Hear me now, ye sons of Jemini: will the son of Isai give everyone of you fields, and vineyards, and make you all tribunes, and centurions:
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=8-#x">
+                [8]
+               </a>
+               That all of you have conspired against me, and there is no one to inform me, especially when even my son hath entered into league with the soil of Isai? There is not one of you that pitieth my case, nor that giveth me any information: because my son hath raised up my servant against me, plotting against me to this day.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=9-#x">
+                [9]
+               </a>
+               And Doeg the Edomite who stood by, and was the chief among the servants of Saul, answering, said: I saw the son of Isai, in Nobe with Achimelech the son of Achitob the priest.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=10-#x">
+                [10]
+               </a>
+               And he consulted the Lord for him, and gave him victuals, and gave him the sword of Goliath the Philistine.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=11-#x">
+                [11]
+               </a>
+               Then the king sent to call for Achimelech the priest the son of Achitob, and all his father's house, the priests that were in Nobe, and they came all of them to the king.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=12-#x">
+                [12]
+               </a>
+               And Saul said to Achimelech: Hear, thou son of Achitob. He answered: Here I am, my lord.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=13-#x">
+                [13]
+               </a>
+               And Saul said to him: Why have you conspired against me, thou, and the son of Isai, and thou hast given him bread and a sword, and hast consulted the Lord for him, that he should rise up against me, continuing a traitor to this day.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=14-#x">
+                [14]
+               </a>
+               And Achimelech answering the king, said: And who amongst all thy servants is so faithful as David, who is the king's son in law, and goeth forth at thy bidding, and is honourable in thy house?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=15-#x">
+                [15]
+               </a>
+               Did I begin today to consult the Lord for him? far be this from me: let not the king suspect such a thing against his servant, or any one in all my father's house: for thy servant knew nothing of this matter, either little or great.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=16-#x">
+                [16]
+               </a>
+               And the king said: Dying thou shalt die, Achimelech, thou and all thy father's house.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=17-#x">
+                [17]
+               </a>
+               And the king said to the messengers that stood about him: Turn, and kill the priests of the Lord, for their hand is with David, because they knew that he was fled, and they told it not to me. And the king's servants would not put forth their hands against the priests of the Lord.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=18-#x">
+                [18]
+               </a>
+               And the king said to Doeg: Turn thou, and fall upon the priests. And Doeg the Edomite turned, and fell upon the priests and slew in that day eighty-five men that wore the linen ephod.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=19-#x">
+                [19]
+               </a>
+               And Nobe the city of the priests he smote with the edge of his sword, both men and women, children, and sucklings, and ox and ass, and sheep with the edge of the sword.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=20-#x">
+                [20]
+               </a>
+               But one of the sons of Achimelech the son of Achitob, whose name was Abiathar, escaped, and fled to David,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=21-#x">
+                [21]
+               </a>
+               And told him that Saul had slain the priests of the Lord.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=22-#x">
+                [22]
+               </a>
+               And David said to Abiathar: I knew that day when Doeg the Edomite was there, that without doubt he would tell Saul: I have been the occasion of the death of all the souls of thy father's house.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=22&amp;l=23-#x">
+                [23]
+               </a>
+               Abide thou with me, fear not: for he that seeketh my life, seeketh thy life also, and with me thou shalt be saved.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="08001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Kings (1 Samuel)
+              </td>
+              <td class="next">
+               <a href="10001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="09021.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 22
+              </td>
+              <td class="next">
+               <a href="09023.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

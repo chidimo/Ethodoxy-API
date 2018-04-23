@@ -1,0 +1,694 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Isaias (Isaiah) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/27001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/27001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="26001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Isaias (Isaiah)
+         </td>
+         <td class="next">
+          <a href="28001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="27002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="27002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="27003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="27004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="27005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="27006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="27007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="27008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="27009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="27010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="27011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="27012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="27013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="27014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="27015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="27016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="27017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="27018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="27019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="27020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="27021.htm">
+            21
+           </a>
+          </td>
+          <td width="30">
+           <a href="27022.htm">
+            22
+           </a>
+          </td>
+          <td width="30">
+           <a href="27023.htm">
+            23
+           </a>
+          </td>
+          <td width="30">
+           <a href="27024.htm">
+            24
+           </a>
+          </td>
+          <td width="30">
+           <a href="27025.htm">
+            25
+           </a>
+          </td>
+          <td width="30">
+           <a href="27026.htm">
+            26
+           </a>
+          </td>
+          <td width="30">
+           <a href="27027.htm">
+            27
+           </a>
+          </td>
+          <td width="30">
+           <a href="27028.htm">
+            28
+           </a>
+          </td>
+          <td width="30">
+           <a href="27029.htm">
+            29
+           </a>
+          </td>
+          <td width="30">
+           <a href="27030.htm">
+            30
+           </a>
+          </td>
+          <td width="30">
+           <a href="27031.htm">
+            31
+           </a>
+          </td>
+          <td width="30">
+           <a href="27032.htm">
+            32
+           </a>
+          </td>
+          <td width="30">
+           <a href="27033.htm">
+            33
+           </a>
+          </td>
+          <td width="30">
+           <a href="27034.htm">
+            34
+           </a>
+          </td>
+          <td width="30">
+           <a href="27035.htm">
+            35
+           </a>
+          </td>
+          <td width="30">
+           <a href="27036.htm">
+            36
+           </a>
+          </td>
+          <td width="30">
+           <a href="27037.htm">
+            37
+           </a>
+          </td>
+          <td width="30">
+           <a href="27038.htm">
+            38
+           </a>
+          </td>
+          <td width="30">
+           <a href="27039.htm">
+            39
+           </a>
+          </td>
+          <td width="30">
+           <a href="27040.htm">
+            40
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="27041.htm">
+            41
+           </a>
+          </td>
+          <td width="30">
+           <a href="27042.htm">
+            42
+           </a>
+          </td>
+          <td width="30">
+           <a href="27043.htm">
+            43
+           </a>
+          </td>
+          <td width="30">
+           <a href="27044.htm">
+            44
+           </a>
+          </td>
+          <td width="30">
+           <a href="27045.htm">
+            45
+           </a>
+          </td>
+          <td width="30">
+           <a href="27046.htm">
+            46
+           </a>
+          </td>
+          <td width="30">
+           <a href="27047.htm">
+            47
+           </a>
+          </td>
+          <td width="30">
+           <a href="27048.htm">
+            48
+           </a>
+          </td>
+          <td width="30">
+           <a href="27049.htm">
+            49
+           </a>
+          </td>
+          <td width="30">
+           <a href="27050.htm">
+            50
+           </a>
+          </td>
+          <td width="30">
+           <a href="27051.htm">
+            51
+           </a>
+          </td>
+          <td width="30">
+           <a href="27052.htm">
+            52
+           </a>
+          </td>
+          <td width="30">
+           <a href="27053.htm">
+            53
+           </a>
+          </td>
+          <td width="30">
+           <a href="27054.htm">
+            54
+           </a>
+          </td>
+          <td width="30">
+           <a href="27055.htm">
+            55
+           </a>
+          </td>
+          <td width="30">
+           <a href="27056.htm">
+            56
+           </a>
+          </td>
+          <td width="30">
+           <a href="27057.htm">
+            57
+           </a>
+          </td>
+          <td width="30">
+           <a href="27058.htm">
+            58
+           </a>
+          </td>
+          <td width="30">
+           <a href="27059.htm">
+            59
+           </a>
+          </td>
+          <td width="30">
+           <a href="27060.htm">
+            60
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="27061.htm">
+            61
+           </a>
+          </td>
+          <td width="30">
+           <a href="27062.htm">
+            62
+           </a>
+          </td>
+          <td width="30">
+           <a href="27063.htm">
+            63
+           </a>
+          </td>
+          <td width="30">
+           <a href="27064.htm">
+            64
+           </a>
+          </td>
+          <td width="30">
+           <a href="27065.htm">
+            65
+           </a>
+          </td>
+          <td width="30">
+           <a href="27066.htm">
+            66
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The prophet complains of the sins of Juda and Jerusalem, and exhorts them to a sincere conversion.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The vision of Isaias the son of Amos I which he saw concerning Juda and Jerusalem in the days of Ozias, Joathan, Achaz, and Ezechias, kings of Juda.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Hear, O ye heavens, and give ear, O earth, for the Lord hath spoken. I have brought up children, and exalted them: but they have despised me.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             The ox knoweth his owner, and the ass his master's crib: but Israel hath not known me, and my people hath not understood.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             Woe to the sinful nation, a people laden with iniquity, a wicked seed, ungracious children: they have forsaken the Lord, they have blasphemed the Holy One of Israel, they are gone away backwards.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             For what shall I strike you any more, you that increase transgression? the whole head is sick, and the whole heart is sad.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             From the sole of the foot unto the top of the head, there is no soundness therein: wounds and bruises and swelling sores: they are not bound up, nor dressed, nor fomented with oil.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             Your land is desolate, your cities are burnt with fire: your country strangers devour before your face, and it shall be desolate as when wasted by enemies.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             And the daughter of Sion shall be left as a covert in a vineyard, and as a lodge in a garden of cucumbers, and as a city that is laid waste.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             Except the Lord of hosts had left us seed, we had been as Sodom, and we should have been like to Gomorrha.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             Hear the word of the Lord, ye rulers of Sodom, give ear to the law of our God, ye people of Gomorrha.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             To what purpose do you offer me the multitude of your victims, saith the Lord? I am full, I desire not holocausts of rams, and fat of fatlings, and blood of calves, and lambs, and buck goats.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             When you came to appear before me, who required these things at your hands, that you should walk in my courts?
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Offer sacrifice no more in vain: incense is an abomination to me. The new moons, and the sabbaths, and other festivals I will not abide, your assemblies are wicked.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             My soul hateth your new moons, and your solemnities: they are become troublesome to me, I am weary of bearing them.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And when you stretch forth your hands, I will turn away my eyes from you: and when you multiply prayer, I will not hear: for your hands are full of blood.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             Wash yourselves, be clean, take away the evil of your devices from my eyes: cease to do perversely,
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             Learn to do well: seek judgment, relieve the oppressed, judge for the fatherless, defend the widow.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             And then come, and accuse me, saith the Lord: if your sins be as scarlet, they shall be made as white as snow: and if they be red as crimson, they shall be white as wool.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             If you be willing, and will hearken to me, you shall eat the good things of the land.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             But if you will not, and will provoke me to wrath: the sword shall devour you because the mouth of the Lord hath spoken it.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             How is the faithful city, that was full of judgment, become a harlot? justice dwelt in it, but now murderers.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             Thy silver is turned into dross: thy wine is mingled with water.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             Thy princes are faithless, companions of thieves: they all love bribes, the run after rewards. They judge not for the fatherless: and the widow's cometh not in to them.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             Therefore saith the Lord the God of hosts, the mighty one of Israel: Ah! I will comfort myself over my adversaries: and I will be revenged of my enemies.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             And I will turn my hand to thee, and I will clean purge away thy dross, and I will take away all thy tin.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             And I will restore thy judges as they were before, and thy counsellors as of old. After this thou shalt be called the city of the just, a faithful city.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             Sion shall be redeemed in judgment, and they shall bring her back in justice.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=28-#x">
+              [28]
+             </a>
+             And he shall destroy the wicked, and the sinners together: and they that have forsaken the Lord, shall be consumed.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=29-#x">
+              [29]
+             </a>
+             For they shall be confounded for the idols, to which they have sacrificed: and you shall be ashamed of the gardens which you have chosen.
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=30-#x">
+              [30]
+             </a>
+             When you shall be as an oak with the leaves falling off, and as a garden without water.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=27&amp;ch=1&amp;l=31-#x">
+              [31]
+             </a>
+             And your strength shall be as the ashes of tow, and your work as a spark: and both shall burn together, and there shall be none to quench it.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="26001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Prophecy Of Isaias (Isaiah)
+            </td>
+            <td class="next">
+             <a href="28001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="27002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,511 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Proverbs Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/22005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/22005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="21001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Proverbs
+           </td>
+           <td class="next">
+            <a href="23001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="22004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="22006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="22001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="22002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="22003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="22004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="22006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="22007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="22008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="22009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="22010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="22011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="22012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="22013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="22014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="22015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="22016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="22017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="22018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="22019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="22020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="22021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="22022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="22023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="22024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="22025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="22026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="22027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="22028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="22029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="22030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="22031.htm">
+              31
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               An exhortation to fly unlawful lust, and the occasions of it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               My son, attend to my wisdom, and incline thy ear to my prudence.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               That thou mayst keep thoughts, and thy lips may preserve instruction. Mind not the deceit of a woman.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               For the lips of a harlot are like a honeycomb dropping, and her throat is smoother than oil.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               But her end is bitter as wormwood, and sharp as a two-edged sword.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               Her feet go down into death, and her steps go in as far as hell.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               They walk not by the path of life, her steps are wandering, and unaccountable.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               Now therefore, my son, hear me, and depart not from the words of my mouth.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               Remove thy way far from her, and come not nigh the doors of her house.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               Give not thy honour to strangers, and thy years to the cruel.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               Lest strangers be filled with thy strength, and thy labours be in another man's house,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               And thou mourn it the last, when thou shalt have spent thy flesh and thy body, and say:
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               Why have I hated instruction, and my heart consented not to reproof,
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               And have not heard the voice of them that taught me, and have not inclined my ear to masters?
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               I have almost been in all evil, in the midst of the church and of the congregation.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               Drink water out of thy own cistern, and the streams of thy own well:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               Let thy fountains be conveyed abroad, and in the streets divide thy waters.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               Keep them to thyself alone, neither let strangers be partakers with thee.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               Let thy vein be blessed, and rejoice with the wife of thy youth:
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               Let her be thy dearest hind, and most agreeable fawn: let her breasts inebriate thee at all times; be thou delighted continually with her love.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               Why art thou seduced, my son, by a strange woman, and art cherished in the bosom of another?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               The Lord beholdeth the ways of man, and considereth all his steps.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=22-#x">
+                [22]
+               </a>
+               His own iniquities catch the wicked, and he is fast bound with the ropes of his own sins.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=5&amp;l=23-#x">
+                [23]
+               </a>
+               He shall die, because he hath not received instruction, and in the multitude of his folly he shall be deceived.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="21001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Proverbs
+              </td>
+              <td class="next">
+               <a href="23001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="22004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="22006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

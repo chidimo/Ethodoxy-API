@@ -1,0 +1,547 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Daniel Chapter 14
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/32014.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/32014.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="31001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Daniel
+           </td>
+           <td class="next">
+            <a href="33001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="32013.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 14
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="32001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="32002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="32003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="32004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="32005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="32006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="32007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="32008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="32009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="32010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="32011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="32012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="32013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             14
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The history of Bel, and of the great serpent worshipped by the Babylonians.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=1-#x">
+                [1]
+               </a>
+               And Daniel was
+               <u>
+                the king's guest
+               </u>
+               , and was honoured above all his friends.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=2-#x">
+                [2]
+               </a>
+               Now the Babylonians had an idol called Bel: and there were spent upon him every day twelve great measures of fine flour, and forty sheep, and sixty vessels of wine.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=3-#x">
+                [3]
+               </a>
+               The king also worshipped him, and went every day to adore him: but Daniel adored his God. And the king said to him: Why dost thou not adore Bel?
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=4-#x">
+                [4]
+               </a>
+               And he answered, and said to him: Because I do not worship idols made with hands, but the living God, that created heaven and earth, and hath power over all flesh.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=5-#x">
+                [5]
+               </a>
+               And the king said to him: Doth not Bel seem to thee to be a living god? Seest thou not how much he eateth and drinketh every day?
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "The king's guest"
+               </u>
+               : It seems most probable, that the king here spoken of was Evilmerodach, the son and successor of Nabuchodonosor, and a great favourer of the Jews.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=6-#x">
+                [6]
+               </a>
+               Then Daniel smiled and said: O king, be not deceived: for this is but clay within, and brass without, neither hath he eaten at any time.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=7-#x">
+                [7]
+               </a>
+               And the king being angry called for his priests, and said to them: If you tell me not, who it is that eateth up these expenses, you shall die.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=8-#x">
+                [8]
+               </a>
+               But if you can shew that Bel eateth these things, Daniel shall die, because he hath blasphemed against Bel. And Daniel said to the king: Be it done according to thy word.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=9-#x">
+                [9]
+               </a>
+               Now the priests of Bel were seventy, besides their wives, and little ones, and children. And the king went with Daniel into the temple of Bel.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=10-#x">
+                [10]
+               </a>
+               And the priests of Bel said: Behold we go out: and do thou, O king, set on the meats, and make ready the wine, and shut the door fast, and seal it with thy own ring:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=11-#x">
+                [11]
+               </a>
+               And when thou comest in the morning, if thou findest not that Bel hath eaten up all, we will suffer death, or else Daniel that hath lied against us.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=12-#x">
+                [12]
+               </a>
+               And they little regarded it, because they had made under the table a secret entrance, and they always came in by it, and consumed those things.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=13-#x">
+                [13]
+               </a>
+               So it came to pass after they were gone out, the king set the meats before Bel: and Daniel commanded his servants, and they brought ashes, and he sifted them all over the temple before the king: and going forth they shut the door, and having sealed it with the king's ring, they departed.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=14-#x">
+                [14]
+               </a>
+               But the priests went in by night, according to their custom, with their wives and their children: and they ate and drank up all.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=15-#x">
+                [15]
+               </a>
+               And the king arose early in the morning, and Daniel with him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=16-#x">
+                [16]
+               </a>
+               And the king said: Are the seals whole, Daniel? And he answered: They are whole, O king.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=17-#x">
+                [17]
+               </a>
+               And as soon as he had opened the door, the king looked upon the table, and cried out with a loud voice: Great art thou, O Bel, and there is not any deceit with thee.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=18-#x">
+                [18]
+               </a>
+               And Daniel laughed: and he held the king that he should not go in: and he said: Behold the pavement, mark whose footsteps these are.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=19-#x">
+                [19]
+               </a>
+               And the king said: I see the footsteps of men, and women, and children. And the king was angry.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=20-#x">
+                [20]
+               </a>
+               Then he took the priests, and their wives, and their children: and they shewed him the private doors by which they came in, and consumed the things that were on the table.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=21-#x">
+                [21]
+               </a>
+               The king therefore put them to death, and delivered Bel into the power of Daniel: who destroyed him, and his temple.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=22-#x">
+                [22]
+               </a>
+               And there was a great dragon in that place, and the Babylonians worshipped him.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=23-#x">
+                [23]
+               </a>
+               And the king said to Daniel: Behold thou canst not say now, that this is not a living god: adore him therefore.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=24-#x">
+                [24]
+               </a>
+               And Daniel said: I adore the Lord my God: for he is the living God: but that is no living god.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=25-#x">
+                [25]
+               </a>
+               But give me leave, O king, and I will kill this dragon without sword or club. And the king said: I give thee leave.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=26-#x">
+                [26]
+               </a>
+               Then Daniel took pitch, and fat, and hair, and boiled them together: and he made lumps, and put them into the dragon's mouth, and the dragon burst asunder. And he said: Behold him whom you worshipped.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=27-#x">
+                [27]
+               </a>
+               And when the Babylonians had heard this, they took great indignation: and being gathered together against the king, they said: The king is become a Jew. He hath destroyed Bel, he hath killed the dragon, and he hath put the priests to death.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=28-#x">
+                [28]
+               </a>
+               And they came to the king, and said: Deliver us Daniel, or else we will destroy thee and thy house.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=29-#x">
+                [29]
+               </a>
+               And the king saw that they pressed upon him violently: and being constrained by necessity he delivered Daniel to them.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=30-#x">
+                [30]
+               </a>
+               And they cast him into
+               <u>
+                the den of lions
+               </u>
+               , and he was there six days.
+              </p>
+              <p class="note">
+               [30]
+               <u>
+                "The den of lions"
+               </u>
+               : Daniel was twice cast into the den of lions; one under Darius the Mede, because he had transgressed the king's edict, by praying three times a day: and another time under Evilmerodach by a sedition of the people. This time he remained six days in the lions' den; the other time only one night.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=31-#x">
+                [31]
+               </a>
+               And in the den there were seven lions, and they had given to them two carcasses every day, and two sheep: but then they were not given unto them, that they might devour Daniel.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=32-#x">
+                [32]
+               </a>
+               Now there was in Judea a prophet called
+               <u>
+                Habacuc
+               </u>
+               , and he had boiled pottage, and had broken bread in a bowl: and was going into the field, to carry it to the reapers.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=33-#x">
+                [33]
+               </a>
+               And the angel of the Lord said to Habacuc: Carry the dinner which thou hast into Babylon to Daniel, who is in the lions' den.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=34-#x">
+                [34]
+               </a>
+               And Habacuc said: Lord, I never saw Babylon, nor do I know the den.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=35-#x">
+                [35]
+               </a>
+               And the angel of the Lord took him by the top of his head, and carried him by the hair of his head, and set him in Babylon over the den in the force of his spirit.
+              </p>
+              <p class="note">
+               [32]
+               <u>
+                "Habacuc"
+               </u>
+               : The same, as some think whose prophecy is found among the lesser prophets but others believe him to be different.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=36-#x">
+                [36]
+               </a>
+               And Habacuc cried, saying: O Daniel, thou servant of God, take the dinner that God hath sent thee.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=37-#x">
+                [37]
+               </a>
+               And Daniel said: Thou hast remembered me, O God, and thou hast not forsaken them that love thee.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=38-#x">
+                [38]
+               </a>
+               And Daniel arose and ate. And the angel of the Lord presently set Habacuc again in his own place.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=39-#x">
+                [39]
+               </a>
+               And upon the seventh day the king came to bewail Daniel: and he came to the den, and looked in, and behold Daniel was sitting in the midst of the lions.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=40-#x">
+                [40]
+               </a>
+               And the king cried out with a loud voice, saying: Great art thou, O Lord the God of Daniel. And he drew him out of the lions' den.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=41-#x">
+                [41]
+               </a>
+               But those that had been the cause of his destruction, he cast into the den, and they were devoured in a moment before him.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=14&amp;l=42-#x">
+                [42]
+               </a>
+               Then the king said: Let all the inhabitants of the whole earth fear the God of Daniel: for he is the Saviour, working signs, and wonders in the earth: who hath delivered Daniel out of the lions' den.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="31001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Daniel
+              </td>
+              <td class="next">
+               <a href="33001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="32013.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 14
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

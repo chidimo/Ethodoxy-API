@@ -1,0 +1,527 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Luke Chapter 15
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/49015.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/49015.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Luke
+           </td>
+           <td class="next">
+            <a href="50001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49014.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 15
+           </td>
+           <td class="next">
+            <a href="49016.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="49001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="49002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="49003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="49004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="49005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="49006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="49007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="49008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="49009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="49010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="49011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="49012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="49013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="49014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             15
+            </td>
+            <td width="30">
+             <a href="49016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="49017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="49018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="49019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="49020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="49021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="49022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="49023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="49024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The parables of the lost sheep and of the prodigal son.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=1-#x">
+                [1]
+               </a>
+               Now the publicans and sinners drew near unto him to hear him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=2-#x">
+                [2]
+               </a>
+               And the Pharisees and the scribes murmured, saying: This man receiveth sinners, and eateth with them.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=3-#x">
+                [3]
+               </a>
+               And he spoke to them this parable, saying:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=4-#x">
+                [4]
+               </a>
+               What man of you that hath an hundred sheep: and if he shall lose one of them, doth he not leave the ninety-nine in the desert, and go after that which was lost, until he find it?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=5-#x">
+                [5]
+               </a>
+               And when he hath found it, lay it upon his shoulders, rejoicing:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=6-#x">
+                [6]
+               </a>
+               And coming home, call together his friends and neighbours, saying to them: Rejoice with me, because I have found my sheep that was lost?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=7-#x">
+                [7]
+               </a>
+               I say to you, that even so there shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=8-#x">
+                [8]
+               </a>
+               Or what woman having ten groats; if she lose one groat, doth not light a candle, and sweep the house, and seek diligently until she find it?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=9-#x">
+                [9]
+               </a>
+               And when she hath found it, call together her friends and neighbours, saying: Rejoice with me, because I have found the groat which I had lost.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=10-#x">
+                [10]
+               </a>
+               So I say to you, there shall be joy
+               <u>
+                before the angels
+               </u>
+               of God upon one sinner doing penance.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "Before the angels"
+               </u>
+               : By this it is plain that the spirits in heaven have a concern for us below, and a joy at our repentance and consequently a knowledge of it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=11-#x">
+                [11]
+               </a>
+               And he said: A certain man had two sons:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=12-#x">
+                [12]
+               </a>
+               And the younger of them said to his father: Father, give me the portion of substance that falleth to me. And he divided unto them his substance.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=13-#x">
+                [13]
+               </a>
+               And not many days after, the younger son, gathering all together, went abroad into a far country: and there wasted his substance, living riotously.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=14-#x">
+                [14]
+               </a>
+               And after he had spent all, there came a mighty famine in that country; and he began to be in want.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=15-#x">
+                [15]
+               </a>
+               And he went and cleaved to one of the citizens of that country. And he sent him into his farm to feed swine.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=16-#x">
+                [16]
+               </a>
+               And he would fain have filled his belly with the husks the swine did eat; and no man gave unto him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=17-#x">
+                [17]
+               </a>
+               And returning to himself, he said: How many hired servants in my father's house abound with bread, and I here perish with hunger?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=18-#x">
+                [18]
+               </a>
+               I will arise, and will go to my father, and say to him: Father, I have sinned against heaven, and before thee:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=19-#x">
+                [19]
+               </a>
+               I am not worthy to be called thy son: make me as one of thy hired servants.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=20-#x">
+                [20]
+               </a>
+               And rising up he came to his father. And when he was yet a great way off, his father saw him, and was moved with compassion, and running to him fell upon his neck, and kissed him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=21-#x">
+                [21]
+               </a>
+               And the son said to him: Father, I have sinned against heaven, and before thee, I am not now worthy to be called thy son.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=22-#x">
+                [22]
+               </a>
+               And the father said to his servants: Bring forth quickly the first robe, and put it on him, and put a ring on his hand, and shoes on his feet:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=23-#x">
+                [23]
+               </a>
+               And bring hither the fatted calf, and kill it, and let us eat and make merry:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=24-#x">
+                [24]
+               </a>
+               Because this my son was dead, and is come to life again: was lost, and is found. And they began to be merry.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=25-#x">
+                [25]
+               </a>
+               Now his elder son was in the field, and when he came and drew nigh to the house, he heard music and dancing:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=26-#x">
+                [26]
+               </a>
+               And he called one of the servants, and asked what these things meant.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=27-#x">
+                [27]
+               </a>
+               And he said to him: Thy brother is come, and thy father hath killed the fatted calf, because he hath received him safe.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=28-#x">
+                [28]
+               </a>
+               And he was angry, and would not go in. His father therefore coming out began to entreat him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=29-#x">
+                [29]
+               </a>
+               And he answering, said to his father: Behold, for so many years do I serve thee, and I have never transgressed thy commandment, and yet thou hast never given me a kid to make merry with my friends:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=30-#x">
+                [30]
+               </a>
+               But as soon as this thy son is come, who hath devoured his substance with harlots, thou hast killed for him the fatted calf.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=31-#x">
+                [31]
+               </a>
+               But he said to him: Son, thou art always with me, and all I have is thine.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=15&amp;l=32-#x">
+                [32]
+               </a>
+               But it was fit that we should make merry and be glad, for this thy brother was dead and is come to life again; he was lost, and is found.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Luke
+              </td>
+              <td class="next">
+               <a href="50001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49014.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 15
+              </td>
+              <td class="next">
+               <a href="49016.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

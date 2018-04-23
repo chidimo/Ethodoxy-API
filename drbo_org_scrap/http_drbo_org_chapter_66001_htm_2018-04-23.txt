@@ -1,0 +1,417 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, James Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/66001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/66001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="65001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Epistle Of Saint James
+         </td>
+         <td class="next">
+          <a href="67001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="66002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="66002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="66003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="66004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="66005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The benefit of tribulations. Prayer with faith. God is the author of all good, but not of evil. We must be slow to anger and not hearers only, but doers of the word. Of bridling the tongue and of pure religion.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             James the servant of God, and of our Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             My brethren, count it all joy, when you shall fall
+             <u>
+              into divers temptations
+             </u>
+             ;
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             Knowing that the trying of your faith worketh patience.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And patience hath a perfect work; that you may be perfect and entire, failing in nothing.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             But if any of you want wisdom, let him ask of God, who giveth to all men abundantly, and upbraideth not; and it shall be given him.
+            </p>
+            <p class="note">
+             [2]
+             <u>
+              "Into divers temptations"
+             </u>
+             : The word temptation, in this epistle, is sometimes taken for trials by afflictions or persecutions, as in this place: at other times, it is to be understood, tempting, enticing, or drawing others into sin.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea, which is moved and carried about by the wind.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             Therefore let not that man think that he shall receive any thing of the Lord.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             A double minded man is inconstant in all his ways.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             But let the brother of low condition glory in his exaltation:
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And the rich, in his being low; because as the flower of the grass shall he pass away.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             For the sun rose with a burning heat, and parched the grass, and the flower thereof fell off, and the beauty of the shape thereof perished: so also shall the rich man fade away in his ways.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             Blessed is the man that endureth temptation; for when he hath been proved, he shall receive a crown of life, which God hath promised to them that love him.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Let no man, when he is tempted, say that he is tempted by God. For God is not a tempter of evils, and he tempteth no man.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             But every man is tempted by his own concupiscence, being drawn away and allured.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             Then when concupiscence hath conceived, it bringeth forth sin. But sin, when it is completed, begetteth death.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             Do not err, therefore, my dearest brethren.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             Every best gift, and every perfect gift, is from above, coming down from the Father of lights, with whom there is no change, nor shadow of alteration.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             For of his own will hath he begotten us by the word of truth, that we might be
+             <u>
+              some beginning
+             </u>
+             of his creatures.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             You know, my dearest brethren. And let every man be swift to hear, but slow to speak, and slow to anger.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             For the anger of man worketh not the justice of God.
+            </p>
+            <p class="note">
+             [18]
+             <u>
+              "Some beginning"
+             </u>
+             : That is, a kind of first fruits of his creatures.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             Wherefore casting away all uncleanness, and abundance of naughtiness, with meekness receive the ingrafted word, which is able to save your souls.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             But be ye doers of the word, and not hearers only, deceiving your own selves.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             For if a man be a hearer of the word, and not a doer, he shall be compared to a man beholding his own countenance in a glass.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             For he beheld himself, and went his way, and presently forgot what manner of man he was.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             But he that hath looked into the perfect law of liberty, and hath continued therein, not becoming a forgetful hearer, but a doer of the work; this man shall be blessed in his deed.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             And if any man think himself to be religious, not bridling his tongue, but deceiving his own heart, this man's religion is vain.
+             <a href="/x/d?b=drb&amp;bk=66&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation: and to keep one's self unspotted from this world.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="65001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Epistle Of Saint James
+            </td>
+            <td class="next">
+             <a href="67001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="66002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

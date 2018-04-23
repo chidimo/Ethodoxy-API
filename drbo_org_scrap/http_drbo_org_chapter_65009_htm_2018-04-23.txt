@@ -1,0 +1,501 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Hebrews Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/65009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/65009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="64001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Hebrews
+           </td>
+           <td class="next">
+            <a href="66001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="65008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="65010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="65001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="65002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="65003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="65004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="65005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="65006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="65007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="65008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="65010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="65011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="65012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="65013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The sacrifices of the law were far inferior to that of Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               The former indeed had also justifications of divine service, and a worldly sanctuary.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               For there was a tabernacle made the first, wherein were the candlesticks, and the table, and the setting forth of loaves, which is called the holy.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               And after the second veil, the tabernacle, which is called the holy of holies:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               Having a golden censer, and the ark of the testament covered about on every part with gold, in which was a golden pot that had manna, and the rod of Aaron, that had blossomed, and the tables of the testament.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               And over it were the cherubims of glory overshadowing the propitiatory: of which it is not needful to speak now particularly.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               Now these things being thus ordered, into the first tabernacle the priests indeed always entered, accomplishing the offices of sacrifices.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               But into the second, the high priest alone, once a year: not without blood, which he offereth for his own, and the people's ignorance:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               The Holy Ghost signifying this, that the way into the holies was not yet made manifest, whilst the former tabernacle was yet standing.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               Which is a parable of the time present: according to which gifts and sacrifices are offered, which can not, as to the conscience, make him perfect that serveth, only in meats and in drinks,
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And divers washings, and justices of the flesh laid on them until the time
+               <u>
+                of correction
+               </u>
+               .
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "Of correction"
+               </u>
+               : Viz., when Christ should correct and settle all things.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               But Christ, being come an high priest of the good things to come, by a greater and more perfect tabernacle not made with hand, that is, not of this creation:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               Neither by the blood of goats, or of calves, but by his own blood, entered once into the holies, having obtained
+               <u>
+                eternal redemption
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               For if the blood of goats and of oxen, and the ashes of an heifer being sprinkled, sanctify such as are defiled, to the cleansing of the flesh:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               How much more shall the blood of Christ, who by the Holy Ghost offered himself unspotted unto God, cleanse our conscience from dead works, to serve the living God?
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               And therefore he is the mediator of the new testament: that by means of his death, for the redemption of those transgressions, which were under the former testament, they that are called may receive the promise of eternal inheritance.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "Eternal redemption"
+               </u>
+               : By that one sacrifice of his blood, once offered on the cross, Christ our Lord paid and exhibited, once for all, the general price and ransom of all mankind: which no other priest could do.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               For where there is a testament, the death of the testator must of necessity come in.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               For a testament is of force, after men are dead: otherwise it is as yet of no strength, whilst the testator liveth.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               Whereupon neither was the first indeed dedicated without blood.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               For when every commandment of the law had been read by Moses to all the people, he took the blood of calves and goats, with water, and scarlet wool and hyssop, and sprinkled both the book itself and all the people,
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               Saying: This is the blood of the testament, which God hath enjoined unto you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               The tabernacle also and all the vessels of the ministry, in like manner, he sprinkled with blood.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               And almost all things, according to the law, are cleansed with blood: and without shedding of blood there is no remission.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               It is necessary therefore that the patterns of heavenly things should be cleansed with these: but the heavenly things themselves with better sacrifices than these.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               For Jesus is not entered into the holies made with hands, the patterns of the true: but into heaven itself, that he may appear now in the presence of God for us.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               Nor yet that he should
+               <u>
+                offer himself often
+               </u>
+               , as the high priest entereth into the holies, every year with the blood of others:
+              </p>
+              <p class="note">
+               [25]
+               <u>
+                "Offer himself often"
+               </u>
+               : Christ shall never more offer himself in sacrifice, in that violent, painful, and bloody manner, nor can there be any occasion for it: since by that one sacrifice upon the cross, he has furnished the full ransom, redemption, and remedy for all the sins of the world. But this hinders not that he may offer himself daily in the sacred mysteries in an unbloody manner, for the daily application of that one sacrifice of redemption to our souls.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               For then he ought to have suffered often from the beginning of the world: but now once at the end of ages, he hath appeared for the destruction of sin, by the sacrifice of himself.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               And as it is appointed unto men once to die, and after this the judgment:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               So also Christ was offered once
+               <u>
+                to exhaust
+               </u>
+               the sins of many; the second time he shall appear without sin to them that expect him unto salvation.
+              </p>
+              <p class="note">
+               [28]
+               <u>
+                "To exhaust"
+               </u>
+               : That is, to empty, or draw out to the very bottom, by a plentiful and perfect redemption.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="64001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Hebrews
+              </td>
+              <td class="next">
+               <a href="66001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="65008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="65010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

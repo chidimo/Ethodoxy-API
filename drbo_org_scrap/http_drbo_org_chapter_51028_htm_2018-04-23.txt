@@ -1,0 +1,526 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Acts Of Apostles Chapter 28
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/51028.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/51028.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            The Acts Of The Apostles
+           </td>
+           <td class="next">
+            <a href="52001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51027.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 28
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="51001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="51002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="51003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="51004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="51005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="51006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="51007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="51008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="51009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="51010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="51011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="51012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="51013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="51014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="51015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="51016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="51017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="51018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="51019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="51020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="51021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="51022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="51023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="51024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="51025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="51026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="51027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             28
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Paul, after three months' stay in Melita, continues his voyage and arrives at Rome. His conference there with the Jews.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=1-#x">
+                [1]
+               </a>
+               And when we had escaped, then we knew that the island was called Melita. But the barbarians shewed us no small courtesy.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=2-#x">
+                [2]
+               </a>
+               For kindling a fire, they refreshed us all, because of the present rain, and of the cold.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=3-#x">
+                [3]
+               </a>
+               And when Paul had gathered together a bundle of sticks, and had laid them on the fire, a viper coming out of the heat, fastened on his hand.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=4-#x">
+                [4]
+               </a>
+               And when the barbarians saw the beast hanging on his hand, they said one to another: Undoubtedly this man is a murderer, who though he hath escaped the sea, yet vengeance doth not suffer him to live.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=5-#x">
+                [5]
+               </a>
+               And he indeed shaking off the beast into the fire, suffered no harm.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=6-#x">
+                [6]
+               </a>
+               But they supposed that he would begin to swell up, and that he would suddenly fall down and die. But expecting long, and seeing that there came no harm to him, changing their minds, they said, that he was a god.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=7-#x">
+                [7]
+               </a>
+               Now in these places were possessions of the chief man of the island, named Publius, who receiving us, for three days entertained us courteously.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=8-#x">
+                [8]
+               </a>
+               And it happened that the father of Publius lay sick of a fever, and of a bloody flux. To whom Paul entered in; and when he had prayed, and laid his hands on him, he healed him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=9-#x">
+                [9]
+               </a>
+               Which being done, all that had diseases in the island, came and were healed:
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=10-#x">
+                [10]
+               </a>
+               Who also honoured us with many honours, and when we were to set sail, they laded us with such things as were necessary.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=11-#x">
+                [11]
+               </a>
+               And after three months, we sailed in a ship of Alexandria, that had wintered in the island, whose sign was the Castors.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=12-#x">
+                [12]
+               </a>
+               And when we were come to Syracusa, we tarried there three days.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=13-#x">
+                [13]
+               </a>
+               From thence, compassing by the shore, we came to Rhegium: and after one day, the south wind blowing, we came the second day to Puteoli;
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=14-#x">
+                [14]
+               </a>
+               Where, finding brethren, we were desired to tarry with them seven days: and so we went to Rome.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=15-#x">
+                [15]
+               </a>
+               And from thence, when the brethren had heard of us, they came to meet us as far as Appii Forum, and the Three Taverns: whom when Paul saw, he gave thanks to God, and took courage.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=16-#x">
+                [16]
+               </a>
+               And when we were come to Rome, Paul was suffered to dwell by himself, with a soldier that kept him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=17-#x">
+                [17]
+               </a>
+               And after the third day, he called together the chief of the Jews. And when they were assembled, he said to them: Men, brethren, I, having done nothing against the people, or the custom of our fathers, was delivered prisoner from Jerusalem into the hands of the Romans;
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=18-#x">
+                [18]
+               </a>
+               Who, when they had examined me, would have released me, for that there was no cause of death in me;
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=19-#x">
+                [19]
+               </a>
+               But the Jews contradicting it, I was constrained to appeal unto Caesar; not that I had any thing to accuse my nation of.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=20-#x">
+                [20]
+               </a>
+               For this cause therefore I desired to see you, and to speak to you. Because that for the hope of Israel, I am bound with this chain.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=21-#x">
+                [21]
+               </a>
+               But they said to him: We neither received letters concerning thee from Judea, neither did any of the brethren that came hither, relate or speak any evil of thee.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=22-#x">
+                [22]
+               </a>
+               But we desire to hear of thee what thou thinkest; for as concerning this sect, we know that it is everywhere contradicted.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=23-#x">
+                [23]
+               </a>
+               And when they had appointed him a day, there came very many to him unto his lodgings; to whom he expounded, testifying the kingdom of God, and persuading them concerning Jesus, out of the law of Moses and the prophets, from morning until evening.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=24-#x">
+                [24]
+               </a>
+               And some believed the things that were said; but some believed not.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=25-#x">
+                [25]
+               </a>
+               And when they agreed not among themselves, they departed, Paul speaking this one word: Well did the Holy Ghost speak to our fathers by Isaias the prophet,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=26-#x">
+                [26]
+               </a>
+               Saying: Go to this people, and say to them: With the ear you shall hear, and shall not understand; and seeing you shall see, and shall not perceive.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=27-#x">
+                [27]
+               </a>
+               For the heart of this people is grown gross, and with their ears have they heard heavily, and their eyes they have shut; lest perhaps they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=28-#x">
+                [28]
+               </a>
+               Be it known therefore to you, that this salvation of God is sent to the Gentiles, and they will hear it.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=29-#x">
+                [29]
+               </a>
+               And when he had said these things, the Jews went out from him, having much reasoning among themselves.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=30-#x">
+                [30]
+               </a>
+               And he remained two whole years in his own hired lodging; and he received all that came in to him,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=28&amp;l=31-#x">
+                [31]
+               </a>
+               Preaching the kingdom of God, and teaching the things which concern the Lord Jesus Christ, with all confidence, without prohibition.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               The Acts Of The Apostles
+              </td>
+              <td class="next">
+               <a href="52001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51027.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 28
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

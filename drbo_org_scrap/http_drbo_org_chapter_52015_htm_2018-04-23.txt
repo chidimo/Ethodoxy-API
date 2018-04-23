@@ -1,0 +1,497 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Romans Chapter 15
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/52015.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/52015.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Romans
+           </td>
+           <td class="next">
+            <a href="53001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52014.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 15
+           </td>
+           <td class="next">
+            <a href="52016.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="52001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="52002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="52003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="52004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="52005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="52006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="52007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="52008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="52009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="52010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="52011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="52012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="52013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="52014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             15
+            </td>
+            <td width="30">
+             <a href="52016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               He exhorts them to be all of one mind and promises to come and see them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=1-#x">
+                [1]
+               </a>
+               Now we that are stronger, ought to bear the infirmities of the weak, and not to please ourselves.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=2-#x">
+                [2]
+               </a>
+               Let every one of you please his neighbour unto good, to edification.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=3-#x">
+                [3]
+               </a>
+               For Christ did not please himself, but as it is written: The reproaches of them that reproached thee, fell upon me.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=4-#x">
+                [4]
+               </a>
+               For what things soever were written, were written for our learning: that through patience and the comfort of the scriptures, we might have hope.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=5-#x">
+                [5]
+               </a>
+               Now the God of patience and of comfort grant you to be of one mind one towards another, according to Jesus Christ:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=6-#x">
+                [6]
+               </a>
+               That with one mind, and with one mouth, you may glorify God and the Father of our Lord Jesus Christ.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=7-#x">
+                [7]
+               </a>
+               Wherefore receive one another, as Christ also hath received you unto the honour of God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=8-#x">
+                [8]
+               </a>
+               For I say that Christ Jesus was
+               <u>
+                minister of the circumcision
+               </u>
+               for the truth of God, to confirm the promises made unto the fathers.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=9-#x">
+                [9]
+               </a>
+               But that the Gentiles are to glorify God for his mercy, as it is written: Therefore will I confess to thee, O Lord, among the Gentiles, and will sing to thy name.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=10-#x">
+                [10]
+               </a>
+               And again he saith: Rejoice, ye Gentiles, with his people.
+              </p>
+              <p class="note">
+               [8]
+               <u>
+                "Minister of the circumcision"
+               </u>
+               : That is, executed his office and ministry towards the Jews, the people of the circumcision.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=11-#x">
+                [11]
+               </a>
+               And again: Praise the Lord, all ye Gentiles; and magnify him, all ye people.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=12-#x">
+                [12]
+               </a>
+               And again Isaias saith: There shall be a root of Jesse; and he that shall rise up to rule the Gentiles, in him the Gentiles shall hope.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=13-#x">
+                [13]
+               </a>
+               Now the God of hope fill you with all joy and peace in believing; that you may abound in hope, and in the power of the Holy Ghost.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=14-#x">
+                [14]
+               </a>
+               And I myself also, my brethren, am assured of you, that you also are full of love, replenished with all knowledge, so that you are able to admonish one another.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=15-#x">
+                [15]
+               </a>
+               But I have written to you, brethren, more boldly in some sort, as it were putting you in mind: because of the grace which is given me from God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=16-#x">
+                [16]
+               </a>
+               That I should be the minister of Christ Jesus among the Gentiles; sanctifying the gospel of God, that the oblation of the Gentiles may be made acceptable and sanctified in the Holy Ghost.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=17-#x">
+                [17]
+               </a>
+               I have therefore glory in Christ Jesus towards God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=18-#x">
+                [18]
+               </a>
+               For I dare not to speak of any of those things which Christ worketh not by me, for the obedience of the Gentiles, by word and deed,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=19-#x">
+                [19]
+               </a>
+               By the virtue of signs and wonders, in the power of the Holy Ghost, so that from Jerusalem round about as far as unto Illyricum, I have replenished the gospel of Christ.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=20-#x">
+                [20]
+               </a>
+               And I have so preached this gospel, not where Christ was named, lest I should build upon another man's foundation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=21-#x">
+                [21]
+               </a>
+               But as it is written: They to whom he was not spoken of, shall see, and they that have not heard shall understand.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=22-#x">
+                [22]
+               </a>
+               For which cause also I was hindered very much from coming to you, and have been kept away till now.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=23-#x">
+                [23]
+               </a>
+               But now having no more place in these countries, and having a great desire these many years past to come unto you,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=24-#x">
+                [24]
+               </a>
+               When I shall begin to take my journey into Spain, I hope that as I pass, I shall see you, and be brought on my way thither by you, if first, in part, I shall have enjoyed you:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=25-#x">
+                [25]
+               </a>
+               But now I shall go to Jerusalem, to minister unto the saints.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=26-#x">
+                [26]
+               </a>
+               For it hath pleased them of Macedonia and Achaia to make a contribution for the poor of the saints that are in Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=27-#x">
+                [27]
+               </a>
+               For it hath pleased them; and they are their debtors. For if the Gentiles have been made partakers of their spiritual things, they ought also in carnal things to minister to them.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=28-#x">
+                [28]
+               </a>
+               When therefore I shall have accomplished this, and consigned to them this fruit, I will come by you into Spain.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=29-#x">
+                [29]
+               </a>
+               And I know, that when I come to you, I shall come in the abundance of the blessing of the gospel of Christ.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=30-#x">
+                [30]
+               </a>
+               I beseech you therefore, brethren, through our Lord Jesus Christ, and by the charity of the Holy Ghost, that you help me in your prayers for me to God,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=31-#x">
+                [31]
+               </a>
+               That I may be delivered from the unbelievers that are in Judea, and that the oblation of my service may be acceptable in Jerusalem to the saints.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=32-#x">
+                [32]
+               </a>
+               That I may come to you with joy, by the will of God, and may be refreshed with you.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=15&amp;l=33-#x">
+                [33]
+               </a>
+               Now the God of peace be with you all. Amen.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Romans
+              </td>
+              <td class="next">
+               <a href="53001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52014.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 15
+              </td>
+              <td class="next">
+               <a href="52016.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

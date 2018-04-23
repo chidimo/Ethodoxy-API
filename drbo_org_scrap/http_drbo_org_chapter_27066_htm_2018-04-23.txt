@@ -1,0 +1,741 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Isaias (Isaiah) Chapter 66
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/27066.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/27066.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="26001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Isaias (Isaiah)
+           </td>
+           <td class="next">
+            <a href="28001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="27065.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 66
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="27001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="27002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="27003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="27004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="27005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="27006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="27007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="27008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="27009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="27010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="27011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="27012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="27013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="27014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="27015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="27016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="27017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="27018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="27019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="27020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="27021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="27022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="27023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="27024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="27025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="27026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="27027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="27028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="27029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="27030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="27031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="27032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="27033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="27034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="27035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="27036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="27037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="27038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="27039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="27040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="27041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="27042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="27043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="27044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="27045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="27046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="27047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="27048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="27049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="27050.htm">
+              50
+             </a>
+            </td>
+            <td width="30">
+             <a href="27051.htm">
+              51
+             </a>
+            </td>
+            <td width="30">
+             <a href="27052.htm">
+              52
+             </a>
+            </td>
+            <td width="30">
+             <a href="27053.htm">
+              53
+             </a>
+            </td>
+            <td width="30">
+             <a href="27054.htm">
+              54
+             </a>
+            </td>
+            <td width="30">
+             <a href="27055.htm">
+              55
+             </a>
+            </td>
+            <td width="30">
+             <a href="27056.htm">
+              56
+             </a>
+            </td>
+            <td width="30">
+             <a href="27057.htm">
+              57
+             </a>
+            </td>
+            <td width="30">
+             <a href="27058.htm">
+              58
+             </a>
+            </td>
+            <td width="30">
+             <a href="27059.htm">
+              59
+             </a>
+            </td>
+            <td width="30">
+             <a href="27060.htm">
+              60
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="27061.htm">
+              61
+             </a>
+            </td>
+            <td width="30">
+             <a href="27062.htm">
+              62
+             </a>
+            </td>
+            <td width="30">
+             <a href="27063.htm">
+              63
+             </a>
+            </td>
+            <td width="30">
+             <a href="27064.htm">
+              64
+             </a>
+            </td>
+            <td width="30">
+             <a href="27065.htm">
+              65
+             </a>
+            </td>
+            <td width="30">
+             66
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               More of the reprobation of the Jews, and of the call of the Gentiles.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=1-#x">
+                [1]
+               </a>
+               Thus saith the Lord: Heaven is my throne, and the earth my footstool:
+               <u>
+                what is this house
+               </u>
+               that you will build to me? and what is this place of my rest?
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=2-#x">
+                [2]
+               </a>
+               My hand made all these things, and all these things were made, saith the Lord. But to whom shall I have respect, but to him that is poor and little, and of a contrite spirit, and that trembleth at my words?
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=3-#x">
+                [3]
+               </a>
+               <u>
+                He that sacrificeth an ox
+               </u>
+               , is as if he slew a man: he that killeth a sheep in sacrifice, as if he should brain a dog: he that offereth an oblation, as if he should offer swine's blood; he that
+               <u>
+                remembereth incense
+               </u>
+               , as if he should bless an idol. All these things have they chosen in their ways, and their soul is delighted in their abominations.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=4-#x">
+                [4]
+               </a>
+               Wherefore I also
+               <u>
+                will choose their mockeries
+               </u>
+               , and will bring upon them the things they feared: because I called, and there was none that would answer; I have spoken, and they heard not; and they have done evil in my eyes, and have chosen the things that displease me.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=5-#x">
+                [5]
+               </a>
+               Hear the word of the Lord, you that tremble at his word: Your brethren that hate you, and cast you out for my name's sake, have said: Let the Lord be glorified, and we shall see in your joy: but they shall be confounded.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "What is this house"
+               </u>
+               : This is a prophecy that the temple should be cast off.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "He that sacrificeth an ox"
+               </u>
+               : This is a prophecy that the sacrifices which were offered in the old law should be abolished in the new; and that the offering of them should be a crime.-- Ibid.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Remembereth incense"
+               </u>
+               : Viz., to offer it in the way of a sacrifice.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Will choose their mockeries"
+               </u>
+               : I will turn their mockeries upon themselves; and will cause them to be mocked by their enemies.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=6-#x">
+                [6]
+               </a>
+               A voice of the people from the city, a voice from the temple, the voice of the Lord that rendereth recompense to his enemies.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=7-#x">
+                [7]
+               </a>
+               <u>
+                Before she was in labour
+               </u>
+               , she brought forth; before her time came to be delivered, she brought forth a man child.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=8-#x">
+                [8]
+               </a>
+               Who hath ever heard such a thing? and who hath seen the like to this? shall the earth bring forth in one day? or shall a nation be brought forth at once, because Sion hath been in labour, and hath brought forth her children?
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=9-#x">
+                [9]
+               </a>
+               Shall not I that make others to bring forth children, myself bring forth, saith the Lord? shall I, that give generation to others, be barren, saith the Lord thy God?
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=10-#x">
+                [10]
+               </a>
+               Rejoice with Jerusalem, and be glad with her, all you that love her: rejoice for joy with her, all you that mourn for her.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Before she was in labour"
+               </u>
+               : This relates to the conversion of the Gentiles, who were born, as it were, all on a sudden to the church of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=11-#x">
+                [11]
+               </a>
+               That you may suck, and be filled with the breasts of her consolations: that you may milk out, and flow with delights, from the abundance of her glory.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=12-#x">
+                [12]
+               </a>
+               For thus saith the Lord: Behold I will bring upon her as it were a river of peace, and as an overflowing torrent the glory of the Gentiles, which you shall suck; you shall be carried at the breasts, and upon the knees they shall caress you.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=13-#x">
+                [13]
+               </a>
+               As one whom the mother caresseth, so will I comfort you, and you shall be comforted in Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=14-#x">
+                [14]
+               </a>
+               You shall see and your heart shall rejoice, and your bones shall flourish like an herb, and the hand of the Lord shall be known to his servants, and he shall be angry with his enemies.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=15-#x">
+                [15]
+               </a>
+               For behold the Lord will come with fire, and his chariots are like a whirlwind, to render his wrath in indignation, and his rebuke with flames of fire.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=16-#x">
+                [16]
+               </a>
+               For the Lord shall judge by fire, and by his sword unto all flesh, and the slain of the Lord shall be many.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=17-#x">
+                [17]
+               </a>
+               They that were sanctified, and thought themselves clean in the gardens behind the gate within, they that did eat swine's flesh, and the abomination, and the mouse: they shall be consumed together, saith the Lord.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=18-#x">
+                [18]
+               </a>
+               But I know their works, and their thoughts: I come that I may gather them together with all nations and tongues: and they shall come and shall see my glory.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=19-#x">
+                [19]
+               </a>
+               And I will set a sign among them, and I will send of them that shall be saved, to the Gentiles into the sea, into Africa, and Lydia them that draw the bow: into Italy, and Greece, to the islands afar off, to them that have not heard of me, and have not seen my glory. And they shall declare my glory to the Gentiles:
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=20-#x">
+                [20]
+               </a>
+               And they shall bring all your brethren out of all nations for a gift to the Lord, upon horses, and in chariots, and in litters, and on mules, and in coaches, to my holy mountain Jerusalem, saith the Lord, as if the children of Israel should bring an offering in a clean vessel into the house of the Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=21-#x">
+                [21]
+               </a>
+               And I will take of them to be priests, and Levites, saith the Lord.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=22-#x">
+                [22]
+               </a>
+               For as the new heavens, and the new earth, which I will make to stand before me, saith the Lord: so shall your seed stand, and your name.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=23-#x">
+                [23]
+               </a>
+               And there shall be month after month, and sabbath after sabbath: and all flesh shall come to adore before my face, saith the Lord.
+               <a href="/x/d?b=drb&amp;bk=27&amp;ch=66&amp;l=24-#x">
+                [24]
+               </a>
+               And they shall go out, and see the carcasses of the men that have transgressed against me: their worm shall not die, and their fire shall not be quenched: and they shall be a loathsome sight to all flesh.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="26001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Isaias (Isaiah)
+              </td>
+              <td class="next">
+               <a href="28001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="27065.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 66
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

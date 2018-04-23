@@ -1,0 +1,506 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Leviticus Chapter 21
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/03021.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/03021.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Leviticus
+           </td>
+           <td class="next">
+            <a href="04001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03020.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 21
+           </td>
+           <td class="next">
+            <a href="03022.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="03001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="03002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="03003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="03004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="03005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="03006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="03007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="03008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="03009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="03010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="03011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="03012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="03013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="03014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="03015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="03016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="03017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="03018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="03019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="03020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             21
+            </td>
+            <td width="30">
+             <a href="03022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="03023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="03024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="03025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="03026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="03027.htm">
+              27
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Ordinances relating to the priests.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=1-#x">
+                [1]
+               </a>
+               The Lord said also to Moses: Speak to the priests the sons of Aaron, and thou shalt say to them: Let not a priest incur
+               <u>
+                an uncleanness
+               </u>
+               at the death of his citizens:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=2-#x">
+                [2]
+               </a>
+               But only for his kin, such as are near in blood, that is to say, for his father and for his mother, and for his son, and for his daughter, for his brother also,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=3-#x">
+                [3]
+               </a>
+               And for a maiden sister, who hath had no husband:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=4-#x">
+                [4]
+               </a>
+               But not even for the prince of his people shall he do any thing that may make him unclean.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=5-#x">
+                [5]
+               </a>
+               Neither shall they shave their head, nor their beard, nor make incisions in their flesh.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "An uncleanness"
+               </u>
+               : Viz., such as was contracted in laying out the dead body, or touching it; or in going into the house, or assisting at the funeral, etc.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=6-#x">
+                [6]
+               </a>
+               They shall be holy to their God, and shall not profane his name: for they offer the burnt offering of the Lord, and the bread of their God, and therefore they shall be holy.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=7-#x">
+                [7]
+               </a>
+               They shall not take to wife a harlot or a vile prostitute, nor one that has been put away from her husband: because they are consecrated to their God,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=8-#x">
+                [8]
+               </a>
+               And offer the leaves of proposition. Let them therefore be holy, because I also am holy, the Lord, who sanctify them.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=9-#x">
+                [9]
+               </a>
+               If the daughter of a priest be taken in whoredom, and dishonour the name of her father, she shall be burnt with fire.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=10-#x">
+                [10]
+               </a>
+               The high priest, that is to say, the priest, is the greatest among his brethren. upon whose head the oil of unction hath been poured, and whose hands have been consecrated for the priesthood, and who hath been vested with the holy vestments, shall not uncover his head, he shall not rend his garments:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=11-#x">
+                [11]
+               </a>
+               Nor shall he go in at all to any dead person: not even for his father, or his mother, shall he be defiled:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=12-#x">
+                [12]
+               </a>
+               Neither shall he go out of the holy places, lest he defile the sanctuary of the Lord, because the oil of the holy unction of his God is upon him. I am the Lord.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=13-#x">
+                [13]
+               </a>
+               He shall take a virgin unto his wife:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=14-#x">
+                [14]
+               </a>
+               But a widow or one that is divorced, or defiled, or a harlot, he shall not take, but a maid of his own people:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=15-#x">
+                [15]
+               </a>
+               He shall not mingle the stock of his kindred with the common people of his nation: for I am the Lord who sanctify him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=16-#x">
+                [16]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=17-#x">
+                [17]
+               </a>
+               Say to Aaron: Whosoever of thy seed throughout their families, hath a blemish, he shall not offer bread to his God.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=18-#x">
+                [18]
+               </a>
+               Neither shall he approach to minister to him: If he be blind, if he be lame, if he have a little, or a great, or a crooked nose,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=19-#x">
+                [19]
+               </a>
+               If his foot, or if his hand be broken,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=20-#x">
+                [20]
+               </a>
+               If he be crookbacked, or blear eyed, or have a pearl in his eye, or a continual scab, or a dry scurf in his body, or a rupture:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=21-#x">
+                [21]
+               </a>
+               Whosoever of the seed of Aaron the priest hath a blemish, he shall not approach to offer sacrifices to the Lord, nor bread to his God.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=22-#x">
+                [22]
+               </a>
+               He shall eat nevertheless of the loaves, that are offered in the sanctuary,
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=23-#x">
+                [23]
+               </a>
+               Yet so that he enter not within the veil, nor approach to the altar, because he hath a blemish, and he must not defile my sanctuary. I am the Lord who sanctify them.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=21&amp;l=24-#x">
+                [24]
+               </a>
+               Moses therefore spoke to Aaron, and to his sons and to all Israel, all the things that had been commanded him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Leviticus
+              </td>
+              <td class="next">
+               <a href="04001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03020.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 21
+              </td>
+              <td class="next">
+               <a href="03022.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

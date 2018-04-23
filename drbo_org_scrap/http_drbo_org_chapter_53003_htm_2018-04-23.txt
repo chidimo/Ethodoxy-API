@@ -1,0 +1,453 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Corinthians Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/53003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/53003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint Paul To The Corinthians
+           </td>
+           <td class="next">
+            <a href="54001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="53002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="53004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="53001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="53002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="53004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="53005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="53006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="53007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="53008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="53009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="53010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="53011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="53012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="53013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="53014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="53015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="53016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               They must not contend about their teachers, who are but God's ministers and accountable to him. Their works shall be tried by fire.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               And I, brethren, could not speak to you as unto spiritual, but as unto carnal. As unto little ones in Christ.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               I gave you milk to drink, not meat; for you were not able as yet. But neither indeed are you now able; for you are yet carnal.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               For, whereas there is among you envying and contention, are you not carnal, and walk according to man?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               For while one saith, I indeed am of Paul; and another, I am of Apollo; are you not men? What then is Apollo, and what is Paul?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               The ministers of him whom you have believed; and to every one as the Lord hath given.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               I have planted, Apollo watered, but God gave the increase.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Therefore, neither he that planteth is any thing, nor he that watereth; but God that giveth the increase.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               Now he that planteth, and he that watereth, are one. And every man shall receive his own reward, according to his own labour.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               For we are God's coadjutors: you are God's husbandry; you are God's building.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               According to the grace of God that is given to me, as a wise architect, I have laid the foundation; and another buildeth thereon. But let every man take heed how he buildeth thereupon.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               For other foundation no man can lay, but that which is laid; which is Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               Now if any man build
+               <u>
+                upon this foundation
+               </u>
+               , gold, silver, precious stones, wood, hay, stubble:
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Every man's work shall be manifest; for the day of the Lord shall declare it, because it shall be revealed in fire; and the fire shall try every man's work, of what sort it is.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               If any man's work abide, which he hath built thereupon, he shall receive a reward.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               If any man's work burn, he shall suffer loss; but he himself shall be saved, yet so as by fire.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "Upon this foundation"
+               </u>
+               : The foundation is Christ and his doctrine: or the true faith in him, working through charity. The building upon this foundation gold, silver, and precious stones, signifies the more perfect preaching and practice of the gospel; the wood, hay, and stubble, such preaching as that of the Corinthian teachers (who affected the pomp of words and human eloquence) and such practice as is mixed with much imperfection, and many lesser sins. Now the day of the Lord, and his fiery trial, (in the particular judgment immediately after death,) shall make manifest of what sort every man's work has been: of which, during this life, it is hard to make a judgment. For then the fire of God's judgment shall try every man's work. And they, whose works, like wood, hay, and stubble, cannot abide the fire, shall suffer loss; these works being found to be of no value; yet they themselves, having built upon the right foundation, (by living and dying in the true faith and in the state of grace, though with some imperfection,) shall be saved yet so as by fire; being liable to this punishment, by reason of the wood, hay, and stubble, which was mixed with their building.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               Know you not, that you are the temple of God, and that the Spirit of God dwelleth in you?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               But if any man violate the temple of God, him shall God destroy. For the temple of God is holy, which you are.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               Let no man deceive himself: if any man among you seem to be wise in this world, let him become a fool, that he may be wise.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               For the wisdom of this world is foolishness with God. For it is written: I will catch the wise in their own craftiness.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               And again: The Lord knoweth the thoughts of the wise, that they are vain.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               Let no man therefore glory in men.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               For all things are yours, whether it be Paul, or Apollo, or Cephas, or the world, or life, or death, or things present, or things to come; for all are yours;
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               And you are Christ's; and Christ is God's.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint Paul To The Corinthians
+              </td>
+              <td class="next">
+               <a href="54001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="53002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="53004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

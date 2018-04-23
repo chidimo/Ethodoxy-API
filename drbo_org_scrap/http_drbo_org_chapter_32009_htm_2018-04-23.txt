@@ -1,0 +1,543 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Daniel Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/32009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/32009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="31001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Daniel
+           </td>
+           <td class="next">
+            <a href="33001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="32008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="32010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="32001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="32002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="32003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="32004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="32005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="32006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="32007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="32008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="32010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="32011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="32012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="32013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="32014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Daniel's confession and prayer: Gabriel informs him concerning the seventy weeks to the coming of Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               In the first year of Darius the son of Assuerus of the seed of the Medes, who reigned over the kingdom of the Chaldeans:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               The first year of his reign, I Daniel understood by books the number of the years, concerning which the word of the Lord came to Jeremias the prophet, that seventy years should be accomplished of the desolation of Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               And I set my face to the Lord my God, to pray and make supplication with fasting, and sackcloth, and ashes.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               And I prayed to the Lord my God, and I made my confession, and said: I beseech thee, O Lord God, great and terrible, who keepest the covenant, and mercy to them that love thee, and keep thy commandments.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               We have sinned, we have committed iniquity, we have done wickedly, and have revolted: and we have gone aside from thy commandments, and thy judgments.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               We have not hearkened to thy servants the prophets, that have spoken in thy name to our kings, to our princes, to our fathers, and to all the people of the land.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               To thee, O Lord, justice: but to us confusion of face, as at this day to the men of Juda, and to the inhabitants of Jerusalem, and to all Israel to them that are near, and to them that are far off in all the countries whither thou hast driven them, for their iniquities by which they have sinned against thee.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               O Lord, to us belongeth confusion of face, to our princes, and to our fathers that have sinned.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               But to thee, the Lord our God, mercy and forgiveness, for we have departed from thee:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And we have not hearkened to the voice of the Lord our God, to walk in his law, which he set before us by his servants the prophets.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               And all Israel have transgressed thy law, and have turned away from hearing thy voice, and the malediction, and the curse, which is written in the book of Moses the servant of God, is fallen upon us, because we have sinned against him.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               And he hath confirmed his words which he spoke against us, and against our princes that judged us, that he would bring in upon us a great evil, such as never was under all the heaven, according to that which hath been done in Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               As it is written in the law of Moses, all this evil is come upon us: and we entreated not thy face, O Lord our God, that we might turn from our iniquities, and think on thy truth.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               And the Lord hath watched upon the evil, and hath brought it upon us: the Lord our God is just in all his works which he hath done: for we have not hearkened to his voice.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               And now, O Lord our God, who hast brought forth thy people out of the land of Egypt with a strong hand, and hast made thee a name as at this day: we have sinned, we have committed iniquity,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               O Lord, against all thy justice: let thy wrath and thy indignation be turned away, I beseech thee, from thy city Jerusalem, and from thy holy mountain. For by reason of our sins, and the iniquities of our fathers, Jerusalem, and thy people are a reproach to all that are round about us.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               Now therefore, O our God, hear the supplication of thy servant, and his prayers: and shew thy face upon thy sanctuary which is desolate, for thy own sake.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               Incline, O my God, thy ear, and hear: open thy eyes, and see our desolation, and the city upon which thy name is called: for it is not for our justifications that we present our prayers before thy face, but for the multitude of thy tender mercies.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               O Lord, hear: O Lord, be appeased: hearken and do: delay not for thy own sake, O my God: because thy name is invocated upon thy city, and upon thy people.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               Now while I was yet speaking, and praying, and confessing my sins, and the sins of my people of Israel, and presenting my supplications in the sight of my God, for the holy mountain of my God:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               As I was yet speaking in prayer, behold
+               <u>
+                the man Gabriel
+               </u>
+               , whom I had seen in the vision at the beginning, flying swiftly touched me at the time of the evening sacrifice.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               And he instructed me, and spoke to me, and said: O Daniel, I am now come forth to teach thee, and that thou mightest understand.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               From the beginning of thy prayers the word came forth: and I am come to shew it to thee, because thou art a
+               <u>
+                man of desires
+               </u>
+               : therefore do thou mark the word, and understand the vision.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               <u>
+                Seventy weeks
+               </u>
+               are shortened upon thy people, and upon thy holy city, that transgression may be finished, and sin may have an end, and iniquity may be abolished; and everlasting justice may be brought; and vision and prophecy may be fulfilled; and the saint of saints may be anointed.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               Know thou therefore, and take notice: that
+               <u>
+                from the going forth of the word
+               </u>
+               , to build up Jerusalem again, unto Christ the prince, there shall be seven weeks, and sixty-two weeks: and the street shall be built again, and the walls
+               <u>
+                in straitness of times
+               </u>
+               .
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "The man Gabriel"
+               </u>
+               : The angel Gabriel in the shape of a man.
+              </p>
+              <p class="note">
+               [23]
+               <u>
+                "Man of desires"
+               </u>
+               : that is, ardently praying for the Jews then in captivity.
+              </p>
+              <p class="note">
+               [24]
+               <u>
+                "Seventy weeks"
+               </u>
+               : Viz., of years, (or seventy times seven, that is, 490 years,) are shortened; that is, fixed and determined, so that the time shall be no longer.
+              </p>
+              <p class="note">
+               [25]
+               <u>
+                "From the going forth of the word"
+               </u>
+               : That is, from the twentieth year of king Artaxerxes, when by his commandment Nehemias rebuilt the walls of Jerusalem, 2 Esd. 2. From which time, according to the best chronology, there were just sixty-nine weeks of years, that is, 483 years to the baptism of Christ, when he first began to preach and execute the office of Messias.-- Ibid.
+              </p>
+              <p class="note">
+               [25]
+               <u>
+                "In straitness of times"
+               </u>
+               : angustia temporum: which may allude both to the difficulties and opposition they met with in building: and to the shortness of the time in which they finished the wall, viz., fifty-two days.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               And after sixty-two weeks Christ shall be slain: and the people that shall deny him shall not be his. And
+               <u>
+                a people with their leader
+               </u>
+               that shall come, shall destroy the city and the sanctuary: and the end thereof shall be waste, and after the end of the war the appointed desolation.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               And he shall confirm the covenant with many, in one week: and
+               <u>
+                in the half of the week
+               </u>
+               the victim and the sacrifice shall fall: and there shall be in the temple
+               <u>
+                the abomination of desolation
+               </u>
+               : and the desolation shall continue even to the consummation, and to the end.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "A people with their leader"
+               </u>
+               : The Romans under Titus.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "In the half of the week"
+               </u>
+               : or, in the middle of the week, etc. Because Christ preached three years and a half: and then by his sacrifice upon the cross abolished all the sacrifices of the law.-- Ibid.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "The abomination of desolation"
+               </u>
+               : Some understand this of the profanation of the temple by the crimes of the Jews, and by the bloody faction of the zealots. Others of the bringing in thither the ensigns and standard of the pagan Romans. Others, in fine, distinguish three different times of desolation: viz., that under Antiochus; that when the temple was destroyed by the Romans; and the last near the end of the world under Antichrist. To all which, as they suppose, this prophecy may have a relation.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="31001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Daniel
+              </td>
+              <td class="next">
+               <a href="33001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="32008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="32010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

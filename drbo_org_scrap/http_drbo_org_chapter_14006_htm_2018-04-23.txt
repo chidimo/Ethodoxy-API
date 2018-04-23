@@ -1,0 +1,620 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Paralipomenon (2 Chronicles) Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/14006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/14006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            2 Paralipomenon (2 Chronicles)
+           </td>
+           <td class="next">
+            <a href="15001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="14007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="14001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="14002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="14003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="14004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="14005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="14007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="14008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="14009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="14010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="14011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="14012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="14013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="14014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="14015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="14016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="14017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="14018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="14019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="14020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="14021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="14022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="14023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="14024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="14025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="14026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="14027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="14028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="14029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="14030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="14031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="14032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="14033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="14034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="14035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="14036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Solomon's blessings and prayer.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               Then Solomon said: The Lord promised that he would dwell in a cloud.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               But I have built a house to his name, that he might dwell there for ever.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               And the king turned his face, and blessed all the multitude of Israel (for all the multitude stood attentive) and he said:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               Blessed be the Lord the God of Israel, who hath accomplished in deed that which he spoke to David my father, saying:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               From the day that I brought my people out of the land of Egypt, I chose no city among all the tribes of Israel, for a house to be built in it to my name: neither chose I any other man, to be the ruler of my people Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               But I chose Jerusalem, that my name might be there: and I chose David to set him over my people Israel.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               And whereas David my father had a mind to build a house to the name of the Lord the God of Israel,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               The Lord said to him: Forasmuch as it was thy will to build a house to my name, thou hast done well indeed in having such a will:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               But thou shalt not build the house, but thy son, who shall come out of thy loins, he shall build a house to my name.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               The Lord therefore hath accomplished his word which he spoke: and I am risen up in the place of David my father, and sit upon the throne of Israel, as the Lord promised: and have built a house to the name of the Lord God of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               And I have put in it the ark, wherein is the covenant of the Lord, which he made with the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               And he stood before the altar of the I Lord, in presence of all the multitude of Israel, and stretched forth his hands.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               For Solomon had made a brazen scaffold, and had set it in the midst of the temple, which was five cubits long, and five cubits broad, and three cubits high: and he stood upon it: then kneeling down in the presence of all the multitude of Israel, and lifting up his hands towards heaven,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               He said: O Lord God of Israel, there is no God like thee in heaven nor in earth: who keepest covenant and mercy with thy servants, that walk before thee with all their hearts:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               Who hast performed to thy servant David my father all that thou hast promised him: and hast accomplished in fact, what thou hast spoken with thy mouth, as also the present time proveth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               Now then, O Lord God of Israel, fulfill to thy servant David my father, whatsoever thou hast promised him, saying: There shall not fail thee a man in my sight, to sit upon the throne of Israel: yet so that thy children take heed to their ways, and walk in my law, as thou hast walked before me.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               And now, Lord God of Israel, let thy word be established which thou hast spoken to thy servant David.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               Is it credible then that God should dwell with men on the earth? If heaven and the heavens of heavens do not contain thee, how much less this house, which I have built?
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               But to this end only it is made, that thou mayest regard the prayer of thy servant and his supplication, O Lord my God: and mayest hear the prayers which thy servant poureth out before thee.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               That thou mayest open thy eyes upon this house day and night, upon the place wherein thou hast promised that thy name should be called upon,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               And that thou wouldst hear the prayer which thy servant prayeth in it: hearken then to the prayers of thy servant, and of thy people Israel. Whosoever shall pray in this place, hear thou from thy dwelling place, that is, from heaven, and shew mercy.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               If any man sin against his neighbour, and come to swear against him, and bind himself with a curse before the altar in this house:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=23-#x">
+                [23]
+               </a>
+               Then hear thou from heaven, and do justice to thy servants, so as to requite the wicked by making his wickedness fall upon his own head, and to revenge the just, rewarding him according to his justice.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=24-#x">
+                [24]
+               </a>
+               If thy people Israel be overcome by their enemies, (for they will sin against thee,) and being converted shall do penance, and call upon thy name, and pray to thee in this place,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=25-#x">
+                [25]
+               </a>
+               Then hear thou from heaven, and forgive the sin of thy people Israel, and bring them back into the land, which thou gavest to them, and their fathers.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=26-#x">
+                [26]
+               </a>
+               If the heavens be shut up, and there fall no rain by reason of the sins of the people, and they shall pray to thee in this place, and confess to thy name, and be converted from their sins, when thou dost afflict them,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=27-#x">
+                [27]
+               </a>
+               Then hear thou from heaven, O Lord, and forgive the sins of thy servants and of thy people Israel, and teach them the good way, in which they may walk: and give rain to thy land which thou hast given to thy people to possess.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=28-#x">
+                [28]
+               </a>
+               If a famine arise in the land, or a pestilence or blasting, or mildew, or locusts, or caterpillars: or if their enemies waste the country, and besiege the cities, whatsoever scourge or infirmity shall be upon them:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=29-#x">
+                [29]
+               </a>
+               Then if any of thy people Israel, knowing his own scourge and infirmity shall pray, and shall spread forth his hands in this house,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=30-#x">
+                [30]
+               </a>
+               Hear thou from heaven, from thy high dwelling place, and forgive, and render to every one according to his ways, which thou knowest him to have in his heart: (for thou only knowest the hearts of the children of men:)
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=31-#x">
+                [31]
+               </a>
+               That they may fear thee, and walk in thy ways all the days that they live upon the face of the land, which thou hast given to our fathers.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=32-#x">
+                [32]
+               </a>
+               If the stranger also, who is not of thy people Israel, come from a far country, for the sake of thy great name, and thy strong hand, and thy stretched out arm, and adore in this place:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=33-#x">
+                [33]
+               </a>
+               Hear thou from heaven thy firm dwelling place, and do all that which that stranger shall call upon thee for: that all the people of the earth may know thy name, and may fear thee, as thy people Israel, and may know, that thy name is invoked upon this house, which I have built.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=34-#x">
+                [34]
+               </a>
+               If thy people go out to war against their enemies, by the way that thou shalt send them, and adore thee towards the way of this city, which thou hast chosen, and the house which I have built to thy name:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=35-#x">
+                [35]
+               </a>
+               Then hear thou from heaven their prayers, and their supplications, and revenge them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=36-#x">
+                [36]
+               </a>
+               And if they sin against thee (for there is no man that sinneth not) and thou be angry with them, and deliver them up to their enemies, and they lead them away captive to a land either afar off, or near at hand,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=37-#x">
+                [37]
+               </a>
+               And if they be converted in their heart in the land to which they were led captive, and do penance, and pray to thee in the land of their captivity, saying: We have sinned, we have done wickedly, we have dealt unjustly:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=38-#x">
+                [38]
+               </a>
+               And return to thee with all their heart, and with all their soul, in the land of their captivity, to which they were led away, and adore thee towards the way of their own land which thou gavest their fathers, and of the city, which thou hast chosen, and the house which I have built to thy name:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=39-#x">
+                [39]
+               </a>
+               Then hear thou from heaven, that is, from thy firm dwelling place, their prayers, and do judgment, and forgive thy people, although they have sinned:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=40-#x">
+                [40]
+               </a>
+               For thou art my God: let thy eyes, I beseech thee, be open, and let thy ears be attentive to the prayer, that is made in this place.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=41-#x">
+                [41]
+               </a>
+               Now therefore arise, O Lord God, into thy resting place, thou and the ark of thy strength: let thy priests, O Lord God, put on salvation, and thy saints rejoice in good things.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=6&amp;l=42-#x">
+                [42]
+               </a>
+               O Lord God, turn not away the face of thy anointed: remember the mercies of David thy servant.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               2 Paralipomenon (2 Chronicles)
+              </td>
+              <td class="next">
+               <a href="15001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="14007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

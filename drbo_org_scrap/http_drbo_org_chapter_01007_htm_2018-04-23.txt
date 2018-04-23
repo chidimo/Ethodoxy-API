@@ -1,0 +1,616 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 7
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01007.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01007.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01006.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 7
+           </td>
+           <td class="next">
+            <a href="01008.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             07
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Noe with his family go into the ark. The deluge overflows the earth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord said to him: Go in thou and all thy house into the ark: for thee I have seen just before me in this generation.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=2-#x">
+                [2]
+               </a>
+               <u>
+                Of all clean
+               </u>
+               beasts take seven and seven, the male and the female.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=3-#x">
+                [3]
+               </a>
+               But of the beasts that are unclean two and two, the male and the female. Of the fowls also of the air seven and seven, the male and the female: that seed may be saved upon the face of the whole earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=4-#x">
+                [4]
+               </a>
+               For yet a while, and after seven days, I will rain upon the earth forty days and forty nights; and I will destroy every substance that I have made, from the face of the earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=5-#x">
+                [5]
+               </a>
+               And Noe did all things which the Lord had commanded him.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Of all clean"
+               </u>
+               : The distinction of clean and unclean beasts appears to have been made before the law of Moses, which was not promulgated till the year of the world 2514.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=6-#x">
+                [6]
+               </a>
+               And he was six hundred years old, when the waters of the flood overflowed the earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=7-#x">
+                [7]
+               </a>
+               And Noe went in and his sons, his wife and the wives of his sons with him into the ark, because of the waters of the flood.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=8-#x">
+                [8]
+               </a>
+               And of beasts clean and unclean, and of fowls, and of every thing that moveth upon the earth,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=9-#x">
+                [9]
+               </a>
+               Two and two went in to Noe into the ark, male and female, as the Lord had commanded Noe.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=10-#x">
+                [10]
+               </a>
+               And after the seven days were passed, the waters of the flood overflowed the earth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=11-#x">
+                [11]
+               </a>
+               In the six hundredth year of the life of Noe, in the second month, in the seventeenth day of the month, all the fountains of the great deep were broken up, and the flood gates of heaven were opened:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=12-#x">
+                [12]
+               </a>
+               And the rain fell upon the earth forty days and forty nights.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=13-#x">
+                [13]
+               </a>
+               In the selfsame day Noe, and Sem, and Cham, and Japheth his sons: his wife, and the three wives of his sons with them, went into the ark:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=14-#x">
+                [14]
+               </a>
+               They and every beast according to its kind, and all the cattle in their kind, and every thing that moveth upon the earth according to its kind, and every fowl according to its kind, all birds, and all that fly,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=15-#x">
+                [15]
+               </a>
+               Went in to Noe into the ark, two and two of all flesh, wherein was the breath of life.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=16-#x">
+                [16]
+               </a>
+               And they that went in, went in male and female of all flesh, as God had commanded him: and the Lord shut him in on the outside.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=17-#x">
+                [17]
+               </a>
+               And the flood was forty days upon the earth, and the waters increased, and lifted up the ark on high from the earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=18-#x">
+                [18]
+               </a>
+               For they overflowed exceedingly: and filled all on the face of the earth: and the ark was carried upon the waters.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=19-#x">
+                [19]
+               </a>
+               And the waters prevailed beyond measure upon the earth: and all the high mountains under the whole heaven were covered.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=20-#x">
+                [20]
+               </a>
+               The water was fifteen cubits higher than the mountains which it covered.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=21-#x">
+                [21]
+               </a>
+               And all flesh was destroyed that moved upon the earth, both of fowl, and of cattle, and of beasts, and of all creeping things that creep upon the earth: and all men.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=22-#x">
+                [22]
+               </a>
+               And all things wherein there is the breath of life on the earth, died.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=23-#x">
+                [23]
+               </a>
+               And he destroyed all the substance that was upon the earth, from man even to beast, and the creeping things and fowls of the air: and they were destroyed from the earth: and Noe only remained, and they that were with him in the ark.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=7&amp;l=24-#x">
+                [24]
+               </a>
+               And the waters prevailed upon the earth a hundred and fifty days.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01006.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 7
+              </td>
+              <td class="next">
+               <a href="01008.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

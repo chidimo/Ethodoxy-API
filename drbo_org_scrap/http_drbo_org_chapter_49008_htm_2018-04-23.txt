@@ -1,0 +1,633 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Luke Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/49008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/49008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Luke
+           </td>
+           <td class="next">
+            <a href="50001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="49009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="49001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="49002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="49003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="49004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="49005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="49006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="49007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="49009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="49010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="49011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="49012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="49013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="49014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="49015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="49016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="49017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="49018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="49019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="49020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="49021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="49022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="49023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="49024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The parable of the seed. Christ stills the storm at sea, casts out the legion, heals the issue of blood and raises the daughter of Jairus to life.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               And it came to pass afterwards, that he travelled through the cities and towns, preaching and evangelizing the kingdom of God; and the twelve with him:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               And certain women who had been healed of evil spirits and infirmities; Mary who is called Magdalen, out of whom seven devils were gone forth,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And Joanna the wife of Chusa, Herod's steward, and Susanna, and many others who ministered unto him of their substance.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               And when a very great multitude was gathered together, and hastened out of the cities unto him, he spoke by a similitude.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               The sower went out to sow his seed. And as he sowed, some fell by the way side, and it was trodden down, and the fowls of the air devoured it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               And other some fell upon a rock: and as soon as it was sprung up, it withered away, because it had no moisture.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               And other some fell among thorns, and the thorns growing up with it, choked it.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               And other some fell upon good ground; and being sprung up, yielded fruit a hundredfold. Saying these things, he cried out: He that hath ears to hear, let him hear.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               And his disciples asked him what this parable might be.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               To whom he said: To you it is given to know the mystery of the kingdom of God; but to the rest in parables, that
+               <u>
+                seeing they may not see
+               </u>
+               , and hearing may not understand.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "Seeing they may not see"
+               </u>
+               : See the annotation, Mark 4. 12.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               Now the parable is this: The seed is the word of God.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               And they by the way side are they that hear; then the devil cometh, and taketh the word out of their heart, lest believing they should be saved.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               Now they upon the rock, are they who when they hear, receive the word with joy: and these have no roots; for they believe for a while, and in time of temptation, they fall away.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               And that which fell among thorns, are they who have heard, and going their way, are choked with the cares and riches and pleasures of this life, and yield no fruit.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               But that on the good ground, are they who in a good and perfect heart, hearing the word, keep it, and bring forth fruit in patience.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               Now no man lighting a candle covereth it with a vessel, or putteth it under a bed; but setteth it upon a candlestick, that they who come in may see the light.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               For there is not any thing secret that shall not be made manifest, nor hidden, that shall not be known and come abroad.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               Take heed therefore how you hear. For whosoever hath, to him shall be given: and whosoever hath not, that also which he thinketh he hath, shall be taken away from him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               And his mother and brethren came unto him; and they could not come at him for the crowd.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               And it was told him: Thy mother and thy brethren stand without, desiring to see thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               Who answering, said to them: My mother and my brethren are they who hear the word of God, and do it.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               And it came to pass on a certain day that he went into a little ship with his disciples, and he said to them: Let us go over to the other side of the lake. And they launched forth.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               And when they were sailing, he slept; and there came down a storm of wind upon the lake, and they were filled, and were in danger.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               And they came and awaked him, saying: Master, we perish. But he arising, rebuked the wind and the rage of the water; and it ceased, and there was a calm.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               And he said to them: Where is your faith? Who being afraid, wondered, saying one to another: Who is this, (think you), that he commandeth both the winds and the sea, and they obey him?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               And they sailed to the country of the Gerasens, which is over against Galilee.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=27-#x">
+                [27]
+               </a>
+               And when he was come forth to the land, there met him a certain man who had a devil now a very long time, and he wore no clothes, neither did he abide in a house, but in the sepulchres.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=28-#x">
+                [28]
+               </a>
+               And when he saw Jesus, he fell down before him; and crying out with a loud voice, he said: What have I to do with thee, Jesus, Son of the most high God? I beseech thee, do not torment me.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=29-#x">
+                [29]
+               </a>
+               For he commanded the unclean spirit to go out of the man. For many times it seized him, and he was bound with chains, and kept in fetters; and breaking the bonds, he was driven by the devil into the deserts.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=30-#x">
+                [30]
+               </a>
+               And Jesus asked him, saying: What is thy name? But he said: Legion; because many devils were entered into him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=31-#x">
+                [31]
+               </a>
+               And they besought him that he would not command them to go into the abyss.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=32-#x">
+                [32]
+               </a>
+               And there was there a herd of many swine feeding on the mountain; and they besought him that he would suffer them to enter into them. And he suffered them.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=33-#x">
+                [33]
+               </a>
+               The devils therefore went out of the man, and entered into the swine; and the herd ran violently down a steep place into the lake, and were stifled.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=34-#x">
+                [34]
+               </a>
+               Which when they that fed them saw done, they fled away, and told it in the city and in the villages.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=35-#x">
+                [35]
+               </a>
+               And they went out to see what was done; and they came to Jesus, and found the man, out of whom the devils were departed, sitting at his feet, clothed, and in his right mind; and they were afraid.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=36-#x">
+                [36]
+               </a>
+               And they also that had seen, told them how he had been healed from the legion.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=37-#x">
+                [37]
+               </a>
+               And all the multitude of the country of the Gerasens besought him to depart from them; for they were taken with great fear. And he, going up into the ship, returned back again.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=38-#x">
+                [38]
+               </a>
+               Now the man, out of whom the devils were departed, besought him that he might be with him. But Jesus sent him away, saying:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=39-#x">
+                [39]
+               </a>
+               Return to thy house, and tell how great things God hath done to thee. And he went through the whole city, publishing how great things Jesus had done to him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=40-#x">
+                [40]
+               </a>
+               And it came to pass, that when Jesus was returned, the multitude received him: for they were all waiting for him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=41-#x">
+                [41]
+               </a>
+               And behold there came a man whose name was Jairus, and he was a ruler of the synagogue: and he fell down at the feet of Jesus, beseeching him that he would come into his house:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=42-#x">
+                [42]
+               </a>
+               For he had an only daughter, almost twelve years old, and she was dying. And it happened as he went, that he was thronged by the multitudes.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=43-#x">
+                [43]
+               </a>
+               And there was a certain woman having an issue of blood twelve years, who had bestowed all her substance on physicians, and could not be healed by any.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=44-#x">
+                [44]
+               </a>
+               She came behind him, and touched the hem of his garment; and immediately the issue of her blood stopped.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=45-#x">
+                [45]
+               </a>
+               And Jesus said: Who is it that touched me? And all denying, Peter and they that were with him said: Master, the multitudes throng and press thee, and dost thou say, Who touched me?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=46-#x">
+                [46]
+               </a>
+               And Jesus said: Somebody hath touched me; for I know that virtue is gone out from me.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=47-#x">
+                [47]
+               </a>
+               And the woman seeing that she was not hid, came trembling, and fell down before his feet, and declared before all the people for what cause she had touched him, and how she was immediately healed.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=48-#x">
+                [48]
+               </a>
+               But he said to her: Daughter, thy faith hath made thee whole; go thy way in peace.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=49-#x">
+                [49]
+               </a>
+               As he was yet speaking, there cometh one to the ruler of the synagogue, saying to him: Thy daughter is dead, trouble him not.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=50-#x">
+                [50]
+               </a>
+               And Jesus hearing this word, answered the father of the maid: Fear not; believe only, and she shall be safe.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=51-#x">
+                [51]
+               </a>
+               And when he was come to the house, he suffered not any man to go in with him, but Peter and James and John, and the father and mother of the maiden.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=52-#x">
+                [52]
+               </a>
+               And all wept and mourned for her. But he said: Weep not; the maid is not dead, but sleepeth.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=53-#x">
+                [53]
+               </a>
+               And they laughed him to scorn, knowing that she was dead.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=54-#x">
+                [54]
+               </a>
+               But he taking her by the hand, cried out, saying: Maid, arise.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=55-#x">
+                [55]
+               </a>
+               And her spirit returned, and she arose immediately. And he bid them give her to eat.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=8&amp;l=56-#x">
+                [56]
+               </a>
+               And her parents were astonished, whom he charged to tell no man what was done.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Luke
+              </td>
+              <td class="next">
+               <a href="50001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="49009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,537 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Machabees Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/45008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/45008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="44001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="46001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="45009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="45001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="45002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="45003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="45004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="45005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="45006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="45007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="45009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="45010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="45011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="45012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="45013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="45014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="45015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="45016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Judas hears of the great character of the Romans: he makes a league with them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               Now Judas heard of the fame of the Romans, that they are powerful and strong, and willingly agree to all things that are requested of them: and that whosoever have come to them, they have made amity with them, and that they are mighty in power.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               And
+               <u>
+                they heard
+               </u>
+               of their battles, and their noble acts, which they had done in Galatia, how they conquered them, and brought them under tribute:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And how great things they had done in the land of Spain, and that they had brought under their power the mines of silver and of gold that are there, and had gotten possession of all the place by their counsel and patience:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               And had conquered places that were very far off from them, and kings that came against them from the ends of the earth, and had overthrown them with great slaughter: and the rest pay them tribute every year.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               And that they had defeated in battle Philip, and Perses the king of the
+               <u>
+                Ceteans
+               </u>
+               , and the rest that had borne arms against them, and had conquered them:
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "They heard"
+               </u>
+               : What is here set down of the history and character of the ancient Romans, is not an assertion, or affirmation of the sacred writer: but only a relation of what Judas had heard of them.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "Ceteans"
+               </u>
+               : That is, the Macedonians.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               And how Antiochus the great king of Asia, who went to fight against them, having a hundred and twenty elephants, with horsemen, and chariots, and a very great army, was routed by them:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               And how they took him alive, and appointed to him, that both he and they that should reign after him, should pay a great tribute, and that he should give hostages, and that which was agreed upon,
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               And the country of the Indians, and of the Medes, and of the Lydians, some of their best provinces: and those which they had taken from them they gave to king
+               <u>
+                Eumenes
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               And that they who were in Greece had a mind to go and to destroy them: and they had knowledge thereof,
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               And they sent a general against them, and fought with them, and many of them were slain, and they carried away their wives and their children captives, and spoiled them, and took possession of their land, and threw down their walls, and brought them to be their servants unto this day.
+              </p>
+              <p class="note">
+               [8]
+               <u>
+                "Eumenes"
+               </u>
+               : King of Pergamus.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And the other kingdoms, and islands, that at any time had resisted them, they had destroyed and brought under their power.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               But with their friends, and such as relied upon them, they kept amity, and had conquered kingdoms that were near, and that were far off: for all that heard their name, were afraid of them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               That whom they had a mind to help to a kingdom, those reigned: and whom they would, they deposed from a kingdom: and they were greatly exalted.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               And none of all these wore a crown, or was clothed in purple, to be magnified thereby.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               And that they made themselves a senate house, and consulted daily three hundred and twenty men, that sat in council always for the people, that they might do the things that were right.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               And that they committed their government
+               <u>
+                to one man
+               </u>
+               every year, to rule over all their country, and they all obey one, and there is
+               <u>
+                no envy
+               </u>
+               , nor jealousy amongst them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               So Judas chose Eupolemus the son of John, the son of Jacob, and Jason the son of Eleazar, and he sent them to Rome to make a league of amity and confederacy with them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               And that they might take off from them the yoke of the Grecians, for they saw that they oppressed the kingdom of Israel with servitude.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               And they went to Rome, a very long journey, and they entered into the senate house, and said:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               Judas Machabeus, and his brethren, and the people of the Jews have sent us to you, to make alliance and peace with you, and that we may be registered your confederates and friends.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "To one man"
+               </u>
+               : There were two consuls: but one only ruled at one time, each in his day.-- Ibid.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "No envy"
+               </u>
+               : So Judas had heard: and it was so far true, with regard to the ancient Romans, that as yet no envy or jealousy had divided them into such open factions and civil wars, as they afterwards experienced in the time of Marius and Sylla, etc.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               And the proposal was pleasing in their sight.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               And this is the copy of the writing that they wrote back again, graven in tables of brass, and sent to Jerusalem, that it might be with them there for a memorial of the peace and alliance.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               GOOD SUCCESS BE TO THE ROMANS, and to the people of the Jews, by sea and by land for ever: and far be the sword and enemy from them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               But if there come first any war upon the Romans, or any of their confederates, in all their dominions:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               The nation of the Jews shall help them according as the time shall direct, with all their heart:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               Neither shall they give them, whilst they are fighting, or furnish them with wheat, or arms, or money, or ships, as it hath seemed good to the Romans: and they shall obey their orders, without taking any thing of them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=27-#x">
+                [27]
+               </a>
+               In like manner also if war shall come first upon the nation of the Jews, the Romans shall help them with all their heart, according as the time shall permit them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=28-#x">
+                [28]
+               </a>
+               And there shall not be given to them that come to their aid, either wheat, or arms, or money, or ships, as it hath seemed good to the Romans: and they shall observe their orders without deceit.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=29-#x">
+                [29]
+               </a>
+               According to these articles did the Romans covenant with the people of the Jews.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=30-#x">
+                [30]
+               </a>
+               And if after this one party or the other shall have a mind to add to these articles, or take away anything, they may do it at their pleasure: and whatsoever they shall add, or take away, shall be ratified.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=31-#x">
+                [31]
+               </a>
+               Moreover concerning the evils that Demetrius the king hath done against them, we have written to him, saying: Why hast thou made thy yoke heavy upon our friends, and allies, the Jews?
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=8&amp;l=32-#x">
+                [32]
+               </a>
+               If therefore they come again to us complaining of thee, we will do them justice, and will make war against thee by sea and land.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="44001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="46001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="45009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

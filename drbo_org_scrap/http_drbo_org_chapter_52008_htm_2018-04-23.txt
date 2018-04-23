@@ -1,0 +1,569 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Romans Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/52008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/52008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Romans
+           </td>
+           <td class="next">
+            <a href="53001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="52009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="52001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="52002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="52003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="52004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="52005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="52006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="52007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="52009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="52010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="52011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="52012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="52013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="52014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="52015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="52016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               There is no condemnation to them that, being justified by Christ, walk not according to the flesh, but according to the spirit. Their strong hope and love of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               There is now therefore no condemnation to them that are in Christ Jesus, who walk not according to the flesh.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               For the law of the spirit of life, in Christ Jesus, hath delivered me from the law of sin and of death.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               For what the law could not do, in that it was weak through the flesh; God sending his own Son, in the likeness of sinful flesh and of sin, hath condemned sin in the flesh;
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               That the justification of the law might be fulfilled in us, who walk not according to the flesh, but according to the spirit.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               For they that are according to the flesh, mind the things that are of the flesh; but they that are according to the spirit, mind the things that are of the spirit.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               For the wisdom of the flesh is death; but the wisdom of the spirit is life and peace.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               Because the wisdom of the flesh is an enemy to God; for it is not subject to the law of God, neither can it be.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               And they who are in the flesh, cannot please God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               But you are not in the flesh, but in the spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               And if Christ be in you, the body indeed is dead, because of sin; but the spirit liveth, because of justification.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And if the Spirit of him that raised up Jesus from the dead, dwell in you; he that raised up Jesus Christ from the dead, shall quicken also your mortal bodies, because of his Spirit that dwelleth in you.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               Therefore, brethren, we are debtors, not to the flesh, to live according to the flesh.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               For if you live according to the flesh, you shall die: but if by the Spirit you mortify the deeds of the flesh, you shall live.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               For whosoever are led by the Spirit of God, they are the sons of God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               For you have not received the spirit of bondage again in fear; but you have received the spirit of adoption of sons, whereby we cry: Abba (Father).
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               For
+               <u>
+                the Spirit himself
+               </u>
+               giveth testimony to our spirit, that we are the sons of God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               And if sons, heirs also; heirs indeed of God, and joint heirs with Christ: yet so, if we suffer with him, that we may be also glorified with him.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               For I reckon that the sufferings of this time are not worthy to be compared with the glory to come, that shall be revealed in us.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               For
+               <u>
+                the expectation of the creature
+               </u>
+               waiteth for the revelation of the sons of God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               For the creature was made subject to vanity, not willingly, but by reason of him that made it subject, in hope:
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "The Spirit himself"
+               </u>
+               : By the inward motions of divine love, and the peace of conscience, which the children of God experience, they have a kind of testimony of God's favour; by which they are much strengthened in their hope of their justification and salvation; but yet not so as to pretend to an absolute assurance: which is not usually granted in this mortal life: during which we are taught to work out our salvation with fear and trembling. Phil. 2. 12. And that he that thinketh himself to stand, must take heed lest he fall. 1 Cor. 10. 12. See also, Rom. 11. 20, 21, 22.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "The expectation of the creature"
+               </u>
+               : He speaks of the corporeal creation, made for the use and service of man; and, by occasion of his sin, made subject to vanity, that is, to a perpetual instability, tending to corruption and other defects; so that by a figure of speech it is here said to groan and be in labour, and to long for its deliverance, which is then to come, when sin shall reign no more; and God shall raise the bodies and unite them to their souls never more to separate, and to be in everlasting happiness in heaven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               Because the creature also itself shall be delivered from the servitude of corruption, into the liberty of the glory of the children of God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               For we know that every creature groaneth and travaileth in pain, even till now.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               And not only it, but ourselves also, who have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption of the sons of God, the redemption of our body.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               For we are saved by hope. But hope that is seen, is not hope. For what a man seeth, why doth he hope for?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               But if we hope for that which we see not, we wait for it with patience.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               Likewise the Spirit also helpeth our infirmity. For we know not what we should pray for as we ought; but the Spirit himself
+               <u>
+                asketh for us
+               </u>
+               with unspeakable groanings.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=27-#x">
+                [27]
+               </a>
+               And he that searcheth the hearts, knoweth what the Spirit desireth; because he asketh for the saints according to God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=28-#x">
+                [28]
+               </a>
+               And we know that to them that love God, all things work together unto good, to such as, according to his purpose, are called to be saints.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=29-#x">
+                [29]
+               </a>
+               For whom he foreknew,
+               <u>
+                he also predestinated
+               </u>
+               to be made conformable to the image of his Son; that he might be the firstborn amongst many brethren.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=30-#x">
+                [30]
+               </a>
+               And whom he predestinated, them he also called. And whom he called, them he also justified. And whom he justified, them he also glorified.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "Asketh for us"
+               </u>
+               : The Spirit is said to ask, and desire for the saints, and to pray in us; inasmuch as he inspireth prayer, and teacheth us to pray.
+              </p>
+              <p class="note">
+               [29]
+               <u>
+                "He also predestinated"
+               </u>
+               : That is, God hath preordained that all his elect should be conformable to the image of his Son. We must not here offer to pry into the secrets of God's eternal election; only firmly believe that all our good, in time and eternity, flows originally from God's free goodness; and all our evil from man's free will.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=31-#x">
+                [31]
+               </a>
+               What shall we then say to these things? If God be for us, who is against us?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=32-#x">
+                [32]
+               </a>
+               He that spared not even his own Son, but delivered him up for us all, how hath he not also, with him, given us all things?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=33-#x">
+                [33]
+               </a>
+               Who shall accuse against the elect of God? God that justifieth.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=34-#x">
+                [34]
+               </a>
+               Who is he that shall condemn? Christ Jesus that died, yea that is risen also again; who is at the right hand of God, who also maketh intercession for us.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=35-#x">
+                [35]
+               </a>
+               Who then shall separate us from the love of Christ? Shall tribulation? or distress? or famine? or nakedness? or danger? or persecution? or the sword?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=36-#x">
+                [36]
+               </a>
+               (As it is written: For thy sake we are put to death all the day long. We are accounted as sheep for the slaughter.)
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=37-#x">
+                [37]
+               </a>
+               But in all these things we overcome, because of him that hath loved us.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=38-#x">
+                [38]
+               </a>
+               For
+               <u>
+                I am sure
+               </u>
+               that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor might,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=8&amp;l=39-#x">
+                [39]
+               </a>
+               Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
+              </p>
+              <p class="note">
+               [38]
+               <u>
+                "I am sure"
+               </u>
+               : That is, I am persuaded; as it is in the Greek, pepeismai.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Romans
+              </td>
+              <td class="next">
+               <a href="53001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="52009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

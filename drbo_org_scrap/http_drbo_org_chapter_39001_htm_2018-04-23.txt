@@ -1,0 +1,390 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Nahum Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/39001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/39001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="38001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Nahum
+         </td>
+         <td class="next">
+          <a href="40001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="39002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="39002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="39003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The majesty of God, his goodness to his people, and severity to his enemies.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The burden of Ninive. The book of the vision of Nahum the Elcesite.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             The Lord is a jealous God, and a revenger: the Lord is a revenger, and hath wrath: the Lord taketh vengeance on his adversaries, and he is angry with his enemies.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             The Lord is patient, and great in power, and will not cleanse and acquit the guilty. The Lord's ways are in a tempest, and a whirlwind, and clouds are the dust of his feet.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             He rebuketh the sea, and drieth it up: and bringeth all the rivers to be a desert. Basan languisheth and Carmel: and the flower of Libanus fadeth away.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             The mountains tremble at him, and the hills are made desolate: and the earth hath quaked at his presence, and the world, and all that dwell therein.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             Who can stand before the face of his indignation? and who shall resist in the fierceness of his anger? his indignation is poured out like fire: and the rocks are melted by him.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             The Lord is good and giveth strength in the day of trouble: and knoweth them that hope in him.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             But with a flood that passeth by, he will make an utter end
+             <u>
+              of the place thereof
+             </u>
+             : and darkness shall pursue his enemies.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             What do ye devise against the Lord? he will make an utter end: there shall not rise a double affliction.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             For as thorns embrace one another: so while they are feasting and drinking together, they shall be consumed as stubble that is fully dry.
+            </p>
+            <p class="note">
+             [8]
+             <u>
+              "Of the place thereof"
+             </u>
+             : Viz., of Ninive.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             Out of thee
+             <u>
+              shall come forth one
+             </u>
+             that imagineth evil against the Lord, contriving treachery in his mind.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             Thus saith the Lord:
+             <u>
+              Though they were perfect
+             </u>
+             : and many of them so, yet thus shall they be cut off, and he shall pass: I have afflicted thee, and I will afflict thee no more.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And now I will break in pieces his rod with which he struck thy back, and I will burst thy bonds asunder.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And the Lord
+             <u>
+              will give a commandment
+             </u>
+             concerning thee, that no more of thy name shall be sown: I will destroy the graven and molten thing out of the house of thy God, I will make it thy grave, for thou art disgraced.
+             <a href="/x/d?b=drb&amp;bk=39&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             Behold upon the mountains the feet of him that bringeth good tidings, and that preacheth peace: O Juda, keep thy festivals, and pay thy vows: for
+             <u>
+              Belial
+             </u>
+             shall no more pass through thee again, he is utterly cut off.
+            </p>
+            <p class="note">
+             [11]
+             <u>
+              "Shall come forth one"
+             </u>
+             : Some understand this of Sennacherib. But as his attempt against the people seems to have been prior to the prophecy of Nahum, we may better understand it of Holofernes.
+            </p>
+            <p class="note">
+             [12]
+             <u>
+              "Though they were perfect"
+             </u>
+             : That is, however strong or numerous their forces may be, they shall be cut off; and their prince or leader shall pass away and disappear.
+            </p>
+            <p class="note">
+             [14]
+             <u>
+              "Will give a commandment"
+             </u>
+             : That is, a decree, concerning thee, O king of Ninive, thy seed shall fail, etc.
+            </p>
+            <p class="note">
+             [15]
+             <u>
+              "Belial"
+             </u>
+             : The wicked one, viz., the Assyrian.
+            </p>
+           </td>
+          </tr>
+         </table>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
+<center>
+ <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+  <tr>
+   <td class="prev">
+    &lt;
+    <a href="38001.htm">
+     previous
+    </a>
+   </td>
+   <td class="bookname">
+    Prophecy Of Nahum
+   </td>
+   <td class="next">
+    <a href="40001.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+  <tr>
+   <td class="prev">
+    &lt; previous
+   </td>
+   <td class="chapname">
+    Chapter 1
+   </td>
+   <td class="next">
+    <a href="39002.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+ </table>
+</center>
+<td class="adcol" valign="top">
+ <script>
+  side_ads ("../")
+ </script>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+ <tr>
+  <td class="botcenter">
+  </td>
+ </tr>
+</table>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+ var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+ <div class="statcounter">
+  <a href="http://statcounter.com/" target="_blank" title="web stats">
+   <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+  </a>
+ </div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

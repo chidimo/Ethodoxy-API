@@ -1,0 +1,546 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Proverbs Chapter 25
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/22025.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/22025.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="21001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Proverbs
+           </td>
+           <td class="next">
+            <a href="23001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="22024.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 25
+           </td>
+           <td class="next">
+            <a href="22026.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="22001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="22002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="22003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="22004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="22005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="22006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="22007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="22008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="22009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="22010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="22011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="22012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="22013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="22014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="22015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="22016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="22017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="22018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="22019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="22020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="22021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="22022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="22023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="22024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             25
+            </td>
+            <td width="30">
+             <a href="22026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="22027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="22028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="22029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="22030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="22031.htm">
+              31
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               (No prolog)
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=1-#x">
+                [1]
+               </a>
+               These are also parables of Solomon, which the men of Ezechias king of Juda copied out.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=2-#x">
+                [2]
+               </a>
+               It is the glory of God to conceal the word, and the glory of kings to search out the speech.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=3-#x">
+                [3]
+               </a>
+               The heaven above, and the earth beneath, and the heart of kings is unsearchable.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=4-#x">
+                [4]
+               </a>
+               Take away the rust from silver, and there shall come forth a most pure vessel:
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=5-#x">
+                [5]
+               </a>
+               Take away wickedness from the face of the king, and his throne shall be established with justice.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=6-#x">
+                [6]
+               </a>
+               Appear not glorious before the king, and stand not in the place of great men.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=7-#x">
+                [7]
+               </a>
+               For it is better that it should be said to thee: Come up hither; than that thou shouldst be humbled before the prince.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=8-#x">
+                [8]
+               </a>
+               The things which thy eyes have seen, utter not hastily in a quarrel: lest afterward thou mayst not be able to make amends, when thou hast dishonoured thy friend.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=9-#x">
+                [9]
+               </a>
+               Treat thy cause with thy friend, and discover not the secret to a stranger:
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=10-#x">
+                [10]
+               </a>
+               Lest he insult over thee, when he hath heard it, and cease not to upbraid thee. Grace and friendship deliver a man: keep these for thyself, lest thou fall under reproach.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=11-#x">
+                [11]
+               </a>
+               To speak a word in due time, is like apples of gold on beds of silver.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=12-#x">
+                [12]
+               </a>
+               As an earring of gold and a bright pearl, so is he that reproveth the wise, and the obedient ear.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=13-#x">
+                [13]
+               </a>
+               As the cold of snow in the time of harvest, so is a faithful messenger to him that sent him, for he refresheth his soul.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=14-#x">
+                [14]
+               </a>
+               As clouds, and wind, when no rain followeth, so is the man that boasteth, and doth not fulfill his promises.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=15-#x">
+                [15]
+               </a>
+               By patience a prince shall be appeased, and a soft tongue shall break hardness.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=16-#x">
+                [16]
+               </a>
+               Thou hast found honey, eat what is sufficient for thee, lest being glutted therewith thou vomit it up.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=17-#x">
+                [17]
+               </a>
+               Withdraw thy foot from the house of thy neighbour, lest having his fill he hate thee.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=18-#x">
+                [18]
+               </a>
+               A man that beareth false witness against his neighbour, is like a dart and a sword and a sharp arrow.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=19-#x">
+                [19]
+               </a>
+               To trust to an unfaithful man in the time of trouble, is like a rotten tooth, and weary foot,
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=20-#x">
+                [20]
+               </a>
+               And one that looseth his garment in cold weather. As vinegar upon nitre, so is he that singeth songs to a very evil heart. As a moth doth by a garment, and a worm by the wood: so the sadness of a man consumeth the heart.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=21-#x">
+                [21]
+               </a>
+               If thy enemy be hungry, give him to eat: if he thirst, give him water to drink:
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=22-#x">
+                [22]
+               </a>
+               For thou shalt heap hot coals upon his head, and the Lord will reward thee.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=23-#x">
+                [23]
+               </a>
+               The north wind driveth away rain, as doth a sad countenance a backbiting tongue.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=24-#x">
+                [24]
+               </a>
+               It is better to sit in a corner of the housetop, than with a brawling woman, and in a common house.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=25-#x">
+                [25]
+               </a>
+               As cold water to a thirsty soul, so is good tidings from a far country.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=26-#x">
+                [26]
+               </a>
+               A just man falling down before the wicked, is as a fountain troubled with the foot, and a corrupted spring.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=27-#x">
+                [27]
+               </a>
+               As it is not good for a man to eat much honey, so he that is a searcher of
+               <u>
+                majesty
+               </u>
+               , shall be overwhelmed by glory.
+               <a href="/x/d?b=drb&amp;bk=22&amp;ch=25&amp;l=28-#x">
+                [28]
+               </a>
+               As a city that lieth open and is not compassed with walls, so is a man that cannot refrain his own spirit in speaking.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "Majesty"
+               </u>
+               : Viz., of God. For to search into that incomprehensible Majesty, and to pretend to sound the depths of the wisdom of God, is exposing our weak understanding to be blinded with an excess of light and glory, which it cannot comprehend.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="21001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Proverbs
+              </td>
+              <td class="next">
+               <a href="23001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="22024.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 25
+              </td>
+              <td class="next">
+               <a href="22026.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

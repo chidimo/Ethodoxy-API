@@ -1,0 +1,346 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 John Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/70001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/70001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="69001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Second Epistle Of Saint John
+         </td>
+         <td class="next">
+          <a href="71001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          next &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             He recommends walking in truth, loving one another and to beware of false teachers.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             <u>
+              The ancient
+             </u>
+             <u>
+              to the lady Elect
+             </u>
+             , and her children, whom I love in the truth, and not I only, but also all they that have known the truth,
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             For the sake of the truth which dwelleth in us, and shall be with us for ever.
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             Grace be with you, mercy, and peace from God the Father, and from Christ Jesus the Son of the Father; in truth and charity.
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             I was exceeding glad, that I found of thy children walking in truth, as we have received a commandment from the Father.
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And now I beseech thee, lady, not as writing a new commandment to thee, but that which we have had from the beginning, that we love one another.
+            </p>
+            <p class="note">
+             [1]
+             <u>
+              "The ancient"
+             </u>
+             : That is, the ancient bishop St. John, being the only one of the twelve apostles then living.
+            </p>
+            <p class="note">
+             [1]
+             <u>
+              "To the lady Elect"
+             </u>
+             : Some conjecture that Elect might be the name of a family, or of a particular church; but the general opinion is, that it is the proper name of a lady, so eminent for her piety and great charity, as to merit this Epistle from St. John.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And this is charity, that we walk according to his commandments. For this is the commandment, that, as you have heard from the beginning, you should walk in the same:
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             For many seducers are gone out into the world, who confess not that Jesus Christ is come in the flesh: this is a seducer and an antichrist.
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Look to yourselves, that you lose not the things which you have wrought: but that you may receive a full reward.
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             Whosoever revolteth, and continueth not in the doctrine of Christ, hath not God. He that continueth in the doctrine, the same hath both the Father and the Son.
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             If any man come to you, and bring not this doctrine, receive him not into the house
+             <u>
+              nor say to him, God speed you
+             </u>
+             .
+            </p>
+            <p class="note">
+             [10]
+             <u>
+              "Nor say to him, God speed you"
+             </u>
+             : This admonition is in general, to forewarn the faithful of the dangers which may arise from a familiarity with those who have prevaricated and gone from the true faith, and with such as teach false doctrine. But this is not forbidding a charity for all men, by which we ought to wish and pray for the eternal salvation of every one, even of our enemies.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             For he that saith unto him, God speed you, communicateth with his wicked works.
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             Having more things to write unto you, I would not by paper and ink: for I hope that I shall be with you, and speak face to face: that your joy may be full.
+             <a href="/x/d?b=drb&amp;bk=70&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             The children of thy sister Elect salute thee.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="69001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Second Epistle Of Saint John
+            </td>
+            <td class="next">
+             <a href="71001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             next &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

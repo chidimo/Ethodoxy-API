@@ -1,0 +1,622 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Paralipomenon (1 Chronicles) Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/13004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/13004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="12001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            1 Paralipomenon (1 Chronicles)
+           </td>
+           <td class="next">
+            <a href="14001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="13005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="13001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="13002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="13003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="13005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="13006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="13007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="13008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="13009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="13010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="13011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="13012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="13013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="13014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="13015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="13016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="13017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="13018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="13019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="13020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="13021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="13022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="13023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="13024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="13025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="13026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="13027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="13028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="13029.htm">
+              29
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Other genealogies of Juda and Simeon, and their victories.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               The sons of Juda: Phares, Hesron, and Charmi, and Hur, and Sobal.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               And Raia the son of Sobal beget Jahath, of whom were born Ahumai, and Laad. These are the families of Sarathi.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               And this is the posterity of Etam: Jezrahel, and Jesema, and Jedebos: and the name of their sister was Asalelphuni.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               And Phanuel the father of Gedor, and Ezar the father of Hosa, these are the sons of Hur the firstborn of Ephratha the father of Bethlehem.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               And Assur the father of Thecua had two wives, Halaa and Naara:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And Naara bore him Ozam, and Hepher, and Themani, and Ahasthari: these are the sons of Naara.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               And the sons of Halaa, Sereth, Isaar, and Ethnan.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               And Cos begot Anob, and Soboba, the kindred of Aharehel the son of Arum.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               And
+               <u>
+                Jabes
+               </u>
+               was more honourable than any of his brethren, and his mother called his name Jabes, saying: Because I bore him with sorrow.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               And Jabes called upon the God of Israel, saying: If blessing thou wilt bless me, and wilt enlarge my borders, and thy hand be with me, and thou save me from being oppressed by evil. And God granted him the things he prayed for.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "Jabes"
+               </u>
+               : That is, sorrowful.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               And Caleb the brother of Sua beget Mahir, who was the father of Esthon.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               And Esthon beget Bethrapha, and Phesse, and Tehinna father of the city of Naas: these are the men of Recha.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               And the sons of Cenez were Othoniel, and Saraia. And the sons of Othoniel, Hathath, and Maonathi.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               Maonathi beget Ophra, and Saraia begot Joab the father of the Valley of artificers: for artificers were there.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And the sons of Caleb the son of Jephone, were Hir, and Ela, and Naham. And the sons of Ela: Cenez.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               The sons also of Jaleleel: Ziph, and Zipha, Thiria, and Asrael.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               And the sons of Esra, Jether, and Mered, and Epher, and Jalon, and he beget Mariam, and Sammai, and Jesba the father of Esthamo.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               And his wife Judaia, bore Jared the father of Gedor, and Heber the father of Socho, and Icuthiel the father of Zanoe. And these are the sons of Bethia the daughter of Pharao, whom Mered took to wife.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               And the sons of his wife Odaia the sister of Naham the father of Celia, Garmi, and Esthamo, who was of Machathi.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               The sons also of Simon, Amnon, and Rinna the son of Hanan, and Thilon. And the sons of Jesi Zoheth, and Benzoheth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               The sons of Sela the son of Juda: Her the father of Lecha, and Laada the father of Maresa, and the families of the house of them that wrought fine linen in the House of oath.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               And
+               <u>
+                he that made
+               </u>
+               the sun to stand, and the men of Lying, and Secure, and Burning, who were princes in Moab, and who returned into Lahem. Now these are things of old.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               These are the potters, and they dwelt in
+               <u>
+                Plantations, and Hedges
+               </u>
+               , with the king for his works, and they abode there.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               The sons of Simeon: Namuel, and Jamin, Jarib, Zara, Saul:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               Sellum his son, Mapsam his son, Masma his son.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "He that made"
+               </u>
+               : Viz., Joazim, the meaning of whose name in Hebrew is, he that made the sun to stand. In like manner the following names, Lying (Chozeba), Secure (Joas), and Burning (Saraph), are substituted in place of the Hebrew names of the same signification.
+              </p>
+              <p class="note">
+               [23]
+               <u>
+                "Plantations and Hedges"
+               </u>
+               : These are the proper names of the places where they dwelt. In Hebrew Atharim and Gadira.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               The sons of Masma: Hamuel his son, Zachur his son, Semei his son.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=27-#x">
+                [27]
+               </a>
+               The sons of Semei were sixteen, and six daughters: but his brethren had not many sons, and the whole kindred could not reach to the sum of the children of Juda.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=28-#x">
+                [28]
+               </a>
+               And they dwelt in Bersabee, and Molada, and Hasarsuhal,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=29-#x">
+                [29]
+               </a>
+               And in Bala, and in Asom, and in Tholad,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=30-#x">
+                [30]
+               </a>
+               And in Bathuel, and in Horma, and in Siceleg,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=31-#x">
+                [31]
+               </a>
+               And in Bethmarchaboth, and in Hasarsusim, and in Bethberai, and in Saarim. These were their cities unto the reign of David.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=32-#x">
+                [32]
+               </a>
+               Their towns also were Etam, and Aen, Remmon, and Thochen, and Asan, five cities.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=33-#x">
+                [33]
+               </a>
+               And all their villages round about these cities as far as Baal. This was their habitation, and the distribution of their dwellings.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=34-#x">
+                [34]
+               </a>
+               And Mosabab and Jemlech, and Josa, the son of Amasias,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=35-#x">
+                [35]
+               </a>
+               And Joel, and Jehu the son of Josabia the son of Saraia, the son of Asiel,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=36-#x">
+                [36]
+               </a>
+               And Elioenai, and Jacoba, and Isuhaia, and Asaia, and Adiel, and Ismiel, and Banaia,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=37-#x">
+                [37]
+               </a>
+               Ziza also the son of Sephei the son of Allon the son of Idaia the son of Semri the son of Samaia.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=38-#x">
+                [38]
+               </a>
+               These were named princes in their kindreds, and in the houses of their families were multiplied exceedingly.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=39-#x">
+                [39]
+               </a>
+               And they went forth to enter into Gador as far as to the east side of the valley, to seek pastures for their flocks.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=40-#x">
+                [40]
+               </a>
+               And they found fat pastures, and very good, and a country spacious, and quiet, and fruitful, in which some of the race of Cham had dwelt before.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=41-#x">
+                [41]
+               </a>
+               And these whose names are written above, came in the days of Ezechias king of Juda: and they beat down their tents, and slew the inhabitants that were found there, and utterly destroyed them unto this day: and they dwelt in their place, because they found there fat pastures.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=42-#x">
+                [42]
+               </a>
+               Some also of the children of Simeon, five hundred men, went into mount Seir, having for their captains Phaltias and Naaria and Raphaia and Oziel the sons of Jesi:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=4&amp;l=43-#x">
+                [43]
+               </a>
+               And they slew the remnant of the Amalecites, who had been able to escape, and they dwelt there in their stead unto this day.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="12001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               1 Paralipomenon (1 Chronicles)
+              </td>
+              <td class="next">
+               <a href="14001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="13005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

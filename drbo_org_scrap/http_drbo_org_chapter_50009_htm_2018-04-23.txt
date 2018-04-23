@@ -1,0 +1,565 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="50010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               He gives sight to the man born blind.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And Jesus passing by, saw a man, who was blind from his birth:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               And his disciples asked him: Rabbi, who hath sinned, this man, or his parents, that he should be born blind?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               Jesus answered: Neither hath this man sinned, nor his parents; but that the works of God should be made manifest in him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               I must work the works of him that sent me, whilst it is day: the night cometh, when no man can work.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               As long as I am in the world, I am the light of the world.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               When he had said these things, he spat on the ground, and made clay of the spittle, and spread the clay on his eyes,
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               And said to him: Go, wash in the pool of Siloe, which is interpreted, Sent. He went therefore, and washed, and he came seeing.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               The neighbours therefore, and they who had seen him before that he was a beggar, said: Is not this he that sat and begged? Some said: This is he.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               But others said: No, but he is like him. But he said: I am he.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               They said therefore to him: How were thy eyes opened?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               He answered: That man that is called Jesus made clay, and anointed my eyes, and said to me: Go to the pool of Siloe, and wash. And I went, I washed, and I see.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               And they said to him: Where is he? He saith: I know not.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               They bring him that had been blind to the Pharisees.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               Now it was the sabbath, when Jesus made the clay, and opened his eyes.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               Again therefore the Pharisees asked him, how he had received his sight. But he said to them: He put clay upon my eyes, and I washed, and I see.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               Some therefore of the Pharisees said: This man is not of God, who keepeth not the sabbath. But others said: How can a man that is a sinner do such miracles? And there was a division among them.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               They say therefore to the blind man again: What sayest thou of him that hath opened thy eyes? And he said: He is a prophet.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               The Jews then did not believe concerning him, that he had been blind, and had received his sight, until they called the parents of him that had received his sight,
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               And asked them, saying: Is this your son, who you say was born blind? How then doth he now see?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               His parents answered them, and said: We know that this is our son, and that he was born blind:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               But how he now seeth, we know not; or who hath opened his eyes, we know not: ask himself: he is of age, let him speak for himself.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               These things his parents said, because they feared the Jews: for the Jews had already agreed among themselves, that if any man should confess him to be Christ, he should be put out of the synagogue.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               Therefore did his parents say: He is of age, ask himself.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               They therefore called the man again that had been blind, and said to him: Give glory to God. We know that this man is a sinner.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               He said therefore to them: If he be a sinner, I know not: one thing I know, that whereas I was blind, now I see.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               They said then to him: What did he to thee? How did he open thy eyes?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               He answered them: I have told you already, and you have heard: why would you hear it again? will you also become his disciples?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               They reviled him therefore, and said: Be thou his disciple; but we are the disciples of Moses.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               We know that God spoke to Moses: but as to this man, we know not from whence he is.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               The man answered, and said to them: Why, herein is a wonderful thing, that you know not from whence he is, and he hath opened my eyes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               Now we know that God doth not hear sinners: but if a man be a server of God, and doth his will, him he heareth.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=32-#x">
+                [32]
+               </a>
+               From the beginning of the world it hath not been heard, that any man hath opened the eyes of one born blind.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=33-#x">
+                [33]
+               </a>
+               Unless this man were of God, he could not do any thing.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=34-#x">
+                [34]
+               </a>
+               They answered, and said to him: Thou wast wholly born in sins, and dost thou teach us? And they cast him out.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=35-#x">
+                [35]
+               </a>
+               Jesus heard that they had cast him out: and when he had found him, he said to him: Dost thou believe in the Son of God?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=36-#x">
+                [36]
+               </a>
+               He answered, and said: Who is he, Lord, that I may believe in him?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=37-#x">
+                [37]
+               </a>
+               And Jesus said to him: Thou hast both seen him; and it is he that talketh with thee.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=38-#x">
+                [38]
+               </a>
+               And he said: I believe, Lord. And falling down, he adored him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=39-#x">
+                [39]
+               </a>
+               And Jesus said: For judgment
+               <u>
+                I am come
+               </u>
+               into this world; that they who see not, may see; and they who see, may become blind.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=40-#x">
+                [40]
+               </a>
+               And some of the Pharisees, who were with him, heard: and they said unto him: Are we also blind?
+              </p>
+              <p class="note">
+               [39]
+               <u>
+                "I am come"
+               </u>
+               : Not that Christ came for that end, that any one should be made blind: but that the Jews, by the abuse of his coming, and by their not receiving him, brought upon themselves this judgment of blindness.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=9&amp;l=41-#x">
+                [41]
+               </a>
+               Jesus said to them:
+               <u>
+                If you were blind
+               </u>
+               , you should not have sin: but now you say: We see. Your sin remaineth.
+              </p>
+              <p class="note">
+               [41]
+               <u>
+                "If you were blind"
+               </u>
+               : If you were invincibly ignorant, and had neither read the scriptures, nor seen my miracles, you would not be guilty of the sin of infidelity: but now, as you boast of your knowledge of the scriptures, you are inexcusable.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="50010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

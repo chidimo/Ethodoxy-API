@@ -1,0 +1,597 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="04014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The twelve spies are sent to view the land. The relation they make of it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               And the people marched from Haseroth, and pitched their tents in the desert of Pharan.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               And there the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               Send men to view the land of Chanaan, which I will give to the children of Israel, one of every tribe, of the rulers.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               Moses did what the Lord had commanded, sending from the desert of Pharan, principal men, whose names are these:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               Of the tribe of Ruben, Sammua the son of Zechur.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               Of the tribe of Simeon, Saphat the son of Hurl.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               Of the tribe of Juda, Caleb the son of Jephone.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               Of the tribe of Issachar, Igal the son of Joseph.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               Of the tribe of Ephraim, Osee the son of Nun.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               Of the tribe of Benjamin, Phalti the son of Raphu.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               Of the tribe of Zabulon, Geddiel the son of Sodi.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               Of the tribe of Joseph, of the sceptre of Manasses, Gaddi the son of Susi.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               Of the tribe of Dan, Ammiel the son of Gemalli.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               Of the tribe of Aser, Sthur the son of Michael.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               Of the tribe of Nephtali, Nahabi the son of Vapsi.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               Of the tribe of Gad, Guel the son of Machi.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               These are the names of the men, whom Moses sent to view the land: and he called Osee the son of Nun, Josue.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               And Moses sent them to view the land of Chanaan, and said to them: Go you up by the south side. And when you shall come to the mountains,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=19-#x">
+                [19]
+               </a>
+               View the land, of what sort it is: and the people that are the inhabitants thereof, whether they be strong or weak: few in number or many:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=20-#x">
+                [20]
+               </a>
+               The land itself, whether it be good or bad: what manner of cities, walled or without walls:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=21-#x">
+                [21]
+               </a>
+               The ground, fat or barren, woody or without trees. Be of good courage, and bring us of the fruits of the land. Now it was the time when the first ripe grapes are fit to be eaten.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=22-#x">
+                [22]
+               </a>
+               And when they were gone up, they viewed the land from the desert of Sin, unto Rohob as you enter into Emath.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=23-#x">
+                [23]
+               </a>
+               And they went up at the south side, and came to Hebron, where were Achiman and Sisai and Tholmai the sons of Enac. For Hebron was built seven years before Tanis the city of Egypt.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=24-#x">
+                [24]
+               </a>
+               And going forward as far as the torrent of the cluster of grapes, they cut off a branch with its cluster of grapes, which two men carried upon a lever. They took also of the pomegranates and of the figs of that place:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=25-#x">
+                [25]
+               </a>
+               Which was called Nehelescol, that is to say, the torrent of the cluster of grapes, because from thence the children of Israel had carried a cluster of grapes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=26-#x">
+                [26]
+               </a>
+               And they that went to spy out the land returned after forty days, having gone round all the country,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=27-#x">
+                [27]
+               </a>
+               And came to Moses and Aaron and to all the assembly of the children of Israel to the desert of Pharan, which is in Cades. And speaking to them and to all the multitude, they shewed them the fruits of the land:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=28-#x">
+                [28]
+               </a>
+               And they related and said: We came into the land to which thou sentest us, which in very deed floweth with milk and honey as may be known by these fruits:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=29-#x">
+                [29]
+               </a>
+               But it hath very strong inhabitants, and the cities are great and walled. We saw there the race of Enac.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=30-#x">
+                [30]
+               </a>
+               Amalec dwelleth in the south, the Hethite and the Jebusite and the Amorrhite in the mountains: but the Chanaanite abideth by the sea and near the streams of the Jordan.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=31-#x">
+                [31]
+               </a>
+               In the mean time Caleb, to still the murmuring of the people that rose against Moses, said: Let us go up and possess the land, for we shall be able to conquer it.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=32-#x">
+                [32]
+               </a>
+               But the others, that had been with him, said: No, we are not able to go up to this people, because they are stronger than we.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=33-#x">
+                [33]
+               </a>
+               And they
+               <u>
+                spoke ill
+               </u>
+               of the land, which they had viewed, before the children of Israel, saying: The land which we have viewed, devoureth its inhabitants: the people, that we beheld, are of a tall stature.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=13&amp;l=34-#x">
+                [34]
+               </a>
+               There we saw certain monsters of the sons of Enac, of the giant kind: in comparison of whom, we seemed like locusts.
+              </p>
+              <p class="note">
+               [33]
+               <u>
+                "Spoke ill"
+               </u>
+               : These men, who by their misrepresentations of the land of promise, discouraged the Israelites from attempting the conquest of it, were a figure of worldlings, who, by decrying or misrepresenting true devotion, discourage Christians from seeking in earnest and acquiring so great a good, and thereby securing to themselves a happy eternity.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="04014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

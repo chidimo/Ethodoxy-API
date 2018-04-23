@@ -1,0 +1,551 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Romans Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/52004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/52004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Romans
+           </td>
+           <td class="next">
+            <a href="53001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="52005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="52001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="52002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="52003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="52005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="52006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="52007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="52008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="52009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="52010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="52011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="52012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="52013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="52014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="52015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="52016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Abraham was not justified by works done, as of himself, but by grace and by faith. And that before he was circumcised. Gentiles, by faith, are his children.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               What shall we say then that Abraham hath found, who is our father according to the flesh.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               For if Abraham were justified
+               <u>
+                by works
+               </u>
+               , he hath whereof to glory, but
+               <u>
+                not before God
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               For what saith the scripture? Abraham believed God, and it was
+               <u>
+                reputed
+               </u>
+               to him unto justice.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               Now
+               <u>
+                to him that worketh
+               </u>
+               , the reward is not reckoned according to grace, but according to debt.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               But to him that worketh not, yet believeth in him that justifieth the ungodly, his faith is reputed to justice, according to the purpose of the grace of God.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "By works"
+               </u>
+               : Done by his own strength, without the grace of God, and faith in him.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Not before God"
+               </u>
+               : Whatever glory or applause such works might procure from men, they would be of no value in the sight of God.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Reputed"
+               </u>
+               : By God, who reputeth nothing otherwise than it is. However, we may gather from this word, that when we are justified, our justification proceedeth from God's free grace and bounty; and not from any efficacy which any act of ours could have of its own nature, abstracting from God's grace.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "To him that worketh"
+               </u>
+               : Vis., as of his own fund, or by his own strength. Such a man, says the apostle, challenges his reward as a debt due to his own performances; whereas he who worketh not, that is, who presumeth not upon any works done by his own strength, but seeketh justice through faith and grace, is freely justified by God's grace.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               As David also termeth the blessedness of a man, to whom God reputeth justice without works:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               Blessed are they
+               <u>
+                whose iniquities are forgiven, and whose sins are covered
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               Blessed is the man to whom
+               <u>
+                the Lord hath not imputed sin
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               This blessedness then, doth it remain
+               <u>
+                in the circumcision
+               </u>
+               only, or in the uncircumcision also? For we say that unto Abraham faith was reputed to justice.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               How then was it reputed? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Whose iniquities are forgiven, and whose sins are covered"
+               </u>
+               : That is, blessed are those who, by doing penance, have obtained pardon and remission of their sins, and also are covered; that is, newly clothed with the habit of grace, and vested with the stole of charity.
+              </p>
+              <p class="note">
+               [8]
+               <u>
+                "The Lord hath not imputed sin"
+               </u>
+               : That is, blessed is the man who hath retained his baptismal innocence, that no grievous sin can be imputed to him. And, likewise, blessed is the man, who after fall into sin, hath done penance and leads a virtuous life, by frequenting the sacraments necessary for obtaining the grace to prevent a relapse, that sin is no more imputed to him.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "In the circumcision"
+               </u>
+               : That is, is it only for the Jews that are circumcised? No, says the apostle, but also for the uncircumcised Gentiles: who, by faith and grace, may come to justice; as Abraham did before he was circumcised.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               And he received the sign of circumcision, a seal of the justice of the faith, which he had, being uncircumcised; that he might be the father of all them that believe, being uncircumcised, that unto them also it may be reputed to justice:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               And might be the father of circumcision; not to them only, that are of the circumcision, but to them also that follow the steps of the faithful, that is in the uncircumcision of our father Abraham.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               For not through the law was the promise to Abraham, or to his seed, that he should be heir of the world; but through the justice of faith.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               For if they who are of the law
+               <u>
+                be heirs
+               </u>
+               , faith is made void, the promise is made of no effect.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               For
+               <u>
+                the law worketh wrath
+               </u>
+               . For where there is no law, neither is there transgression.
+              </p>
+              <p class="note">
+               [14]
+               <u>
+                "Be heirs"
+               </u>
+               : That is, if they alone, who follow the ceremonies of the law, be heirs of the blessings promised to Abraham; then that faith which was so much praised in him, will be found to be of little value. And the very promise will be made void, by which he was promised to be the father, not of the Jews only, but of all nations of believers.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "The law worketh wrath"
+               </u>
+               : The law, abstracting from faith and grace, worketh wrath occasionally, by being an occasion of many transgressions, which provoke God's wrath.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               Therefore is it of faith, that according to grace the promise might be firm to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               (As it is written: I have made thee a father of many nations,) before God, whom he believed, who quickeneth the dead; and calleth those things that are not, as those that are.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               Who against hope believed in hope; that he might be made the father of many nations, according to that which was said to him: So shall thy seed be.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               And he was not weak in faith; neither did he consider his own body now dead, whereas he was almost an hundred years old, nor the dead womb of Sara.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               In the promise also of God he staggered not by distrust; but was strengthened in faith, giving glory to God:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               Most fully knowing, that whatsoever he has promised, he is able also to perform.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               And therefore it was reputed to him unto justice.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               Now it is not written only for him, that it was reputed to him unto justice,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               But also for us, to whom it shall be reputed, if we believe in him, that raised up Jesus Christ, our Lord, from the dead,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               Who was delivered up for our sins, and rose again for our justification.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Romans
+              </td>
+              <td class="next">
+               <a href="53001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="52005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

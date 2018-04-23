@@ -1,0 +1,487 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Hebrews Chapter 7
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/65007.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/65007.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="64001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Hebrews
+           </td>
+           <td class="next">
+            <a href="66001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="65006.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 7
+           </td>
+           <td class="next">
+            <a href="65008.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="65001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="65002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="65003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="65004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="65005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="65006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             07
+            </td>
+            <td width="30">
+             <a href="65008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="65009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="65010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="65011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="65012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="65013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The priesthood of Christ according to the order of Melchisedech excels the Levitical priesthood and puts an end both to that and to the law.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=1-#x">
+                [1]
+               </a>
+               For this Melchisedech was king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=2-#x">
+                [2]
+               </a>
+               To whom also Abraham divided the tithes of all: who first indeed by interpretation, is king of justice: and then also king of Salem, that is, king of peace:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=3-#x">
+                [3]
+               </a>
+               <u>
+                Without father
+               </u>
+               , without mother, without genealogy, having neither beginning of days nor end of life, but likened unto the Son of God, continueth a priest for ever.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=4-#x">
+                [4]
+               </a>
+               Now consider how great this man is, to whom also Abraham the patriarch gave tithes out of the principal things.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=5-#x">
+                [5]
+               </a>
+               And indeed they that are of the sons of Levi, who receive the priesthood, have a commandment to take tithes of the people according to the law, that is to say, of their brethren: though they themselves also came out of the loins of Abraham.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Without father"
+               </u>
+               : Not that he had no father, etc., but that neither his father, nor his pedigree, nor his birth, nor his death, are set down in scripture.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=6-#x">
+                [6]
+               </a>
+               But he, whose pedigree is not numbered among them, received tithes of Abraham, and blessed him that had the promises.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=7-#x">
+                [7]
+               </a>
+               And without all contradiction, that which is less, is blessed by the better.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=8-#x">
+                [8]
+               </a>
+               And here indeed, men that die, receive thithes: but there he hath witness, that he liveth.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=9-#x">
+                [9]
+               </a>
+               And (as it may be said) even Levi who received tithes, paid tithes in Abraham:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=10-#x">
+                [10]
+               </a>
+               For he was yet in the loins of his father, when Melchisedech met him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=11-#x">
+                [11]
+               </a>
+               If then perfection was by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise according to the order of Melchisedech, and not be called according to the order of Aaron?
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=12-#x">
+                [12]
+               </a>
+               For the priesthood being translated, it is necessary that a translation also be made of the law.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=13-#x">
+                [13]
+               </a>
+               For he, of whom these things are spoken, is of another tribe, of which no one attended on the altar.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=14-#x">
+                [14]
+               </a>
+               For it is evident that our Lord sprung out of Juda: in which tribe Moses spoke nothing concerning priests.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=15-#x">
+                [15]
+               </a>
+               And it is yet far more evident: if according to the similitude of Melchisedech there ariseth another priest,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=16-#x">
+                [16]
+               </a>
+               Who is made not according to the law of a carnal commandment, but according to the power of an indissoluble life:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=17-#x">
+                [17]
+               </a>
+               For he testifieth: Thou art a priest for ever, according to the order of Melchisedech.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=18-#x">
+                [18]
+               </a>
+               There is indeed a setting aside of the former commandment, because of the weakness and unprofitableness thereof:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=19-#x">
+                [19]
+               </a>
+               (For the law brought nothing to perfection,) but a bringing in of a better hope, by which we draw nigh to God.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=20-#x">
+                [20]
+               </a>
+               And inasmuch as it is not without an oath, (for the others indeed were made priests without an oath;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=21-#x">
+                [21]
+               </a>
+               But this with an oath, by him that said unto him: The Lord hath sworn, and he will not repent, Thou art a priest for ever.)
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=22-#x">
+                [22]
+               </a>
+               By so much is Jesus made a surety of a better testament.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=23-#x">
+                [23]
+               </a>
+               And the others indeed were made
+               <u>
+                many priests
+               </u>
+               , because by reason of death they were not suffered to continue:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=24-#x">
+                [24]
+               </a>
+               But this, for that he continueth for ever, hath an everlasting priesthood,
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=25-#x">
+                [25]
+               </a>
+               Whereby he is able also to save for ever them that come to God by him; always living to
+               <u>
+                make intercession
+               </u>
+               for us.
+              </p>
+              <p class="note">
+               [23]
+               <u>
+                "Many priests"
+               </u>
+               : The apostle notes this difference between the high priests of the law, and our high priest Jesus Christ; that they being removed by death, made way for their successors; whereas our Lord Jesus is a priest for ever, and hath no successor; but liveth and concurreth for ever with his ministers, the priests of the new testament, in all their functions. Also, that no one priest of the law, nor all of them together, could offer that absolute sacrifice of everlasting redemption, which our one high priest Jesus Christ has offered once, and for ever.
+              </p>
+              <p class="note">
+               [25]
+               <u>
+                "Make intercession"
+               </u>
+               : Christ, as man, continually maketh intercession for us, by representing his passion to his Father.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=26-#x">
+                [26]
+               </a>
+               For it was fitting that we should have such a high priest, holy, innocent, undefiled, separated from sinners, and made higher than the heavens;
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=27-#x">
+                [27]
+               </a>
+               Who needeth not daily (as the other priests) to offer sacrifices first for his own sins, and then for the people's: for this he did once, in offering himself.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=7&amp;l=28-#x">
+                [28]
+               </a>
+               For the law maketh men priests, who have infirmity: but the word of the oath, which was since the law, the Son who is perfected for evermore.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="64001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Hebrews
+              </td>
+              <td class="next">
+               <a href="66001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="65006.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 7
+              </td>
+              <td class="next">
+               <a href="65008.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

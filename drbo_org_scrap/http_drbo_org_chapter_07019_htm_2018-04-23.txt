@@ -1,0 +1,504 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 19
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/07019.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/07019.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judges
+           </td>
+           <td class="next">
+            <a href="08001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="07018.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 19
+           </td>
+           <td class="next">
+            <a href="07020.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="07001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="07002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="07003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="07004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="07005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="07006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="07007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="07008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="07009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="07010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="07011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="07012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="07013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="07014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="07015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="07016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="07017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="07018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             19
+            </td>
+            <td width="30">
+             <a href="07020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="07021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               A Levite bringing home his wife, is lodged by an old man at Gabaa in the tribe of Benjamin. His wife is there abused by wicked men, and in the morning found dead. Her husband cutteth her body in pieces, and sendeth to every tribe of Israel, requiring them to revenge the wicked fact.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=1-#x">
+                [1]
+               </a>
+               There was a certain Levite, who dwelt on the side of mount Ephraim, who took a wife of Bethlehem Juda:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=2-#x">
+                [2]
+               </a>
+               And she left him and returned to her father's house in Bethlehem, and abode with him four months.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=3-#x">
+                [3]
+               </a>
+               And her husband followed her, willing to be reconciled with her, and to speak kindly to her, and to bring her back with him, having with him a servant and two asses: and she received him, and brought him into her father's house. And when his father in law had heard this, and had seen him, he met him with joy,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=4-#x">
+                [4]
+               </a>
+               And embraced the man. And the son in law tarried in the house of his father in law three days, eating with him and drinking familiarly.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=5-#x">
+                [5]
+               </a>
+               But on the fourth day arising early in the morning he desired to depart. But his father in law kept him, and said to him: Taste first a little bread, and strengthen thy stomach, and so thou shalt depart.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=6-#x">
+                [6]
+               </a>
+               And they sat down together, and ate and drank. And the father of the young woman said to his son in law: I beseech thee to stay here today, and let us make merry together.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=7-#x">
+                [7]
+               </a>
+               But he rising up began to be for departing. And nevertheless his father in law earnestly pressed him, and made him stay with him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=8-#x">
+                [8]
+               </a>
+               But when morning was come, the Levite prepared to go on his journey. And his father in law said to him again: I beseech thee to take a little meat, and strengthening thyself, till the day be farther advanced, afterwards thou mayest depart. And they ate together.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=9-#x">
+                [9]
+               </a>
+               And the young man arose to set forward with his wife and servant. And his father in law spoke to him again: Consider that the day is declining, and draweth toward evening: tarry with me today also, and spend the day in mirth, and tomorrow thou shalt depart, that thou mayest go into thy house.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=10-#x">
+                [10]
+               </a>
+               His son in law would not consent to his words: but forthwith went forward and came over against Jebus, which by another name is called Jerusalem, leading with him two asses laden, and his
+               <u>
+                concubine
+               </u>
+               .
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "Concubine"
+               </u>
+               : She was his lawful wife, but even lawful wives are frequently in scripture called concubines. See above, chap. 8 ver. 31-ver. 16. Jemini. That is, Benjamin.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=11-#x">
+                [11]
+               </a>
+               And now they were come near Jebus, and the day was far spent: and the servant said to his master: Come, I beseech thee, let us turn into the city of the Jebusites, and lodge there.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=12-#x">
+                [12]
+               </a>
+               His master answered him: I will not go into the town of another nation, who are not of the children of Israel, but I will pass over to Gabaa:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=13-#x">
+                [13]
+               </a>
+               And when I shall come thither, we will lodge there, or at least in the city of Rama.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=14-#x">
+                [14]
+               </a>
+               So they passed by Jebus, and went on their journey, and the sun went down upon them when they were by Gabaa, which is in the tribe of Benjamin:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=15-#x">
+                [15]
+               </a>
+               And they turned into it, to lodge there. And when they were come in, they sat in the street of the city, for no man would receive them to lodge.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=16-#x">
+                [16]
+               </a>
+               And behold they saw an old man, returning out of the field and from his work in the evening, and he also was of mount Ephraim, and dwelt as a stranger in Gabaa; but the men of that country were the children of Jemini.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=17-#x">
+                [17]
+               </a>
+               And the old man lifting up his eyes, saw the man sitting with his bundles in the street of the city, and said to him: Whence comest thou? and whither goest thou?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=18-#x">
+                [18]
+               </a>
+               He answered him: We came out from Bethlehem Juda, and we are going to our home, which is on the side of mount Ephraim, from whence we went to Bethlehem: and now we go to the house of God, and none will receive us under his roof:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=19-#x">
+                [19]
+               </a>
+               We have straw and hay for provender of the asses, and bread and wine for the use of myself and of thy handmaid, and of the servant that is with me: we want nothing but lodging.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=20-#x">
+                [20]
+               </a>
+               And the old man answered him: Peace be with thee: I will furnish all things that are necessary: only I beseech thee, stay not in the street.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=21-#x">
+                [21]
+               </a>
+               And he brought him into his house, and gave provender to his asses: and after they had washed their feet, he entertained them with a feast.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=22-#x">
+                [22]
+               </a>
+               While they were making merry, and refreshing their bodies with meat and drink, after the labour of the journey, the men of that city, sons of Belial, (that is, without yoke,) came and beset the old man's house, and began to knock at the door, calling to the master of the house, and saying: Bring forth the man that came into thy house, that we may abuse him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=23-#x">
+                [23]
+               </a>
+               And the old man went out to them, and said: Do not so, my brethren, do not so wickedly: because this man is come into my lodging, and cease I pray you from this folly.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=24-#x">
+                [24]
+               </a>
+               I have a maiden daughter, and this man hath a concubine, I will bring them out to you, and you may humble them, and satisfy your lust: only, I beseech you, commit not this crime against nature on the man.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=25-#x">
+                [25]
+               </a>
+               They would not be satisfied with his words; which the man seeing, brought out his concubine to them, and abandoned her to their wickedness: and when they had abused her all the night, they let her go in the morning.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=26-#x">
+                [26]
+               </a>
+               But the woman, at the dawning of the day, came to the door of the house where her lord lodged, and there fell down.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=27-#x">
+                [27]
+               </a>
+               And in the morning the man arose, and opened the door that he might end the journey he had begun: and behold his concubine lay before the door with her hands spread on the threshold.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=28-#x">
+                [28]
+               </a>
+               He thinking she was taking her rest, said to her: Arise, and let us be going. But as she made no answer, perceiving she was dead, he took her up, and laid her upon his ass, and returned to his house.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=29-#x">
+                [29]
+               </a>
+               And when he was come home he took a sword, and divided the dead body of his wife with her bones into twelve parts, and sent the pieces into all the borders of Israel.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=19&amp;l=30-#x">
+                [30]
+               </a>
+               And when every one had seen this, they all cried out: There was never such a thing done in Israel from the day that our fathers came up out of Egypt, until this day: give sentence, and decree in common what ought to be done.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judges
+              </td>
+              <td class="next">
+               <a href="08001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="07018.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 19
+              </td>
+              <td class="next">
+               <a href="07020.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

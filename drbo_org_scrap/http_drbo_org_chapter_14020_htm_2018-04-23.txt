@@ -1,0 +1,598 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Paralipomenon (2 Chronicles) Chapter 20
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/14020.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/14020.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            2 Paralipomenon (2 Chronicles)
+           </td>
+           <td class="next">
+            <a href="15001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14019.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 20
+           </td>
+           <td class="next">
+            <a href="14021.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="14001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="14002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="14003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="14004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="14005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="14006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="14007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="14008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="14009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="14010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="14011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="14012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="14013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="14014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="14015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="14016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="14017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="14018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="14019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             20
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="14021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="14022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="14023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="14024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="14025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="14026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="14027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="14028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="14029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="14030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="14031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="14032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="14033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="14034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="14035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="14036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Ammonites, Moabites, and Syrians combine against Josaphat: he seeketh God's help by public prayer and fasting. A prophet foretelleth that God will fight for his people: the enemies destroy one another. Josaphat with his men gathereth the spoils. He reigneth in peace, but his navy perisheth, for his society with wicked Ochozias.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=1-#x">
+                [1]
+               </a>
+               After this the children of Moab, and the children of Ammon, and with them of the Ammonites, were gathered together to fight against Josaphat.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=2-#x">
+                [2]
+               </a>
+               And there came messengers, and told Josaphat, saying: There cometh a great multitude against thee from beyond the sea, and out of Syria, and behold they are in Asasonthamar, which is Engaddi.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=3-#x">
+                [3]
+               </a>
+               And Josaphat being seized with fear betook himself wholly to pray to the Lord, and he proclaimed a fast for all Juda.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=4-#x">
+                [4]
+               </a>
+               And Juda gathered themselves together to pray to the Lord: and all came out of their cities to make supplication to him.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=5-#x">
+                [5]
+               </a>
+               And Josaphat stood in the midst of the assembly of Juda, and Jerusalem, in the house of the Lord before the new court,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=6-#x">
+                [6]
+               </a>
+               And said: O Lord God of our fathers, thou art God in heaven, and rulest over all the kingdoms and nations, in thy hand is strength and power, and no one can resist thee.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=7-#x">
+                [7]
+               </a>
+               Didst not thou our God kill all the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever?
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=8-#x">
+                [8]
+               </a>
+               And they dwelt in it, and built in it a sanctuary to thy name, saying:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=9-#x">
+                [9]
+               </a>
+               If evils fall upon us, the sword of judgment, or pestilence, or famine, we will stand in thy presence before this house, in which thy name is called upon: and we will cry to thee in our afflictions, and thou wilt hear, and save us.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=10-#x">
+                [10]
+               </a>
+               Now therefore behold the children of Ammon, and of Moab, and mount Seir, through whose lands thou didst not allow Israel to pass, when they came out of Egypt, but they turned aside from them, and slew them not,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=11-#x">
+                [11]
+               </a>
+               Do the contrary, and endeavour to cast us out of the possession which thou hast delivered to us.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=12-#x">
+                [12]
+               </a>
+               O our God, wilt thou not then judge them? as for us we have not strength enough, to be able to resist this multitude, which cometh violently upon us. But as we know not what to do, we can only turn our eyes to thee.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=13-#x">
+                [13]
+               </a>
+               And all Juda stood before the Lord with their little ones, and their wives, and their children.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=14-#x">
+                [14]
+               </a>
+               And Jahaziel the son of Zacharias, the son of Banaias, the son of Jehiel, the son of Mathanias, a Levite of the sons of Asaph, was there, upon whom the spirit of the Lord came in the midst of the multitude,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=15-#x">
+                [15]
+               </a>
+               And he said: Attend ye, all Juda, and you that dwell in Jerusalem, and thou king Josaphat: Thus saith the Lord to you: Fear ye not, and be not dismayed at this multitude: for the battle is not yours, but God's.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=16-#x">
+                [16]
+               </a>
+               Tomorrow you shall go down against them: for they will come up by the ascent named Sis, and you shall find them at the head of the torrent, which is over against the wilderness of Jeruel.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=17-#x">
+                [17]
+               </a>
+               It shall not be you that shall fight, but only stand with confidence, and you shall see the help of the Lord over you, O Juda, and Jerusalem: fear ye not, nor be you dismayed: tomorrow you shall go out against them, and the Lord will be with you.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=18-#x">
+                [18]
+               </a>
+               Then Josaphat, and Juda, and all the inhabitants of Jerusalem fell hat on the ground before the Lord, and adored him.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=19-#x">
+                [19]
+               </a>
+               And the Levites of the sons of Caath, and of the sons of Core praised the Lord the God of Israel with a loud voice, on high.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=20-#x">
+                [20]
+               </a>
+               And they rose early in the morning, and went out through the desert of Thecua: and as they were marching, Josaphat standing in the midst of them, said: Hear me, ye men of Juda, and all the inhabitants of Jerusalem: believe in the Lord your God, and you shall be secure: believe his prophets, and all things shall succeed well.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=21-#x">
+                [21]
+               </a>
+               And he gave counsel to the people, and appointed the singing men of the Lord, to praise him by their companies, and to go before the army, and with one voice to say: Give glory to the Lord, for his mercy endureth for ever.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=22-#x">
+                [22]
+               </a>
+               And when they began to sing praises, the Lord turned their ambushments upon themselves, that is to say, of the children of Ammon, and of Moab, and of mount Seir, who were come out to fight against Juda, and they were slain.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=23-#x">
+                [23]
+               </a>
+               For the children of Ammon, and of Moab, rose up against the inhabitants of mount Seir, to kill and destroy them: and when they had made an end of them, they turned also against one another, and destroyed one another.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=24-#x">
+                [24]
+               </a>
+               And when Juda came to the watch tower, that looketh toward the desert, they saw afar off all the country, for a great space, full of dead bodies, and that no one was left that could escape death.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=25-#x">
+                [25]
+               </a>
+               Then Josaphat came, and all the people with him to take away the spoils of the dead, and they found among the dead bodies, stuff of various kinds, and garments, and most precious vessels: and they took them for themselves, insomuch that they could not carry all, nor in three days take away the spoils, the booty was so great.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=26-#x">
+                [26]
+               </a>
+               And on the fourth day they were assembled in the valley of Blessing: for there they blessed the Lord, and therefore they called that place the valley of Blessing until this day.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=27-#x">
+                [27]
+               </a>
+               And every man of Juda, and the inhabitants of Jerusalem returned, and Josaphat at their head, into Jerusalem with great joy, because the Lord had made them rejoice over their enemies.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=28-#x">
+                [28]
+               </a>
+               And they came into Jerusalem with psalteries, and harps, and trumpets into the house of the Lord.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=29-#x">
+                [29]
+               </a>
+               And the fear of the Lord fell upon all the kingdoms of the lands when they heard that the Lord had fought against the enemies of Israel.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=30-#x">
+                [30]
+               </a>
+               And the kingdom of Josaphat was quiet, and God gave him peace round about.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=31-#x">
+                [31]
+               </a>
+               And Josaphat reigned over Juda, and he was five and thirty years old when he began to reign: and he reigned five and twenty years in Jerusalem: and the name of his mother was Azuba the daughter of Selahi.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=32-#x">
+                [32]
+               </a>
+               And he walked in the way of his father Asa, and departed not from it, doing the things that were pleasing before the Lord.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=33-#x">
+                [33]
+               </a>
+               But yet he took not away the high places, and the people had not yet turned their heart to the Lord the God of their fathers.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=34-#x">
+                [34]
+               </a>
+               But the rest of the acts of Josaphat, first and last, are written in the words of Jehu the son of Hanani, which he digested into the books of the kings of Israel.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=35-#x">
+                [35]
+               </a>
+               After these things Josaphat king of Juda made friendship with Ochozias king of Israel, whose works were very wicked.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=36-#x">
+                [36]
+               </a>
+               And he was partner with him in making ships, to go to Tharsis: and they made the ships in Asiongaber.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=20&amp;l=37-#x">
+                [37]
+               </a>
+               And Eliezer the son of Dodau of Maresa prophesied to Josaphat, saying: Because thou hast made a league with Ochozias, the Lord hath destroyed thy works, and the ships are broken, and they could not go to Tharsis.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               2 Paralipomenon (2 Chronicles)
+              </td>
+              <td class="next">
+               <a href="15001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14019.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 20
+              </td>
+              <td class="next">
+               <a href="14021.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

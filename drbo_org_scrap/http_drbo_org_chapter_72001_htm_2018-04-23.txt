@@ -1,0 +1,475 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Jude Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/72001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/72001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="71001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Epistle Of Saint Jude
+         </td>
+         <td class="next">
+          <a href="73001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          next &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             He exhorts them to stand to the faith first delivered to them and to beware of heretics.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             Jude, the servant of Jesus Christ, and brother of James: to them that are beloved in God the Father, and preserved in Jesus Christ, and called.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Mercy unto you, and peace, and charity be fulfilled.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             Dearly beloved, taking all care to write unto you concerning your common salvation, I was under a necessity to write unto you: to beseech you to contend earnestly for the faith once delivered to the saints.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             For certain men are secretly entered in, (who were written of long ago unto this judgment,) ungodly men, turning the grace of our Lord God into riotousness, and denying the only sovereign Ruler, and our Lord Jesus Christ.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             I will therefore admonish you, though ye once knew all things, that Jesus, having saved the people out of the land of Egypt, did afterwards destroy them that believed not:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And the angels who kept not their
+             <u>
+              principality
+             </u>
+             , but forsook their own habitation, he hath reserved under darkness in everlasting chains, unto the judgment of the great day.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             As Sodom and Gomorrha, and the neighbouring cities, in like manner, having given themselves to fornication, and going after other flesh, were made an example, suffering the punishment of eternal fire.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             In like manner these men also defile the flesh, and despise dominion, and
+             <u>
+              blaspheme majesty
+             </u>
+             .
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             When Michael the archangel, disputing with the devil,
+             <u>
+              contended about the body
+             </u>
+             of Moses, he durst not bring against him the judgment of railing speech, but said: The Lord
+             <u>
+              command thee
+             </u>
+             .
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             But these men blaspheme whatever things they know not: and what things soever they naturally know, like dumb beasts, in these they are corrupted.
+            </p>
+            <p class="note">
+             [6]
+             <u>
+              "Principality"
+             </u>
+             : That is, the state in which they were first created, their original dignity.
+            </p>
+            <p class="note">
+             [8]
+             <u>
+              "Blaspheme majesty"
+             </u>
+             : Speak evil of them that are in dignity; and even utter blasphemies against the divine majesty.
+            </p>
+            <p class="note">
+             [9]
+             <u>
+              "Contended about the body"
+             </u>
+             : This contention, which is no where else mentioned in holy writ, was originally known by revelation, and transmitted by tradition. It is thought the occasion of it was, that the devil would have had the body buried in such a place and manner, as to be worshipped by the Jews with divine honours.
+            </p>
+            <p class="note">
+             [9]
+             <u>
+              "Command thee"
+             </u>
+             : or rebuke thee.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             Woe unto them, for they have
+             <u>
+              gone in the way
+             </u>
+             of Cain: and after the error of Balaam they have for reward poured out themselves, and have perished in the contradiction of Core.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             These are spots in their banquets, feasting together without fear, feeding themselves, clouds without water, which are carried about by winds, trees of the autumn, unfruitful, twice dead, plucked up by the roots,
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Raging waves of the sea, foaming out their own confusion; wandering stars, to whom the storm of darkness is reserved for ever.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             Now of these Enoch also, the seventh from Adam,
+             <u>
+              prophesied
+             </u>
+             , saying: Behold, the Lord cometh with thousands of his saints,
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             To execute judgment upon all, and to reprove all the ungodly for all the works of their ungodliness, whereby they have done ungodly, and of all the hard things which ungodly sinners have spoken against God.
+            </p>
+            <p class="note">
+             [11]
+             <u>
+              "Gone in the way"
+             </u>
+             : Heretics follow the way of Cain, by murdering the souls of their brethren; the way of Balaam, by putting a scandal before the people of God, for their own private ends; and the way of Core or Korah, by their opposition to the church governors of divine appointment.
+            </p>
+            <p class="note">
+             [14]
+             <u>
+              "Prophesied"
+             </u>
+             : This prophecy was either known by tradition, or from some book that is since lost.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             These are murmurers, full of complaints, walking according to their own desires, and their mouth speaketh proud things, admiring persons for gain's sake.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             <u>
+              But you, my dearly beloved, be mindful
+             </u>
+             of the words which have been spoken before by the apostles of our Lord Jesus Christ,
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             Who told you, that in the last time there should come mockers, walking according to their own desires in ungodlinesses.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             These are they, who separate themselves, sensual men, having not the Spirit.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             But you, my beloved,
+             <u>
+              building yourselves upon your most holy faith
+             </u>
+             , praying in the Holy Ghost,
+            </p>
+            <p class="note">
+             [17]
+             <u>
+              "But you, my dearly beloved, be mindful"
+             </u>
+             : He now exhorts the faithful to remain steadfast in the belief and practice of what they had heard from the apostles, who had also foretold that in aftertimes (lit. in the last time) there should be false teachers, scoffing and ridiculing all revealed truths, abandoning themselves to their passions and lusts; who separate themselves from the Catholic communion by heresies and schisms. Sensual men, carried away and enslaved by the pleasures of the senses.
+            </p>
+            <p class="note">
+             [20]
+             <u>
+              "Building yourselves upon your most holy faith"
+             </u>
+             : Raising by your actions, a spiritual building, founded, 1 st, upon faith; 2 d, on the love of God; 3 d, upon hope, whilst you are waiting for the mercies of God, and the reward of eternal life; 4 th, joined with the great duty of prayer.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             Keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ, unto life everlasting.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             And some indeed
+             <u>
+              reprove, being judged
+             </u>
+             :
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             But others save, pulling them out of the fire. And on others have mercy, in fear, hating also the spotted garment which is carnal.
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             <u>
+              Now to him
+             </u>
+             who is able to preserve you without sin, and to present you spotless before the presence of his glory with exceeding joy, in the coming of our Lord Jesus Christ,
+             <a href="/x/d?b=drb&amp;bk=72&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             To the only God our Saviour through Jesus Christ our Lord, be glory and magnificence, empire and power, before all ages, and now, and for all ages of ages. Amen.
+            </p>
+            <p class="note">
+             [22]
+             <u>
+              "Reprove, being judged"
+             </u>
+             : He gives them another instruction to practice charity in endeavouring to convert their neighbour, where they will meet with three sorts of persons: 1 st, With persons obstinate in their errors and sins; these may be said to be already judged and condemned; they are to be sharply reprehended, reproved, and if possible convinced of their error. 2 d, As to others you must endeavour to save them, by pulling them, as it were, out of the fire, from the ruin they stand in great danger of. 3 d, You must have mercy on others in fear, when you see them through ignorance of frailty, in danger of being drawn into the snares of these heretics; with these you must deal more gently and mildly, with a charitable compassion, hating always, and teaching others to hate the carnal garment which is spotted, their sensual and corrupt manners, that defile both the soul and body.
+            </p>
+            <p class="note">
+             [24]
+             <u>
+              "Now to him"
+             </u>
+             : St. Jude concludes his epistle with this doxology of praising God, and praying to the only God our Saviour, which may either signify God the Father, or God as equally agreeing to all the three persons, who are equally the cause of Christ's incarnation, and man's salvation, through Jesus Christ our Lord, who, being God from eternity, took upon him our human nature, that he might become our Redeemer.
+            </p>
+           </td>
+          </tr>
+         </table>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
+<center>
+ <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+  <tr>
+   <td class="prev">
+    &lt;
+    <a href="71001.htm">
+     previous
+    </a>
+   </td>
+   <td class="bookname">
+    Epistle Of Saint Jude
+   </td>
+   <td class="next">
+    <a href="73001.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+  <tr>
+   <td class="prev">
+    &lt; previous
+   </td>
+   <td class="chapname">
+    Chapter 1
+   </td>
+   <td class="next">
+    next &gt;
+   </td>
+  </tr>
+ </table>
+</center>
+<td class="adcol" valign="top">
+ <script>
+  side_ads ("../")
+ </script>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+ <tr>
+  <td class="botcenter">
+  </td>
+ </tr>
+</table>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+ var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+ <div class="statcounter">
+  <a href="http://statcounter.com/" target="_blank" title="web stats">
+   <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+  </a>
+ </div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

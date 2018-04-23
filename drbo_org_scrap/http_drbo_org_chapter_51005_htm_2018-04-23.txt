@@ -1,0 +1,580 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Acts Of Apostles Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/51005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/51005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            The Acts Of The Apostles
+           </td>
+           <td class="next">
+            <a href="52001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="51006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="51001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="51002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="51003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="51004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="51006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="51007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="51008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="51009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="51010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="51011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="51012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="51013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="51014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="51015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="51016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="51017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="51018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="51019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="51020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="51021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="51022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="51023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="51024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="51025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="51026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="51027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="51028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The judgment of God upon Ananias and Saphira. The apostles are cast into prison.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               But a certain man named Ananias, with Saphira his wife, sold a piece of land,
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               And by fraud kept back part of the price of the land, his wife being privy thereunto: and bringing a certain part of it, laid it at the feet of the apostles.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               But Peter said: Ananias, why hath Satan tempted thy heart, that thou shouldst lie to the Holy Ghost, and by fraud keep part of the price of the land?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               Whilst it remained, did it not remain to thee? and after it was sold, was it not in thy power? Why hast thou conceived this thing in thy heart? Thou hast not lied to men, but to God.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               And Ananias hearing these words, fell down, and gave up the ghost. And there came great fear upon all that heard it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               And the young men rising up, removed him, and carrying him out, buried him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               And it was about the space of three hours after, when his wife, not knowing what had happened, came in.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               And Peter said to her: Tell me, woman, whether you sold the land for so much? And she said: Yea, for so much.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               And Peter said unto her: Why have you agreed together to tempt the Spirit of the Lord? Behold the feet of them who have buried thy husband are at the door, and they shall carry thee out.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               Immediately she fell down before his feet, and gave up the ghost. And the young men coming in, found her dead: and carried her out, and buried her by her husband.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               And there came great fear upon the whole church, and upon all that heard these things.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               And by the hands of the apostles were many signs and wonders wrought among the people. And they were all with one accord in Solomon's porch.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               But of the rest no man durst join himself unto them; but the people magnified them.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               And the multitude of men and women who believed in the Lord, was more increased:
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that when Peter came, his shadow at the least, might overshadow any of them, and they might be delivered from their infirmities.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               And there came also together to Jerusalem a multitude out of the neighbouring cities, bringing sick persons, and such as were troubled with unclean spirits; who were all healed.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               Then the high priest rising up, and all they that were with him, (which is the heresy of the Sadducees,) were filled with envy.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               And they laid hands on the apostles, and put them in the common prison.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               But an angel of the Lord by night opening the doors of the prison, and leading them out, said:
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               Go, and standing speak in the temple to the people all the words of this life.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               Who having heard this, early in the morning, entered into the temple, and taught. And the high priest coming, and they that were with him, called together the council, and all the ancients of the children of Israel; and they sent to the prison to have them brought.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=22-#x">
+                [22]
+               </a>
+               But when the ministers came, and opening the prison, found them not there, they returned and told,
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=23-#x">
+                [23]
+               </a>
+               Saying: The prison indeed we found shut with all diligence, and the keepers standing before the doors; but opening it, we found no man within.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=24-#x">
+                [24]
+               </a>
+               Now when the officer of the temple and the chief priests heard these words, they were in doubt concerning them, what would come to pass.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=25-#x">
+                [25]
+               </a>
+               But one came and told them: Behold, the men whom you put in prison are in the temple standing, and teaching the people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=26-#x">
+                [26]
+               </a>
+               Then went the officer with the ministers, and brought them without violence; for they feared the people, lest they should be stoned.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=27-#x">
+                [27]
+               </a>
+               And when they had brought them, they set them before the council. And the high priest asked them,
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=28-#x">
+                [28]
+               </a>
+               Saying: Commanding we commanded you, that you should not teach in this name; and behold, you have filled Jerusalem with your doctrine, and you have a mind to bring the blood of this man upon us.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=29-#x">
+                [29]
+               </a>
+               But Peter and the apostles answering, said: We ought to obey God, rather than men.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=30-#x">
+                [30]
+               </a>
+               The God of our fathers hath raised up Jesus, whom you put to death, hanging him upon a tree.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=31-#x">
+                [31]
+               </a>
+               Him hath God exalted with his right hand, to be Prince and Saviour, to give repentance to Israel, and remission of sins.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=32-#x">
+                [32]
+               </a>
+               And we are witnesses of these things and the Holy Ghost, whom God hath given to all that obey him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=33-#x">
+                [33]
+               </a>
+               When they had heard these things, they were cut to the heart, and they thought to put them to death.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=34-#x">
+                [34]
+               </a>
+               But one in the council rising up, a Pharisee, named Gamaliel, a doctor of the law, respected by all the people, commanded the men to be put forth a little while.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=35-#x">
+                [35]
+               </a>
+               And he said to them: Ye men of Israel, take heed to yourselves what you intend to do, as touching these men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=36-#x">
+                [36]
+               </a>
+               For before these days rose up Theodas, affirming himself to be somebody, to whom a number of men, about four hundred, joined themselves: who was slain; and all that believed him were scattered, and brought to nothing.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=37-#x">
+                [37]
+               </a>
+               After this man, rose up Judas of Galilee, in the days of the enrolling, and drew away the people after him: he also perished; and all, even as many as consented to him, were dispersed.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=38-#x">
+                [38]
+               </a>
+               And now, therefore, I say to you, refrain from these men, and let them alone; for if this council or this work be of men, it will come to nought;
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=39-#x">
+                [39]
+               </a>
+               But if it be of God, you cannot overthrow it, lest perhaps you be found even to fight against God. And they consented to him.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=40-#x">
+                [40]
+               </a>
+               And calling in the apostles, after they had scourged them, they charged them that they should not speak at all in the name of Jesus; and they dismissed them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=41-#x">
+                [41]
+               </a>
+               And they indeed went from the presence of the council, rejoicing that they were accounted worthy to suffer reproach for the name of Jesus.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=5&amp;l=42-#x">
+                [42]
+               </a>
+               And every day they ceased not in the temple, and from house to house, to teach and preach Christ Jesus.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               The Acts Of The Apostles
+              </td>
+              <td class="next">
+               <a href="52001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="51006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

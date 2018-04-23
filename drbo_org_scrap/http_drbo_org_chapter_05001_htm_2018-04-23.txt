@@ -1,0 +1,607 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Deuteronomy Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/05001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/05001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="04001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Book Of Deuteronomy
+         </td>
+         <td class="next">
+          <a href="06001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="05002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="05002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="05003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="05004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="05005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="05006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="05007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="05008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="05009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="05010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="05011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="05012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="05013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="05014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="05015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="05016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="05017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="05018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="05019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="05020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="05021.htm">
+            21
+           </a>
+          </td>
+          <td width="30">
+           <a href="05022.htm">
+            22
+           </a>
+          </td>
+          <td width="30">
+           <a href="05023.htm">
+            23
+           </a>
+          </td>
+          <td width="30">
+           <a href="05024.htm">
+            24
+           </a>
+          </td>
+          <td width="30">
+           <a href="05025.htm">
+            25
+           </a>
+          </td>
+          <td width="30">
+           <a href="05026.htm">
+            26
+           </a>
+          </td>
+          <td width="30">
+           <a href="05027.htm">
+            27
+           </a>
+          </td>
+          <td width="30">
+           <a href="05028.htm">
+            28
+           </a>
+          </td>
+          <td width="30">
+           <a href="05029.htm">
+            29
+           </a>
+          </td>
+          <td width="30">
+           <a href="05030.htm">
+            30
+           </a>
+          </td>
+          <td width="30">
+           <a href="05031.htm">
+            31
+           </a>
+          </td>
+          <td width="30">
+           <a href="05032.htm">
+            32
+           </a>
+          </td>
+          <td width="30">
+           <a href="05033.htm">
+            33
+           </a>
+          </td>
+          <td width="30">
+           <a href="05034.htm">
+            34
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             A repetition of what passed at Sinai and Cadesbarne: and of the people's murmuring and their punishment.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             These are the words, which Moses spoke to all Israel beyond the Jordan, in the plain wilderness, over against the Red Sea, between Pharan and Thophel and Laban and Haseroth, where there is very much gold:
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Eleven days' journey from Horeb by the way of Mount Seir to Cadesbarne.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             In the fortieth year, the eleventh month, the first day of the month, Moses spoke to the children of Israel all that the Lord had commanded him to say to them:
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             After that he had slain Sehon king of the Amorrhites, who dwelt in Hesebon: and Og king of Basan who abode in Astaroth, and in Edrai,
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             Beyond the Jordan in the land of Moab. And Moses began to expound the law, and to say:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             The Lord our God spoke to us in Horeb, saying: You have stayed long enough in this mountain:
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             Turn you, and come to the mountain of the Amorrhites, and to the other places that are next to it, the plains and the hills and the vales towards the south, and by the sea shore, the land of the Chanaanites, and of Libanus, as far as the great river Euphrates.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Behold, said he, I have delivered it to you: go in and possess it, concerning which the Lord swore to your fathers Abraham, Isaac, and Jacob, that he would give it to them, and to their seed after them.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And I said to you at that time:
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             I alone am not able to bear you: for the Lord your God hath multiplied you, and you are this day as the stars of heaven, for multitude.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             (The Lord God of your fathers add to this number many thousands, and bless you as he hath spoken.)
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             I alone am not able to bear your business, and the charge of you and your differences.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Let me have from among you wise and understanding men, and such whose conversation is approved among your tribes, that I may appoint them your rulers.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             Then you answered me: The thing is good which thou meanest to do.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And I took out of your tribes men wise and honourable, and appointed them rulers, tribunes, and centurions, and officers over fifties, and over tens, who might teach you all things.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             And I commanded them, saying: Hear them, and judge that which is just: whether he be one of your country, or a stranger.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             There shall be no difference of persons, you shall hear the little as well as the great: neither shall you respect any man's person, because it is the judgment of God. And if any thing seem hard to you, refer it to me, and I will hear it.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             And I commanded you all things that you were to do.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             And departing from Horeb, we passed through the terrible and vast wilderness, which you saw, by the way of the mountain of the Amorrhite, as the Lord our God had commanded us. And when we were come into Cadesbarne,
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             I said to you: You are come to the mountain of the Amorrhite, which the Lord our God will give to us.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             See the land which the Lord thy God giveth thee: go up and possess it, as the Lord our God hath spoken to thy fathers: fear not, nor be any way discouraged.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             And you came all to me, and said: Let us send men who may view the land, and bring us word what way we shall go up, and to what cities we shall go.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             And because the saying pleased me, I sent of you twelve men, one of every tribe:
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             Who, when they had set forward and had gone up to the mountains, came as far as the valley of the cluster: and having viewed the land,
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             Taking of the fruits thereof, to shew its fertility, they brought them to us, and said: The land is good, which the Lord our God will give us.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             And you would not go up, but being incredulous to the word of the Lord our God,
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             You murmured in your tents, and said: The Lord hateth us, and therefore he hath brought us out of the land of Egypt, that he might deliver us into the hand of the Amorrhite, and destroy us.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=28-#x">
+              [28]
+             </a>
+             Whither shall we go up? the messengers have terrified our hearts, saying: The multitude is very great, and taller than we: the cities are great, and
+             <u>
+              walled up to the sky
+             </u>
+             , we have seen the sons of the Enacims there.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=29-#x">
+              [29]
+             </a>
+             And I said to you: Fear not, neither be ye afraid of them:
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=30-#x">
+              [30]
+             </a>
+             The Lord God, who is your leader, himself will fight for you, as he did in Egypt in the sight of all.
+            </p>
+            <p class="note">
+             [28]
+             <u>
+              "Walled up to the sky"
+             </u>
+             : A figurative expression, signifying the walls to be very high.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=31-#x">
+              [31]
+             </a>
+             And in the wilderness (as thou hast seen) the Lord thy God hath carried thee, as a man is wont to carry his little son, all the way that you have come, until you came to this place.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=32-#x">
+              [32]
+             </a>
+             And yet for all this you did not believe the Lord your God,
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=33-#x">
+              [33]
+             </a>
+             Who went before you in the way, and marked out the place, wherein you should pitch your tents, in the night shewing you the way by fire, and in the day by the pillar of a cloud.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=34-#x">
+              [34]
+             </a>
+             And when the Lord had heard the voice of your words, he was angry and swore, and said:
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=35-#x">
+              [35]
+             </a>
+             Not one of the men of this wicked generation shall see the good land, which I promised with an oath to your fathers:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=36-#x">
+              [36]
+             </a>
+             Except Caleb the son of Jephone: for he shall see it, and to him I will give the land that he hath trodden upon, and to his children, because he hath followed the Lord.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=37-#x">
+              [37]
+             </a>
+             Neither is his indignation against the people to be wondered at, since the Lord was angry with me also on your account, and said: Neither shalt thou go in thither.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=38-#x">
+              [38]
+             </a>
+             But Josue the son of Nun, thy minister, he shall go in for thee: exhort and encourage him, and he shall divide the land by lot to Israel.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=39-#x">
+              [39]
+             </a>
+             Your children, of whom you said that they should be led away captives, and your sons who know not this day the difference of good and evil, they shall go in: and to them I will give the land, and they shall possess it.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=40-#x">
+              [40]
+             </a>
+             But return you and go into the wilderness by the way of the Red Sea.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=41-#x">
+              [41]
+             </a>
+             And you answered me: We have sinned against the Lord: we will go up and fight, as the Lord our God hath commanded. And when you went ready armed unto the mountain,
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=42-#x">
+              [42]
+             </a>
+             The Lord said to me: Say to them: Go not up, and fight not, for I am not with you: lest you fall before your enemies.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=43-#x">
+              [43]
+             </a>
+             I spoke, and you hearkened not: but resisting the commandment of the Lord, and swelling with pride, you went up into the mountain.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=44-#x">
+              [44]
+             </a>
+             And the Amorrhite that dwelt in the mountains coming out, and meeting you, chased you, as bees do: and made slaughter of you from Seir as far as Horma.
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=45-#x">
+              [45]
+             </a>
+             And when you returned and wept before the Lord, he heard you not, neither would he yield to; your voice.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=5&amp;ch=1&amp;l=46-#x">
+              [46]
+             </a>
+             So you abode in Cadesbarne a long time.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="04001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Book Of Deuteronomy
+            </td>
+            <td class="next">
+             <a href="06001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="05002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

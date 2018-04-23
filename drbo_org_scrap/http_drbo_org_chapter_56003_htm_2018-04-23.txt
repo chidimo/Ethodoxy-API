@@ -1,0 +1,415 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ephesians Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/56003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/56003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="55001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Ephesians
+           </td>
+           <td class="next">
+            <a href="57001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="56002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="56004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="56001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="56002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="56004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="56005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="56006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The mystery hidden from former ages was discovered to the apostle, to be imparted to the Gentiles. He prays that they may be strengthened in God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               For this cause, I Paul, the prisoner of Jesus Christ, for you Gentiles;
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               If yet you have heard of the dispensation of the grace of God which is given me towards you:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               How that, according to revelation, the mystery has been made known to me, as I have written above in a few words;
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               As you reading, may understand my knowledge in the mystery of Christ,
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               Which in other generations was not known to the sons of men, as it is now revealed to his holy apostles and prophets in the Spirit:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               That the Gentiles should be fellow heirs, and of the same body, and co-partners of his promise in Christ Jesus, by the gospel:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Of which I am made a minister, according to the gift of the grace of God, which is given to me according to the operation of his power:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               To me, the least of all the saints, is given this grace, to preach among the Gentiles, the unsearchable riches of Christ,
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               And to enlighten all men, that they may see what is the dispensation of the mystery which hath been hidden from eternity in God, who created all things:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               That the manifold wisdom of God may be made known to the principalities and powers in heavenly places through the church,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               According to the eternal purpose, which he made, in Christ Jesus our Lord:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               In whom we have boldness and access with confidence by the faith of him.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Wherefore I pray you not to faint at my tribulations for you, which is your glory.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               For this cause I bow my knees to the Father of our Lord Jesus Christ,
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               Of whom
+               <u>
+                all paternity
+               </u>
+               in heaven and earth is named,
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "All paternity"
+               </u>
+               : Or, the whole family. God is the Father, both of angels and men; whosoever besides is named father, is so named with subordination to him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               That he would grant you, according to the riches of his glory, to be strengthened by his Spirit with might unto the inward man,
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               That Christ may dwell by faith in your hearts; that being rooted and founded in charity,
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               You may be able to comprehend, with all the saints, what is the breadth, and length, and height, and depth:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               To know also the charity of Christ, which surpasseth all knowledge, that you may be filled unto all the fulness of God.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               Now to him who is able to do all things more abundantly than we desire or understand, according to the power that worketh in us;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               To him be glory in the church, and in Christ Jesus unto all generations, world without end. Amen.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="55001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Ephesians
+              </td>
+              <td class="next">
+               <a href="57001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="56002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="56004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

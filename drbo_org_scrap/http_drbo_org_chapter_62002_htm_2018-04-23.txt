@@ -1,0 +1,420 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Timothy Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/62002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/62002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="61001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Epistle Of Saint Paul To Timothy
+           </td>
+           <td class="next">
+            <a href="63001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="62001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="62003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="62001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="62003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="62004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               He exhorts him to diligence in his office and patience in suffering. The danger of the delusions of heretics.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               Thou therefore, my son, be strong in the grace which is in Christ Jesus:
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And the things which thou hast heard of me by many witnesses, the same commend to faithful men, who shall be fit to teach others also.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               Labour as a good soldier of Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               No man, being a soldier to God, entangleth himself with secular businesses; that he may please him to whom he hath engaged himself.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               For he also that striveth for the mastery, is not crowned, except he strive lawfully.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               The husbandman, that laboureth, must first partake of the fruits.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               Understand what I say: for the Lord will give thee in all things understanding.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               Be mindful that the Lord Jesus Christ is risen again from the dead, of the seed of David, according to my gospel.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               Wherein I labour even unto bands, as an evildoer; but the word of God is not bound.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               Therefore I endure all things for the sake of the elect, that they also may obtain the salvation, which is in Christ Jesus, with heavenly glory.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               A faithful saying: for if we be dead with him, we shall live also with him.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               If we suffer, we shall also reign with him. If we deny him, he will also deny us.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               If we believe not, he continueth faithful, he can not deny himself.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               Of these things put them in mind, charging them before the Lord. Contend not in words, for it is to no profit, but to the subverting of the hearers.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Carefully study to present thyself approved unto God, a workman that needeth not to be ashamed, rightly handling the word of truth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               But shun profane and vain babblings: for they grow much towards ungodliness.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And their speech spreadeth like a canker: of whom are Hymeneus and Philetus:
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               Who have erred from the truth, saying, that the resurrection is past already, and have subverted the faith of some.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               But the sure foundation of God standeth firm, having this seal: the Lord knoweth who are his; and let every one depart from iniquity who nameth the name of the Lord.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               But in a great house there are not only vessels of gold and silver, but also of wood and earth: and some indeed unto honour, but some unto dishonour.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               If any man therefore shall cleanse himself from these, he shall be a vessel unto honour, sanctified and profitable to the Lord, prepared unto every good work.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               But flee thou youthful desires, and pursue justice, faith, charity, and peace, with them that call on the Lord out of a pure heart.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               And avoid foolish and unlearned questions, knowing that they beget strifes.
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               But the servant of the Lord must not wrangle: but be mild towards all men, apt to teach, patient,
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               With modesty admonishing them that resist the truth: if peradventure God may give them repentance to know the truth,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=62&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               And they may recover themselves from the snares of the devil, by whom they are held captive at his will.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="61001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Epistle Of Saint Paul To Timothy
+              </td>
+              <td class="next">
+               <a href="63001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="62001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="62003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,418 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ephesians Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/56002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/56002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="55001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Ephesians
+           </td>
+           <td class="next">
+            <a href="57001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="56001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="56003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="56001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="56003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="56004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="56005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="56006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               All our good comes through Christ. He is our peace.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               And you, when you were dead in your offences, and sins,
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               Wherein in time past you walked according to the course of this world, according to the prince of the power of this air, of the spirit that now worketh on the children of unbelief:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               In which also we all conversed in time past, in the desires of our flesh, fulfilling the will of the flesh and of our thoughts, and were by nature children of wrath, even as the rest:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               But God, (who is rich in mercy,) for his exceeding charity wherewith he loved us,
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               Even when we were dead in sins, hath quickened us together in Christ, (by whose grace you are saved,)
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               And hath raised us up together, and hath made us sit together in the heavenly places, through Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               That he might shew in the ages to come the abundant riches of his grace, in his bounty towards us in Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               For by grace you are saved through faith, and that not of yourselves, for it is the gift of God;
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               <u>
+                Not of works
+               </u>
+               , that no man may glory.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               For we are his workmanship, created in Christ Jesus in good works, which God hath prepared that we should walk in them.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "Not of works"
+               </u>
+               : as of our own growth, or from ourselves; but as from the grace of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               For which cause be mindful that you, being heretofore Gentiles in the flesh, who are called uncircumcision by that which is called circumcision in the flesh, made by hands;
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               That you were at that time without Christ, being aliens from the conversation of Israel, and strangers to the testament, having no hope of the promise, and without God in this world.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               But now in Christ Jesus, you, who some time were afar off, are made nigh by the blood of Christ.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               For he is our peace, who hath made both one, and breaking down the middle wall of partition, the enmities in his flesh:
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Making void the law of commandments contained in decrees; that he might make the two in himself into one new man, making peace;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               And might reconcile both to God in one body by the cross, killing the enmities in himself.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And coming, he preached peace to you that were afar off, and peace to them that were nigh.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               For by him we have access both in one Spirit to the Father.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               Now therefore you are no more strangers and foreigners; but you are fellow citizens with the saints, and the domestics of God,
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               Built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               In whom all the building, being framed together, groweth up into an holy temple in the Lord.
+               <a href="/x/d?b=drb&amp;bk=56&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               In whom you also are built together into an habitation of God in the Spirit.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="55001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Ephesians
+              </td>
+              <td class="next">
+               <a href="57001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="56001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="56003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

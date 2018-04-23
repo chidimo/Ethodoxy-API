@@ -1,0 +1,464 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Romans Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/52006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/52006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Romans
+           </td>
+           <td class="next">
+            <a href="53001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="52007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="52001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="52002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="52003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="52004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="52005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="52007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="52008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="52009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="52010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="52011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="52012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="52013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="52014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="52015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="52016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Christian must die to sin and live to God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               What shall we say, then? shall we continue in sin, that grace may abound?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               God forbid. For we that are dead to sin, how shall we live any longer therein?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               Know you not that all we, who are baptized in Christ Jesus, are baptized in his death?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               For we are buried together with him by baptism into death; that as Christ is risen from the dead by the glory of the Father, so we also may walk in newness of life.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               Knowing this, that
+               <u>
+                our old man
+               </u>
+               is crucified with him, that the
+               <u>
+                body of sin
+               </u>
+               may be destroyed, to the end that we may serve sin no longer.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               For he that is dead is justified from sin.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               Now if we be dead with Christ, we believe that we shall live also together with Christ:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               Knowing that Christ rising again from the dead, dieth now no more, death shall no more have dominion over him.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               For in that he died to sin, he died once; but in that he liveth, he liveth unto God:
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Our old man"
+               </u>
+               : Our corrupt state, subject to sin and concupiscence, coming to us from Adam, is called our old man, as our state, reformed in and by Christ, is called the new man.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Body of sin"
+               </u>
+               : The vices and sins, which then ruled in us, are named the body of sin.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               So do you also reckon, that you are dead to sin, but alive unto God, in Christ Jesus our Lord.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               Let no sin therefore reign in your mortal body, so as to obey the lusts thereof.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               Neither yield ye your members as instruments of iniquity unto sin; but present yourselves to God, as those that are alive from the dead, and your members as instruments of justice unto God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               For sin shall not have dominion over you; for you are not under the law, but under grace.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               What then? Shall we sin, because we are not under the law, but under grace? God forbid.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               Know you not, that to whom you yield yourselves servants to obey, his servants you are whom you obey, whether it be of sin unto death, or of obedience unto justice.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               But thanks be to God, that you were the servants of sin, but have obeyed from the heart, unto that form of doctrine, into which you have been delivered.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               Being then freed from sin, we have been made servants of justice.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               I speak an human thing, because of the infirmity of your flesh. For as you have yielded your members to serve uncleanness and iniquity, unto iniquity; so now yield your members to serve justice, unto sanctification.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               For when you were the servants of sin, you were free men to justice.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               What fruit therefore had you then in those things, of which you are now ashamed? For the end of them is death.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               But now being made free from sin, and become servants to God, you have your fruit unto sanctification, and the end life everlasting.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=6&amp;l=23-#x">
+                [23]
+               </a>
+               For the wages of sin is death. But the grace of God, life everlasting, in Christ Jesus our Lord.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Romans
+              </td>
+              <td class="next">
+               <a href="53001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="52007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,599 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="50006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ heals on the sabbath the man languishing thirty-eight years. His discourse upon this occasion.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               After these things was a festival day of the Jews, and Jesus went up to Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               Now there is at Jerusalem a pond, called
+               <u>
+                Probatica
+               </u>
+               , which in Hebrew is named Bethsaida, having five porches.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               In these lay a great multitude of sick, of blind, of lame, of withered; waiting for the moving of the water.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               And an angel of the Lord descended at certain times into the pond; and the water was moved. And he that went down first into the pond after the motion of the water, was made whole, of whatsoever infirmity he lay under.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               And there was a certain man there, that had been eight and thirty years under his infirmity.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Probatica"
+               </u>
+               : That is, the sheep pond; either so called, because the sheep were washed therein, that were to be offered up in sacrifice in the temple, or because it was near the sheep gate. That this was a pond where miracles were wrought is evident from the sacred text; and also that the water had no natural virtue to heal, as one only of those put in after the motion of the water was restored to health; for if the water had the healing quality, the others would have the like benefit, being put into it about the same time.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               Him when Jesus had seen lying, and knew that he had been now a long time, he saith to him: Wilt thou be made whole?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               The infirm man answered him: Sir, I have no man, when the water is troubled, to put me into the pond. For whilst I am coming, another goeth down before me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               Jesus saith to him: Arise, take up thy bed, and walk.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               And immediately the man was made whole: and he took up his bed, and walked. And it was the sabbath that day.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               The Jews therefore said to him that was healed: It is the sabbath; it is not lawful for thee to take up thy bed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               He answered them: He that made me whole, he said to me, Take up thy bed, and walk.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               They asked him therefore: Who is that man who said to thee, Take up thy bed, and walk?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               But he who was healed, knew not who it was; for Jesus went aside from the multitude standing in the place.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               Afterwards, Jesus findeth him in the temple, and saith to him: Behold thou art made whole: sin no more, lest some worse thing happen to thee.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               The man went his way, and told the Jews, that it was Jesus who had made him whole.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               Therefore did the Jews persecute Jesus, because he did these things on the sabbath.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               But Jesus answered them: My Father worketh until now; and I work.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               Hereupon therefore the Jews sought the more to kill him, because he did not only break the sabbath, but also said God was his Father, making himself equal to God.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               Then Jesus answered, and said to them: Amen, amen, I say unto you, the Son cannot do any thing of himself, but what he seeth the Father doing: for what things soever he doth, these the Son also doth in like manner.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               For the Father loveth the Son, and sheweth him all things which himself doth: and greater works than these will he shew him, that you may wonder.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               For as the Father raiseth up the dead, and giveth life: so the Son also giveth life to whom he will.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=22-#x">
+                [22]
+               </a>
+               For neither doth the Father judge any man, but hath given all judgment to the Son.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=23-#x">
+                [23]
+               </a>
+               That all men may honour the Son, as they honour the Father. He who honoureth not the Son, honoureth not the Father, who hath sent him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=24-#x">
+                [24]
+               </a>
+               Amen, amen I say unto you, that he who heareth my word, and believeth him that sent me, hath life everlasting; and cometh not into judgment, but is passed from death to life.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=25-#x">
+                [25]
+               </a>
+               Amen, amen I say unto you, that the hour cometh, and now is, when the dead shall hear the voice of the Son of God, and they that hear shall live.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=26-#x">
+                [26]
+               </a>
+               For as the Father hath life in himself, so he hath given the Son also to have life in himself:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=27-#x">
+                [27]
+               </a>
+               And he hath given him power to do judgment, because he is the Son of man.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=28-#x">
+                [28]
+               </a>
+               Wonder not at this; for the hour cometh, wherein all that are in the graves shall hear the voice of the Son of God.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=29-#x">
+                [29]
+               </a>
+               And they that have done good things, shall come forth unto the resurrection of life; but they that have done evil,
+               <u>
+                unto the resurrection of judgment
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=30-#x">
+                [30]
+               </a>
+               I cannot of myself do any thing. As I hear, so I judge: and my judgment is just; because I seek not my own will, but the will of him that sent me.
+              </p>
+              <p class="note">
+               [29]
+               <u>
+                "Unto the resurrection of judgment"
+               </u>
+               : That is, condemnation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=31-#x">
+                [31]
+               </a>
+               If I bear witness of myself, my witness is not true.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=32-#x">
+                [32]
+               </a>
+               There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=33-#x">
+                [33]
+               </a>
+               You sent to John, and he gave testimony to the truth.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=34-#x">
+                [34]
+               </a>
+               But I receive not testimony from man: but I say these things, that you may be saved.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=35-#x">
+                [35]
+               </a>
+               He was a burning and a shining light: and you were willing for a time to rejoice in his light.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=36-#x">
+                [36]
+               </a>
+               But I have a greater testimony than that of John: for the works which the Father hath given me to perfect; the works themselves, which I do, give testimony of me, that the Father hath sent me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=37-#x">
+                [37]
+               </a>
+               And the Father himself who hath sent me, hath given testimony of me: neither have you heard his voice at any time, nor seen his shape.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=38-#x">
+                [38]
+               </a>
+               And you have not his word abiding in you: for whom he hath sent, him you believe not.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=39-#x">
+                [39]
+               </a>
+               <u>
+                Search the scriptures
+               </u>
+               , for you think in them to have life everlasting; and the same are they that give testimony of me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=40-#x">
+                [40]
+               </a>
+               And you will not come to me that you may have life.
+              </p>
+              <p class="note">
+               [39]
+               <u>
+                "Search the scriptures"
+               </u>
+               : Scrutamini. It is not a command for all to read the scriptures; but a reproach to the Pharisees, that reading the scriptures as they did, and thinking to find everlasting life in them, they would not receive him to whom all those scriptures gave testimony, and through whom alone they could have that true life.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=41-#x">
+                [41]
+               </a>
+               I receive glory not from men.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=42-#x">
+                [42]
+               </a>
+               But I know you, that you have not the love of God in you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=43-#x">
+                [43]
+               </a>
+               I am come in the name of my Father, and you receive me not: if another shall come in his own name, him you will receive.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=44-#x">
+                [44]
+               </a>
+               How can you believe, who receive glory one from another: and the glory which is from God alone, you do not seek?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=45-#x">
+                [45]
+               </a>
+               Think not that I will accuse you to the Father. There is one that accuseth you, Moses, in whom you trust.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=46-#x">
+                [46]
+               </a>
+               For if you did believe Moses, you would perhaps believe me also; for he wrote of me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=5&amp;l=47-#x">
+                [47]
+               </a>
+               But if you do not believe his writings, how will you believe my words?
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="50006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

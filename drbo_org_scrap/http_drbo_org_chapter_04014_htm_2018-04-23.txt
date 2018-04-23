@@ -1,0 +1,656 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 14
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04014.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04014.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04013.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 14
+           </td>
+           <td class="next">
+            <a href="04015.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             14
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The people murmur. God threateneth to destroy them. He is appeased by Moses, yet so as to exclude the murmurers from entering the promised land. The authors of the sedition are struck dead. The rest going to fight against the will of God are beaten.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=1-#x">
+                [1]
+               </a>
+               Wherefore the whole multitude crying wept that night.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=2-#x">
+                [2]
+               </a>
+               And all the children of Israel murmured against Moses and Aaron, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=3-#x">
+                [3]
+               </a>
+               Would God that we had died in Egypt and would God we may die in this vast wilderness, and that the Lord may not bring us into this land, lest we fall by the sword, and our wives and children be led away captives. Is it not better to return into Egypt?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=4-#x">
+                [4]
+               </a>
+               And they said one to another: Let us appoint a captain, and let us return into Egypt.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=5-#x">
+                [5]
+               </a>
+               And when Moses and Aaron heard this, they fell down flat upon the ground before the multitude of the children of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=6-#x">
+                [6]
+               </a>
+               But Josue the son of Nun, and Caleb the son of Jephone, who themselves also had viewed the land, rent their garments,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=7-#x">
+                [7]
+               </a>
+               And said to all the multitude of the children of Israel: The land which we have gone round is very good:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=8-#x">
+                [8]
+               </a>
+               If the Lord be favourable, he will bring us into it, and give us a land flowing with milk and honey.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=9-#x">
+                [9]
+               </a>
+               Be not rebellious against the Lord: and fear ye not the people of this land, for we are able to eat them up as bread. All aid is gone from them: the Lord is with us, fear ye not.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=10-#x">
+                [10]
+               </a>
+               And when all the multitude cried out, and would have stoned them, the glory of the Lord appeared over the tabernacle of the covenant to all the children of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=11-#x">
+                [11]
+               </a>
+               And the Lord said to Moses: How long will this people detract me? how long will they not believe me for all the signs that I have wrought before them?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=12-#x">
+                [12]
+               </a>
+               I will strike them therefore with pestilence, and will consume them: but thee I will make a ruler over a great nation, and a mightier than this is.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=13-#x">
+                [13]
+               </a>
+               And Moses said to the Lord: That the Egyptians, from the midst of whom thou hast brought forth this people,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=14-#x">
+                [14]
+               </a>
+               And the inhabitants of this land, (who have heard that thou, O Lord, art among this people, and art seen face to face, and thy cloud protecteth them, and thou goest before them in a pillar of a cloud by day, and in a pillar of fire by night,)
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=15-#x">
+                [15]
+               </a>
+               May hear that thou hast killed so great a multitude as it were one man and may say:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=16-#x">
+                [16]
+               </a>
+               He could not bring the people into the land for which he had sworn, therefore did he kill them in the wilderness.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=17-#x">
+                [17]
+               </a>
+               Let their the strength of the Lord be magnified, as thou hast sworn, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=18-#x">
+                [18]
+               </a>
+               The Lord is patient and full of mercy, taking away iniquity and wickedness, and leaving no man
+               <u>
+                clear
+               </u>
+               , who visitest the sins of the fathers upon the children unto the third and fourth generation.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=19-#x">
+                [19]
+               </a>
+               Forgive, I beseech thee, the sins of this people, according to the greatness of thy mercy, as thou hast been merciful to them from their going out of Egypt unto this place.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=20-#x">
+                [20]
+               </a>
+               And the Lord said: I have forgiven according to thy word.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "Clear"
+               </u>
+               : i. e., who deserves punishment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=21-#x">
+                [21]
+               </a>
+               As I live: and the whole earth shall be filled with the glory of the Lord.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=22-#x">
+                [22]
+               </a>
+               But yet all the men that have seen my majesty, and the signs that I have done in Egypt, and in the wilderness, and have tempted me now ten times, and have not obeyed my voice,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=23-#x">
+                [23]
+               </a>
+               Shall not see the land for which I aware to their fathers, neither shall any one of them that hath detracted me behold it.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=24-#x">
+                [24]
+               </a>
+               My servant Caleb, who being full of another spirit hath followed me, I will bring into this land which he hath gone round: and his seed shall possess it.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=25-#x">
+                [25]
+               </a>
+               For the Amalecite and the Chanaanite dwell in the valleys. Tomorrow remove the camp, and return into the wilderness by the way of the Red Sea.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=26-#x">
+                [26]
+               </a>
+               And the Lord spoke to Moses and Aaron, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=27-#x">
+                [27]
+               </a>
+               How long doth this wicked multitude murmur against me? I have heard the murmurings of the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=28-#x">
+                [28]
+               </a>
+               Say therefore to them: As I live, saith the Lord: According as you have spoken in my hearing, so will I do to you.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=29-#x">
+                [29]
+               </a>
+               In the wilderness shall your carcasses lie. All you that were numbered from twenty years old and upward, and have murmured against me,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=30-#x">
+                [30]
+               </a>
+               Shall not enter into the land, over which I lifted up my hand to make you dwell therein, except Caleb the son of Jephone, and Josue the son of Nun.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=31-#x">
+                [31]
+               </a>
+               But your children, of whom you said, that they should be a prey to the enemies, will I bring in: that they may see the land which you have despised.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=32-#x">
+                [32]
+               </a>
+               Your carcasses shall lie in the wilderness.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=33-#x">
+                [33]
+               </a>
+               Your children shall wander in the desert forty years, and
+               <u>
+                shall bear your fornication
+               </u>
+               , until the carcasses of their fathers be consumed in the desert,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=34-#x">
+                [34]
+               </a>
+               According to the number of the forty days, wherein you viewed the land: year shall be counted for a day. And forty years you shall receive your iniquities, and shall know my revenge:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=35-#x">
+                [35]
+               </a>
+               For as I have spoken, so will I do to all this wicked multitude, that hath risen up together against me: in this wilderness shall it faint away and die.
+              </p>
+              <p class="note">
+               [33]
+               <u>
+                "Shall bear your fornication"
+               </u>
+               : That is, shall bear the punishment of your disloyalty to God, which in the scripture language is here called a fornication, in a spiritual sense.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=36-#x">
+                [36]
+               </a>
+               Therefore all the men, whom Moses had sent to view the land, and who at their return had made the whole multitude to murmur against him, speaking ill of the land that it was naught,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=37-#x">
+                [37]
+               </a>
+               Died and were struck in the sight of the Lord.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=38-#x">
+                [38]
+               </a>
+               But Josue. the son of Nun. and Caleb the son of Jephone lived, of all them that had gone to view the land.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=39-#x">
+                [39]
+               </a>
+               And Moses spoke all these words to all the children of Israel, and the people mourned exceedingly.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=40-#x">
+                [40]
+               </a>
+               And behold rising up very early in the morning, they went up to the top of the mountain, and said: We are ready to go up to the place, of which the Lord hath spoken: for we have sinned.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=41-#x">
+                [41]
+               </a>
+               And Moses said to them: Why transgress you the word of the Lord, which shall not succeed prosperously with you?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=42-#x">
+                [42]
+               </a>
+               Go not up, for the Lord is not with you: lest you fall before your enemies.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=43-#x">
+                [43]
+               </a>
+               The Amalecite and the Chanaanite are before you, and by their sword you shall fall, because you would not consent to the Lord, neither will the Lord be with you.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=44-#x">
+                [44]
+               </a>
+               But they being blinded went up to the top of the mountain. But the ark of the testament of the Lord and Moses departed not from the camp.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=14&amp;l=45-#x">
+                [45]
+               </a>
+               And the Amalecite came down, and the Chanaanite that dwelt in the mountain: and smiting and slaying them pursued them as far as Horma.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04013.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 14
+              </td>
+              <td class="next">
+               <a href="04015.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

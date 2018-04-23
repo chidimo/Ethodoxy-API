@@ -1,0 +1,398 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Philippians Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/57003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/57003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="56001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Philippians
+           </td>
+           <td class="next">
+            <a href="58001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="57002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="57004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="57001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="57002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="57004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               He warneth them against false teachers. He counts all other things loss, that he may gain Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               As to the rest, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not wearisome, but to you it is necessary.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               Beware of dogs, beware of evil workers, beware of the concision.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               For we are the circumcision, who in spirit serve God; and glory in Christ Jesus, not having confidence in the flesh.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               Though I might also have confidence in the flesh. If any other thinketh he may have confidence in the flesh, I more,
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               Being circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; according to the law, a Pharisee:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               According to zeal, persecuting the church of God; according to the justice that is in the law, conversing without blame.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               But the things that were gain to me, the same I have counted loss for Christ.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               Furthermore I count all things to be but loss for the excellent knowledge of Jesus Christ my Lord; for whom I have suffered the loss of all things, and count them but as dung, that I may gain Christ:
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               And may be found in him, not having my justice, which is of the law, but that which is of the faith of Christ Jesus, which is of God, justice in faith:
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable to his death,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               If by any means I may attain to the resurrection which is from the dead.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               Not as though I has already attained, or were already perfect; but I follow after, if I may by any means apprehend, wherein I am also apprehended by Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Brethren, I do not count myself to have apprehended. But one thing I do: forgetting the things that are behind, and stretching forth myself to those that are before,
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               I press towards the mark, to the prize of the supernal vocation of God in Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               Let us therefore, as many as are perfect, be thus minded; and if in any thing you be otherwise minded, this also God will reveal to you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               Nevertheless whereunto we are come, that we be of the same mind, let us also continue in the same rule.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               Be ye followers of me, brethren, and observe them who walk so as you have our model.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               For many walk, of whom I have told you often (and now tell you weeping), that they are enemies of the cross of Christ;
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               Whose end is destruction; whose God is their belly; and whose glory is in their shame; who mind earthly things.
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               But our conversation is in heaven; from whence also we look for the Saviour, our Lord Jesus Christ,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=57&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               Who will reform the body of our lowness, made like to the body of his glory, according to the operation whereby also he is able to subdue all things unto himself.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="56001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Philippians
+              </td>
+              <td class="next">
+               <a href="58001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="57002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="57004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

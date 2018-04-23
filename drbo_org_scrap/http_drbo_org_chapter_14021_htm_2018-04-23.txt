@@ -1,0 +1,535 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Paralipomenon (2 Chronicles) Chapter 21
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/14021.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/14021.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            2 Paralipomenon (2 Chronicles)
+           </td>
+           <td class="next">
+            <a href="15001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14020.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 21
+           </td>
+           <td class="next">
+            <a href="14022.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="14001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="14002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="14003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="14004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="14005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="14006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="14007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="14008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="14009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="14010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="14011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="14012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="14013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="14014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="14015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="14016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="14017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="14018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="14019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="14020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             21
+            </td>
+            <td width="30">
+             <a href="14022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="14023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="14024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="14025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="14026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="14027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="14028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="14029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="14030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="14031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="14032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="14033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="14034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="14035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="14036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Joram's wicked reign: his punishment and death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=1-#x">
+                [1]
+               </a>
+               And Josaphat slept with his fathers, and was buried with them in the city of David: and Joram his son reigned in his stead.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=2-#x">
+                [2]
+               </a>
+               And he had brethren the sons of Josaphat, Azarias, and Jahiel, and Zacharias, and Azaria, and Michael, and Saphatias, all these were the sons of Josaphat king of Juda.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=3-#x">
+                [3]
+               </a>
+               And their father gave them great gifts of silver, and of gold, and pensions, with strong cities in Juda: but the kingdom he gave to Joram, because he was the eldest.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=4-#x">
+                [4]
+               </a>
+               So Joram rose up over the kingdom of his father: and when he had established himself, he slew all his brethren with the sword, and some of the princes of Israel.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=5-#x">
+                [5]
+               </a>
+               Joram was two and thirty years old when he began to reign: and he reigned eight years in Jerusalem.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=6-#x">
+                [6]
+               </a>
+               And he walked in the ways of the kings of Israel, as the house of Achab had done: for his wife was a daughter of Achab, and he did evil in the sight of the Lord.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=7-#x">
+                [7]
+               </a>
+               But the Lord would not destroy the house of David: because of the covenant which he had made with him: and because he had promised to give a lamp to him, and to his sons for ever.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=8-#x">
+                [8]
+               </a>
+               In those days Edom revolted, from being subject to Juda, and made themselves a king.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=9-#x">
+                [9]
+               </a>
+               And Joram went over with his princes, and all his cavalry with him, and rose in the night, and defeated the Edomites who had surrounded him, and all the captains of his cavalry.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=10-#x">
+                [10]
+               </a>
+               However Edom revolted, from being under the dominion of Juda unto this day: at that time Lobna also revolted, from being under his hand. For he had forsaken the Lord the God of his fathers:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=11-#x">
+                [11]
+               </a>
+               Moreover he built also high places in the cities of Juda, and he made the inhabitants of Jerusalem to commit fornication, and Juda to transgress.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=12-#x">
+                [12]
+               </a>
+               And there was a letter brought him from Elias the prophet, in which it was written: Thus saith the Lord the God of David thy father: Because thou hast not walked in the ways of Josaphat thy father nor in the ways of Asa king of Juda,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=13-#x">
+                [13]
+               </a>
+               But hast walked in the ways of the kings of Israel, and hast made Juda and the inhabitants of Jerusalem to commit fornication, imitating the fornication of the house of Achab, moreover also thou hast killed thy brethren, the house of thy father, better men than thyself,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=14-#x">
+                [14]
+               </a>
+               Behold the Lord will strike thee with a great plague, with all thy people, and thy children, and thy wives, and all thy substance.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=15-#x">
+                [15]
+               </a>
+               And thou shalt be sick of a very grievous disease of thy bowels, till thy vital parts come out by little and little every day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=16-#x">
+                [16]
+               </a>
+               And the Lord stirred up against Joram the spirit of the Philistines, and of the Arabians, who border on the Ethiopians.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=17-#x">
+                [17]
+               </a>
+               And they came up into the land of Juda, and wasted it, and they carried away all the substance that was found in the king's house, his sons also, and his wives: so that there was no son left him but
+               <u>
+                Joachaz
+               </u>
+               , who was the youngest.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=18-#x">
+                [18]
+               </a>
+               And besides all this the Lord struck him with an incurable disease in his bowels.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=19-#x">
+                [19]
+               </a>
+               And as day came after day, and time rolled on, two whole years passed: then after being wasted with a long consumption, so as to void his very bowels, his disease ended with his life. And he died of a most wretched illness, and the people did not make a funeral for him according to the manner of burning, as they had done for his ancestors.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=21&amp;l=20-#x">
+                [20]
+               </a>
+               He was two and thirty years old when he began his reign, and he reigned eight years in Jerusalem. And he walked not rightly, and they buried him in the city of David: but not in the sepulchres of the kings.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "Joachaz"
+               </u>
+               : Alias Ochozias.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               2 Paralipomenon (2 Chronicles)
+              </td>
+              <td class="next">
+               <a href="15001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14020.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 21
+              </td>
+              <td class="next">
+               <a href="14022.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,614 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 16
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02016.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02016.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02015.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 16
+           </td>
+           <td class="next">
+            <a href="02017.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             16
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The people murmur for want of meat: God giveth them quails and manna.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=1-#x">
+                [1]
+               </a>
+               And they set forward from Elim, and all the multitude of the children of Israel came into the desert of Sin, which is between Elim and Sinai: the fifteenth day of the second month, after they came out of the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=2-#x">
+                [2]
+               </a>
+               And all the congregation of the children of Israel murmured against Moses and Aaron in the wilderness.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=3-#x">
+                [3]
+               </a>
+               And the children of Israel said to them: Would to God we had died by the hand of the Lord in the land of Egypt, when we sat over the flesh pots, and ate bread to the full. Why have you brought us into this desert, that you might destroy all the multitude with famine?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=4-#x">
+                [4]
+               </a>
+               And the Lord said to Moses: Behold I will rain bread from heaven for you: let the people go forth, and gather what is sufficient for every day: that I may prove them whether they will walk in my law, or not.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=5-#x">
+                [5]
+               </a>
+               But the sixth day let them provide for to bring in: and let it be double to that they were wont to gather every day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=6-#x">
+                [6]
+               </a>
+               And Moses and Aaron said to the children of Israel: In the evening you shall know that the Lord hath brought you forth out of the land of Egypt:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=7-#x">
+                [7]
+               </a>
+               And in the morning you shall see the glory of the Lord: for he hath heard your murmuring against the Lord: but as for us, what are we, that you mutter against us?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=8-#x">
+                [8]
+               </a>
+               And Moses said: In the evening the Lord will give you flesh to eat, and in the morning bread to the full: for he hath heard your murmurings, with which you have murmured against him, for what are we? your murmuring is not against us, but against the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=9-#x">
+                [9]
+               </a>
+               Moses also said to Aaron: Say to the whole congregation of the children of Israel: Come before the Lord: for he hath heard your murmuring.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=10-#x">
+                [10]
+               </a>
+               And when Aaron spoke to all the assembly of the children of Israel, they looked towards the wilderness: and behold the glory of the Lord appeared in a cloud.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=11-#x">
+                [11]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=12-#x">
+                [12]
+               </a>
+               I have heard the murmuring of the children of Israel: say to them: In the evening you shall eat flesh, and in the morning you shall have your fill of bread: and you shall know that I am the Lord your God.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=13-#x">
+                [13]
+               </a>
+               So it came to pass in the evening, that quails coming up, covered the camp: and in the morning, a dew lay round about the camp.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=14-#x">
+                [14]
+               </a>
+               And when it had covered the face of the earth, it appeared in the wilderness small, and as it were beaten with a pestle, like unto the hoar frost on the ground.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=15-#x">
+                [15]
+               </a>
+               And when the children of Israel saw it, they said one to another: Manhu! which signifieth: What is this! for they knew not what it was. And Moses said to them: This is the bread, which the Lord hath given you to eat.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=16-#x">
+                [16]
+               </a>
+               This is the word, that the Lord hath commanded: Let every one gather of it as much as is enough to eat: a gomor for every man, according to the number of your souls that dwell in a tent, so shall you take of it.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=17-#x">
+                [17]
+               </a>
+               And the children of Israel did so: and they gathered, one more, another less.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=18-#x">
+                [18]
+               </a>
+               And they measured by the measure of a gomor: neither had he more that had gathered more: nor did he find less that had provided less: but every one had gathered, according to what they were able to eat.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=19-#x">
+                [19]
+               </a>
+               And Moses said to them: Let no man leave thereof till the morning.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=20-#x">
+                [20]
+               </a>
+               And they hearkened not to him, but some of them left until the morning, and it began to be full of worms, an it putrified, and Moses was angry with them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=21-#x">
+                [21]
+               </a>
+               Now every one of them gathered in the morning, as much as might suffice to eat: and after the sun grew hot, it melted.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=22-#x">
+                [22]
+               </a>
+               But on the sixth day they gathered twice as much, that is, two gomors every man: and all the rulers of the multitude came, and told Moses.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=23-#x">
+                [23]
+               </a>
+               And he said to them: This is what the Lord hath spoken: Tomorrow is the rest of the sabbath sanctified to the Lord. Whatsoever work is to be done, do it: and the meats that are to be dressed, dress them: and whatsoever shall remain, lay it up until the morning.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=24-#x">
+                [24]
+               </a>
+               And they did so as Moses had commanded, and it did not putrify, neither was there worm found in it.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=25-#x">
+                [25]
+               </a>
+               And Moses said: Eat it today, because it is the sabbath of the Lord: today it shall not be found in the field.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=26-#x">
+                [26]
+               </a>
+               Gather it six days: but on the seventh day is the sabbath of the Lord, therefore it shall not be found.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=27-#x">
+                [27]
+               </a>
+               And the seventh day came: and some of the people going forth to gather, found none.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=28-#x">
+                [28]
+               </a>
+               And the Lord said to Moses: How long will you refuse to keep my commandments, and my law?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=29-#x">
+                [29]
+               </a>
+               See that the Lord hath given you the sabbath, and for this reason on the sixth day he giveth you a double provision: let each man stay at home, and let none go forth out of his place the seventh day.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=30-#x">
+                [30]
+               </a>
+               And the people kept the sabbath on the seventh day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=31-#x">
+                [31]
+               </a>
+               And the house of Israel called the name thereof Manna: and it was like coriander seed white, and the taste thereof like to flour with honey.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=32-#x">
+                [32]
+               </a>
+               And Moses said: This is the word, which the Lord hath commanded: Fill a gomor of it, and let it be kept unto generations to come hereafter, that they may know the bread, wherewith I fed you in the wilderness, when you were brought forth out of the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=33-#x">
+                [33]
+               </a>
+               And Moses said to Aaron: Take a vessel, and put manna into it, as much as a gomor can hold: and lay it up before the Lord to keep unto your generations,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=34-#x">
+                [34]
+               </a>
+               As the Lord commanded Moses. And Aaron put it in the tabernacle to be kept.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=35-#x">
+                [35]
+               </a>
+               And the children of Israel ate manna forty years, till they came to a habitable land: with this meat were they fed, until they reached the borders of the land of Chanaan.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=16&amp;l=36-#x">
+                [36]
+               </a>
+               Now a gomor is the tenth part of an ephi.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02015.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 16
+              </td>
+              <td class="next">
+               <a href="02017.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,426 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Galatians Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/55002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/55002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="54001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Galatians
+           </td>
+           <td class="next">
+            <a href="56001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="55001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="55003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="55001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="55003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="55004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="55005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="55006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The apostle's preaching was approved of by the other apostles. The Gentiles were not to be constrained to the observance of the law.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               Then, after fourteen years, I went up again to Jerusalem with Barnabas, taking Titus also with me.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And I went up according to revelation; and communicated to them the gospel, which I preach among the Gentiles, but apart to them who seemed to be some thing: lest perhaps I should run, or had run in vain.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               But neither Titus, who was with me, being a Gentile, was compelled to be circumcised.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               But because of false brethren unawares brought in, who came in privately to spy our liberty, which we have in Christ Jesus, that they might bring us into servitude.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               To whom we yielded not by subjection, no not for an hour, that the truth of the gospel might continue with you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               But of them who seemed to be some thing, (what they were some time, it is nothing to me, God accepteth not the person of man,) for to me they that seemed to be some thing added nothing.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               But contrariwise, when they had seen that to me was committed
+               <u>
+                the gospel of the uncircumcision
+               </u>
+               , as to Peter was that of the circumcision.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               (For he who wrought in Peter to the apostleship of the circumcision, wrought in me also among the Gentiles.)
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               And when they had known the grace that was given to me, James and Cephas and John, who seemed to be pillars, gave to me and Barnabas the right hands of fellowship: that we should go unto the Gentiles, and they unto the circumcision:
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               Only that we should be mindful of the poor: which same thing also I was careful to do.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "The gospel of the uncircumcision"
+               </u>
+               : The preaching of the gospel to the uncircumcised, that is, to the Gentiles. St. Paul was called in an extraordinary manner to be the apostle of the Gentiles; St. Peter, besides his general commission over the whole flock, (John 21. 15, etc.,) had a peculiar charge of the people of the circumcision, that is, of the Jews.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               But when Cephas was come to Antioch,
+               <u>
+                I withstood
+               </u>
+               him to the face, because he was to be blamed.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               For before that some came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them who were of the circumcision.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               And to his dissimulation the rest of the Jews consented, so that Barnabas also was led by them into that dissimulation.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               But when I saw that they walked not uprightly unto the truth of the gospel, I said to Cephas before them all: If thou, being a Jew, livest after the manner of the Gentiles, and not as the Jews do, how dost thou compel the Gentiles to live as do the Jews?
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               We by nature are Jews, and not of the Gentiles sinners.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "I withstood"
+               </u>
+               : The fault that is here noted in the conduct of St. Peter, was only a certain imprudence, in withdrawing himself from the table of the Gentiles, for fear of giving offence to the Jewish converts; but this, in such circumstances, when his so doing might be of ill consequence to the Gentiles, who might be induced thereby to think themselves obliged to conform to the Jewish way of living, to the prejudice of their Christian liberty. Neither was St. Paul's reprehending him any argument against his supremacy; for in such cases an inferior may, and sometimes ought, with respect, to admonish his superior.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               But knowing that man is not justified by the works of the law, but by the faith of Jesus Christ; we also believe in Christ Jesus, that we may be justified by the faith of Christ, and not by the works of the law: because by the works of the law no flesh shall be justified.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               But if while we seek to be justified in Christ, we ourselves also are found sinners; is Christ then the minister of sin? God forbid.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               For if I build up again the things which I have destroyed, I make myself a prevaricator.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               For I, through the law, am dead to the law, that I may live to God: with Christ I am nailed to the cross.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               And I live, now not I; but Christ liveth in me. And that I live now in the flesh: I live in the faith of the Son of God, who loved me, and delivered himself for me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               I cast not away the grace of God. For if justice be by the law, then Christ died in vain.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="54001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Galatians
+              </td>
+              <td class="next">
+               <a href="56001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="55001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="55003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

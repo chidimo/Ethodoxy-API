@@ -1,0 +1,743 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Machabees Chapter 10
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/45010.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/45010.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="44001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="46001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45009.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 10
+           </td>
+           <td class="next">
+            <a href="45011.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="45001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="45002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="45003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="45004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="45005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="45006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="45007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="45008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="45009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             10
+            </td>
+            <td width="30">
+             <a href="45011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="45012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="45013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="45014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="45015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="45016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Alexander Bales sets himself up for king: both he and Demetrius seek to make Jonathan their friend. Alexander kills Demetrius in battle, and honours Jonathan. His victory over Apollonius.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=1-#x">
+                [1]
+               </a>
+               Now in the hundred and sixtieth year Alexander the son of Antiochus, surnamed the Illustrious, came up and took Ptolemais, and they received him, and he reigned there.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=2-#x">
+                [2]
+               </a>
+               And king Demetrius heard of it, and gathered together an exceeding great army, and went forth against him to fight.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=3-#x">
+                [3]
+               </a>
+               And Demetrius sent a letter to Jonathan with peaceable words, to magnify him.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=4-#x">
+                [4]
+               </a>
+               For he said: Let us first make a peace with him, before he make one with Alexander against us.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=5-#x">
+                [5]
+               </a>
+               For he will remember all the evils that we have done against him, and against his brother, and against his nation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=6-#x">
+                [6]
+               </a>
+               And he gave him authority to gather together an army, and to make arms, and that he should be his confederate: and the hostages that were in the castle, he commanded to be delivered to him.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=7-#x">
+                [7]
+               </a>
+               And Jonathan came to Jerusalem, and read the letters in the hearing of all the people, and of them that were in the castle.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=8-#x">
+                [8]
+               </a>
+               And they were struck with great fear, because they heard that the king had given him authority to gather together an army.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=9-#x">
+                [9]
+               </a>
+               And the hostages were delivered to Jonathan, and he restored them to their parents.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=10-#x">
+                [10]
+               </a>
+               And Jonathan dwelt in Jerusalem, and began to build, and to repair the city.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=11-#x">
+                [11]
+               </a>
+               And he ordered workmen to build the walls, and mount Sion round about with square stones for fortification: and so they did.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=12-#x">
+                [12]
+               </a>
+               And the strangers that were in the strong holds, which Bacchides had built, fled away.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=13-#x">
+                [13]
+               </a>
+               And every man left his place, and departed into his own country:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=14-#x">
+                [14]
+               </a>
+               Only in Bethsura there remained some of them, that had forsaken the law, and the commandments of God: for this was a place of refuge for them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=15-#x">
+                [15]
+               </a>
+               And king Alexander heard of the promises that Demetrius had made Jonathan: and they told him of the battles, and the worthy acts that he, and his brethren had done, and the labours that they had endured.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=16-#x">
+                [16]
+               </a>
+               And he said: Shall we find such another man? now therefore we will make him our friend and our confederate.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=17-#x">
+                [17]
+               </a>
+               So he wrote a letter, and sent it to him according to these words, saying:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=18-#x">
+                [18]
+               </a>
+               King Alexander to his brother Jonathan, greeting.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=19-#x">
+                [19]
+               </a>
+               We have heard of thee, that thou art a man of great power, and fit to be our friend:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=20-#x">
+                [20]
+               </a>
+               Now therefore we make thee this day high priest of thy nation, and that thou be called the king's friend, (and he sent him a purple robe, and a crown of gold,) and that thou be of one mind with us in our affairs, and keep friendship with us.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=21-#x">
+                [21]
+               </a>
+               Then Jonathan put on the holy vestment in the seventh month, in the year one hundred and threescore, at the feast day of the tabernacles: and he gathered together an army, and made a great number of arms.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=22-#x">
+                [22]
+               </a>
+               And Demetrius heard these words, and was exceeding sorry, and said:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=23-#x">
+                [23]
+               </a>
+               What is this that we have done, that Alexander hath prevented us to gain the friendship of the Jews to strengthen himself?
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=24-#x">
+                [24]
+               </a>
+               I also will write to them words of request, and offer dignities, and gifts: that they may be with me to aid me.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=25-#x">
+                [25]
+               </a>
+               And he wrote to them in these words: King Demetrius to the nation of the Jews, greeting.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=26-#x">
+                [26]
+               </a>
+               Whereas you have kept covenant with us, and have continued in our friendship, and have not joined with our enemies, we have heard of it, and are glad.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=27-#x">
+                [27]
+               </a>
+               Wherefore now continue still to keep fidelity towards us, and we will reward you with good things, for what you have done in our behalf.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=28-#x">
+                [28]
+               </a>
+               And we will remit to you many charges, and will give you gifts.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=29-#x">
+                [29]
+               </a>
+               And now I free you, and all the Jews from tributes, and I release you from the customs of salt, and remit the crowns, and the thirds of the seed:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=30-#x">
+                [30]
+               </a>
+               And the half of the fruit of trees, which is my share, I leave to you from this day forward, so that it shall not be taken of the land of Juda, and of the three cities that are added thereto out of Samaria and Galilee, from this day forth and for ever:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=31-#x">
+                [31]
+               </a>
+               And let Jerusalem be holy and free, with the borders thereof: and let the tenths, and tributes be for itself.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=32-#x">
+                [32]
+               </a>
+               I yield up also the power of the castle that is in Jerusalem, and I give it to the high priest, to place therein such men as he shall choose to keep it.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=33-#x">
+                [33]
+               </a>
+               And every soul of the Jews that hath been carried captive from the land of Juda in all my kingdom, I set at liberty freely, that all be discharged from tributes even of their cattle.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=34-#x">
+                [34]
+               </a>
+               And I will that all the feasts, and the sabbaths, and the new moons, and the days appointed, and three days before the solemn day, and three days after the solemn day, be all days of immunity and freedom, for all the Jews that are in my kingdom:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=35-#x">
+                [35]
+               </a>
+               And no man shall have power to do any thing against them, or to molest any of them, in any cause.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=36-#x">
+                [36]
+               </a>
+               And let there be enrolled in the king's army to the number of thirty thousand of the Jews: and allowance shall be made them as is due to all the king's forces, and certain of them shall be appointed to be in the fortresses of the great king:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=37-#x">
+                [37]
+               </a>
+               And some of them shall be set over the affairs of the kingdom, that are of trust, and let the governors be taken from among themselves, and let them walk in their own laws, as the king hath commanded in the land of Juda.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=38-#x">
+                [38]
+               </a>
+               And the three cities that are added to Judea, out of the country of Samaria, let them be accounted with Judea: that they may be under one, and obey no other authority but that of the high priest:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=39-#x">
+                [39]
+               </a>
+               Ptolemais, and the confines thereof, I give as a free gift to the holy places, that are in Jerusalem, for the necessary charges of the holy things.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=40-#x">
+                [40]
+               </a>
+               And I give every year fifteen thousand sicles of silver out of the king's accounts, of what belongs to me:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=41-#x">
+                [41]
+               </a>
+               And all that is above, which they that were over the affairs the years before, had not paid, from this time they shall give it to the works of the house.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=42-#x">
+                [42]
+               </a>
+               Moreover the five thousand sicles of silver which they received from the account of the holy places, every year, shall also belong to the priests that execute the ministry.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=43-#x">
+                [43]
+               </a>
+               And whosoever shall flee into the temple that is in Jerusalem, and in all the borders thereof, being indebted to the king for any matter, let them be set at liberty, and all that they have in my kingdom, let them have it free.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=44-#x">
+                [44]
+               </a>
+               For the building also, or repairing the works of the holy places, the charges shall be given out of the king's revenues:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=45-#x">
+                [45]
+               </a>
+               For the building also of the walls of Jerusalem, and the fortifying thereof round about, the charges shall be given out of the king's account, as also for the building of the walls in Judea.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=46-#x">
+                [46]
+               </a>
+               Now when Jonathan, and the people heard these words, they gave no credit to them nor received them: because they remembered the great evil that he had done in Israel, for he had afflicted them exceedingly.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=47-#x">
+                [47]
+               </a>
+               And their inclinations were towards Alexander, because he had been the chief promoter of peace in their regard, and him they always helped.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=48-#x">
+                [48]
+               </a>
+               And king Alexander gathered together a great army, and moved his camp near to Demetrius.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=49-#x">
+                [49]
+               </a>
+               And the two kings joined battle, and the army of Demetrius fled away, and Alexander pursued after him, and pressed them close.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=50-#x">
+                [50]
+               </a>
+               And the battle was hard fought till the sun went down: and Demetrius was slain that day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=51-#x">
+                [51]
+               </a>
+               And Alexander sent ambassadors to
+               <u>
+                Ptolemee
+               </u>
+               king of Egypt, with words to this effect, saying:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=52-#x">
+                [52]
+               </a>
+               Forasmuch as I am returned into my kingdom, and am set in the throne of my ancestors and have gotten the dominion, and have overthrown Demetrius, and possessed our country,
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=53-#x">
+                [53]
+               </a>
+               And have joined battle with him, and both he and his army have been destroyed by us, and we are placed in the throne of his kingdom:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=54-#x">
+                [54]
+               </a>
+               Now therefore let us make friendship one with another: and give me now thy daughter to wife, and I will be thy son in law, and I will give both thee and her gifts worthy of thee.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=55-#x">
+                [55]
+               </a>
+               And king Ptolemee answered, saying: Happy is the day wherein thou didst return to the land of thy fathers, and sattest in the throne of their kingdom.
+              </p>
+              <p class="note">
+               [51]
+               <u>
+                "Ptolemee"
+               </u>
+               : Surnamed Philometer.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=56-#x">
+                [56]
+               </a>
+               And now I will do to thee as thou hast written: but meet me at Ptolemais, that we may see one another, and I may give her to thee as thou hast said.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=57-#x">
+                [57]
+               </a>
+               So Ptolemee went out of Egypt, with Cleopatra his daughter, and he came to Ptolemais in the hundred and sixty-second year.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=58-#x">
+                [58]
+               </a>
+               And king Alexander met him, and he gave him his daughter Cleopatra: and he celebrated her marriage at Ptolemais, with great glory, after the manner of kings.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=59-#x">
+                [59]
+               </a>
+               And king Alexander wrote to Jonathan, that he should come and meet him.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=60-#x">
+                [60]
+               </a>
+               And he went honourably to Ptolemais, and he met there the two kings, and he gave them much silver, and gold, and presents: and he found favour in their sight.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=61-#x">
+                [61]
+               </a>
+               And some pestilent men of Israel, men of a wicked life, assembled themselves against him to accuse him: and the king gave no heed to them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=62-#x">
+                [62]
+               </a>
+               And he commanded that Jonathan's garments should be taken off, and that he should be clothed with purple: and they did so. And the king made him sit by himself.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=63-#x">
+                [63]
+               </a>
+               And he said to his princes: Go out with him into the midst of the city, and make proclamation, that no man complain against him of any matter, and that no man trouble him for any manner of cause.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=64-#x">
+                [64]
+               </a>
+               So when his accusers saw his glory proclaimed, and him clothed with purple, they all fled away.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=65-#x">
+                [65]
+               </a>
+               And the king magnified him, and enrolled him amongst his chief friends, and made him governor and partaker of his dominion.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=66-#x">
+                [66]
+               </a>
+               And Jonathan returned into Jerusalem with peace and joy.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=67-#x">
+                [67]
+               </a>
+               In the year one hundred and sixty-five Demetrius the son of Demetrius came from Crete into the land of his fathers.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=68-#x">
+                [68]
+               </a>
+               And king Alexander heard of it, and was much troubled, and returned to Antioch.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=69-#x">
+                [69]
+               </a>
+               And king Demetrius made Apollonius his general, who was governor of Celesyria: and he gathered together a great army, and came to Jamnia: and he sent to Jonathan the high priest,
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=70-#x">
+                [70]
+               </a>
+               Saying: Thou alone standest against us, and I am laughed at, and reproached, because thou shewest thy power against us in the mountains.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=71-#x">
+                [71]
+               </a>
+               Now therefore if thou trustest in thy forces, come down to us into the plain, and there let us try one another: for with me is the strength of war.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=72-#x">
+                [72]
+               </a>
+               Ask, and learn who I am, and the rest that help me, who also say that your foot cannot stand before our face, for thy fathers have twice been put to flight in their own land:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=73-#x">
+                [73]
+               </a>
+               And now how wilt thou be able to abide the horsemen, and so great an army in the plain, where there is no stone, nor rock, nor place to flee to?
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=74-#x">
+                [74]
+               </a>
+               Now when Jonathan heard the words of Apollonius, he was moved in his mind: and he chose ten thousand men, and went out of Jerusalem, and Simon his brother met him to help him.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=75-#x">
+                [75]
+               </a>
+               And they pitched their tents near Joppe, but they shut him out of the city: because a garrison of Apollonius was in Joppe, and he laid siege to it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=76-#x">
+                [76]
+               </a>
+               And they that were in the city being affrighted, opened the gates to him: so Jonathan took Joppe.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=77-#x">
+                [77]
+               </a>
+               And Apollonius heard of it, and he took three thousand horsemen, and a great army.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=78-#x">
+                [78]
+               </a>
+               And he went to Azotus as one that was making a journey, and immediately he went forth into the plain: because he had a great number of horsemen, and he trusted in them. And Jonathan followed after him to Azotus, and they joined battle.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=79-#x">
+                [79]
+               </a>
+               And Apollonius left privately in the camp a thousand horsemen behind them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=80-#x">
+                [80]
+               </a>
+               And Jonathan knew that there was an ambush behind him, and they surrounded his army, and cast darts at the people from morning till evening.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=81-#x">
+                [81]
+               </a>
+               But the people stood still, as Jonathan had commanded them: and so their horses were fatigued.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=82-#x">
+                [82]
+               </a>
+               Then Simon drew forth his army, and attacked the legion: for the horsemen were wearied: and they were discomfited by him, and fled.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=83-#x">
+                [83]
+               </a>
+               And they that were scattered about the plain, fled into Azotus, and went into Bethdagon their idol's temple, there to save themselves.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=84-#x">
+                [84]
+               </a>
+               But Jonathan set fire to Azotus, and the cities that were around it, and took the spoils of them, and the temple of Dagon: and all them that were fled into it, he burnt with fire.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=85-#x">
+                [85]
+               </a>
+               So they that were slain by the sword, with them that were burnt, were almost eight thousand men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=86-#x">
+                [86]
+               </a>
+               And Jonathan removed his army from thence, and camped against Ascalon: and they went out of the city to meet him with great honour.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=87-#x">
+                [87]
+               </a>
+               And Jonathan returned into Jerusalem with his people, having many spoils.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=88-#x">
+                [88]
+               </a>
+               And it came to pass: When Alexander the king heard these words, that he honoured Jonathan yet more.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=10&amp;l=89-#x">
+                [89]
+               </a>
+               And he sent him a buckle of gold, as the custom is, to be given to such as are of the royal blood. And he gave him Accaron and all the borders thereof in possession.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="44001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="46001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45009.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 10
+              </td>
+              <td class="next">
+               <a href="45011.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

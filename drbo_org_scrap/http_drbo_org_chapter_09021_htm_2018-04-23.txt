@@ -1,0 +1,532 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Kings (1 Samuel) Chapter 21
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/09021.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/09021.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="08001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Kings (1 Samuel)
+           </td>
+           <td class="next">
+            <a href="10001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="09020.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 21
+           </td>
+           <td class="next">
+            <a href="09022.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="09001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="09002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="09003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="09004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="09005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="09006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="09007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="09008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="09009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="09010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="09011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="09012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="09013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="09014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="09015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="09016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="09017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="09018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="09019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="09020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             21
+            </td>
+            <td width="30">
+             <a href="09022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="09023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="09024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="09025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="09026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="09027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="09028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="09029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="09030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="09031.htm">
+              31
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               David receiveth holy bread of Achimelech, the priest: and feigneth himself mad before Achis, king of Geth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=1-#x">
+                [1]
+               </a>
+               And David came to
+               <u>
+                Nobe
+               </u>
+               to Achimelech the priest: and Achimelech was astonished at David's coming. And he said to him: Why art thou alone, and no man with thee?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=2-#x">
+                [2]
+               </a>
+               And David said to Achimelech the priest: The king hath commanded me a business, and said: Let no man know the thing for which thou art sent by me, and what manner of commands I have given thee: and I have appointed my servants to such and such a place.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=3-#x">
+                [3]
+               </a>
+               Now therefore if thou have any thing at hand, though it were but five loaves, give me, or whatsoever thou canst find.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=4-#x">
+                [4]
+               </a>
+               And the priest answered David, saying: I have no common bread at hand, but only holy bread,
+               <u>
+                if the young men be clean
+               </u>
+               , especially from women?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=5-#x">
+                [5]
+               </a>
+               And David answered the priest, and said to him: Truly, as to what concerneth women, we have refrained ourselves from yesterday and the day before, when we came out, and
+               <u>
+                the vessels
+               </u>
+               of the young men were holy. Now this way
+               <u>
+                is defiled
+               </u>
+               , but it shall also
+               <u>
+                be sanctified
+               </u>
+               this day in the vessels.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Nobe"
+               </u>
+               : A city in the tribe of Benjamin, to which the tabernacle of the Lord had been translated from Silo.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "If the young men be clean"
+               </u>
+               : If this cleanness was required of them that were to eat that bread, which was a figure of the bread of life which we receive in the blessed sacrament; how clean ought Christians to be when they approach to our tremendous mysteries. And what reason hath the church of God to admit none to be her ministers to consecrate and daily receive this most pure sacrament, but such as devote themselves to a life of perpetual purity.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "The vessels"
+               </u>
+               : i. e., the bodies, have been holy, that is, have been kept from impurity.-- Ibid.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "Is defiled"
+               </u>
+               : Is liable to expose us to dangers of uncleanness.-- Ibid.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "Be sanctified"
+               </u>
+               : That is, we shall take care, notwithstanding these dangerous circumstances, to keep our vessels holy, that is, to keep our bodies from every thing that may defile us.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=6-#x">
+                [6]
+               </a>
+               The priest therefore gave him hallowed bread: for there was no bread there, but only the loaves of proposition, which had been taken away from before the face of the Lord, that hot loaves might be set up.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=7-#x">
+                [7]
+               </a>
+               Now a certain man of the servants of Saul was there that day, within the tabernacle of the Lord: and his name was Doeg, an Edomite, the chiefest of Saul's herdsmen.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=8-#x">
+                [8]
+               </a>
+               And David said to Achimelech: Hast thou here at hand a spear, or a sword? for I brought not my own sword, nor my own weapons with me, for the king's business required haste.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=9-#x">
+                [9]
+               </a>
+               And the priest said: Lo, here is the sword of Goliath the Philistine whom thou slewest in the valley of Terebinth, wrapped up in a cloth behind the ephod: if thou wilt take this, take it, for here is no other but this. And David said: There is none like that, give it me.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=10-#x">
+                [10]
+               </a>
+               And David arose and fled that day from the face of Saul: and came to Achis the king of Geth:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=11-#x">
+                [11]
+               </a>
+               And the servants of Achis, when they saw David, said to him: Is not this David the king of the land? Did they not sing to him in their dances, saying: Saul hath slain his thousands, and David his ten thousands?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=12-#x">
+                [12]
+               </a>
+               But David laid up these words in his heart, and was exceedingly afraid at the face of Achis the king of Geth.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=13-#x">
+                [13]
+               </a>
+               And he changed his countenance before them, and slipt down between their hands: and he stumbled against the doors of the gate, and his spittle ran down upon his beard.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=14-#x">
+                [14]
+               </a>
+               And Achis said to his servants: You saw the man was mad: why have you brought him to me?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=21&amp;l=15-#x">
+                [15]
+               </a>
+               Have we need of madmen, that you have brought in this fellow, to play the madman in my presence? shall this fellow come into my house?
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="08001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Kings (1 Samuel)
+              </td>
+              <td class="next">
+               <a href="10001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="09020.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 21
+              </td>
+              <td class="next">
+               <a href="09022.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,558 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="04010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The precept of the pasch is renewed: the unclean and travellers are to observe it the second month: the camp is guided by the pillar of the cloud.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               The Lord spoke to Moses in the desert of Sinai, the second year after they were come out of the land of Egypt, in the first month, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               Let the children of Israel
+               <u>
+                make the phase
+               </u>
+               in its due time,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               The fourteenth day of this month in the evening, according to all the ceremonies and justifications thereof.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               And Moses commanded the children of Israel that they should make the phase.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               And they made it in its proper time: the fourteenth day of the month at evening, in mount Sinai. The children of Israel did according to all things that the Lord had commanded Moses.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Make the phase"
+               </u>
+               : That is, keep the paschal solemnity, and eat the paschal lamb.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               But
+               <u>
+                behold some who were unclean by occasion of the soul of a man
+               </u>
+               , who could not make the phase on that day, coming to Moses and Aaron,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               Said to them: We are unclean by occasion of the soul of a man. Why are we kept back that we may not offer in its season the offering to the Lord among the children of Israel?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               And Moses answered them: Stay that I may consult the Lord what he will ordain concerning you.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               Say to the children of Israel: The man that shall be unclean by occasion of one that is dead, or shall be in a journey afar off in your nation, let him make the phase to the Lord.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Behold some who were unclean by occasion of the soul of a man"
+               </u>
+               : That is, by having touched or come near a dead body, out of which the soul was departed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               In the second month, on the fourteenth day of the month in the evening, they shall eat it with unleavened bread and wild lettuce:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               They shall not leave any thing thereof until morning, a nor break a bone thereof, they shall observe all the ceremonies of the phase.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               But if any man is clean, and was not on a journey, and did not make the phase, that soul shall be cut off from among his people, because he offered not sacrifice to the Lord in due season: he shall bear his sin.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               The sojourner also and the stranger if they be among you, shall make the phase to the Lord according to the ceremonies and justifications thereof. The same ordinance shall be with you both for the stranger, and for him that was born in the land.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               Now on the day that the tabernacle was reared up, a cloud covered it. But from the evening there was over the tabernacle, as it were, the appearance of fire until the morning.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               So it was always: by day the cloud covered it, and by night as it were the appearance of fire.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               And when the cloud that covered the tabernacle was taken up, then the children of Israel marched forward: and in the place where the cloud stood still, there they camped.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               At the commandment of the Lord they marched, and at his commandment they pitched the tabernacle. All the days that the cloud abode over the tabernacle, they remained in the same place:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               And if it was so that it continued over it a long time, the children of Israel kept the watches of the Lord, and marched not,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               For as many days soever as the cloud stayed over the tabernacle. At the commandment of the Lord they pitched their tents, and at his commandment they took them down.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               If the cloud tarried from evening until morning, and immediately at break of day left the tabernacle, they marched forward: and if it departed after a day and a night, they took down their tents.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               But if it remained over the tabernacle for two days or a month or a longer time, the children of Israel remained in the same place, and marched not: but immediately as soon as it departed, they removed the camp.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               By the word of the Lord they pitched their tents, and by his word they marched: and kept the watches of the Lord according to his commandment by the hand of Moses.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="04010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

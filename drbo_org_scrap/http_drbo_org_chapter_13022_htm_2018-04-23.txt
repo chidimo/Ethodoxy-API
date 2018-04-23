@@ -1,0 +1,483 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Paralipomenon (1 Chronicles) Chapter 22
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/13022.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/13022.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="12001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            1 Paralipomenon (1 Chronicles)
+           </td>
+           <td class="next">
+            <a href="14001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13021.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 22
+           </td>
+           <td class="next">
+            <a href="13023.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="13001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="13002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="13003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="13004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="13005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="13006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="13007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="13008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="13009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="13010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="13011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="13012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="13013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="13014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="13015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="13016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="13017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="13018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="13019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="13020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="13021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             22
+            </td>
+            <td width="30">
+             <a href="13023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="13024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="13025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="13026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="13027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="13028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="13029.htm">
+              29
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               David having prepared all necessaries, chargeth Solomon to build the temple and the princes to assist him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=1-#x">
+                [1]
+               </a>
+               Then David said: This is the house of God, and this is the altar for the holocaust of Israel.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=2-#x">
+                [2]
+               </a>
+               And he commanded to gather together all the proselytes of the land of Israel, and out of them he appointed stonecutters to hew stones and polish them, to build the house of God.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=3-#x">
+                [3]
+               </a>
+               And David prepared in abundance iron for the nails of the gates, and for the closures and joinings: and of brass an immense weight.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=4-#x">
+                [4]
+               </a>
+               And the cedar trees were without number, which the Sidonians, and Tyrians brought to David.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=5-#x">
+                [5]
+               </a>
+               And David said: Solomon my son is very young and tender, and the house which I would have to be built to the Lord, must be such as to be renowned in all countries: therefore I will prepare him necessaries. And therefore before his death he prepared all the charges.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=6-#x">
+                [6]
+               </a>
+               And he called for Solomon his son: and commanded him to build a house to the Lord the God of Israel.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=7-#x">
+                [7]
+               </a>
+               And David said to Solomon: My son, it was my desire to have built a house to the name of the Lord my God.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=8-#x">
+                [8]
+               </a>
+               But the word of the Lord came to me, saying: Thou hast shed much blood, and fought many battles, so thou canst not build a house to my name, after shedding so much blood before me:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=9-#x">
+                [9]
+               </a>
+               The son, that shall be born to thee, shall be a most quiet man: for I will make him rest from all his enemies round about: and therefore he shall be called Peaceable: and I will give peace and quietness to Israel all his days.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=10-#x">
+                [10]
+               </a>
+               He shall build a house to my name, and he shall be a son to me, and I will be a father to him: and I will establish the throne of his kingdom over Israel for ever.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=11-#x">
+                [11]
+               </a>
+               Now then, my son, the Lord be with thee, and do thou prosper, and build the house to the Lord thy God, as he hath spoken of thee.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=12-#x">
+                [12]
+               </a>
+               The Lord also give thee wisdom and understanding, that thou mayest be able to rule Israel, and to keep the law of the Lord thy God.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=13-#x">
+                [13]
+               </a>
+               For then thou shalt be able to prosper, if thou keep the commandments, and judgments, which the Lord commanded Moses to teach Israel: take courage and act manfully, fear not, nor be dismayed.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=14-#x">
+                [14]
+               </a>
+               Behold I in my poverty have prepared the charges of the house of the Lord, of gold a hundred thousand talents, and of silver a million of talents: but of brass, and of iron there is no weight, for the abundance surpasseth all account: timber also and stones I have prepared for all the charges.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=15-#x">
+                [15]
+               </a>
+               Thou hast also workmen in abundance, hewers of stones, and masons, and carpenters, and of all trades the most skillful in their work,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=16-#x">
+                [16]
+               </a>
+               In gold, and in silver, and in brass, and in iron, whereof there is no number. Arise then, and be doing, and the Lord will be with thee.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=17-#x">
+                [17]
+               </a>
+               David also charged all the princes of Israel, to help Solomon his son,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=18-#x">
+                [18]
+               </a>
+               Saying: You see, that the Lord your God is with you, and hath given you rest round about, and hath delivered all your enemies into your hands, and the land is subdued before the Lord, and before his people.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=22&amp;l=19-#x">
+                [19]
+               </a>
+               Give therefore your hearts and your souls, to seek the Lord your God: and arise, and build a sanctuary to the Lord God, that the ark of the covenant of the Lord, and the vessels consecrated to the Lord, may be brought into the house, which is built to the name of the Lord.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="12001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               1 Paralipomenon (1 Chronicles)
+              </td>
+              <td class="next">
+               <a href="14001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13021.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 22
+              </td>
+              <td class="next">
+               <a href="13023.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

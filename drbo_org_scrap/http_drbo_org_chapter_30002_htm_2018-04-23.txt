@@ -1,0 +1,477 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Baruch Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/30002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/30002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="29001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Baruch
+           </td>
+           <td class="next">
+            <a href="31001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="30001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="30003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="30001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="30003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="30004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="30005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="30006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               A further confession of the sins of the people, and of the justice of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               Wherefore the Lord our God hath made good his word, that he spoke to us, and to our judges that have judged Israel, and to our kings, and to our princes, and to all Israel and Juda:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               That the Lord would bring upon us great evils, such as never happened under heaven, as they have come to pass in Jerusalem, according to the things that are written in the law of Moses:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               That a man should eat the flesh of his own son, and the flesh of his own daughter.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And he hath delivered them up to be under the hand of all the kings that are round about us, to be a reproach, and desolation among all the people, among whom the Lord hath scattered us.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               And we are brought under, and are not uppermost: because we have sinned against the Lord our God, by not obeying his voice.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               To the Lord our God belongeth justice: but to us, and to our fathers confusion of face, as at this day.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               For the Lord hath pronounced against us all these evils that are come upon us:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And we have not entreated the face of the Lord our God, that we might return every one of us from our most wicked ways.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               And the Lord hath watched over us for evil, and hath brought it upon us: for the Lord is just in all his works which he hath commanded us:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And we have not hearkened to his voice to walk in the commandments of the Lord which he hath set before us.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               And now, O Lord God of Israel, who hast brought thy people out of the land of Egypt with a strong hand, and with signs, and with wonders, and with thy great power, and with a mighty arm, and hast made thee a name as at this day,
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               We have sinned, we have done wickedly, we have acted unjustly, O Lord our God, against all thy justices.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               Let thy wrath be turned away from us: for we are left a few among the nations where thou hast scattered us.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               Hear, O Lord, our prayers, and our petitions, and deliver us for thy own sake: and grant that we may find favour in the sight of them that have led us away:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               That all the earth may know that thou art the Lord our God, and that thy name is called upon Israel, and upon his posterity.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               Look down upon us, O Lord, from thy holy house, and incline thy ear, and hear us.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               Open thy eyes, and behold: for the dead that are in hell, whose spirit is taken away from their bowels, shall not give glory and
+               <u>
+                justice
+               </u>
+               to the Lord:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               But the soul that is sorrowful for the greatness of evil she hath done, and goeth bowed down, and feeble, and the eyes that fail, and the hungry soul giveth glory and justice to thee the Lord.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               For it is not for the justices of our fathers that we pour out our prayers, and beg mercy in thy sight, O Lord our God:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               But because thou hast sent out thy wrath, and thy indignation upon us, as thou hast spoken by the hand of thy servants the prophets, saying:
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "Justice"
+               </u>
+               : They that are in hell shall not give justice to God; that is, they shall not acknowledge and glorify his justice as penitent sinners do upon earth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               Thus saith the Lord: Bow down your shoulder, and your neck, and serve the king of Babylon: and you shall remain in the land which I have given to your fathers.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               But if you will not hearken to the voice of the Lord your God, to serve the king of Babylon: I will cause you to depart out of the cities of Juda, and from without Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               And I will take away from you the voice of mirth, and the voice of joy, and the voice of the bridegroom, and the voice of the bride, and all the land shall be without any footstep of inhabitants.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               And they hearkened not to thy voice, to serve the king of Babylon: and thou hast made good thy words, which thou spokest by the hands of thy servants the prophets, that the bones of our kings, and the bones of our fathers should be removed out of their place:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               And behold they are cast out to the heat of the sun, and to the frost of the night: and they have died in grievous pains, by famine, and by the sword, and in banishment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               And thou hast made the temple, in which thy name was called upon, as it is at this day, for the iniquity of the house of Israel, and the house of Juda.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               And thou hast dealt with us, O Lord our God, according to all thy goodness, and according to all that great mercy of thine:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               As thou spokest by the hand of thy servant Moses, in the day when thou didst command him to write thy law before the children of Israel,
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               Saying: If you will not hear my voice, this great multitude shall be turned into a very small number among the nations, where I will scatter them:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=30-#x">
+                [30]
+               </a>
+               For I know that the people will not hear me, for they are a people of a stiff neck: but they shall turn to their heart in the land of their captivity:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=31-#x">
+                [31]
+               </a>
+               And they shall know that I am the Lord their God: and I will give them a heart, and they shall understand: and ears, and they shall hear.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=32-#x">
+                [32]
+               </a>
+               And they shall praise me in the land of their captivity, and shall be mindful of my name.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=33-#x">
+                [33]
+               </a>
+               And they shall turn away themselves from their stiff neck, and from their wicked deeds: for they shall remember the way of their fathers, that sinned against me.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=34-#x">
+                [34]
+               </a>
+               And I will bring them back again into the land which I promised with an oath to their fathers, Abraham, Isaac, and Jacob, and they shall be masters thereof: and I will multiply them, and they shall not be diminished.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=2&amp;l=35-#x">
+                [35]
+               </a>
+               And I will make with them another covenant that shall be everlasting, to be their God, and they shall be my people: and I will no more remove my people, the children of Israel, out of the land that I have given them.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="29001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Baruch
+              </td>
+              <td class="next">
+               <a href="31001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="30001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="30003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,755 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 31
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01031.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01031.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01030.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 31
+           </td>
+           <td class="next">
+            <a href="01032.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             31
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Jacob's departure: he is pursued and overtaken by Laban. They make a covenant.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=1-#x">
+                [1]
+               </a>
+               But after that he heard the words of the sons of Laban, saying: Jacob hath taken away all that was our father's, and being enriched by his substance is become great:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=2-#x">
+                [2]
+               </a>
+               And perceiving also that Laban's countenance was not towards him as yesterday and the other day,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=3-#x">
+                [3]
+               </a>
+               Especially the Lord saying to him: Return into the land of thy fathers, and to thy kindred, and I will be with thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=4-#x">
+                [4]
+               </a>
+               He sent, and called Rachel and Lia into the field, where he fed the flocks,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=5-#x">
+                [5]
+               </a>
+               And said to them: I see your father's countenance is not towards me as yesterday and the other day: but the God of my father hath been with me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=6-#x">
+                [6]
+               </a>
+               And you know that I have served your father to the uttermost of my power.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=7-#x">
+                [7]
+               </a>
+               Yea, your father also hath overreached me, and hath changed my wages ten times: and yet God hath not suffered him to hurt me.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=8-#x">
+                [8]
+               </a>
+               If at any time he said: The speckled shall be thy wages: all the sheep brought forth speckled: but when he said on the contrary: Thou shalt take all the white ones for thy wages: all the flocks brought forth white ones.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=9-#x">
+                [9]
+               </a>
+               And God hath taken your father's substance, and given it to me.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=10-#x">
+                [10]
+               </a>
+               For after that time came of the ewes conceiving, I lifted up my eyes, and saw in my sleep that the males which leaped upon the females were of divers colours, and spotted, and speckled.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=11-#x">
+                [11]
+               </a>
+               And the angel of God said to me in my sleep: Jacob? And I answered: Here I am.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=12-#x">
+                [12]
+               </a>
+               And he said: Lift up thy eyes, and see that all the males leaping upon the females, are of divers colours, spotted, and speckled. For I have seen all that Laban hath done to thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=13-#x">
+                [13]
+               </a>
+               I am the God of Bethel, where thou didst anoint the stone, and make a vow to me. Now therefore arise, and go out of this land, and return into thy native country.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=14-#x">
+                [14]
+               </a>
+               And Rachel and Lia answered: Have we any thing left among the goods and inheritance of our father's house?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=15-#x">
+                [15]
+               </a>
+               Hath he not counted us as strangers and sold us, and eaten up the price of us?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=16-#x">
+                [16]
+               </a>
+               But God hath taken our father's riches, and delivered them to us, and to our children: wherefore do all that God hath commanded thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=17-#x">
+                [17]
+               </a>
+               Then Jacob rose up, and having set his children and wives upon camels, went his way.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=18-#x">
+                [18]
+               </a>
+               And he took all his substance, and flocks, and whatsoever he had gotten in Mesopotamia, and went forward to Isaac his father to the land of Chanaan.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=19-#x">
+                [19]
+               </a>
+               At that time Laban was gone to shear his sheep, and Rachel stole away
+               <u>
+                her father's idols
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=20-#x">
+                [20]
+               </a>
+               And Jacob would not confess to his father in law that he was flying away.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "Her father's idols"
+               </u>
+               : By this it appears that Laban was an idolater; and some of the fathers are of opinion that Rachel stole away these idols to withdraw him from idolatry, removing the occasion of his sin.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=21-#x">
+                [21]
+               </a>
+               And when he was gone, together with all that belonged to him, and having passed the river, was going on towards mount Galaad,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=22-#x">
+                [22]
+               </a>
+               It was told Laban on the third day that Jacob fled.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=23-#x">
+                [23]
+               </a>
+               And he took his brethren with him, and pursued after him seven days; and overtook him in the mount of Galaad.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=24-#x">
+                [24]
+               </a>
+               And he saw in a dream God saying to him: Take heed thou speak not any thing harshly against Jacob.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=25-#x">
+                [25]
+               </a>
+               Now Jacob had pitched his tent in the mountain: and when he with his brethren had overtaken him, he pitched his tent in the same mount of Galaad.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=26-#x">
+                [26]
+               </a>
+               And he said to Jacob: Why hast thou done thus, to carry away, without my knowledge, my daughters, as captives taken with the sword.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=27-#x">
+                [27]
+               </a>
+               Why wouldst thou run away privately and not acquaint me, that I might have brought thee on the way with joy, and with songs, and with timbrels, and with harps?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=28-#x">
+                [28]
+               </a>
+               Thou hast not suffered me to kiss my sons and daughters: thou hast done foolishly: and now, indeed,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=29-#x">
+                [29]
+               </a>
+               It is in my power to return thee evil: but the God of your father said to me yesterday: Take heed thou speak not any thing harshly against Jacob.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=30-#x">
+                [30]
+               </a>
+               Suppose thou didst desire to go to thy friends, and hadst a longing after thy father's house: why hast thou stolen away my gods?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=31-#x">
+                [31]
+               </a>
+               Jacob answered: That I departed unknown to thee, it was for fear lest thou wouldst take away thy daughters by force.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=32-#x">
+                [32]
+               </a>
+               But whereas thou chargest me with theft: with whomsoever thou shalt find thy gods, let him be slain before our brethren. Search, and if thou find any of thy things with me, take them away. Now when he said this, he knew not that Rachel had stolen the idols.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=33-#x">
+                [33]
+               </a>
+               So Laban went into the tent of Jacob, and of Lia, and of both the handmaids, and found them not. And when he was entered into Rachel's tent,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=34-#x">
+                [34]
+               </a>
+               She in haste hid the idols under the camel's furniture, and sat upon them: and when he had searched all the tent, and found nothing,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=35-#x">
+                [35]
+               </a>
+               She said: Let not my lord be angry that I cannot rise up before thee, because it has now happened to me, according to the custom of women, So his careful search was in vain.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=36-#x">
+                [36]
+               </a>
+               And Jacob being angry, said in a chiding manner: For what fault of mine, and for what offence on my part hast thou so hotly pursued me,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=37-#x">
+                [37]
+               </a>
+               And searched all my household stuff? What hast thou found of all the substance of thy house? lay it here before my brethren, and thy brethren, and let them judge between me and thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=38-#x">
+                [38]
+               </a>
+               Have I therefore been with thee twenty years? thy ewes and goats were not barren, the rams of thy flocks I did not eat:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=39-#x">
+                [39]
+               </a>
+               Neither did I shew thee that which the beast had torn, I made good all the damage: whatsoever was lost by theft, thou didst exact it of me:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=40-#x">
+                [40]
+               </a>
+               Day and night was I parched with heat, and with frost, and sleep departed from my eyes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=41-#x">
+                [41]
+               </a>
+               And in this manner have I served thee in thy house twenty years, fourteen for thy daughters, and six for thy flocks: thou hast changed also my wages ten times.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=42-#x">
+                [42]
+               </a>
+               Unless the God of my father Abraham, and the fear of Isaac had stood by me, peradventure now thou hadst sent me away naked: God beheld my affliction and the labour of my hands, and rebuked thee yesterday.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=43-#x">
+                [43]
+               </a>
+               Laban answered him: The daughters are mine and the children, and thy flocks, and all things that thou seest are mine: what can I do to my children, and grandchildren?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=44-#x">
+                [44]
+               </a>
+               Come therefore, let us enter into a league: that it may be for a testimony between me and thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=45-#x">
+                [45]
+               </a>
+               And Jacob took a stone, and set it up for a title:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=46-#x">
+                [46]
+               </a>
+               And he said to his brethren: Bring hither stones. And they gathering stones together, made a heap, and they ate upon it.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=47-#x">
+                [47]
+               </a>
+               And Laban called it The witness heap: and Jacob, The hillock of testimony: each of them according to the propriety of his language.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=48-#x">
+                [48]
+               </a>
+               And Laban said: This heap shall be a witness between me and thee this day, and therefore the name thereof was called Galaad, that is, The witness heap.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=49-#x">
+                [49]
+               </a>
+               The Lord behold and judge between us when we shall be gone one from the other.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=50-#x">
+                [50]
+               </a>
+               If thou afflict my daughters, and if thou bring in other wives over them: none is witness of our speech but God, who is present and beholdeth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=51-#x">
+                [51]
+               </a>
+               And he said again to Jacob: Behold, this heap, and the stone which I have set up between me and thee,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=52-#x">
+                [52]
+               </a>
+               Shall be a witness: this heap, I say, and the stone, be they for a testimony, if either I shall pass beyond it going towards thee, or thou shalt pass beyond it, thinking harm to me.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=53-#x">
+                [53]
+               </a>
+               The God of Abraham, and the God of Nachor, the God of their father, judge between us. And Jacob swore by the fear of his father Isaac.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=54-#x">
+                [54]
+               </a>
+               And after he had offered sacrifices in the mountain, he called his brethren to eat bread. And when they had eaten, they lodged there:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=31&amp;l=55-#x">
+                [55]
+               </a>
+               But Laban arose in the night, and kissed his sons, and daughters, and blessed them: and returned to his place.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01030.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 31
+              </td>
+              <td class="next">
+               <a href="01032.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

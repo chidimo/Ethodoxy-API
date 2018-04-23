@@ -1,0 +1,516 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Machabees Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/46002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/46002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="47001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="46003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="46001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="46003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="46004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="46005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="46006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="46007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="46008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="46009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="46010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="46011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="46012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="46013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="46014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="46015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               A continuation of the second letter. Of Jeremias' hiding the ark at the time of the captivity. The author's preface.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               Now it is found in
+               <u>
+                the descriptions
+               </u>
+               of Jeremias the prophet, that he commanded them that went into captivity, to take the fire, as it hath been signified, and how he gave charge to them that were carried away into captivity.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And how he gave them the law that they should not forget the commandments of the Lord, and that they should not err in their minds, seeing the idols of gold, and silver, and the ornaments of them.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And with other such like speeches, he exhorted them that they would not remove the law from their heart.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               It was also contained in the same writing, how the prophet, being warned by God, commanded that the tabernacle and the ark should accompany him, till he came forth to the mountain where Moses went up, and saw the inheritance of God.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               And when Jeremias came thither he found a hollow cave: and he carried in thither the tabernacle, and the ark, and the altar of incense, and so stopped the door.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "The descriptions"
+               </u>
+               : That is, the records or memoirs of Jeremias, a work that is now lost.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               Then some of them that followed him, came up to mark the place: but they could not find it.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               And when Jeremias perceived it, he blamed them, saying: The place shall be unknown, till God gather together the congregation of the people, and receive them to mercy.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And then the Lord will shew these things, and the majesty of the Lord shall appear, and there shall be a cloud as it was also shewed to Moses, and he shewed it when Solomon prayed that the place might be sanctified to the great God.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               For he treated wisdom in a magnificent manner: and like a wise man, he offered the sacrifice of the dedication, and of the finishing of the temple.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And as Moses prayed to the Lord and fire came down from heaven, and consumed the holocaust: so Solomon also prayed, and fire came down from heaven and consumed the holocaust.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               And Moses said: Because the sin offering was not eaten, it was consumed.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               So Solomon also celebrated the dedication eight days.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               And these same things were set down in the memoirs and commentaries of Nehemias: and how he made a library, and gathered together out of the countries, the books both of the prophets, and of David, and the epistles of the kings. and concerning the holy gifts.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               And in like manner Judas also gathered together all such things as were lost by the war we had, and they are in our possession.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Wherefore if you want these things, send some that may fetch them to you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               As we are then about to celebrate
+               <u>
+                the purification
+               </u>
+               , we have written unto you: and you shall do well, if you keep the same days.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And we hope that God who hath delivered his people, and hath rendered to all the inheritance, and the kingdom, and the priesthood, and the sanctuary,
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               As he promised in the law, will shortly have mercy upon us, and will gather us together from every land under heaven into the holy place.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               For he hath delivered us out of great perils, and hath cleansed the place.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               Now as concerning Judas Machabeus. and his brethren, and the purification of the great temple, and the dedication of the altar:
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "The purification"
+               </u>
+               : That is, the feast of the purifying or cleansing of the temple.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               As also the wars against Antiochus the Illustrious, and his son Eupator:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               And the manifestations that came from heaven to them, that behaved themselves manfully on the behalf of the Jews, so that, being but a few, they made themselves masters of the whole country, and put to flight; the barbarous multitude:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               And recovered again the most renowned temple in all the world, and delivered the city, and restored the laws that were abolished, the Lord with all clemency shewing mercy to them.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               And all such things as have been comprised in five books by Jason of Cyrene, we have attempted to abridge in one book.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               For considering the multitude of books, and the difficulty that they find that desire to undertake the narrations of histories, because of the multitude of the matter,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               We have taken care for those indeed that are willing to read, that it might be a pleasure of mind: and for the studious, that they may more easily commit to memory: and that all that read might receive profit.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               And as to ourselves indeed, in undertaking this work of abridging, we have taken in hand
+               <u>
+                no easy task
+               </u>
+               , yea rather a business full of watching and sweat.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               But as they that prepare a feast, and seek to satisfy the will of others: for the sake of many, we willingly undergo the labour.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               Leaving to the authors the exact handling of every particular, and as for ourselves, according to the plan proposed, studying to be brief.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=30-#x">
+                [30]
+               </a>
+               For as the master builder of a new house must have care of the whole building: but he that taketh care to paint it, must seek out fit things for the adorning of it: so must it be judged for us.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "No easy task"
+               </u>
+               : The spirit of God, that assists the sacred penmen, does not exempt them from labour in seeking out the matter which they are to treat of, and the order and manner in which they are to deliver it. So St. Luke writ the gospel having diligently attained to all things. Luke 1. ver. 3.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=31-#x">
+                [31]
+               </a>
+               For to collect all that is to be known, to put the discourse in order, and curiously to discuss every particular point, is the duty of the author of a history:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=32-#x">
+                [32]
+               </a>
+               But to pursue brevity of speech, and to avoid nice declarations of things, is to be granted to him that maketh an abridgment.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=2&amp;l=33-#x">
+                [33]
+               </a>
+               Here then we will begin the narration: let this be enough by way of a preface: for it is a foolish thing to make a long prologue, and to be short in the story itself.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="47001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="46003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

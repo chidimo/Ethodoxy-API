@@ -1,0 +1,422 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Josue (Joshua) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/06001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/06001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="05001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Book Of Josue (Joshua)
+         </td>
+         <td class="next">
+          <a href="07001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="06002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="06002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="06003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="06004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="06005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="06006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="06007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="06008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="06009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="06010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="06011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="06012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="06013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="06014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="06015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="06016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="06017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="06018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="06019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="06020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="06021.htm">
+            21
+           </a>
+          </td>
+          <td width="30">
+           <a href="06022.htm">
+            22
+           </a>
+          </td>
+          <td width="30">
+           <a href="06023.htm">
+            23
+           </a>
+          </td>
+          <td width="30">
+           <a href="06024.htm">
+            24
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Josue, encouraged by the Lord, admonisheth the people to prepare themselves to pass over the Jordan.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             Now it came to pass after the death of Moses the servant of the Lord, that the Lord spoke to Josue the son of Nun, the minister of Moses, and said to him:
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Moses my servant is dead: arise, and pass over this Jordan, thou and thy people with thee, into the land which I will give to the children of Israel.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             I will deliver to you every place that the sole of your foot shall tread upon, as I have said to Moses.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             From the desert and from Libanus unto the great river Euphrates, all the land of the Hethites unto the great sea toward the going; down of the sun, shall be your border.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             No man shall be able to resist you all the days of thy life: as I have been with Moses, so will I be with thee: I will not leave thee, nor forsake thee.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             Take courage, and be strong: for thou shalt divide by lot to this people the land, for which I swore to their fathers, that I would deliver it to them.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             Take courage therefore, and be very valiant: that thou mayst observe and do all the law, which Moses my servant hath commanded thee: turn not from it to the right hand or to the left, that thou mayst understand all things which thou dost.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Let not the book of this law depart from thy mouth: but thou shalt meditate on it day and night, that thou mayst observe and do all things that are written in it: then shalt thou direct thy way, and understand it.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             Behold I command thee, take courage, and be strong. Fear not and be not dismayed: because the Lord thy God is with thee in all things whatsoever thou shalt go to.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And Josue commanded the princes of the people, saying: Pass through the midst of the camp, and command the people, and say:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             Prepare you victuals: for after the third day you shall pass over the Jordan and shall go in to possess the land, which the Lord your God will give you.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And he said to the Rubenites, and the Gadites, and the half tribe of Manasses:
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Remember the word, which Moses the servant of the Lord commanded you, saying: The Lord your God hath given you rest, and all this land.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             Your wives, and children, and cattle shall remain in the land which Moses gave you on this side of the Jordan: but pass you over armed before your brethren, all of you that are strong of hand, and fight for them,
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             Until the Lord give rest to your brethren as he hath given you, and they also possess the land which the Lord your God will give them: and so you shall return into the land of your possession, and you shall dwell in it, which Moses the servant of the Lord gave you beyond the Jordan, toward the rising of the sun.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             And they made answer to Josue, and said: All that thou hast commanded us we will do; and whithersoever thou shalt send us, we will go.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             As we obeyed Moses in all things, so will we obey thee also: only be the Lord thy God with thee, as he was with Moses.
+             <a href="/x/d?b=drb&amp;bk=6&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             He that shall gainsay thy mouth, and not obey all thy words, that thou shalt command him, let him die: only take thou courage, and do manfully.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="05001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Book Of Josue (Joshua)
+            </td>
+            <td class="next">
+             <a href="07001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="06002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

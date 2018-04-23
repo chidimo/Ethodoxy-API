@@ -1,0 +1,601 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 23
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01023.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01023.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01022.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 23
+           </td>
+           <td class="next">
+            <a href="01024.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             23
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Sara's death and burial in the field bought of Ephron.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=1-#x">
+                [1]
+               </a>
+               And Sara lived a hundred and twenty-seven years.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=2-#x">
+                [2]
+               </a>
+               And she died in the city of Arbee which is Hebron, in the land of Chanaan: and Abraham came to mourn and weep for her.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=3-#x">
+                [3]
+               </a>
+               And after he rose up from the funeral obsequies, he spoke to the children of Heth, saying:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=4-#x">
+                [4]
+               </a>
+               I am a stranger and sojourner among you: give me the right of a burying place with you, that I may bury my dead.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=5-#x">
+                [5]
+               </a>
+               The children of Heth answered, saying:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=6-#x">
+                [6]
+               </a>
+               My Lord, hear us, thou art a prince of God among us: bury thy dead in our principal sepulchres: and no man shall have power to hinder thee from burying thy dead in his sepulchre.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=7-#x">
+                [7]
+               </a>
+               Abraham rose up, and
+               <u>
+                bowed down to the people
+               </u>
+               of the land, to wit the children of Heth:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=8-#x">
+                [8]
+               </a>
+               And said to them: If it please your soul that I should bury my dead, hear me, and intercede for me to Ephron the son of Seor.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=9-#x">
+                [9]
+               </a>
+               That he may give me the double cave, which he hath in the end of his field: for as much money as it is worth he shall give it me before you, for a possession of a burying place.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=10-#x">
+                [10]
+               </a>
+               Now Ephron dwelt in the midst of the children of Heth. And Ephron made answer to Abraham in the hearing of all that went in at the gate of the city, saying:
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Bowed down to the people"
+               </u>
+               : Adoravit, literally adored. But this word here, as well as in many other places in the Latin scriptures, is used to signify only an inferior honour and reverence paid to men, expressed by a bowing down of the body.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=11-#x">
+                [11]
+               </a>
+               Let it not be so, my lord, but do thou rather hearken to what I say: The field I deliver to thee, and the cave that is therein, in the presence of the children of my people, bury thy dead.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=12-#x">
+                [12]
+               </a>
+               Abraham bowed down before the people of the land,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=13-#x">
+                [13]
+               </a>
+               And he spoke to Ephron, in the presence of the people: I beseech thee to hear me: I will give money for the field: take it, and so I will bury my dead in it.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=14-#x">
+                [14]
+               </a>
+               And Ephron answered:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=15-#x">
+                [15]
+               </a>
+               My lord, hear me. The ground which thou desirest, is worth four hundred sicles of silver: this is the price between me and thee: but what is this? bury thy dead.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=16-#x">
+                [16]
+               </a>
+               And when Abraham had heard this, he weighed out the money that Ephron had asked, in the hearing of the children of Heth, four hundred sicles of silver of common current money.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=17-#x">
+                [17]
+               </a>
+               And the field that before was Ephron's, wherein was the double cave, looking towards Mambre, both it and the cave, and all the trees thereof in all its limits round about,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=18-#x">
+                [18]
+               </a>
+               Was made sure to Abraham for a possession, in the sight of the children of Heth, and of all that went in at the gate of his city.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=19-#x">
+                [19]
+               </a>
+               And so Abraham buried Sara his wife, in a double cave of the field, that looked towards Mambre, this is Hebron in the land of Chanaan.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=23&amp;l=20-#x">
+                [20]
+               </a>
+               And the field was made sure to Abraham, and the cave that was in it, for a possession to bury in, by the children of Heth.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01022.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 23
+              </td>
+              <td class="next">
+               <a href="01024.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

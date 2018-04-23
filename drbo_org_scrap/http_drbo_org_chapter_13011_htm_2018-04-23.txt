@@ -1,0 +1,614 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Paralipomenon (1 Chronicles) Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/13011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/13011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="12001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            1 Paralipomenon (1 Chronicles)
+           </td>
+           <td class="next">
+            <a href="14001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="13012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="13001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="13002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="13003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="13004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="13005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="13006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="13007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="13008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="13009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="13010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="13012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="13013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="13014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="13015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="13016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="13017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="13018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="13019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="13020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="13021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="13022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="13023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="13024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="13025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="13026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="13027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="13028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="13029.htm">
+              29
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               David is made king. He taketh the castle of Sion. A catalogue of his valiant men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               Then all Israel gathered themselves to David in Hebron, saying: We are thy bone, and thy flesh.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               Yesterday also, and the day before when Saul was king, thou wast he that leddest out and broughtest in Israel: for the Lord thy God said to thee: Thou shalt feed my people Israel, and thou shalt; be ruler over them.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               So all the ancients of Israel came to the king to Hebron, and David made a covenant with them before the Lord: and they anointed him king over Israel, according to the word of the Lord which he spoke in the hand of Samuel.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               And David and all Israel went to Jerusalem, which is Jebus, where the Jebusites were the inhabitants of the land.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               And the inhabitants of Jebus said to David: Thou shalt not come in here. But David took the castle of Sion, which is the city of David.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               And he said: Whosoever shall first strike the Jebusites, shall be the head and chief captain. And Joab the son of Sarvia went up first, and was made the general.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               And David dwelt in the castle, and therefore it was called the city of David.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               And he built the city round about from Mello all round, and Joab built the rest of the city.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               And David went on growing and increasing, and the Lord of hosts was with him.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               These are the chief of the valiant men of David, who helped him to be made king over all Israel, according to the word of the Lord, which he spoke to Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=11-#x">
+                [11]
+               </a>
+               And this is the number of the heroes of David: Jesbaam the son of Hachamoni the chief among the thirty: he lifted up his spear against three hundred wounded by him at one time.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=12-#x">
+                [12]
+               </a>
+               And after him was Eleazar his uncle's son the Ahohite, who was one of the three mighties.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=13-#x">
+                [13]
+               </a>
+               He was with David in Phesdomim, when the Philistines were gathered to that place to battle: and the field of that country was full of barley, and the people fled from before the Philistines.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=14-#x">
+                [14]
+               </a>
+               But these men stood in the midst of the field, and defended it: and they slew the Philistines, and the Lord gave a great deliverance to his people.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=15-#x">
+                [15]
+               </a>
+               And three of the thirty captains went down to the rock, wherein David was, to the cave of Odollam, when the Philistines encamped in the valley of Raphaim.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=16-#x">
+                [16]
+               </a>
+               And David was in a hold, and the garrison of the Philistines in Bethlehem.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=17-#x">
+                [17]
+               </a>
+               And David longed, and said: O that some man would give me water of the cistern of Bethlehem, which is in the gate.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=18-#x">
+                [18]
+               </a>
+               And these three broke through the midst of the camp of the Philistines, and drew water out of the cistern of Bethlehem, which was in the gate, and brought it to David to drink: and he would not drink of it, but rather offered it to the Lord,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=19-#x">
+                [19]
+               </a>
+               Saying: God forbid that I should do this in the sight of my God, and should drink the blood of these men: for with the danger of their lives they have brought me the water. And therefore he would not drink. These things did the three most valiant.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=20-#x">
+                [20]
+               </a>
+               And Abisai the brother of Joab, he was chief of three, and he lifted up his spear against three hundred whom he slew, and he was renowned among the three,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=21-#x">
+                [21]
+               </a>
+               And illustrious among the second three, and their captain: but yet he attained not to the first three.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=22-#x">
+                [22]
+               </a>
+               Banaias the son of Joiada, a most valiant man, of Cabseel, who had done many acts: he slew the
+               <u>
+                two ariels
+               </u>
+               of Moab: and he went down, and killed a lion in the midst of a pit in the time of snow.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=23-#x">
+                [23]
+               </a>
+               And he slew an Egyptian, whose stature was of five cubits, and who had a spear like a weaver's beam: and he went down to him with a staff, and plucked away the spear, that he held in his hand, and slew him with his own spear.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=24-#x">
+                [24]
+               </a>
+               These things did Banaias the son of Joiada, who was renowned among the three valiant ones,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=25-#x">
+                [25]
+               </a>
+               And the first among the thirty, but yet to the three he attained not: and David made him of his council.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Two ariels"
+               </u>
+               : That is, two lions, or lion-like men; for Ariel in Hebrew signifies a lion.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=26-#x">
+                [26]
+               </a>
+               Moreover the most valiant men of the army, were Asahel brother of Joab, and Elchanan the son of his uncle of Bethlehem,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=27-#x">
+                [27]
+               </a>
+               Sammoth an Arorite, Helles a Phalonite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=28-#x">
+                [28]
+               </a>
+               Ira the son of Acces a Thecuite, Abiezer an Anathothite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=29-#x">
+                [29]
+               </a>
+               Sobbochai a Husathite, Ilai an Ahohite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=30-#x">
+                [30]
+               </a>
+               Maharai a Netophathite, Heled the son of Baana a Netophathite,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=31-#x">
+                [31]
+               </a>
+               Ethai the son of Ribai of Gabaath of the sons of Benjamin, Banal a Pharathonite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=32-#x">
+                [32]
+               </a>
+               Hurai of the torrent Gaas, Abiel an Arbathite, Azmoth a Bauramite, Eliaba a Salabonite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=33-#x">
+                [33]
+               </a>
+               The sons of Assem a, Gezonite, Jonathan the son of Sage an Ararite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=34-#x">
+                [34]
+               </a>
+               Ahiam the son of Sachar an Ararite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=35-#x">
+                [35]
+               </a>
+               Eliphal the son of Ur,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=36-#x">
+                [36]
+               </a>
+               Hepher a Mecherathite, Ahia a Phelonite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=37-#x">
+                [37]
+               </a>
+               Hesro a Carmelite, Naarai the son of Azbai,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=38-#x">
+                [38]
+               </a>
+               Joel the brother of Nathan, Mibahar the son of Agarai.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=39-#x">
+                [39]
+               </a>
+               Selec an Ammonite, Naharai a Berothite, the armourbearer of Joab the son of Sarvia.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=40-#x">
+                [40]
+               </a>
+               Ira a Jethrite, Gareb a Jethrite,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=41-#x">
+                [41]
+               </a>
+               Urias a Hethite, Zabad the son of Oholi,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=42-#x">
+                [42]
+               </a>
+               Adina the son of Siza a Rubenite the prince of the Rubenites, and thirty with him:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=43-#x">
+                [43]
+               </a>
+               Hanan the son of Maacha, and Josaphat a Mathanite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=44-#x">
+                [44]
+               </a>
+               Ozia an Astarothite, Samma, and Jehiel the sons of Hotham an Arorite,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=45-#x">
+                [45]
+               </a>
+               Jedihel the son of Zamri, and Jobs his brother a Thosaite,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=11&amp;l=46-#x">
+                [46]
+               </a>
+               Eliel a Mithumite, and Jeribai, and Josaia the sons of Elnaim, and Jethma a Moabite, Eliel, and Obed, and Jasiel of Masobia.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="12001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               1 Paralipomenon (1 Chronicles)
+              </td>
+              <td class="next">
+               <a href="14001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="13012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

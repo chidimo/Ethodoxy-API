@@ -1,0 +1,458 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Hebrews Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/65013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/65013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="64001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Hebrews
+           </td>
+           <td class="next">
+            <a href="66001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="65012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="65001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="65002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="65003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="65004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="65005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="65006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="65007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="65008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="65009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="65010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="65011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="65012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Divers admonitions and exhortations.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               Let the charity of the brotherhood abide in you.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               And hospitality do not forget; for by this some, being not aware of it, have entertained angels.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               Remember them that are in bands, as if you were bound with them; and them that labour, as being yourselves also in the body.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               <u>
+                Marriage honourable in all
+               </u>
+               , and the bed undefiled. For fornicators and adulterers God will judge.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               Let your manners be without covetousness, contented with such things as you have; for he hath said: I will not leave thee, neither will I forsake thee.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Marriage honourable in all"
+               </u>
+               : Let marriage be honourable in all-- That is, in all things belonging to the marriage state. This is a warning to married people, not to abuse the sanctity of their state, by any liberties or irregularities contrary thereunto. Now it does not follow from this text that all persons are obliged to marry, even if the word omnibus were rendered, in all persons, instead of in all things: for if it was a precept, St. Paul himself would have transgressed it, as he never married. Moreover, those who have already made a vow to God to lead a single life, should they attempt to marry, they would incur their own damnation. 1 Tim. 5. 12.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               So that we may confidently say: The Lord is my helper: I will not fear what man shall do to me.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               Remember your prelates who have spoken the word of God to you; whose faith follow, considering the end of their conversation,
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               Jesus Christ, yesterday, and today; and the same for ever.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               Be not led away with various and strange doctrines. For it is best that the heart be established with grace, not with meats; which have not profited those that walk in them.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               We have an altar, whereof they have no power to eat who serve the tabernacle.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               For the bodies of those beasts, whose blood is brought into the holies by the high priest for sin, are burned without the camp.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               Wherefore Jesus also, that he might sanctify the people by his own blood, suffered without the gate.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               Let us go forth therefore to him without the camp,
+               <u>
+                bearing his reproach
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               For we have not here a lasting city, but we seek one that is to come.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               By him therefore let us offer the sacrifice of praise always to God, that is to say, the fruit of lips confessing to his name.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "Bearing his reproach"
+               </u>
+               : That is, bearing his cross. It is an exhortation to them to be willing to suffer with Christ, reproaches, persecutions, and even death, if they desire to partake of the benefit of his suffering for man's redemption.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               And do not forget to do good, and to impart; for by such sacrifices God's favour is obtained.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               Obey your prelates, and be subject to them. For they watch as being to render an account of your souls; that they may do this with joy, and not with grief. For this is not expedient for you.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               Pray for us. For we trust we have a good conscience, being willing to behave ourselves well in all things.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=19-#x">
+                [19]
+               </a>
+               And I beseech you the more to do this, that I may be restored to you the sooner.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=20-#x">
+                [20]
+               </a>
+               And may the God of peace, who brought again from the dead the great pastor of the sheep, our Lord Jesus Christ, in the blood of the everlasting testament,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=21-#x">
+                [21]
+               </a>
+               Fit you in all goodness, that you may do his will; doing in you that which is well pleasing in his sight, through Jesus Christ, to whom is glory for ever and ever. Amen.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=22-#x">
+                [22]
+               </a>
+               And I beseech you, brethren, that you suffer this word of consolation. For I have written to you in a few words.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=23-#x">
+                [23]
+               </a>
+               Know ye that our brother Timothy is set at liberty: with whom (if he come shortly) I will see you.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=24-#x">
+                [24]
+               </a>
+               Salute all your prelates, and all the saints. The brethren from Italy salute you.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=13&amp;l=25-#x">
+                [25]
+               </a>
+               Grace be with you all. Amen.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="64001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Hebrews
+              </td>
+              <td class="next">
+               <a href="66001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="65012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

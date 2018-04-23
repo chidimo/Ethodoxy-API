@@ -1,0 +1,609 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 28
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01028.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01028.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01027.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 28
+           </td>
+           <td class="next">
+            <a href="01029.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             28
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Jacob's journey to Mesopotamia: his vision and vow.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=1-#x">
+                [1]
+               </a>
+               And Isaac called Jacob, and blessed him, and charged him, saying: Take not a wife of the stock of Chanaan:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=2-#x">
+                [2]
+               </a>
+               But go, and take a journey to Mesopotamia of Syria, to the house of Bathuel thy mother's father, and take thee a wife thence of the daughters of Laban thy uncle.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=3-#x">
+                [3]
+               </a>
+               And God almighty bless thee, and make thee to increase, and multiply thee: that thou mayst be a multitude of people.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=4-#x">
+                [4]
+               </a>
+               And give the blessings of Abraham to thee, and to thy seed after thee: that thou mayst possess the land of thy sojournment, which he promised to thy grandfather.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=5-#x">
+                [5]
+               </a>
+               And when Isaac had sent him away, he took his journey and went to Mesopotamia of Syria to Laban the son of Bathuel the Syrian, brother to Rebecca his mother.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=6-#x">
+                [6]
+               </a>
+               And Esau seeing that his father had blessed Jacob, and had sent him into Mesopotamia of Syria, to marry a wife thence; and that after the blessing he had charged him, saying: Thou shalt not take a wife of the daughters of Chanaan:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=7-#x">
+                [7]
+               </a>
+               And that Jacob obeying his parents was gone into Syria:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=8-#x">
+                [8]
+               </a>
+               Experiencing also that his father was not well pleased with the daughters of Chanaan:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=9-#x">
+                [9]
+               </a>
+               He went to Ismael, and took to wife, besides them he had before, Maheleth the daughter of Ismael, Abraham's son, the sister of Nabajoth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=10-#x">
+                [10]
+               </a>
+               But Jacob being departed from Bersabee, went on to Haran.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=11-#x">
+                [11]
+               </a>
+               And when he was come to a certain place, and would rest in it after sunset, he took of the stones that lay there, and putting under his head, slept in the same place.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=12-#x">
+                [12]
+               </a>
+               And he saw in his sleep a ladder standing upon the earth, and the top thereof touching heaven: the angels also of God ascending and descending by it;
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=13-#x">
+                [13]
+               </a>
+               And the Lord leaning upon the ladder, saying to him: I am the Lord God of Abraham thy father, and the God of Isaac; the land, wherein thou sleepest, I will give to thee and to thy seed.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=14-#x">
+                [14]
+               </a>
+               And thy seed shall be as the dust of the earth: thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and IN THEE and thy seed all the tribes of the earth SHALL BE BLESSED.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=15-#x">
+                [15]
+               </a>
+               And I will be thy keeper whithersoever thou goest, and will bring thee back into this land: neither will I leave thee, till I shall have accomplished all that I have said.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=16-#x">
+                [16]
+               </a>
+               And when Jacob awaked out of sleep, he said: Indeed the Lord is in this place, and I knew it not.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=17-#x">
+                [17]
+               </a>
+               And trembling he said: How terrible is this place! this is no other but the house of God, and the gate of heaven.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=18-#x">
+                [18]
+               </a>
+               And Jacob, arising in the morning, took the stone, which he had laid under his head, and set it up for a title, pouring oil upon the top of it.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=19-#x">
+                [19]
+               </a>
+               And he called the name of the city
+               <u>
+                Bethel
+               </u>
+               , which before was called Luza.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=20-#x">
+                [20]
+               </a>
+               And he made a vow, saying: If God shall be with me, and shall keep me in the way by which I walk, and shall give me bread to eat, and raiment to put on,
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "Bethel"
+               </u>
+               : This name signifies the house of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=21-#x">
+                [21]
+               </a>
+               And I shall return prosperously to my father's house: the Lord shall be my God:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=28&amp;l=22-#x">
+                [22]
+               </a>
+               And this stone, which I have set up for a title, shall be called the house of God: and of all things that thou shalt give to me, I will offer tithes to thee.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01027.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 28
+              </td>
+              <td class="next">
+               <a href="01029.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

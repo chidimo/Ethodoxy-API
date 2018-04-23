@@ -1,0 +1,439 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Tobias (Tobit) Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/17011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/17011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="16001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Tobias (Tobit)
+           </td>
+           <td class="next">
+            <a href="18001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="17010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="17012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="17001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="17002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="17003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="17004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="17005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="17006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="17007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="17008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="17009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="17010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="17012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="17013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="17014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Tobias anointeth his father's eyes with the fish's gall, and he recovereth his sight.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               And as they were returning they came to Charan, which is in the midway to Ninive, the eleventh day.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               And the angel said: Brother Tobias, thou knowest how thou didst leave thy father.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               If it please thee therefore, let us go before, and let the family follow softly after us, together with thy wife, and with the beasts.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               And as this their going pleased him, Raphael said to Tobias: Take with thee of the gall of the fish, for it will be necessary. So Tobias took some of that gall and departed.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               But Anna sat beside the way daily, on the top of a hill, from whence she might see afar off.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               And while she watched his coming from that place, she saw him afar off, and presently perceived it was her son coming: and returning she told her husband, saying: Behold thy son cometh.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               And Raphael said to Tobias: As soon as thou shalt come into thy house, forthwith adore the Lord thy God: and giving thanks to him, go to thy father, and kiss him.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               And immediately anoint his eyes with this gall of the fish, which thou carriest with thee. For be assured that his eyes shall be presently opened, and thy father shall see the light of heaven, and shall rejoice in the sight of thee.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               Then
+               <u>
+                the dog
+               </u>
+               , which had been with them in the way, ran before, and coming as if he had brought the news, shewed his joy by his fawning and wagging his tail.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               And his father that was blind, rising up, began to run stumbling with his feet: and giving a servant his hand, went to meet his son.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "The dog"
+               </u>
+               : This may seem a very minute circumstance to be recorded in sacred history: but as we learn from our Saviour, St. Matt. 5. 18, there are iotas and tittles in the word of God: that is to say, things that appear minute, but which have indeed a deep and mysterious meaning in them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=11-#x">
+                [11]
+               </a>
+               And receiving him kissed him, as did also his wife, and they began to weep for joy.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=12-#x">
+                [12]
+               </a>
+               And when they had adored God, and given him thanks, they sat down together.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=13-#x">
+                [13]
+               </a>
+               Then Tobias taking of the gall of the fish, anointed his father's eyes.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=14-#x">
+                [14]
+               </a>
+               And he stayed about half an hour: and a white skin began to come out of his eyes, like the skin of an egg.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=15-#x">
+                [15]
+               </a>
+               And Tobias took hold of it, and drew it from his eyes, and immediately he recovered his sight.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=16-#x">
+                [16]
+               </a>
+               And they glorified God, both he and his wife and all that knew them.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=17-#x">
+                [17]
+               </a>
+               And Tobias said: I bless thee, O Lord God of Israel, because thou hast chastised me, and thou hast saved me: and behold I see Tobias my son.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=18-#x">
+                [18]
+               </a>
+               And after seven days Sara his son's wife, and all the family arrived safe, and the cattle, and the camels, and an abundance of money of his wife's: and that money also which he had received of Gabelus:
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=19-#x">
+                [19]
+               </a>
+               And he told his parents all the benefits of God, which he had done to him by the man that conducted him.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=20-#x">
+                [20]
+               </a>
+               And Achior and Nabath the kinsmen of Tobias came, rejoicing for Tobias, and congratulating with him for all the good things that God had done for him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=11&amp;l=21-#x">
+                [21]
+               </a>
+               And for seven days they feasted and rejoiced all with great joy.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="16001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Tobias (Tobit)
+              </td>
+              <td class="next">
+               <a href="18001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="17010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="17012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

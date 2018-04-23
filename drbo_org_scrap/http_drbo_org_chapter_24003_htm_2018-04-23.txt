@@ -1,0 +1,376 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Canticles (Solomon) Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/24003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/24003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="23001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Canticle Of Canticles (Song Of Solomon)
+           </td>
+           <td class="next">
+            <a href="25001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="24002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="24004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="24001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="24002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="24004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="24005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="24006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="24007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="24008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The spouse seeks Christ. The glory of his humanity.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               <u>
+                In my bed by night
+               </u>
+               I sought him whom my soul loveth: I sought him, and found him not.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               I will rise, and will go about the city: in the streets and the broad ways I will seek him whom my soul loveth: I sought him, and I found him not.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               The watchmen who keep the city, found me: Have you seen him, whom my soul loveth?
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               When I had a little passed by them, I found him whom my soul loveth: I held him: and I will not let him go, till I bring him into my mother's house, and into the chamber of her that bore me.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               I adjure you, O daughters of Jerusalem, by the roes and the harts of the fields, that you stir not up, nor awake my beloved, till she please.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "In my bed by night"
+               </u>
+               : The Gentiles as in the dark, and seeking in heathen delusion what they could not find, the true God, until Christ revealed his doctrine to them by his watchmen, (ver. 3,) that is, by the apostles, and teachers by whom they were converted to the true faith; and holding that faith firmly, the spouse (the Catholic Church) declares, ver. 4, That she will not let him go, till she bring him into her mother's house, etc., that is, till at last, the Jews also shall find him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               Who is she that goeth up by the desert, as a pillar of smoke of aromatical spices, of myrrh, and frankincense, and of all the powders of the perfumer?
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Behold threescore valiant ones of the most valiant of Israel, surrounded the bed of Solomon?
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               All holding swords, and most expert in war: every man's sword upon his thigh, because of fears in the night.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               King Solomon hath made him a litter of the wood of Libanus:
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               The pillars thereof he made of silver, the seat of gold, the going up of purple: the midst he covered with charity for the daughters of Jerusalem.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of his espousals, and in the day of the joy of his heart.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="23001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Canticle Of Canticles (Song Of Solomon)
+              </td>
+              <td class="next">
+               <a href="25001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="24002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="24004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

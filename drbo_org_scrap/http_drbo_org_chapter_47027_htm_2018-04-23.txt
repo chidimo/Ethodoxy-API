@@ -1,0 +1,708 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 27
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/47027.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/47027.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Matthew
+           </td>
+           <td class="next">
+            <a href="48001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47026.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 27
+           </td>
+           <td class="next">
+            <a href="47028.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="47001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="47002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="47003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="47004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="47005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="47006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="47007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="47008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="47009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="47010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="47011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="47012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="47013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="47014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="47015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="47016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="47017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="47018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="47019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="47020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="47021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="47022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="47023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="47024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="47025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="47026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             27
+            </td>
+            <td width="30">
+             <a href="47028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The continuation of the history of the passion of Christ. His death and burial.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=1-#x">
+                [1]
+               </a>
+               And when morning was come, all the chief priests and ancients of the people took counsel against Jesus, that they might put him to death.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=2-#x">
+                [2]
+               </a>
+               And they brought him bound, and delivered him to Pontius Pilate the governor.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=3-#x">
+                [3]
+               </a>
+               Then Judas, who betrayed him, seeing that he was condemned, repenting himself, brought back the thirty pieces of silver to the chief priests and ancients,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=4-#x">
+                [4]
+               </a>
+               Saying: I have sinned in betraying innocent blood. But they said: What is that to us? look thou to it.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=5-#x">
+                [5]
+               </a>
+               And casting down the pieces of silver in the temple, he departed: and went and hanged himself with an halter.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=6-#x">
+                [6]
+               </a>
+               But the chief priests having taken the pieces of silver, said: It is not lawful to put them into the
+               <u>
+                corbona
+               </u>
+               , because it is the price of blood.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=7-#x">
+                [7]
+               </a>
+               And after they had consulted together, they bought with them the potter's field, to be a burying place for strangers.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=8-#x">
+                [8]
+               </a>
+               For this cause the field was called Haceldama, that is, The field of blood, even to this day.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=9-#x">
+                [9]
+               </a>
+               Then was fulfilled that which was spoken by Jeremias the prophet, saying: And they took the thirty pieces of silver, the price of him that was prized, whom they prized of the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=10-#x">
+                [10]
+               </a>
+               And they gave them unto the potter's field, as the Lord appointed to me.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Corbona"
+               </u>
+               : A place in the temple where the people put in their gifts or offerings.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=11-#x">
+                [11]
+               </a>
+               And Jesus stood before the governor, and the governor asked him, saying: Art thou the king of the Jews? Jesus saith to him: Thou sayest it.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=12-#x">
+                [12]
+               </a>
+               And when he was accused by the chief priests and ancients, he answered nothing.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=13-#x">
+                [13]
+               </a>
+               Then Pilate saith to him: Dost not thou hear how great testimonies they allege against thee?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=14-#x">
+                [14]
+               </a>
+               And he answered him to never a word; so that the governor wondered exceedingly.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=15-#x">
+                [15]
+               </a>
+               Now upon the solemn day the governor was accustomed to release to the people one prisoner, whom they would.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=16-#x">
+                [16]
+               </a>
+               And he had then a notorious prisoner, that was called Barabbas.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=17-#x">
+                [17]
+               </a>
+               They therefore being gathered together, Pilate said: Whom will you that I release to you, Barabbas, or Jesus that is called Christ?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=18-#x">
+                [18]
+               </a>
+               For he knew that for envy they had delivered him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=19-#x">
+                [19]
+               </a>
+               And as he was sitting in the place of judgment, his wife sent to him, saying: Have thou nothing to do with that just man; for I have suffered many things this day in a dream because of him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=20-#x">
+                [20]
+               </a>
+               But the chief priests and ancients persuaded the people, that they should ask for Barabbas, and take Jesus away.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=21-#x">
+                [21]
+               </a>
+               And the governor answering, said to them: Whether will you of the two to be released unto you? But they said, Barabbas.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=22-#x">
+                [22]
+               </a>
+               Pilate saith to them: What shall I do then with Jesus that is called Christ? They say all: Let him be crucified.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=23-#x">
+                [23]
+               </a>
+               The governor said to them: Why, what evil hath he done? But they cried out the more, saying: Let him be crucified.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=24-#x">
+                [24]
+               </a>
+               And Pilate seeing that he prevailed nothing, but that rather a tumult was made; taking water washed his hands before the people, saying: I am innocent of the blood of this just man; look you to it.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=25-#x">
+                [25]
+               </a>
+               And the whole people answering, said: His blood be upon us and our children.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=26-#x">
+                [26]
+               </a>
+               Then he released to them Barabbas, and having scourged Jesus, delivered him unto them to be crucified.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=27-#x">
+                [27]
+               </a>
+               Then the soldiers of the governor taking Jesus into the hall, gathered together unto him the whole band;
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=28-#x">
+                [28]
+               </a>
+               And stripping him, they put a scarlet cloak about him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=29-#x">
+                [29]
+               </a>
+               And platting a crown of thorns, they put it upon his head, and a reed in his right hand. And bowing the knee before him, they mocked him, saying: Hail, king of the Jews.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=30-#x">
+                [30]
+               </a>
+               And spitting upon him, they took the reed, and struck his head.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=31-#x">
+                [31]
+               </a>
+               And after they had mocked him, they took off the cloak from him, and put on him his own garments, and led him away to crucify him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=32-#x">
+                [32]
+               </a>
+               And going out, they found a man of Cyrene, named Simon: him they forced to take up his cross.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=33-#x">
+                [33]
+               </a>
+               And they came to the place that is called Golgotha, which is the place of Calvary.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=34-#x">
+                [34]
+               </a>
+               And they gave him wine to drink mingled with gall. And when he had tasted, he would not drink.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=35-#x">
+                [35]
+               </a>
+               And after they had crucified him, they divided his garments, casting lots; that it might be fulfilled which was spoken by the prophet, saying: They divided my garments among them; and upon my vesture they cast lots.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=36-#x">
+                [36]
+               </a>
+               And they sat and watched him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=37-#x">
+                [37]
+               </a>
+               And they put over his head his cause written: THIS IS JESUS THE KING OF THE JEWS.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=38-#x">
+                [38]
+               </a>
+               Then were crucified with him two thieves: one on the right hand, and one on the left.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=39-#x">
+                [39]
+               </a>
+               And they that passed by, blasphemed him, wagging their heads,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=40-#x">
+                [40]
+               </a>
+               And saying: Vah, thou that destroyest the temple of God, and in three days dost rebuild it: save thy own self: if thou be the Son of God, come down from the cross.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=41-#x">
+                [41]
+               </a>
+               In like manner also the chief priests, with the scribes and ancients, mocking, said:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=42-#x">
+                [42]
+               </a>
+               He saved others; himself he cannot save. If he be the king of Israel, let him now come down from the cross, and we will believe him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=43-#x">
+                [43]
+               </a>
+               He trusted in God; let him now deliver him if he will have him; for he said: I am the Son of God.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=44-#x">
+                [44]
+               </a>
+               And the selfsame thing the thieves also, that were crucified with him, reproached him with.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=45-#x">
+                [45]
+               </a>
+               Now from the sixth hour there was darkness over the whole earth, until the ninth hour.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=46-#x">
+                [46]
+               </a>
+               And about the ninth hour Jesus cried with a loud voice, saying: Eli, Eli, lamma sabacthani? that is, My God, my God, why hast thou forsaken me?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=47-#x">
+                [47]
+               </a>
+               And some that stood there and heard, said: This man calleth Elias.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=48-#x">
+                [48]
+               </a>
+               And immediately one of them running took a sponge, and filled it with vinegar; and put it on a reed, and gave him to drink.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=49-#x">
+                [49]
+               </a>
+               And the others said: Let be, let us see whether Elias will come to deliver him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=50-#x">
+                [50]
+               </a>
+               And Jesus again crying with a loud voice, yielded up the ghost.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=51-#x">
+                [51]
+               </a>
+               And behold the veil of the temple was rent in two from the top even to the bottom, and the earth quaked, and the rocks were rent.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=52-#x">
+                [52]
+               </a>
+               And the graves were opened: and many bodies of the saints that had slept arose,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=53-#x">
+                [53]
+               </a>
+               And coming out of the tombs after his resurrection, came into the holy city, and appeared to many.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=54-#x">
+                [54]
+               </a>
+               Now the centurion and they that were with him watching Jesus, having seen the earthquake, and the things that were done, were sore afraid, saying: Indeed this was the Son of God.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=55-#x">
+                [55]
+               </a>
+               And there were there many women afar off, who had followed Jesus from Galilee, ministering unto him:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=56-#x">
+                [56]
+               </a>
+               Among whom was Mary Magdalen, and Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=57-#x">
+                [57]
+               </a>
+               And when it was evening, there came a certain rich man of Arimathea, named Joseph, who also himself was a disciple of Jesus.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=58-#x">
+                [58]
+               </a>
+               He went to Pilate, and asked the body of Jesus. Then Pilate commanded that the body should be delivered.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=59-#x">
+                [59]
+               </a>
+               And Joseph taking the body, wrapped it up in a clean linen cloth.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=60-#x">
+                [60]
+               </a>
+               And laid it in his own new monument, which he had hewed out in a rock. And he rolled a great stone to the door of the monument, and went his way.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=61-#x">
+                [61]
+               </a>
+               And there was there Mary Magdalen, and the other Mary sitting over against the sepulchre.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=62-#x">
+                [62]
+               </a>
+               And the next day, which followed
+               <u>
+                the day of preparation
+               </u>
+               , the chief priests and the Pharisees came together to Pilate,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=63-#x">
+                [63]
+               </a>
+               Saying: Sir, we have remembered, that that seducer said, while he was yet alive: After three days I will rise again.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=64-#x">
+                [64]
+               </a>
+               Command therefore the sepulchre to be guarded until the third day: lest perhaps his disciples come and steal him away, and say to the people: He is risen from the dead; and the last error shall be worse than the first.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=65-#x">
+                [65]
+               </a>
+               Pilate saith to them: You have a guard; go, guard it as you know.
+              </p>
+              <p class="note">
+               [62]
+               <u>
+                "The day of preparation"
+               </u>
+               : The eve of the sabbath; so called, because on that day they prepared all things necessary; not being allowed so much as to dress their meat on the sabbath day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=27&amp;l=66-#x">
+                [66]
+               </a>
+               And they departing, made the sepulchre sure, sealing the stone, and setting guards.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Matthew
+              </td>
+              <td class="next">
+               <a href="48001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47026.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 27
+              </td>
+              <td class="next">
+               <a href="47028.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

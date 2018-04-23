@@ -1,0 +1,473 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Kings (2 Samuel) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/10001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/10001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="09001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Second Book Of Kings (2 Samuel)
+         </td>
+         <td class="next">
+          <a href="11001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="10002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="10002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="10003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="10004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="10005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="10006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="10007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="10008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="10009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="10010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="10011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="10012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="10013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="10014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="10015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="10016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="10017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="10018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="10019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="10020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="10021.htm">
+            21
+           </a>
+          </td>
+          <td width="30">
+           <a href="10022.htm">
+            22
+           </a>
+          </td>
+          <td width="30">
+           <a href="10023.htm">
+            23
+           </a>
+          </td>
+          <td width="30">
+           <a href="10024.htm">
+            24
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             David mourneth for the death of Saul and Jonathan: he ordereth the man to be slain who pretended he had killed Saul.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             Now it came to pass, after Saul was dead, that David returned from the slaughter of the Amalecites, and abode two days in Siceleg.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             And on the third day, there appeared a man who came out of Saul's camp, with his garments rent, and dust strewed on his head: and when he came to David, he fell upon his face, and adored.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And David said to him: From whence comest thou? And he said to him: I am fled out of the camp of Israel.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And David said unto him: What is the matter that is come to pass? tell me. He said: The people are fled from the battle, and many of the people are fallen and dead: moreover Saul and Jonathan his son are slain.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And David said to the young man that told him: How knowest thou that Saul and Jonathan his son, are dead?
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And the young man that told him, said: I came by chance upon mount Gelboe, and Saul leaned upon his spear: and the chariots and horsemen drew nigh unto him,
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And looking behind him, and seeing me, he called me. And I answered, Here am I.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             And he said to me: Who art thou? And I said to him: I am an Amalecite.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And he said to me: Stand over me, and kill me: for anguish is come upon me, and as yet my whole life is in me.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             So standing over him,
+             <u>
+              I killed him
+             </u>
+             : for I knew that he could not live after the fall: and I took the diadem that was on his head, and the bracelet that was on his arm and have brought them hither to thee, my lord.
+            </p>
+            <p class="note">
+             [10]
+             <u>
+              "I killed him"
+             </u>
+             : This story of the young Amalecite was not true, as may easily be proved by comparing it with the last chapter of the foregoing book.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             Then David took hold of his garments and rent them, and likewise all the men that were with him.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And they mourned, and wept, and fasted until evening for Saul, and for Jonathan his son, and for the people of the Lord, and for the house of Israel, because they were fallen by the sword.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And David said to the young man that told him: Whence art thou? He answered: I am the son of a stranger of Amalee.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             David said to him: Why didst thou not fear to put out thy hand to kill the Lord's anointed?
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And David calling one of his servants, said: Go near and fall upon him. And he struck him so that he died.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             And David said to him: Thy blood be upon thy own head: for thy own mouth hath spoken against thee, saying: I have slain the Lord's anointed.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             And David made this kind of lamentation over Saul, and over Jonathan his son.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             (Also he commanded that they should teach the children of Juda the use of the bow, as it is written in the book of the just.) And he said: Consider, O Israel, for them that are dead, wounded on thy high places.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             The illustrious of Israel are slain upon thy mountains: how are the valiant fallen?
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             Tell it not in Geth, publish it not in the streets of Ascalon: lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph,
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             Ye mountains of Gelboe, let neither dew, nor rain come upon you, neither be they fields of firstfruits: for there was cast away the shield of the valiant, the shield of Saul as though he had not been anointed with oil.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             From the blood of the slain, from the fat of the valiant, the arrow of Jonathan never turned back, and the sword of Saul did not return empty.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             Saul and Jonathan, lovely, and comely in their life, even in death they were not divided: they were swifter than eagles, stronger than lions.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             Ye daughters of Israel, weep over Saul, who clothed you with scarlet in delights, who gave ornaments of gold for your attire.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             How are the valiant fallen in battle? Jonathan slain in the high places?
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             I grieve for thee, my brother Jonathan: exceeding beautiful, and amiable to me above the love of women. As the mother loveth her only son, so did I love thee.
+             <a href="/x/d?b=drb&amp;bk=10&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             How are the valiant fallen, and the weapons of war perished?
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="09001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Second Book Of Kings (2 Samuel)
+            </td>
+            <td class="next">
+             <a href="11001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="10002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

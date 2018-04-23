@@ -1,0 +1,588 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/47006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/47006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Matthew
+           </td>
+           <td class="next">
+            <a href="48001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="47007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="47001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="47002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="47003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="47004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="47005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="47007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="47008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="47009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="47010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="47011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="47012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="47013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="47014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="47015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="47016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="47017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="47018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="47019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="47020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="47021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="47022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="47023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="47024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="47025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="47026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="47027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="47028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               A continuation of the sermon on the mount.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               Take heed that you do not
+               <u>
+                your justice
+               </u>
+               before men, to be seen by them: otherwise you shall not have a reward of your Father who is in heaven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               Therefore when thou dost an almsdeed, sound not a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may be honoured by men. Amen I say to you, they have received their reward.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               But when thou dost alms, let not thy left hand know what thy right hand doth.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               That thy alms may be in secret, and thy Father who seeth in secret will repay thee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               And when ye pray, you shall not be as the hypocrites, that love to stand and pray in the synagogues and corners of the streets, that they may be seen by men: Amen I say to you, they have received their reward.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Your justice"
+               </u>
+               : that is, works of justice; viz., fasting, prayer, and almsdeeds; which ought to be performed not out of ostentation, or a view to please men, but solely to please God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               But thou when thou shalt pray, enter into thy chamber, and having shut the door, pray to thy Father in secret: and thy Father who seeth in secret will repay thee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               And when you are praying, speak not much, as the heathens. For they think that in their much speaking they may be heard.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               Be not you therefore like to them, for your Father knoweth what is needful for you, before you ask him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               Thus therefore shall you pray: Our Father who art in heaven, hallowed be thy name.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               Thy kingdom come. Thy will be done on earth as it is in heaven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               Give us this day our
+               <u>
+                supersubstantial bread
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               And forgive us our debts, as we also forgive our debtors.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               And
+               <u>
+                lead us not into temptation
+               </u>
+               . But deliver us from evil. Amen.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               For if you will forgive men their offences, your heavenly Father will forgive you also your offences.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               But if you will not forgive men, neither will your Father forgive you your offences.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "Supersubstantial bread"
+               </u>
+               : In St. Luke the same word is rendered daily bread. It is understood of the bread of life, which we receive in the Blessed Sacrament.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "Lead us not into temptation"
+               </u>
+               : That is, suffer us not to be overcome by temptation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               And when you fast, be not as the hypocrites, sad. For they disfigure their faces, that they may appear unto men to fast. Amen I say to you, they have received their reward.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               But thou, when thou fastest anoint thy head, and wash thy face;
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               That thou appear not to men to fast, but to thy Father who is in secret: and thy Father who seeth in secret, will repay thee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               Lay not up to yourselves treasures on earth: where the rust, and moth consume, and where thieves break through and steal.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               But lay up to yourselves treasures in heaven: where neither the rust nor moth doth consume, and where thieves do not break through, nor steal.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               For where thy treasure is, there is thy heart also.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               The light of thy body is thy eye. If thy eye be single, thy whole body shall be lightsome.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=23-#x">
+                [23]
+               </a>
+               But if thy eye be evil thy whole body shall be darksome. If then the light that is in thee, be darkness: the darkness itself how great shall it be!
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=24-#x">
+                [24]
+               </a>
+               No man can serve two masters. For either he will hate the one, and love the other: or he will sustain the one, and despise the other. You cannot serve God and
+               <u>
+                mammon
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=25-#x">
+                [25]
+               </a>
+               Therefore I say to you, be not solicitous for your life, what you shall eat, nor for your body, what you shall put on. Is not the life more than the meat: and the body more than the raiment?
+              </p>
+              <p class="note">
+               [24]
+               <u>
+                "Mammon"
+               </u>
+               : That is, riches, worldly interest.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=26-#x">
+                [26]
+               </a>
+               Behold the birds of the air, for they neither sow, nor do they reap, nor gather into barns: and your heavenly Father feedeth them. Are not you of much more value than they?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=27-#x">
+                [27]
+               </a>
+               And which of you by taking thought, can add to his stature by one cubit?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=28-#x">
+                [28]
+               </a>
+               And for raiment why are you solicitous? Consider the lilies of the field, how they grow: they labour not, neither do they spin.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=29-#x">
+                [29]
+               </a>
+               But I say to you, that not even Solomon in all his glory was arrayed as one of these.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=30-#x">
+                [30]
+               </a>
+               And if the grass of the field, which is today, and tomorrow is cast into the oven, God doth so clothe: how much more you, O ye of little faith?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=31-#x">
+                [31]
+               </a>
+               Be not solicitous therefore, saying, What shall we eat: or what shall we drink, or wherewith shall we be clothed?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=32-#x">
+                [32]
+               </a>
+               For after all these things do the heathens seek. For your Father knoweth that you have need of all these things.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=33-#x">
+                [33]
+               </a>
+               Seek ye therefore first the kingdom of God, and his justice, and all these things shall be added unto you.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=6&amp;l=34-#x">
+                [34]
+               </a>
+               Be not therefore solicitous for tomorrow; for the morrow will be solicitous for itself. Sufficient for the day is the evil thereof.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Matthew
+              </td>
+              <td class="next">
+               <a href="48001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="47007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

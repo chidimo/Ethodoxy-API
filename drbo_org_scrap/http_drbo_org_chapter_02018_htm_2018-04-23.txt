@@ -1,0 +1,574 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 18
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02018.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02018.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02017.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 18
+           </td>
+           <td class="next">
+            <a href="02019.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             18
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Jethro bringeth to Moses his wife and children. His counsel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=1-#x">
+                [1]
+               </a>
+               And when Jethro the priest of Madian, the kinsman of Moses, had heard all the things that God had done to Moses, and to Israel his people, and that the Lord had brought forth Israel out of Egypt,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=2-#x">
+                [2]
+               </a>
+               He took Sephora the wife of Moses whom he had sent back:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=3-#x">
+                [3]
+               </a>
+               And her two sons, of whom one was called Gersam, his father saying: I have been a stranger in a foreign country.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=4-#x">
+                [4]
+               </a>
+               And the other Eliezer: For the God of my father, said he, is my helper, and hath delivered me from the sword of Pharao.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=5-#x">
+                [5]
+               </a>
+               And Jethro the kinsman of Moses came with his sons and his wife, to Moses into the desert, where he was camped by the mountain of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=6-#x">
+                [6]
+               </a>
+               And he sent word to Moses, saying: I Jethro thy kinsman come to thee, and thy wife, and thy two sons with her.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=7-#x">
+                [7]
+               </a>
+               And he went out to meet his kinsman, and worshipped and kissed him: and they saluted one another with words of peace. And when he was come into the tent,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=8-#x">
+                [8]
+               </a>
+               Moses told his kinsman all that the Lord had done to Pharao, and the Egyptians, in favour of Israel: and all the labour which had befallen them in the journey, and that the Lord had delivered them.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=9-#x">
+                [9]
+               </a>
+               And Jethro rejoiced for all the good things that the Lord had done to Israel, because he had delivered them out of the hands of the Egyptians.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=10-#x">
+                [10]
+               </a>
+               And he said: Blessed is the Lord, who hath delivered you out of the hand of Pharao, and out of the hand of the Egyptians, who hath delivered his people out of the hand of Egypt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=11-#x">
+                [11]
+               </a>
+               Now I know that the Lord is great above all gods: because they dealt proudly against them.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=12-#x">
+                [12]
+               </a>
+               So Jethro the kinsman of Moses offered holocausts and sacrifices to God: and Aaron and all the ancients of Israel came, to eat bread with them before God.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=13-#x">
+                [13]
+               </a>
+               And the next day Moses sat, to judge the people, who stood by Moses from morning until night.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=14-#x">
+                [14]
+               </a>
+               And when his kinsman had seen all things that he did among the people, he said: What is it that thou dost among the people? Why sittest thou alone, and all the people wait from morning till night.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=15-#x">
+                [15]
+               </a>
+               And Moses answered him: The people come to me to seek the judgment of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=16-#x">
+                [16]
+               </a>
+               And when any controversy falleth out among them, they come to me to judge between them, and to shew the precepts of God, and his laws.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=17-#x">
+                [17]
+               </a>
+               But he said: The thing thou dost is not good.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=18-#x">
+                [18]
+               </a>
+               Thou are spent with foolish labour, both thou and this people that is with thee: the business is above thy strength, thou alone canst not bear it.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=19-#x">
+                [19]
+               </a>
+               But hear my words and counsels, and God shall be with thee. Be thou to the people in those things that pertain to God, to bring their words to him:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=20-#x">
+                [20]
+               </a>
+               And to shew the people the ceremonies and the manner of worshipping, and the way wherein they ought to walk, and the work that they ought to do.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=21-#x">
+                [21]
+               </a>
+               And provide out of all the people able men, such as fear God, in whom there is truth, and that hate avarice, and appoint of them rulers of thousands, and of hundreds, and of fifties, and of tens.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=22-#x">
+                [22]
+               </a>
+               Who may judge the people at all times: and when any great matter soever shall fall out, let them refer it to thee, and let them judge the lesser matters only: that so it may be lighter for thee, the burden being shared out unto others.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=23-#x">
+                [23]
+               </a>
+               If thou dost this, thou shalt fulfill the commandment of God, and shalt be able to bear his precepts: and all this people shall return to their places with peace.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=24-#x">
+                [24]
+               </a>
+               And when Moses heard this, he did all things that he had suggested unto him.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=25-#x">
+                [25]
+               </a>
+               And choosing able men out of all Israel, he appointed them rulers of the people, rulers over thousands, and over hundreds, and over fifties, and over tens.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=26-#x">
+                [26]
+               </a>
+               And they judged the people at all times: and whatsoever was of greater difficulty they referred to him, and they judged the easier cases only.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=18&amp;l=27-#x">
+                [27]
+               </a>
+               And he let his kinsman depart: and he returned and went into his own country.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02017.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 18
+              </td>
+              <td class="next">
+               <a href="02019.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,420 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Esther Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/19013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/19013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="18001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Esther
+           </td>
+           <td class="next">
+            <a href="20001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="19014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="19001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="19002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="19003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="19004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="19005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="19006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="19007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="19008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="19009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="19010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="19011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="19012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="19014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="19015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="19016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               A copy of a letter sent by Aman to destroy the Jews. Mardochai's prayer for the people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               And this was the copy of the letter: Artaxerxes the great king who reigneth from India to Ethiopia, to the princes and governors of the hundred and twenty-seven provinces, that are subject to his empire, greeting.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               Whereas I reigned over many nations, and had brought all the world under my dominion, I was not willing to abuse the greatness of my power, but to govern my subjects with clemency and lenity, that they might live quietly without any terror. and might enjoy peace, which is desired by all men.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               But when I asked my counsellors how this might be accomplished, one that excelled the rest in wisdom and fidelity, and was second after the king, Aman by name,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               Told me that there was a people scattered through the whole world, which used new laws, and acted against the customs of all nations, despised the commandments of kings, and violated by their opposition the concord of all nations.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               Wherefore having learned this, and seeing one nation in opposition to all mankind using perverse laws, and going against our commandments, and disturbing the peace and concord of the provinces subject to us,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               We have commanded that all whom Aman shall mark out, who is chief over all the provinces, and second after the king, and whom we honour as a father, shall be utterly destroyed by their enemies, with their wives and children, and that none shall have pity on them. on the fourteenth day of the twelfth month Adar of this present year:
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               That these wicked men going down to hell in one day, may restore to our empire the peace which they had disturbed.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               But Mardochai besought the Lord, remembering all his works,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               And said: O Lord, Lord, almighty king, for all things are in thy power, and there is none that can resist thy will, if thou determine to save Israel.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               Thou hast made heaven and earth, and all things that are under the cope of heaven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               Thou art Lord of all, and there is none that can resist thy majesty.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               Thou knowest all things, and thou knowest that it was not out of pride and contempt, or any desire of glory, that I refused to worship the proud Aman,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               (For I would willingly and readily for the salvation of Israel have kissed even the steps of his feet,)
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               But I feared lest I should transfer the honour of my God to a man, and lest I should adore any one except my God.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               And now, O Lord, O king, O God of Abraham, have mercy on thy people, because our enemies resolve to destroy us, and extinguish thy inheritance.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               Despise not thy portion, which thou hast redeemed for thyself out of Egypt.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               Hear my supplication, and be merciful to thy lot and inheritance, and turn our mourning into joy, that we may live and praise thy name, O Lord, and shut not the mouths of them that sing to thee.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               And all Israel with like mind and supplication cried to the Lord, because they saw certain death hanging over their heads.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="18001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Esther
+              </td>
+              <td class="next">
+               <a href="20001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="19014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

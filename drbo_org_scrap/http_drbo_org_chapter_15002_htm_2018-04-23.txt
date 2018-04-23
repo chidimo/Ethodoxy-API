@@ -1,0 +1,643 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Esdras (Ezra) Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/15002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/15002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Esdras (Ezra)
+           </td>
+           <td class="next">
+            <a href="16001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="15003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="15001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="15003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="15004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="15005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="15006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="15007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="15008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="15009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="15010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The number of them that returned to Judea: their oblations.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               Now these are the children of the province, that went out of the captivity, which Nabuchodonosor king of Babylon had carried away to Babylon, and who returned to Jerusalem and Juda, every man to his city.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               Who came with Zorobabel, Josue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. The number of the men of the people of Israel:
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               The children of Pharos two thousand one hundred seventy-two.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               The children of Sephatia, three hundred seventy-two.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               The children of Area, seven hundred seventy-five.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               The children of Phahath Moab, of the children of Josue: Joab, two thousand eight hundred twelve.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               The children of Elam, a thousand two hundred fifty-four.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               The children of Zethua, nine hundred forty-five.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               The children of Zachai, seven hundred sixty.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               The children of Bani, six hundred forty-two.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               The children of Bebai, six hundred twenty-three.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               The children of Azgad, a thousand two hundred twenty-two.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               The children of Adonicam, six hundred sixty-six.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               The children of Beguai, two thousand fifty-six.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               The children of Adin, four hundred fifty-four.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               The children of Ather, who were of Ezechias, ninety-eight.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               The children of Besai, three hundred and twenty-three.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               The children of Jora, a hundred and twelve.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               The children of Hasum, two hundred twenty-three.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               The children of Gebbar, ninety-five.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               The children of Bethlehem, a hundred twenty-three.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               The men of Netupha, fifty-six.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               The men of Anathoth, a hundred twenty-eight.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               The children of Azmaveth, forty-two.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               The children of Cariathiarim, Cephira, and Beroth, seven hundred forty-three.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               The children of Rama and Gabaa, six hundred twenty-one.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               The men of Machmas, a hundred twenty-two.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               The men of Bethel and Hai, two hundred twenty-three.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               The children of Nebo, fifty-two.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=30-#x">
+                [30]
+               </a>
+               The children of Megbis, a hundred fifty-six.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=31-#x">
+                [31]
+               </a>
+               The children of the other Elam, a thousand two hundred fifty-four.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=32-#x">
+                [32]
+               </a>
+               The children of Harim, three hundred and twenty.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=33-#x">
+                [33]
+               </a>
+               The children of Lod, Hadid and One, seven hundred twenty-five.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=34-#x">
+                [34]
+               </a>
+               The children of Jericho, three hundred forty-five.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=35-#x">
+                [35]
+               </a>
+               The children of Senaa, three thousand six hundred thirty.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=36-#x">
+                [36]
+               </a>
+               The priests: the children of Jadaia of the house of Josue, nine hundred seventy-three.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=37-#x">
+                [37]
+               </a>
+               The children of Emmer, a thousand fifty-two.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=38-#x">
+                [38]
+               </a>
+               The children of Pheshur, a thousand two hundred forty-seven.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=39-#x">
+                [39]
+               </a>
+               The children of Harim, a thousand and seventeen.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=40-#x">
+                [40]
+               </a>
+               The Levites: the children of Josue and of Cedmihel, the children of Odovia, seventy-four.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=41-#x">
+                [41]
+               </a>
+               The singing men: the children of Asaph, a hundred twenty-eight.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=42-#x">
+                [42]
+               </a>
+               The children of the porters: the children of Sellum, the children of Ater, the children of Telmon, the children of Accub, the children of Hatita, the children of Sobai: in all a hundred thirty-nine.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=43-#x">
+                [43]
+               </a>
+               The Nathinites: the children of Siha, the children of Hasupha, the children of Tabbaoth,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=44-#x">
+                [44]
+               </a>
+               The children of Ceros, the children of Sia, the children of Phadon,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=45-#x">
+                [45]
+               </a>
+               The children of Lebana, the children of Hegaba, the children of Accub,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=46-#x">
+                [46]
+               </a>
+               The children of Hagab, the children of Semlai, the children of Hanan,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=47-#x">
+                [47]
+               </a>
+               The children of Gaddel, the children of Gaher, the children of Raaia,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=48-#x">
+                [48]
+               </a>
+               The children of Basin, the children of Necoda, the children of Gazam,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=49-#x">
+                [49]
+               </a>
+               The children of Asa, the children of Phasea, the children of Besee,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=50-#x">
+                [50]
+               </a>
+               The children of Asena, the children of Munim, the children of Nephusim,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=51-#x">
+                [51]
+               </a>
+               The children of Bacbuc, the children of Hacupha, the children of Harhur,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=52-#x">
+                [52]
+               </a>
+               The children of Besluth, the children of Mahida, the children of Harsa,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=53-#x">
+                [53]
+               </a>
+               The children of Bercos, the children of Sisara, the children of Thema,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=54-#x">
+                [54]
+               </a>
+               The children of Nasia, the children of Hatipha,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=55-#x">
+                [55]
+               </a>
+               The children of the servants of Solomon, the children of Sotai, the children of Sopheret, the children of Pharuda,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=56-#x">
+                [56]
+               </a>
+               The children of Jala, the children of Dercon, the children of Geddel,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=57-#x">
+                [57]
+               </a>
+               The children of Saphatia, the children of Hatil, the children of Phochereth, which were of Asebaim, the children of Ami,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=58-#x">
+                [58]
+               </a>
+               All the Nathinites, and the children of the servants of Solomon, three hundred ninety-two.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=59-#x">
+                [59]
+               </a>
+               And these are they that came up from Thelmela, Thelharsa, Cherub, and Adon, and Emer. And they could not shew the house of their fathers and their seed, whether they were of Israel.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=60-#x">
+                [60]
+               </a>
+               The children of Dalaia, the children of Tobia, the children of Necoda, six hundred fifty-two.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=61-#x">
+                [61]
+               </a>
+               And of the children of the priests: the children of Hobia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai, the Galaadite, and was called by their name:
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=62-#x">
+                [62]
+               </a>
+               These sought the writing of their genealogy, and found it not, and they were cast out of the priesthood.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=63-#x">
+                [63]
+               </a>
+               And Athersatha said to them, that they should not eat of the holy of holies, till there arose a priest learned and perfect.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=64-#x">
+                [64]
+               </a>
+               All the multitudes as one man, were
+               <u>
+                forty-two thousand
+               </u>
+               three hundred and sixty:
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=65-#x">
+                [65]
+               </a>
+               Besides their menservants, and womenservants, of whom there were seven thousand three hundred and thirty-seven: and among them singing men, and singing women two hundred.
+              </p>
+              <p class="note">
+               [64]
+               <u>
+                "Forty-two thousand"
+               </u>
+               : Those who are reckoned up above of the tribes of Juda, Benjamin, and Levi, fall short of this number. The rest, who must be taken in to make up the whole sum, were of the other tribes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=66-#x">
+                [66]
+               </a>
+               Their horses seven hundred thirty-six, their mules two hundred forty-five,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=67-#x">
+                [67]
+               </a>
+               Their camels four hundred thirty-five, their asses six thousand seven hundred and twenty.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=68-#x">
+                [68]
+               </a>
+               And some of the chief of the fathers, when they came to the temple of the Lord, which is in Jerusalem, offered freely to the house of the Lord to build it in its place.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=69-#x">
+                [69]
+               </a>
+               According to their ability, they gave towards the expenses of the work, sixty-one thousand solids of gold, five thousand pounds of silver, and a hundred garments for the priests.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=2&amp;l=70-#x">
+                [70]
+               </a>
+               So the priests and the Levites, and some of the people, and the singing men, and the porters, and the Nathinites dwelt in their cities, and all Israel in their cities.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Esdras (Ezra)
+              </td>
+              <td class="next">
+               <a href="16001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="15003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

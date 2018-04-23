@@ -1,0 +1,643 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Kings (1 Samuel) Chapter 20
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/09020.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/09020.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="08001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Kings (1 Samuel)
+           </td>
+           <td class="next">
+            <a href="10001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="09019.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 20
+           </td>
+           <td class="next">
+            <a href="09021.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="09001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="09002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="09003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="09004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="09005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="09006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="09007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="09008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="09009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="09010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="09011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="09012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="09013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="09014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="09015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="09016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="09017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="09018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="09019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             20
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="09021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="09022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="09023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="09024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="09025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="09026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="09027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="09028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="09029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="09030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="09031.htm">
+              31
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Saul being obstinately bent upon killing David, he is sent away by Jonathan.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=1-#x">
+                [1]
+               </a>
+               But David fled from Najoth, which is in Ramatha, and came and said to Jonathan: What have I done? what is my iniquity, and what is my sin against thy father, that he seeketh my life?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=2-#x">
+                [2]
+               </a>
+               And he said to him: God forbid, thou shalt not die: for my father will do nothing great or little, without first telling me: hath then my father hid this word only from me? no, this shall not be.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=3-#x">
+                [3]
+               </a>
+               And he swore again to David. And David said: Thy father certainly knoweth that I have found grace in thy sight, and he will say: Let not Jonathan know this, lest he be grieved. But truly as the Lord liveth, and thy soul liveth, there is but one step (as I may say) between me and death.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=4-#x">
+                [4]
+               </a>
+               And Jonathan said to David: Whatsoever thy soul shall say to me, I will do for thee.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=5-#x">
+                [5]
+               </a>
+               And David said to Jonathan: Behold
+               <u>
+                tomorrow is the new moon
+               </u>
+               , and I according to custom am wont to sit beside the king to eat: let me go then that I may be hid in the field till the evening of the third day.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "Tomorrow is the new moon"
+               </u>
+               : The neomenia, or first day of the moon, kept according to the law, as a festival; and therefore Saul feasted on that day: and expected the attendance of his family.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=6-#x">
+                [6]
+               </a>
+               If thy father look and inquire for me, thou shalt answer him: David asked me that he might run to Bethlehem his own city: because there are solemn sacrifices there for all his tribe.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=7-#x">
+                [7]
+               </a>
+               If he shall say, It is well: thy servant shall have peace: but if he be angry, know that his malice is come to its height.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=8-#x">
+                [8]
+               </a>
+               Deal mercifully then with thy servant: for thou hast brought me thy servant into a covenant of the Lord with thee. But if there be any iniquity in me, do thou kill me, and bring me not in to thy father.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=9-#x">
+                [9]
+               </a>
+               And Jonathan said: Far be this from thee: for if I should certainly know that evil is determined by my father against thee, I could do no otherwise than tell thee.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=10-#x">
+                [10]
+               </a>
+               And David answered Jonathan: Who shall bring me word, if thy father should answer thee harshly concerning me?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=11-#x">
+                [11]
+               </a>
+               And Jonathan said to David: Come and let us go out into the field. And when they were both of them gone out into the field,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=12-#x">
+                [12]
+               </a>
+               Jonathan said to David: O Lord God of Israel, if I shall discover my father's mind, tomorrow or the day after, and there be any thing good for David, and I send not immediately to thee, and make it known to thee,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=13-#x">
+                [13]
+               </a>
+               May the Lord do so and so to Jonathan and add still more. But if my father shall continue in malice against thee, I will discover it to thy ear, and will send thee away, that thou mayest go in peace, and the Lord be with thee, as he hath been with my father.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=14-#x">
+                [14]
+               </a>
+               And if I live, thou shalt shew me the kindness of the Lord: but if I die,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=15-#x">
+                [15]
+               </a>
+               Thou shalt not take away thy kindness from my house for ever, when the Lord shall have rooted out the enemies of David, every one of them from the earth,
+               <u>
+                may he take away Jonathan
+               </u>
+               from his house, and may the Lord
+               <u>
+                require it
+               </u>
+               at the hands of David's enemies.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "May he take away Jonathan"
+               </u>
+               : It is a curse upon himself, if he should not be faithful to his promise.-- Ibid.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "Require it"
+               </u>
+               : That is, revenge it upon David's enemies, and upon me, if I should fail of my word given to him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=16-#x">
+                [16]
+               </a>
+               Jonathan therefore made a covenant with the house of David: and the Lord required it at the hands of David's enemies.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=17-#x">
+                [17]
+               </a>
+               And Jonathan swore again to David, because he loved him: for he loved him as his own soul.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=18-#x">
+                [18]
+               </a>
+               And Jonathan said to him: Tomorrow is the new moon, and thou wilt be missed:
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=19-#x">
+                [19]
+               </a>
+               For thy seat will be empty till after tomorrow. So thou shalt go down quickly, and come to the place, where thou must be hid on the day when it is lawful to work, and thou shalt remain beside the stone, which is called Ezel.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=20-#x">
+                [20]
+               </a>
+               And I will shoot three arrows near it, and will shoot as if I were exercising myself at a mark.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=21-#x">
+                [21]
+               </a>
+               And I will send a boy, saying to him: Go and fetch me the arrows.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=22-#x">
+                [22]
+               </a>
+               If I shall say to the boy: Behold the arrows are on this side of thee, take them up: come thou to me, because, there is peace to thee, and there is no evil, as the Lord liveth. But if I shall speak thus to the boy: Behold the arrows are beyond thee: go in peace, for the Lord hath sent thee away.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=23-#x">
+                [23]
+               </a>
+               And concerning the word which I and thou have spoken, the Lord be between thee and me for ever.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=24-#x">
+                [24]
+               </a>
+               So David was hid in the field, and the new moon came, and the king sat down to eat bread.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=25-#x">
+                [25]
+               </a>
+               And when the king sat down upon his chair (according to custom) which was beside the wall, Jonathan arose, and Abner sat by Saul's side, and David's place appeared empty.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=26-#x">
+                [26]
+               </a>
+               And Saul said nothing that day, for he thought it might have happened to him, that he was not clean, nor purified.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=27-#x">
+                [27]
+               </a>
+               And when the second day after the new moon was come, David's place appeared empty again. And Saul said to Jonathan his son: Why cometh not the son of Isai to meat neither yesterday nor today?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=28-#x">
+                [28]
+               </a>
+               And Jonathan answered Saul: He asked leave of me earnestly to go to Bethlehem,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=29-#x">
+                [29]
+               </a>
+               And he said: Let me go, for there is a solemn sacrifice in the city, one of my brethren hath sent for me: and now if I have found favour in thy eyes, I will go quickly, and see my brethren. For this cause he came not to the king's table.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=30-#x">
+                [30]
+               </a>
+               Then Saul being angry against Jonathan said to him: Thou son of a woman that is the ravisher of a man, do I not know that thou lovest the son of Isai to thy own confusion and to the confusion of thy shameless mother?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=31-#x">
+                [31]
+               </a>
+               For as long as the son of Isai liveth upon earth, thou shalt not be established, nor thy kingdom. Therefore now presently send, and fetch him to me: for he is
+               <u>
+                the son of death
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=32-#x">
+                [32]
+               </a>
+               And Jonathan answering Saul his father, said: Why shall he die: what hath he done?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=33-#x">
+                [33]
+               </a>
+               And Saul caught up a spear to strike him. And Jonathan understood that it was determined by his father to kill David.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=34-#x">
+                [34]
+               </a>
+               So Jonathan rose from the table in great anger, and did not eat bread on the second day after the new moon. For he was grieved for David, because his father had put him to confusion.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=35-#x">
+                [35]
+               </a>
+               And when the morning came, Jonathan went into the field, according to the appointment with David, and a little boy with him.
+              </p>
+              <p class="note">
+               [31]
+               <u>
+                "The son of death"
+               </u>
+               : That is, one that deserveth death, and shall surely be put to death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=36-#x">
+                [36]
+               </a>
+               And he said to his boy: Go, and fetch me the arrows which I shoot. And when the boy ran, he shot another arrow beyond the boy.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=37-#x">
+                [37]
+               </a>
+               The boy therefore came to the place of the arrow which Jonathan had shot: and Jonathan cried after the boy, and said: Behold the arrow is there further beyond thee.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=38-#x">
+                [38]
+               </a>
+               And Jonathan cried again after the boy, saying: Make haste speedily, stand not. And Jonathan's boy gathered up the arrows, and brought them to his master:
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=39-#x">
+                [39]
+               </a>
+               And he knew not at all what was doing: for only Jonathan and David knew the matter.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=40-#x">
+                [40]
+               </a>
+               Jonathan therefore gave his arms to the boy, and said to him: Go, and carry them into the city.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=41-#x">
+                [41]
+               </a>
+               And when the boy was gone, David rose out of his place, which was towards the south, and falling on his face to the ground, adored thrice: and kissing one another, they wept together, but David more.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=42-#x">
+                [42]
+               </a>
+               And Jonathan said to David: Go in peace: and let all stand that we have sworn both of us in the name of the Lord, saying: The Lord be between me and thee, and between my seed and thy seed for ever.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=20&amp;l=43-#x">
+                [43]
+               </a>
+               And David arose, and departed: and Jonathan went into the city.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="08001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Kings (1 Samuel)
+              </td>
+              <td class="next">
+               <a href="10001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="09019.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 20
+              </td>
+              <td class="next">
+               <a href="09021.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

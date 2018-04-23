@@ -1,0 +1,385 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ecclesiastes Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/23011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/23011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="22001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Ecclesiastes
+           </td>
+           <td class="next">
+            <a href="24001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="23010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="23012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="23001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="23002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="23003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="23004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="23005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="23006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="23007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="23008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="23009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="23010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="23012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Exhortation to works of mercy, while we have time, to diligence in good, and to the remembrance of death and judgment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               Cast thy bread upon the running waters: for after a long time thou shalt find it again.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               Give a portion to seven, and also to eight: for thou knowest not what evil shall be upon the earth.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               If the clouds be full, they will pour out rain upon the earth.
+               <u>
+                If the tree fall
+               </u>
+               to the south, or to the north, in what place soever it shall fall, there shall it be.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               He that observeth the wind, shall not sow: and he that considereth the clouds, shall never reap.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               As thou knowest not what is the way of the spirit, nor how the bones are joined together in the womb of her that is with child: so thou knowest not the works of God, who is the maker of all.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "If the tree fall"
+               </u>
+               : The state of the soul is unchangeable when once she comes to heaven or hell: and a soul that departs this life in the state of grace, shall never fall from grace: as on the other side, a soul that dies out of the state of grace, shall never come to it. But this does not exclude a place of temporal punishments for such souls as die in the state of grace: yet not so as to be entirely pure: and therefore they shall be saved, indeed, yet so as by fire. 1 Cor. 3. 13, 14, 15.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               In the morning sow thy seed, and In the evening let not thy hand cease: for thou knowest not which may rather spring up, this or that: and if both together, it shall be the better.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               The light is sweet, and it is delightful for the eyes to see the sun.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               If a man live many years, and have rejoiced in them all, he must remember the darksome time, and the many days: which when they shall come, the things past shall be accused of vanity.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               Rejoice therefore, O young man, in thy youth, and let thy heart be in that which is good in the days of thy youth, and walk in the ways of thy heart, and in the sight of thy eyes: and know that for all these God will bring thee into judgment.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="22001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Ecclesiastes
+              </td>
+              <td class="next">
+               <a href="24001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="23010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="23012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

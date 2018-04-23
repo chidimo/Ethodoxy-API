@@ -1,0 +1,729 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/47005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/47005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Matthew
+           </td>
+           <td class="next">
+            <a href="48001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="47006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="47001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="47002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="47003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="47004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="47006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="47007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="47008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="47009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="47010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="47011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="47012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="47013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="47014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="47015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="47016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="47017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="47018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="47019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="47020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="47021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="47022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="47023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="47024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="47025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="47026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="47027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="47028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ's sermon upon the mount. The eight beatitudes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               And seeing the multitudes, he went up into a mountain, and when he was set down, his disciples came unto him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               And opening his mouth, he taught them, saying:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               Blessed are
+               <u>
+                the poor in spirit
+               </u>
+               : for theirs is the kingdom of heaven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               Blessed are the meek: for they shall possess the land.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               Blessed are they that mourn: for they shall be comforted.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "The poor in spirit"
+               </u>
+               : That is, the humble; and they whose spirit is not set upon riches.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               Blessed are they that hunger and thirst after justice: for they shall have their fill.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               Blessed are the merciful: for they shall obtain mercy.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               Blessed are the clean of heart: for they shall see God.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               Blessed are the peacemakers: for they shall be called children of God.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               Blessed are they that suffer persecution for justice' sake: for theirs is the kingdom of heaven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you, untruly, for my sake:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               Be glad and rejoice, for your reward is very great in heaven. For so they persecuted the prophets that were before you.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               You are the salt of the earth. But if the salt lose its savour, wherewith shall it be salted? It is good for nothing any more but to be cast out, and to be trodden on by men.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               You are the light of the world. A city seated on a mountain cannot be hid.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but
+               <u>
+                to fulfill
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               For
+               <u>
+                amen
+               </u>
+               I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               He therefore that shall break one of these least commandments, and shall so teach men, shall be called the least in the kingdom of heaven. But he that shall do and teach, he shall be called great in the kingdom of heaven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               For I tell you, that unless your justice abound more than that of
+               <u>
+                the scribes and Pharisees
+               </u>
+               , you shall not enter into the kingdom of heaven.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "To fulfill"
+               </u>
+               : By accomplishing all the figures and prophecies; and perfecting all that was imperfect.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "Amen"
+               </u>
+               : That is, assuredly of a truth. This Hebrew word, amen, is here retained by the example and authority of all the four Evangelists. It is used by our Lord as a strong asseveration, and affirmation of the truth.
+              </p>
+              <p class="note">
+               [20]
+               <u>
+                "The scribes and Pharisees"
+               </u>
+               : The scribes were the doctors of the law of Moses: the Pharisees were a precise set of men, making profession of a more exact observance of the law: and upon that account greatly esteemed among the people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               You have heard that it was said to them of old: Thou shalt not kill. And whosoever shall kill
+               <u>
+                shall be in danger of the judgment
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=22-#x">
+                [22]
+               </a>
+               But I say to you, that whosoever is angry with his brother, shall be in danger of the judgment. And whosoever shall say to his brother,
+               <u>
+                Raca
+               </u>
+               , shall be in danger of the council. And whosoever shall say,
+               <u>
+                Thou Fool
+               </u>
+               , shall be in danger of hell fire.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=23-#x">
+                [23]
+               </a>
+               If therefore thou offer thy gift at the altar, and there thou remember that thy brother hath any thing against thee;
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=24-#x">
+                [24]
+               </a>
+               Leave there thy offering before the altar, and go first to be reconciled to thy brother: and then coming thou shalt offer thy gift.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=25-#x">
+                [25]
+               </a>
+               Be at agreement with thy adversary betimes, whilst thou art in the way with him: lest perhaps the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "Shall be in danger of the judgment"
+               </u>
+               : That is, shall deserve to be punished by that lesser tribunal among the Jews, called the Judgment, which took cognizance of such crimes.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Raca"
+               </u>
+               : A word expressing great indignation or contempt. Shall be in danger of the council ... That is, shall deserve to be punished by the highest court of judicature, called the Council, or Sanhedrim, consisting of seventy-two persons, where the highest causes were tried and judged, which was at Jerusalem.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Thou fool"
+               </u>
+               : This was then looked upon as a heinous injury, when uttered with contempt, spite, or malice: and therefore is here so severely condemned. Shall be in danger of hell fire-- literally, according to the Greek, shall deserve to be cast into the Gehenna of fire. Which words our Saviour made use of to express the fire and punishments of hell.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=26-#x">
+                [26]
+               </a>
+               Amen I say to thee, thou shalt not go out from thence till thou repay the last farthing.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=27-#x">
+                [27]
+               </a>
+               You have heard that it was said to them of old: Thou shalt not commit adultery.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=28-#x">
+                [28]
+               </a>
+               But I say to you, that whosoever shall look on a woman to lust after her, hath already committed adultery with her in his heart.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=29-#x">
+                [29]
+               </a>
+               And if thy right eye
+               <u>
+                scandalize thee
+               </u>
+               , pluck it out and cast it from thee. For it is expedient for thee that one of thy members should perish, rather than that thy whole body be cast into hell.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=30-#x">
+                [30]
+               </a>
+               And if thy right hand scandalize thee, cut it off, and cast it from thee: for it is expedient for thee that one of thy members should perish, rather than that thy whole body be cast into hell.
+              </p>
+              <p class="note">
+               [29]
+               <u>
+                "Scandalize thee"
+               </u>
+               : That is, if it be a stumblingblock, or occasion of sin to thee. By which we are taught to fly the immediate occasions of sin, though they be as dear to us, or as necessary as a hand or an eye.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=31-#x">
+                [31]
+               </a>
+               And it hath been said, whosoever shall put away his wife, let him give her a bill of divorce.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=32-#x">
+                [32]
+               </a>
+               But I say to you, that whosoever shall put away his wife, excepting for the cause of fornication, maketh her to commit adultery: and he that shall marry her that is put away, committeth adultery.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=33-#x">
+                [33]
+               </a>
+               Again you have heard that it was said to them of old, Thou shalt not forswear thyself: but thou shalt perform thy oaths to the Lord.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=34-#x">
+                [34]
+               </a>
+               But I say to you
+               <u>
+                not to swear at all
+               </u>
+               , neither by heaven, for it is the throne of God:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=35-#x">
+                [35]
+               </a>
+               Nor by the earth, for it is his footstool: nor by Jerusalem, for it is the city of the great king:
+              </p>
+              <p class="note">
+               [34]
+               <u>
+                "Not to swear at all"
+               </u>
+               : It is not forbid to swear in truth, justice and judgment; to the honour of God, or our own or neighbour's just defence: but only to swear rashly, or profanely, in common discourse, and without necessity.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=36-#x">
+                [36]
+               </a>
+               Neither shalt thou swear by thy head, because thou canst not make one hair white or black.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=37-#x">
+                [37]
+               </a>
+               But let your speech be yea, yea: no, no: and that which is over and above these, is of evil.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=38-#x">
+                [38]
+               </a>
+               You have heard that it hath been said, An eye for an eye, and a tooth for a tooth.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=39-#x">
+                [39]
+               </a>
+               But I say to you
+               <u>
+                not to resist evil
+               </u>
+               : but if one strike thee on thy right cheek, turn to him also the other:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=40-#x">
+                [40]
+               </a>
+               And if a man will contend with thee in judgment, and take away thy coat, let go thy cloak also unto him.
+              </p>
+              <p class="note">
+               [39]
+               <u>
+                "Not to resist evil"
+               </u>
+               : What is here commanded, is a Christian patience under injuries and affronts, and to be willing even to suffer still more, rather than to indulge the desire of revenge: but what is further added does not strictly oblige according to the letter, for neither did Christ nor St. Paul turn the other cheek. St. John 18., and Acts 23.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=41-#x">
+                [41]
+               </a>
+               And whosoever will force thee one mile, go with him other two,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=42-#x">
+                [42]
+               </a>
+               Give to him that asketh of thee and from him that would borrow of thee turn not away.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=43-#x">
+                [43]
+               </a>
+               You have heard that it hath been said, Thou shalt love thy neighbour, and hate thy enemy.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=44-#x">
+                [44]
+               </a>
+               But I say to you, Love your enemies: do good to them that hate you: and pray for them that persecute and calumniate you:
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=45-#x">
+                [45]
+               </a>
+               That you may be the children of your Father who is in heaven, who maketh his sun to rise upon the good, and bad, and raineth upon the just and the unjust.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=46-#x">
+                [46]
+               </a>
+               For if you love them that love you, what reward shall you have? do not even
+               <u>
+                the publicans
+               </u>
+               this?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=47-#x">
+                [47]
+               </a>
+               And if you salute your brethren only, what do you more? do not also the heathens this?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=5&amp;l=48-#x">
+                [48]
+               </a>
+               Be you therefore perfect, as also your heavenly Father is perfect.
+              </p>
+              <p class="note">
+               [46]
+               <u>
+                "The publicans"
+               </u>
+               : These were the gatherers of the public taxes: a set of men, odious and infamous among the Jews, for their extortions and injustice.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Matthew
+              </td>
+              <td class="next">
+               <a href="48001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="47006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

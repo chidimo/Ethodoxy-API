@@ -1,0 +1,465 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/07004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/07004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judges
+           </td>
+           <td class="next">
+            <a href="08001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="07003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="07005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="07001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="07002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="07003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="07005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="07006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="07007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="07008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="07009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="07010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="07011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="07012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="07013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="07014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="07015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="07016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="07017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="07018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="07019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="07020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="07021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Debbora and Barac deliver Israel from Jabin and Sisara, Jahal killeth Sisara.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               And the children of Israel again did evil in the sight of the Lord after the death of Aod,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               And the Lord delivered them up into the hands of Jaban king of Chanaan, who reigned in Asor: and he had a general of his army named Sisara, and he dwelt in Haroseth of the Gentiles.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               And the children of Israel cried to the Lord: for he had nine hundred chariots set with scythes, and for twenty years had grievously oppressed them.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               And there was at that time Debbora a prophetess the wife of Lapidoth, who judged the people,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               And she sat under a palm tree, which was called by her name, between Rama and Bethel in mount Ephraim: and the children of Israel came up to her for all judgment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And she sent and called Barac the son of Abinoem out of Cedes in Nephtali: and she said to him: The Lord God of Israel hath commanded thee: Go, and lead an army to mount Thabor, and thou shalt take with thee ten thousand fighting men of the children of Nephtali, and of the children of Zabulon:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               And I will bring unto thee in the place of the torrent Cison, Sisara the general of Jabin's army, and his chariots, and all his multitude, and will deliver them into thy hand.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               And Barac said to her: If thou wilt come with me, I will go: if thou wilt not come with me, I will not go.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               She said to him: I will go indeed with thee, but at this time the victory shall not be attributed to thee, because Sisara shall be delivered into the hand of a woman. Debbora therefore arose, and went with Barac to Cedes.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               And he called unto him Zabulon and Nepbtali, and went up with ten thousand fighting men, having Debbora in his company.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               Now Haber the Cinite had some time before departed from the rest of the Cinites his brethren the sons of Hobab, the kinsman of Moses: and had pitched his tents unto the valley which is called Sellnim, and was near Cedes.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               And it was told Sisara, that Barac the son of Ablinoem was gone up to mount Thabor:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               And he gathered together his nine hundred chariots armed with scythes, and all his army from Haroseth of the Gentiles to the torrent Cison.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               And Debbora said to Barac: Arise, for this is the day wherein the Lord hath delivered Sisara into thy hands: behold he is thy leader. And Barac went down from mount Thabor, and ten thousand fighting men with him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And the Lord struck a terror into Sisara, and all his chariots, and all his multitude, with the edge of the sword, at the sight of Barac, insomuch that Sisara leaping down from off his chariot, fled away on foot.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               And Barac pursued after the fleeing chariots and the army unto Haroseth of the Gentiles, and all the multitude of the enemies was utterly destroyed.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               But Sisara fleeing came to the tent of Jahel the wife of Haber the Cinite, for there was peace between Jabin the king of Asor, and the house of Haber the Cinite.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               And Jahel went forth to meet Sisara, and said to him: Come in to me, my lord, come in, fear not. He went in to her tent, and being covered by her with a cloak,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               Said to her: Give me, I beseech thee, a little water, for I am very thirsty. She opened a bottle of milk, and gave him to drink, and covered him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               And Sisara said to her: Stand before the door of the tent, and when any shall come and inquire of thee, saying: Is there any man here? thou shalt say: There is none.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               So Jahel Haber's wife took a nail of the tent, and taking also a hammer: and going in softly, and with silence, she put the nail upon the temples of his head, and striking it With the hammer, drove it through his brain fast into the ground: and so passing from deep sleep to death, he fainted away and died.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               And behold Barac came pursuing after Sisara: and Jahel went out to meet him, and said to him: Come, and I will shew thee, the man whom thou seekest. And when he came into her tent, be saw Sisara lying dead, and the nail fastened in his temples.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               So God that day humbled Jabin the king of Chanaan before the children of Israel:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               Who grew daily stronger, and with a mighty hand overpowered Jabin king of Chanaan, till they quite destroyed him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judges
+              </td>
+              <td class="next">
+               <a href="08001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="07003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="07005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

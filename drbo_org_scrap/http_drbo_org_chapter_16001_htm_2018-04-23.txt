@@ -1,0 +1,349 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Esdras (Nehemiah) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/16001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/16001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="15001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Second Book Of Esdras (Nehemiah)
+         </td>
+         <td class="next">
+          <a href="17001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="16002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="16002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="16003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="16004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="16005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="16006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="16007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="16008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="16009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="16010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="16011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="16012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="16013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Nehemias hearing the miserable state of his countrymen in Judea, lamenteth, fasteth, and prayeth to God for their relief.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The words of Nehemias the son of Helchias. And it came to pass in the month of Casleu, in the twentieth year, as I was in the castle of Susa,
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             That Hanani one of my brethren came, he and some men of Juda; and I asked them concerning the Jews, that remained and were left of the captivity, and concerning Jerusalem.
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And they said to me: They that have remained, and are left of the captivity there in the province, are in great affliction, and reproach: and the wall of Jerusalem is broken down, and the gates thereof are burnt with fire.
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And when I had heard these words, I sat down, and wept, and mourned for many days: and I fasted, and prayed before the face of the God of heaven.
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And I said: I beseech thee, O Lord God of heaven, strong, great, and terrible, who keepest covenant and mercy with those that love thee, and keep thy commandments:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             Let thy ears be attentive, and thy eyes open, to hear the prayer of thy servant, which I pray before thee now, night and day, for the children of Israel thy servants: and I confess the sins of the children of Israel, by which they have sinned against thee: I and my father's house have sinned.
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             We have been seduced by vanity, and have not kept thy commandments, and ceremonies and judgments, which thou hast commanded thy servant Moses.
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Remember the word that thou commandedst to Moses thy servant, saying: If you shall transgress, I will scatter you abroad among the nations:
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             But if you return to me, and keep my commandments, and do them, though you should be led away to the uttermost parts of the world, I will gather you from thence, and bring you back to the place which I have chosen for my name to dwell there.
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And these are thy servants, and thy people: whom thou hast redeemed by thy great strength, and by thy mighty hand.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=16&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             I beseech thee, O Lord, let thy ear be attentive to the prayer of thy servant, and to the prayer of thy servants who desire to fear thy name: and direct thy servant this day, and give him mercy before this man. For I was the king's cupbearer.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="15001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Second Book Of Esdras (Nehemiah)
+            </td>
+            <td class="next">
+             <a href="17001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="16002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

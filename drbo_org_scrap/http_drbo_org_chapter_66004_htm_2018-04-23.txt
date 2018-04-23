@@ -1,0 +1,383 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, James Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/66004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/66004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="65001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint James
+           </td>
+           <td class="next">
+            <a href="67001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="66003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="66005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="66001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="66002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="66003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="66005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The evils that flow from yielding to concupiscence and being friends to this world. Admonitions against pride, detraction and the like.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               From whence are wars and contentions among you? Are they not hence, from your concupiscences, which war in your members?
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               You covet, and have not: you kill, and envy, and can not obtain. You contend and war, and you have not, because you ask not.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               You ask, and receive not; because you ask amiss: that you may consume it on your concupiscences.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               Adulterers, know you not that the friendship of this world is the enemy of God? Whosoever therefore will be a friend of this world, becometh an enemy of God.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               Or do you think that the scripture saith in vain: To envy doth the spirit covet which dwelleth in you?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               But he giveth greater grace. Wherefore he saith: God resisteth the proud, and giveth grace to the humble.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               Be subject therefore to God, but resist the devil, and he will fly from you.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners: and purify your hearts, ye double minded.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               Be afflicted, and mourn, and weep: let your laughter be turned into mourning, and your joy into sorrow.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               Be humbled in the sight of the Lord, and he will exalt you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               Detract not one another, my brethren. He that detracteth his brother, or he that judgeth his brother, detracteth the law, and judgeth the law. But if thou judge the law, thou art not a doer of the law, but a judge.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               There is one lawgiver, and judge, that is able to destroy and to deliver.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               But who art thou that judgest thy neighbour? Behold, now you that say: Today or tomorrow we will go into such a city, and there we will spend a year, and will traffic, and make our gain.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               Whereas you know not what shall be on the morrow.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               For what is your life? It is a vapour which appeareth for a little while, and afterwards shall vanish away. For that you should say: If the Lord will, and if we shall live, we will do this or that.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               But now you rejoice in your arrogancies. All such rejoicing is wicked.
+               <a href="/x/d?b=drb&amp;bk=66&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               To him therefore who knoweth to do good, and doth it not, to him it is sin.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="65001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint James
+              </td>
+              <td class="next">
+               <a href="67001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="66003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="66005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

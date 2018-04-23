@@ -1,0 +1,616 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Daniel Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/32002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/32002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="31001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Daniel
+           </td>
+           <td class="next">
+            <a href="33001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="32001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="32003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="32001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="32003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="32004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="32005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="32006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="32007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="32008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="32009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="32010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="32011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="32012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="32013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="32014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Daniel, by divine revelation, declares the dream of Nabuchodonosor, and the interpretation of it. He is highly honoured by the king.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               In
+               <u>
+                the second year
+               </u>
+               of the reign of Nabuchodonosor, Nabuchodonosor had a dream, and his spirit was terrified, and his dream went out of his mind.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               Then the king commanded to call together the diviners and the wise men, and the magicians, and
+               <u>
+                the Chaldeans
+               </u>
+               : to declare to the king his dreams: so they came and stood before the king.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And the king said to them: I saw a dream: and being troubled in mind I know not what I saw.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And the Chaldeans answered the king in Syriac: O king, live for ever: tell to thy servants thy dream, and we will declare the interpretation thereof.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               And the king answering said to the Chaldeans: The thing is gone out of my mind: unless you tell me the dream, and the meaning thereof, you shall be put to death, and your houses shall be confiscated.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "The second year"
+               </u>
+               : Viz., from the death of his father Nabopolassar; for he had reigned before as partner with his father in the empire.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "The Chaldeans"
+               </u>
+               : That is, the astrologers, that pretended to divine by stars.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               But if you tell the dream, and the meaning of it, you shall receive of me rewards, and gifts, and great honour: therefore tell me the dream, and the interpretation thereof.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               They answered again and said: Let the king tell his servants the dream, and we will declare the interpretation of it.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               The king answered, and said: I know for certain that you seek to gain time, since you know that the thing is gone from me.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               If therefore you tell me not the dream, there is one sentence concerning you, that you have also framed a lying interpretation, and full of deceit, to speak before me till the time pass away. Tell me therefore the dream, that I may know that you also give a true interpretation thereof.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               Then the Chaldeans answered before the king, and said: There is no man upon earth, that can accomplish thy word, O king, neither doth any king, though great and mighty, ask such a thing of any diviner, or wise man, or Chaldean.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               For the thing that thou askest, O king, is difficult; nor can any one be found that can shew it before the king, except the gods, whose conversation is not with men.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               Upon hearing this, the king in fury, and in great wrath, commanded that all the wise men of Babylon should be put to death.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               And the decree being gone forth, the wise men were slain: and Daniel and his companions were sought for, to be put to death.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               Then Daniel inquired concerning the law and the sentence, of Arioch the general of the king's army, who was gone forth to kill the wise men of Babylon.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               And he asked him that had received the orders of the king, why so cruel a sentence was gone forth from the face of the king. And when Arioch had told the matter to Daniel,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               Daniel went in and desired of the king, that he would give him time to resolve the question and declare it to the king.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And he went into his house, and told the matter to Ananias, and Misael, and Azarias his companions:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               To the end that they should ask mercy at the face of the God of heaven concerning this secret, and that Daniel and his companions might not perish with the rest of the wise men of Babylon.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               Then was the mystery revealed to Daniel by a vision in the night: and Daniel blessed the God of heaven,
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               And speaking he said: Blessed be the name of the Lord from eternity and for evermore: for wisdom and fortitude are his.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               And he changeth times and ages: taketh away kingdoms and establisheth them, giveth wisdom to the wise, and knowledge to them that have understanding.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               He revealeth deep and hidden things, and knoweth what is in darkness: and light is with him.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               To thee, O God of our fathers, I give thanks, and I praise thee: because thou hast given me wisdom and strength: and now thou hast shewn me what we desired of thee, for thou hast made known to us, the king's discourse.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               After this Daniel went in to Arioch, to whom the king had given orders to destroy the wise men of Babylon, and he spoke thus to him: Destroy not the wise men of Babylon: bring me in before the king, and I will tell the solution to the king.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               Then Arioch in haste brought in Daniel to the king, and said to him: I have found a man of the children of the captivity of Juda, that will resolve the question to the king.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               The king answered, and said to Daniel, whose name was Baltassar: Thinkest thou indeed that thou canst tell me the dream that I saw, and the interpretation thereof?
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               And Daniel made answer before the king, and said: The secret that the king desireth to know, none of the wise men, or the philosophers, or the diviners, or the soothsayers can declare to the king.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               But there is a God in heaven that revealeth mysteries, who hath shewn to thee, O king Nabuchodonosor, what is to come to pass in the latter times. Thy dream, and the visions of thy head upon thy bed, are these:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               Thou, O king, didst begin to think in thy bed, what should come to pass hereafter: and he that revealeth mysteries shewed thee what shall come to pass.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=30-#x">
+                [30]
+               </a>
+               To me also this secret is revealed, not by any wisdom that I have more than all men alive: but that the interpretation might be made manifest to the king, and thou mightest know the thoughts of thy mind.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=31-#x">
+                [31]
+               </a>
+               Thou, O king, sawest, and behold there was as it were a great statue: this statue, which was great and high, tall of stature, stood before thee, and the look thereof was terrible.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=32-#x">
+                [32]
+               </a>
+               The head of this statue was of fine gold, but the breast and the arms of silver, and the belly and the thighs of brass:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=33-#x">
+                [33]
+               </a>
+               And the legs of iron, the feet part of iron and part of clay.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=34-#x">
+                [34]
+               </a>
+               Thus thou sawest, till a stone was cut out of a mountain without hands: and it struck the statue upon the feet thereof that were of iron and of clay, and broke them in pieces.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=35-#x">
+                [35]
+               </a>
+               Then was the iron, the clay, the brass, the silver, and the gold broken to pieces together, and became like the chaff of a summer's threshingfloor, and they were carried away by the wind: and there was no place found for them: but the stone that struck the statue, became a great mountain, and filled the whole earth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=36-#x">
+                [36]
+               </a>
+               This is the dream: we will also tell the interpretation thereof before thee, O king.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=37-#x">
+                [37]
+               </a>
+               Thou art a king of kings: and the God of heaven hath given thee a kingdom, and strength, and power, and glory:
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=38-#x">
+                [38]
+               </a>
+               And all places wherein the children of men, and the beasts of the field do dwell: he hath also given the birds of the air into thy hand, and hath put all things under thy power: thou therefore art the head of gold.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=39-#x">
+                [39]
+               </a>
+               And after thee shall rise up
+               <u>
+                another kingdom
+               </u>
+               , inferior to thee, of silver: and another
+               <u>
+                third kingdom
+               </u>
+               of brass, which shall rule over all the world.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=40-#x">
+                [40]
+               </a>
+               And
+               <u>
+                the fourth kingdom
+               </u>
+               shall be as iron. As iron breaketh into pieces, and subdueth all things, so shall that break and destroy all these.
+              </p>
+              <p class="note">
+               [39]
+               <u>
+                "Another kingdom"
+               </u>
+               : Viz., that of the Medes and Persians. Ibid.
+              </p>
+              <p class="note">
+               [39]
+               <u>
+                "Third kingdom"
+               </u>
+               : Viz., that of Alexander the Great.
+              </p>
+              <p class="note">
+               [40]
+               <u>
+                "The fourth kingdom"
+               </u>
+               : Some understand this of the successors of Alexander, the kings of Syria and Egypt, others of the Roman empire, and its civil wars.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=41-#x">
+                [41]
+               </a>
+               And whereas thou sawest the feet, and the toes, part of potter's clay, and part of iron: the kingdom shall be divided, but yet it shall take its origin from the iron, according as thou sawest the iron mixed with the miry clay.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=42-#x">
+                [42]
+               </a>
+               And as the toes of the feet were part of iron, and part of clay, the kingdom shall be partly strong, and partly broken.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=43-#x">
+                [43]
+               </a>
+               And whereas thou sawest the iron mixed with miry clay, they shall be mingled indeed together with the seed of man, but they shall not stick fast one to another, as iron cannot be mixed with clay.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=44-#x">
+                [44]
+               </a>
+               But in the days of those kingdoms the God of heaven will set up
+               <u>
+                a kingdom
+               </u>
+               that shall never be destroyed, and his kingdom shall not be delivered up to another people, and it shall break in pieces, and shall consume all these kingdoms, and itself shall stand for ever.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=45-#x">
+                [45]
+               </a>
+               According as thou sawest that the stone was cut out of the mountain without hands, and broke in pieces, the clay, and the iron, and the brass, and the silver, and the gold, the great God hath shewn the king what shall come to pass hereafter, and the dream is true, and the interpretation thereof is faithful.
+              </p>
+              <p class="note">
+               [44]
+               <u>
+                "A kingdom"
+               </u>
+               : Viz., the kingdom of Christ in the Catholic Church which cannot be destroyed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=46-#x">
+                [46]
+               </a>
+               Then king Nabuchodonosor fell on his face, and worshipped Daniel, and commanded that they should offer in sacrifice to him victims and incense.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=47-#x">
+                [47]
+               </a>
+               And the king spoke to Daniel, and said: Verily your God is the God of gods, and Lord of kings, and a revealer of hidden things: seeing thou couldst discover this secret.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=48-#x">
+                [48]
+               </a>
+               Then the king advanced Daniel to a high station, and gave him many and great gifts: and he made him governor over all the provinces of Babylon, and chief of the magistrates over all the wise men of Babylon.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=2&amp;l=49-#x">
+                [49]
+               </a>
+               And Daniel requested of the king, and he appointed Sidrach, Misach, and Abdenago over the works of the province of Babylon: but Daniel himself was in the king's palace.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="31001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Daniel
+              </td>
+              <td class="next">
+               <a href="33001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="32001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="32003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

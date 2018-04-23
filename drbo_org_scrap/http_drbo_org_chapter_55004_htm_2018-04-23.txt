@@ -1,0 +1,469 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Galatians Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/55004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/55004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="54001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Galatians
+           </td>
+           <td class="next">
+            <a href="56001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="55003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="55005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="55001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="55002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="55003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="55005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="55006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ has freed us from the servitude of the law. We are the freeborn sons of Abraham.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               Now I say, as long as the heir is a child, he differeth nothing from a servant, though he be lord of all;
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               But is under tutors and governors until the time appointed by the father:
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               So we also, when we were children, were serving
+               <u>
+                under the elements
+               </u>
+               of the world.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               But when the fulness of the time was come, God sent his Son, made of a woman, made under the law:
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               That he might redeem them who were under the law: that we might receive the adoption of sons.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Under the elements"
+               </u>
+               : That is, under the first rudiments of religion, in which the carnal Jews were trained up; or under those corporeal creatures, used in their manifold rites, sacrifices, and sacraments.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And because you are sons, God hath sent the Spirit of his Son into your hearts, crying: Abba, Father.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               Therefore now he is not a servant, but a son. And if a son, an heir also through God.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               But then indeed, not knowing God, you served them, who, by nature, are not gods.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               But now, after that you have known God, or rather are known by God: how turn you again to the weak and needy elements, which you desire to serve again?
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               <u>
+                You observe days
+               </u>
+               , and months, and times, and years.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "You observe days"
+               </u>
+               : He speaks not of the observation of the Lord's day, or other Christian festivals; but either of the superstitious observation of days lucky and unlucky; or else of the Jewish festivals, to the observance of which, certain Jewish teachers sought to induce the Galatians.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               I am afraid of you, lest perhaps I have laboured in vain among you.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               Be ye as I, because I also am as you: brethren, I beseech you: you have not injured me at all.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               And you know, how through infirmity of the flesh, I preached the gospel to you heretofore: and your temptation in my flesh,
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               You despised not, nor rejected: but received me as an angel of God, even as Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               Where is then your blessedness? For I bear you witness, that, if it could be done, you would have plucked out your own eyes, and would have given them to me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               Am I then become your enemy, because I tell you the truth?
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               They are zealous in your regard not well: but they would exclude you, that you might be zealous for them.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               But be zealous for that which is good in a good thing always: and not only when I am present with you.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               My little children, of whom I am in labour again, until Christ be formed in you.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               And I would willingly be present with you now, and change my voice: because I am ashamed for you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               Tell me, you that desire to be under the law, have you not read the law?
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               For it is written that Abraham had two sons: the one by a bondwoman, and the other by a free woman.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               But he who was of the bondwoman, was born according to the flesh: but he of the free woman, was by promise.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               Which things are said by an allegory. For these are the two testaments. The one from mount Sina, engendering unto bondage; which is Agar:
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               For Sina is a mountain in Arabia, which hath affinity to that Jerusalem which now is, and is in bondage with her children.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               But that Jerusalem, which is above, is free: which is our mother.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=27-#x">
+                [27]
+               </a>
+               For it is written: Rejoice, thou barren, that bearest not: break forth and cry, thou that travailest not: for many are the children of the desolate, more than of her that hath a husband.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=28-#x">
+                [28]
+               </a>
+               Now we, brethren, as Isaac was, are the children of promise.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=29-#x">
+                [29]
+               </a>
+               But as then he, that was born according to the flesh, persecuted him that was after the spirit; so also it is now.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=30-#x">
+                [30]
+               </a>
+               But what saith the scripture? Cast out the bondwoman and her son; for the son of the bondwoman shall not be heir with the son of the free woman.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=4&amp;l=31-#x">
+                [31]
+               </a>
+               So then, brethren, we are not the children of the bondwoman, but of the free: by the freedom wherewith Christ has made us free.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="54001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Galatians
+              </td>
+              <td class="next">
+               <a href="56001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="55003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="55005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

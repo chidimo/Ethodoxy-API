@@ -1,0 +1,538 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Paralipomenon (1 Chronicles) Chapter 15
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/13015.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/13015.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="12001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            1 Paralipomenon (1 Chronicles)
+           </td>
+           <td class="next">
+            <a href="14001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13014.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 15
+           </td>
+           <td class="next">
+            <a href="13016.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="13001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="13002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="13003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="13004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="13005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="13006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="13007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="13008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="13009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="13010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="13011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="13012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="13013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="13014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             15
+            </td>
+            <td width="30">
+             <a href="13016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="13017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="13018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="13019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="13020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="13021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="13022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="13023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="13024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="13025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="13026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="13027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="13028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="13029.htm">
+              29
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The ark is brought into the city of David, with great solemnity. Michol derideth David's devotion.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=1-#x">
+                [1]
+               </a>
+               He made also houses for himself in the city of David: and built a place for the ark of God, and pitched a tabernacle for it.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=2-#x">
+                [2]
+               </a>
+               Then David said: No one ought to carry the ark of God, but the Levites, whom the Lord hath chosen to carry it, and to minister unto himself for ever.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=3-#x">
+                [3]
+               </a>
+               And he gathered all Israel together into Jerusalem, that the ark of God might be brought into its place, which he had prepared for it.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=4-#x">
+                [4]
+               </a>
+               And the sons of Aaron also, and the Levites.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=5-#x">
+                [5]
+               </a>
+               Of the children of Caath, Uriel was the chief, and his brethren a hundred and twenty.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=6-#x">
+                [6]
+               </a>
+               Of the sons of Merari, Asaia the chief, and his brethren two hundred and twenty.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=7-#x">
+                [7]
+               </a>
+               Of the sons of Gersom, Joel the chief, and his brethren a hundred and thirty.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=8-#x">
+                [8]
+               </a>
+               Of the sons of Elisaphan, Semeias the chief: and his brethren two hundred.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=9-#x">
+                [9]
+               </a>
+               Of the sons of Hebron, Eliel the chief: and his brethren eighty.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=10-#x">
+                [10]
+               </a>
+               Of the sons of Oziel, Aminadab the chief: and his brethren a hundred and twelve.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=11-#x">
+                [11]
+               </a>
+               And David called Sadoc, and Abiathar the priests, and the Levites, Uriel, Asaia, Joel, Semeia, Eliel, and Aminadab:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=12-#x">
+                [12]
+               </a>
+               And he said to them: You that are the heads of the Levitical families, be sanctified with your brethren, and brine the ark of the Lord the God of Israel to the place, which is prepared for it:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=13-#x">
+                [13]
+               </a>
+               Lest as the Lord at first struck us, because you were not present, the same should now also come to pass, by our doing some thing against the law.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=14-#x">
+                [14]
+               </a>
+               So the priests and the Levites were sanctified, to carry the ark of the Lord the God of Israel.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=15-#x">
+                [15]
+               </a>
+               And the sons of Levi took the ark of God as Moses had commanded, according to the word of the Lord, upon their shoulders, with the staves.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=16-#x">
+                [16]
+               </a>
+               And David spoke to the chiefs of the Levites, to appoint some of their brethren to be singers with musical instruments, to wit, on psalteries, and harps, and cymbals, that the joyful noise might resound on high.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=17-#x">
+                [17]
+               </a>
+               And they appointed Levites, Hemam the son of Joel, and of his brethren Asaph the son of Barachias: and of the sons of Merari, their brethren: Ethan the son of Casaia.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=18-#x">
+                [18]
+               </a>
+               And with them their brethren: in the second rank, Zacharias, and Ben, and Jaziel, and Semiramoth, and Jahiel, and Ani, and Eliab, and Banaias, and Maasias, and Mathathias, and Eliphalu, and Macenias, and Obededom, and Jehiel, the porters.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=19-#x">
+                [19]
+               </a>
+               Now the singers, Heman, Asaph, and Ethan, sounded with cymbals of brass.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=20-#x">
+                [20]
+               </a>
+               And Zacharias, and Oziel, and Semiramoth, and Jehiel, and Ani, and Eliab, and Maasias, and Banaias, sung mysteries upon psalteries.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=21-#x">
+                [21]
+               </a>
+               And Mathathias, and Eliphalu, and Macenias and Obededom, and Jehiel and Ozaziu, sung a song of victory for the octave upon harps.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=22-#x">
+                [22]
+               </a>
+               And Chonenias chief of the Levites, presided over
+               <u>
+                the prophecy, to give out the tunes
+               </u>
+               : for he was very skillful.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=23-#x">
+                [23]
+               </a>
+               And Barachias, and Elcana, were doorkeepers of the ark.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=24-#x">
+                [24]
+               </a>
+               And Sebenias, and Josaphat, and Nathanael, and Amasai, and Zacharias, and Banaias, and Eliezer the priests, sounded with trumpets, before the ark of God: and Obededom and Jehias were porters of the ark.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=25-#x">
+                [25]
+               </a>
+               So David and all the ancients of Israel, and the captains over thousands, went to bring the ark of the covenant of the Lord out of the house of Obededom with joy.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "The prophecy, to give out the tunes"
+               </u>
+               : Singing praises to God is here called prophecy: the more, because these singers were often inspired men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=26-#x">
+                [26]
+               </a>
+               And when God had helped the Levites who carried the ark of the covenant of the Lord, they offered in sacrifice seven oxen, and seven rams.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=27-#x">
+                [27]
+               </a>
+               And David was clothed with a robe of fine linen, and all the Levites that carried the ark, and the singing men, and Chonenias the ruler of the prophecy among the singers: and David also had on him an ephod of linen.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=28-#x">
+                [28]
+               </a>
+               And all Israel brought the ark of the covenant of the Lord with joyful shouting, and sounding with the sound of the comet, and with trumpets, and cymbals, and psalteries, and harps.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=15&amp;l=29-#x">
+                [29]
+               </a>
+               And when the ark of the covenant of the Lord was come to the city of David, Michol the daughter of Saul looking out at a window, saw king David dancing and playing, and she despised him in her heart.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="12001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               1 Paralipomenon (1 Chronicles)
+              </td>
+              <td class="next">
+               <a href="14001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13014.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 15
+              </td>
+              <td class="next">
+               <a href="13016.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

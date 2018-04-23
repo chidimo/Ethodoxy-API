@@ -1,0 +1,548 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/07008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/07008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judges
+           </td>
+           <td class="next">
+            <a href="08001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="07007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="07009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="07001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="07002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="07003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="07004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="07005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="07006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="07007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="07009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="07010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="07011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="07012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="07013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="07014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="07015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="07016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="07017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="07018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="07019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="07020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="07021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Gedeon appeaseth the Ephraimites. Taketh Zebee and Salmana. Destroyeth Soccoth and Phanuel. Refuseth to be king. Maketh an ephod of the gold of the prey, and dieth in a good old age. The people return to idolatry.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               And the men of Ephraim said to him: What is this that thou meanest to do, that thou wouldst not call us when thou wentest to fight against Madian? and they chid him sharply and almost offered violence.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               And he answered them:
+               <u>
+                What could I
+               </u>
+               have done like to that which you have done? Is not one bunch of grapes of Ephraim better than the vintages of Abiezer?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               The Lord hath delivered into your bands the princes of Madian, Oreb and Zeb: what could I have done like to what you have done? And when he had said this, their spirit was appeased, with which they swelled against him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               And when Gedeon was come to the Jordan, he passed over it with the three hundred men, that were with him: who were so weary that they could not pursue after them that fled.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               And he said to the men of Soccoth: Give, I beseech you, bread to the people that is with me, for they are faint: that we may pursue Zebee, and Salmana the kings of Madian.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "What could I"
+               </u>
+               : A meek and humble answer appeased them; who otherwise might have come to extremities. So great is the power of humility both with God and man.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               The princes of Soccoth answered: Peradventure the palms of the hands of Zebee and Salmana are in thy hand, and therefore thou demandest that we should give bread to thy army.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               And he said to them: When the Lord therefore shall have delivered Zebee and Salmana into my hands, I will thresh your flesh with the thorns and briers of the desert.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               And going up from thence, he came to Phanuel: and he spoke the like things to the men of that place. And they also answered him, as the men of Soccoth had answered.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               He said therefore to them also: When I shall return a conqueror in peace, I will destroy this tower.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               But Zebee and Salmana were resting with all their army. For fifteen thousand men were left of all the troops of the eastern people, and one hundred and twenty thousand warriors that drew the sword, were slain.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And Gedeon went up by the way of them that dwelt in tents, on the east of Nobe and Jegbaa, and smote the camp of the enemies, who were secure, and suspected no hurt.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               And Zebee and Salmana fled, and Gedeon pursued and took them, all their host being put in confusion.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               And returning from the battle before the sun rising,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               He took a boy of the men of Soccoth: and he asked him the names of the princes and ancients of Soccoth, and he described unto him seventy-seven men.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               And he came to Soccoth and said to them: Behold Zebee and Salmana, concerning whom you upbraided me, saying: Peradventure the hands of Zebee and Salmana, are in thy hands, and therefore thou demandest that we should give bread to the men that are weary and faint.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               So he took the ancients of the city and thorns and briers of the desert, and tore them with the same, and cut in pieces the men of Soccoth.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               And he demolished the tower of Phanuel, and slew the men of the city.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               And he said to Zebee and Salmana: What manner of men were they whom you slew in Thabor? They answered: They were like thee, and one of them as the son of a king.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               He answered them: They were my brethren, the sons of my mother. As the Lord liveth, if you had saved them, I would not kill you.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               And he said to Jether his eldest son: Arise, and slay them. But he drew not his sword: for he was afraid, being but yet a boy.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               And Zebee and Salmana said: Do thou rise, and run upon us: because the strength of a man is according to his age: Gedeon rose up and slew Zebee and Salmana: and he took the ornaments and bosses, with which the necks of the camels of kings are wont to be adorned.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               And all the men of Israel said to Gedeon: Rule thou over us and thy son, and thy son's son: because thou hast delivered us from the hand of Madian.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               And he said to them: I will not rule over you, neither shall my son rule over you, but the Lord shall rule over you.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               And he said to them: I desire one request of you: Give me the earlets of your spoils. For the Ismaelites were accustomed to wear golden earlets.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               They answered: We will give them most willingly. And spreading a mantle on the ground, they cast upon it the earlets of the spoils.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               And the weight of the earlets that he requested, was a thousand seven hundred sicles of gold, besides the ornaments, and jewels, and purple raiment which the kings of Madian were went to use, and besides the golden chains that were about the camels' necks.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=27-#x">
+                [27]
+               </a>
+               And Gedeon made
+               <u>
+                an ephod
+               </u>
+               thereof, and put it in his city Ephra. And all Israel committed fornication with it, and it became a ruin to Gedeon and to all his house.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=28-#x">
+                [28]
+               </a>
+               But Madian was humbled before the children of Israel, neither could they any more lift up their beads: but the land rested for forty years, while Gedeon presided.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=29-#x">
+                [29]
+               </a>
+               So Jerobaal the son of Joas went, and dwelt in his own house.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=30-#x">
+                [30]
+               </a>
+               And he had seventy sons, who came out of his thigh, for he had many wives.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "An ephod"
+               </u>
+               : A priestly garment which Gedeon made with a good design; but the Israelites, after his death, abused it by making it an instrument of their idolatrous worship.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=31-#x">
+                [31]
+               </a>
+               And
+               <u>
+                his concubine
+               </u>
+               , that he had in Sichem, bore him a son, whose name was Abimelech.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=32-#x">
+                [32]
+               </a>
+               And Gedeon the son of Joas died in a good old age, and was buried in the sepulchre of his father in Ephra of the family of Ezri.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=33-#x">
+                [33]
+               </a>
+               But after Gedeon was dead, the children of Israel turned again, and committed fornication with Baalim. And they made a covenant with Baal, that he should be their god:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=34-#x">
+                [34]
+               </a>
+               And they remembered not the Lord their God, who delivered them out of the hands of all their enemies round about:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=8&amp;l=35-#x">
+                [35]
+               </a>
+               Neither did they shew mercy to the house of Jerobaal Gedeon, according to all the good things he had done to Israel.
+              </p>
+              <p class="note">
+               [31]
+               <u>
+                "His concubine"
+               </u>
+               : She was his servant, but not his harlot: and is called his concubine, as wives of an inferior degree are commonly called in the Old Testament, though otherwise lawfully married.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judges
+              </td>
+              <td class="next">
+               <a href="08001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="07007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="07009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

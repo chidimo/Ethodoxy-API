@@ -1,0 +1,404 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Peter Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/67004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/67004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="66001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint Peter
+           </td>
+           <td class="next">
+            <a href="68001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="67003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="67005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="67001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="67002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="67003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="67005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Exhortations to cease from sin, to mutual charity, to do all for the glory of God, to be willing to suffer for Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               Christ therefore having suffered in the flesh, be you also armed with the same thought: for he that hath suffered in the flesh, hath ceased from sins:
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               That now he may live the rest of his time in the flesh, not after the desires of men, but according to the will of God.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               For the time past is sufficient to have fulfilled the will of the Gentiles, for them who have walked in riotousness, lusts, excess of wine, revellings, banquetings, and unlawful worshipping of idols.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               Wherein they think it strange, that you run not with them into the same confusion of riotousness, speaking evil of you.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               Who shall render account to him, who is ready to judge the living and the dead.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               For, for this cause was the gospel preached also to the dead: that they might be judged indeed according to men, in the flesh; but may live according to God, in the Spirit.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               But the end of all is at hand. Be prudent therefore, and watch in prayers.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               But before all things have a constant mutual charity among yourselves: for charity covereth a multitude of sins.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               Using hospitality one towards another, without murmuring,
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               As every man hath received grace, ministering the same one to another: as good stewards of the manifold grace of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               If any man speak, let him speak, as the words of God. If any man minister, let him do it, as of the power, which God administereth: that in all things God may be honoured through Jesus Christ: to whom is glory and empire for ever and ever. Amen.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               Dearly beloved, think not strange the burning heat which is to try you, as if some new thing happened to you;
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               But if you partake of the sufferings of Christ, rejoice that when his glory shall be revealed, you may also be glad with exceeding joy.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               If you be reproached for the name of Christ, you shall be blessed: for that which is of the honour, glory, and power of God, and that which is his Spirit, resteth upon you.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               But let none of you suffer as a murderer, or a thief, or a railer, or a coveter of other men's things.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               But if as a Christian, let him not be ashamed, but let him glorify God in that name.
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               For the time is, that judgment should begin at the house of God. And if first at us, what shall be the end of them that believe not the gospel of God?
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               And if the just man shall
+               <u>
+                scarcely
+               </u>
+               be saved, where shall the ungodly and the sinner appear?
+               <a href="/x/d?b=drb&amp;bk=67&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               Wherefore let them also that suffer according to the will of God, commend their souls in good deeds to the faithful Creator.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "Scarcely"
+               </u>
+               : That is, not without much labour and difficulty; and because of the dangers which constantly surround, the temptations of the world, of the devil, and of our own corrupt nature.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="66001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint Peter
+              </td>
+              <td class="next">
+               <a href="68001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="67003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="67005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

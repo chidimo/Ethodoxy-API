@@ -21,7 +21,7 @@ def hyperlink_underlined_markdown(string_to_process):
 
         replacement_string = "[{}]({})".format(underline_string.group(1), commentary_href)
 
-        new_string = re.sub(r"<u>(.+)<\/u>", replacement_string, string_to_process)
+        new_string = re.sub(r"\<u\>(.+)\<\/u\>", replacement_string, string_to_process)
         new_string = new_string.replace(" :", "")
         return new_string
     return string_to_process

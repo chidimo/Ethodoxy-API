@@ -7,20 +7,19 @@ class BookAdmin(admin.ModelAdmin):
     list_filter = ("alternative_name",)
 
 class ChapterAdmin(admin.ModelAdmin):
-    list_display = ("__str__", "book_name", "number", "slug", "location")
+    list_display = ("__str__", "book_name", "number", "location")
     list_filter = ("book", )
     search_fields = ("book", "number")
 
 class VerseAdmin(admin.ModelAdmin):
     list_display = ("chapter", "number", "__str__", "text")
-    # list_filter = ("chapter", )
     search_fields = ("text", )
 
 class CommentaryAdmin(admin.ModelAdmin):
     list_display = ("__str__", "version")
 
 class CommentaryTextAdmin(admin.ModelAdmin):
-    list_display = ("commentary", "book", "chapter", "verse", "heading", "slug", "text")
+    list_display = ("commentary", "book", "chapter", "verse", "heading", "text")
 
 admin.site.register(Version)
 admin.site.register(Book, BookAdmin)

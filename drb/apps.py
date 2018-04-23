@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class BibleConfig(AppConfig):
-    name = 'bible'
+class DrbConfig(AppConfig):
+    name = 'drb'

@@ -17,7 +17,7 @@ def hyperlink_underlined_markdown(string_to_process):
     if underline_string:
 
         commentary_slug = slugify(underline_string.group(1))
-        commentary_href = reverse("bible:commentary_detail", args=[commentary_slug])
+        commentary_href = reverse("drb:commentary_detail", args=[commentary_slug])
 
         replacement_string = "[{}]({})".format(underline_string.group(1), commentary_href)
 
@@ -67,7 +67,7 @@ def hyperlink_underlined(string_to_process):
     if underline_string:
 
         commentary_slug = slugify(underline_string.group(1))
-        commentary_href = reverse("bible:commentary_detail", args=[commentary_slug])
+        commentary_href = reverse("drb:commentary_detail", args=[commentary_slug])
 
         replacement_string = "<a href='{}' class='commentary'>{}</a>".format(commentary_href, underline_string.group(1))
 

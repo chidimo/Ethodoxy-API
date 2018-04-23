@@ -1,5 +1,5 @@
 from django.urls import path
-from .import views
+from . import views
 
 apiurlpatterns = [
     path('verse/', views.VerseListView.as_view(), name="verses"),

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta content="text/html">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>Douay-Rheims | {% block title %}Challoner commentary choralling !{% endblock title %}</title>
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:700" rel="stylesheet">
+
+		<!-- Algolia search javascript -->
+		<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+
+		<script src="//cdn.jsdelivr.net/g/algoliasearch,algoliasearch.helper"></script>
+
+		<!-- font awesome for icons -->
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+		<script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
+
+		<!--midijs for playing midi-->
+		<script type='text/javascript' src='//www.midijs.net/lib/midi.js'></script>
+
+		{% comment %}[if lt IE 9] {% endcomment %}
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		{% comment %} [endif] {% endcomment %}
+
+		{% load static %}
+		<link rel="shortcut icon" type="image/png" href="{% static 'favicons/favicon.ico' %}"/>
+		<link rel="stylesheet" href="{% static 'css/choralcentral.css' %}">
+		<script type="text/javascript" src="{% static 'admin/js/vendor/jquery/jquery.js' %}"></script>
+		<script type="text/javascript" src="{% static 'js/choralcentral.js' %}"></script>
+		{{ form.media }}
+
+	</head>
+
+	{% block body %}
+	<body>
+		{% block navigation %}
+		<nav class="navbar fixed-top navbar-expand-lg">
+			<a class="navbar-brand" href="/">
+				<h3 style="color:blanchedalmond">DRB</h3>
+			</a>
+
+			<button type="button" class="navbar-toggler my-toggler" data-toggle="collapse" data-target=".navcontent">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse navcontent">
+				<ul class="nav navbar-nav">
+					<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+					<li class="nav-item"><a class="nav-link" href="">Users</a></li>
+				</ul>
+			</div>
+		</nav>
+		{% endblock navigation %}
+
+		{% block introduction %}
+		<section class="jumbotron text-center d-none d-sm-block">
+            <div class="container">
+                <h1 class="jumbotron-heading">Douay-Rheims Bible</h1>
+                <p>If music be the food of love ...<p>
+                    <a href="#" class="btn btn-primary">READ</a>
+                    <a href="#" class="btn btn-secondary" target="_blank">Douay-Rheims bible</a>
+                </p>
+            </div>
+        </section>
+		{% endblock introduction %}
+
+		<div class="container-fluid">
+		    {% include 'messages.html' %}
+			<div class="row">
+				<div class="col-sm-3 leftsidebar">
+					{% block left_sidebar %}
+					{% endblock left_sidebar %}
+				</div>
+
+				<div class="col-sm-6 centerspread" role='main'>
+
+					{% block content_content %}
+					    content-block
+					{% endblock content_content %}
+
+					{% block javascript %}{% endblock javascript %}
+
+					{% if is_paginated %}
+						{% include "pure_pagination.html" %}
+					{% endif %}
+				</div>
+
+				<div class="col-sm-3 rightsidebar">
+					{% block right_sidebar %}
+					{% endblock right_sidebar %}
+				</div>
+			</div>
+		</div>
+
+		{% block footer %}
+			{% include "footer.html" %}
+		{% endblock footer %}
+
+		{% endblock body %}
+
+		<script type="text/javascript" >
+			// add attributes to form input elements
+			$(document).ready(function(){
+				$("#id_username").attr('placeholder', '{{ form.username.label }}');
+				$("#id_username").attr('class', 'form-control');
+
+				$("#id_password").attr('placeholder', '{{ form.password.label }}');
+				$("#id_password").attr('class', 'form-control');
+
+				$("#id_email").attr('class', 'form-control');
+				$("#id_email").attr('placeholder', '{{ form.email.label }}');
+
+
+				$("#id_old_password").attr('class', 'form-control');
+				$("#id_old_password").attr('placeholder', '{{ form.old_password.label }}');
+				$("#id_new_password1").attr('class', 'form-control');
+				$("#id_new_password1").attr('placeholder', '{{ form.new_password1.label }}');
+				$("#id_new_password2").attr('class', 'form-control');
+				$("#id_new_password2").attr('placeholder', '{{ form.new_password2.label }}');
+			});
+		</script>
+
+		<script>
+        // Add .active class to navigation menu item.
+            $(document).ready(function() {
+            //   $('li.active').removeClass('active');
+              $('a[href="' + location.pathname + '"]').closest('li').addClass('active');
+
+            //   Remove the class from the big upload button
+              $('#uploadButtonNav').removeClass('active');
+            });
+		</script>
+
+		<script>
+			// Initialize tooltip component
+			$(function () {
+				$('[data-toggle="tooltip"]').tooltip()
+			})
+            // Initialize popover component
+			$(function () {
+				$('[data-toggle="popover"]').popover()
+			})
+		</script>
+	</body>
+</html>

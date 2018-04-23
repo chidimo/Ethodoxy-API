@@ -1,0 +1,377 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Timothy Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/61001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/61001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="60001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          First Epistle Of Saint Paul To Timothy
+         </td>
+         <td class="next">
+          <a href="62001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="61002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="61002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="61003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="61004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="61005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="61006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             He puts Timothy in mind of his charge and blesses God for the mercy he himself had received.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             Paul, an apostle of Jesus Christ, according to the commandment of God our Saviour, and of Christ Jesus our hope:
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             To Timothy, his beloved son in faith. Grace, mercy, and peace from God the Father, and from Christ Jesus our Lord.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             As I desired thee to remain at Ephesus when I went into Macedonia, that thou mightest charge some not to teach otherwise,
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             Not to give heed to fables and endless genealogies: which furnish questions rather than the edification of God, which is in faith.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             Now the end of the commandment is charity, from a pure heart, and a good conscience, and an unfeigned faith.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             From which things some going astray, are turned aside unto vain babbling:
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             Desiring to be teachers of the law, understanding neither the things they say, nor whereof they affirm.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             But we know that the law is good, if a man use it lawfully:
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             Knowing this, that
+             <u>
+              the law is not
+             </u>
+             made for the just man, but for the unjust and disobedient, for the ungodly, and for sinners, for the wicked and defiled, for murderers of fathers, and murderers of mothers, for manslayers,
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             For fornicators, for them who defile themselves with mankind, for menstealers, for liars, for perjured persons, and whatever other thing is contrary to sound doctrine,
+            </p>
+            <p class="note">
+             [9]
+             <u>
+              "The law is not"
+             </u>
+             : He means, that the just man doth good, and avoideth evil, not as compelled by the law, and merely for fear of the punishment appointed for transgressors; but voluntarily, and out of the love of God and virtue; and would do so, though there were no law.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             Which is according to the gospel of the glory of the blessed God, which hath been committed to my trust.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             I give thanks who hath strengthened me, even to Christ Jesus our Lord, for that he hath counted me faithful, putting me in the ministry;
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Who before was a blasphemer, and a persecutor, and contumelious. But I obtained the mercy of God, because I did it ignorantly in unbelief.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             Now the grace of our Lord hath abounded exceedingly with faith and love, which is in Christ Jesus.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             A faithful saying, and worthy of all acceptation, that Christ Jesus came into this world to save sinners, of whom I am the chief.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             But for this cause have I obtained mercy: that in me first Christ Jesus might shew forth all patience, for the information of them that shall believe in him unto life everlasting.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             Now to the king of ages, immortal, invisible, the only God, be honour and glory for ever and ever. Amen.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             This precept I commend to thee, O son Timothy; according to the prophecies going before on thee, that thou war in them a good warfare,
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             Having faith and a good conscience, which some rejecting have made shipwreck concerning the faith.
+             <a href="/x/d?b=drb&amp;bk=61&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             Of whom is Hymeneus and Alexander, whom I have delivered up to Satan, that they may learn not to blaspheme.
+            </p>
+           </td>
+          </tr>
+         </table>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
+<center>
+ <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+  <tr>
+   <td class="prev">
+    &lt;
+    <a href="60001.htm">
+     previous
+    </a>
+   </td>
+   <td class="bookname">
+    First Epistle Of Saint Paul To Timothy
+   </td>
+   <td class="next">
+    <a href="62001.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+  <tr>
+   <td class="prev">
+    &lt; previous
+   </td>
+   <td class="chapname">
+    Chapter 1
+   </td>
+   <td class="next">
+    <a href="61002.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+ </table>
+</center>
+<td class="adcol" valign="top">
+ <script>
+  side_ads ("../")
+ </script>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+ <tr>
+  <td class="botcenter">
+  </td>
+ </tr>
+</table>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+ var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+ <div class="statcounter">
+  <a href="http://statcounter.com/" target="_blank" title="web stats">
+   <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+  </a>
+ </div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

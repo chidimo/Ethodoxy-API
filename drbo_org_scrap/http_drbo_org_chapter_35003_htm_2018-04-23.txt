@@ -1,0 +1,409 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Amos Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/35003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/35003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="34001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Amos
+           </td>
+           <td class="next">
+            <a href="36001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="35002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="35004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="35001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="35002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="35004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="35005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="35006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="35007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="35008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="35009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The evils that shall fall upon Israel for their sins.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Hear the word that the Lord hath spoken concerning you, O ye children of Israel: concerning the whole family that I brought up out of the land of Egypt, saying:
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               You only have I known of all the families of the earth: therefore will I
+               <u>
+                visit upon
+               </u>
+               you all your iniquities.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               Shall two walk together except they be agreed?
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               Will a lion roar in the forest, if he have no prey? will the lion's whelp cry out of his den, if he have taken nothing?
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               Will the bird fall into the snare upon the earth, if there be no fowler? Shall the snare be taken up from the earth, before it hath taken somewhat?
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Visit upon"
+               </u>
+               : That is, punish.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               Shall the trumpet sound in a city, and the people not be afraid? Shall there be
+               <u>
+                evil in a city
+               </u>
+               , which the Lord hath not done?
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               For the Lord God doth nothing without revealing his secret to his servants the prophets.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               The lion shall roar, who will not fear? The Lord God hath spoken, who shall not prophesy?
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Publish it in the houses of Azotus, and in the houses of the land of Egypt, and say: Assemble yourselves upon the mountains of Samaria, and behold the many follies in the midst thereof, and them that suffer oppression in the inner rooms thereof.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And they have not known to do the right thing, saith the Lord, storing up iniquity, and robberies in their houses.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Evil in a city"
+               </u>
+               : He speaks of the evil of punishments of war, famine, pestilence, desolation, etc., but not of the evil of sin, of which God is not the author.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               Therefore thus saith the Lord God: The land shall be in tribulation, and shall be compassed about: and thy strength shall be taken away from thee, and thy houses shall be spoiled.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               Thus saith the Lord: As if a shepherd should get out of the lion's mouth two legs, or the tip of the ear: so shall the children of Israel be taken out that dwell in Samaria, in a piece of a bed, and in the couch of Damascus.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Hear ye, and testify in the house of Jacob, saith the Lord the God of hosts:
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               That in the day when I shall begin to visit the transgressions of Israel, I will visit upon him, and upon the altars of Bethel: and the horns of the altars shall be cut off, and shall fall to the ground.
+               <a href="/x/d?b=drb&amp;bk=35&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               And I will strike the winter house with the summer house: and the houses of ivory shall perish, and many houses shall be destroyed, saith the Lord.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="34001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Amos
+              </td>
+              <td class="next">
+               <a href="36001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="35002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="35004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

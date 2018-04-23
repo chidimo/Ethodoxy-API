@@ -1,0 +1,656 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 18
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01018.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01018.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01017.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 18
+           </td>
+           <td class="next">
+            <a href="01019.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             18
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Angels are entertained by Abraham. They foretell the birth of Isaac. Abraham's prayer for the men of Sodom.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord appeared to him in the vale of Mambre as he was sitting at the door of his tent, in the very heat of the day.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=2-#x">
+                [2]
+               </a>
+               And when he had lifted up his eyes, there appeared to him three men standing near him: and as soon as he saw them he ran to meet them from the door of his tent, and adored down to the ground.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=3-#x">
+                [3]
+               </a>
+               And he said: Lord, if I have found favour in thy sight, pass not away from thy servant:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=4-#x">
+                [4]
+               </a>
+               But I will fetch a little water, and wash ye your feet, and rest ye under the tree.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=5-#x">
+                [5]
+               </a>
+               And I will set a morsel of bread, and strengthen ye your heart, afterwards you shall pass on: for therefore are you come aside to your servant. And they said: Do as thou hast spoken.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=6-#x">
+                [6]
+               </a>
+               Abraham made haste into the tent to Sara, and said to her: Make haste, temper together three measures of flour, and make cakes upon the hearth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=7-#x">
+                [7]
+               </a>
+               And he himself ran to the herd, and took from thence a calf very tender and very good, and gave it to a young man: who made haste and boiled it.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=8-#x">
+                [8]
+               </a>
+               He took also butter and milk, and the calf which he had boiled, and set before them: but he stood by them under the tree.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=9-#x">
+                [9]
+               </a>
+               And when they had eaten, they said to him: Where is Sara thy wife? He answered: Lo, she is in the tent.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=10-#x">
+                [10]
+               </a>
+               And he said to him: I will return and come to thee at this time, life accompanying and Sara thy wife shall have a son. Which when Sara heard, she laughed behind the door of the tent.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=11-#x">
+                [11]
+               </a>
+               Now they were both old, and far advanced in years, and it had ceased to be with Sara after the manner of women.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=12-#x">
+                [12]
+               </a>
+               And she laughed secretly, saying: After I am grown old and my lord is an old man, shall I give myself to pleasure?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=13-#x">
+                [13]
+               </a>
+               And the Lord said to Abraham: Why did Sara laugh, saying: Shall I who am an old woman bear a child indeed?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=14-#x">
+                [14]
+               </a>
+               Is there any thing hard to God? According to appointment I will return to thee at this same time, life accompanying, and Sara shall have a son.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=15-#x">
+                [15]
+               </a>
+               Sara denied, saying: I did not laugh: for she was afraid. But the Lord said, Nay: but thou didst laugh:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=16-#x">
+                [16]
+               </a>
+               And when the men rose up from thence, they turned their eyes towards Sodom: and Abraham walked with them, bringing them on the way.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=17-#x">
+                [17]
+               </a>
+               And the Lord said: Can I hide from Abraham what I am about to do:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=18-#x">
+                [18]
+               </a>
+               Seeing he shall become a great and mighty nation, and in him all the nations of the earth shall be blessed?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=19-#x">
+                [19]
+               </a>
+               For I know that he will command his children, and his household after him to keep the way of the Lord, and do judgment and justice: that for Abraham's sake the Lord may bring to effect all the things he hath spoken unto him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=20-#x">
+                [20]
+               </a>
+               And the Lord said: The cry of Sodom and Gomorrha is multiplied, and their sin is become exceedingly grievous.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=21-#x">
+                [21]
+               </a>
+               <u>
+                I will go down
+               </u>
+               and see whether they have done according to the cry that is come to me: or whether it be not so, that I may know.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=22-#x">
+                [22]
+               </a>
+               And they turned themselves from thence, and went their way to Sodom: but Abraham as yet stood before the Lord.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=23-#x">
+                [23]
+               </a>
+               And drawing nigh he said: Wilt thou destroy the just with the wicked?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=24-#x">
+                [24]
+               </a>
+               If there be fifty just men in the city, shall they perish withal? and wilt thou not spare that place for the sake of the fifty just, if they be therein?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=25-#x">
+                [25]
+               </a>
+               Far be it from thee to do this thing, and to slay the just with the wicked, and for the just to be in like case as the wicked, this is not beseeming thee: thou who judgest all the earth, wilt not make this judgment.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "I will go down"
+               </u>
+               : The Lord here accommodates his discourse to the way of speaking and acting amongst men; for he knoweth all things, and needeth not to go anywhere for information. Note here, that two of the three angels went away immediately for Sodom; whilst the third, who represented the Lord, remained with Abraham.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=26-#x">
+                [26]
+               </a>
+               And the Lord said to him: If I find in Sodom fifty just within the city, I will spare the whole place for their sake.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=27-#x">
+                [27]
+               </a>
+               And Abraham answered, and said: Seeing I have once begun, I will speak to my Lord, whereas I am dust and ashes.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=28-#x">
+                [28]
+               </a>
+               What if there be five less than fifty just persons? wilt thou for five and forty destroy the whole city? And he said: I will not destroy it, if I find five and forty.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=29-#x">
+                [29]
+               </a>
+               And again he said to him: But if forty be found there, what wilt thou do? He said: I will not destroy it for the sake of forty.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=30-#x">
+                [30]
+               </a>
+               Lord, saith he, be not angry, I beseech thee, if I speak: What if thirty shall be found there? He answered: I will not do it, if I find thirty there.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=31-#x">
+                [31]
+               </a>
+               Seeing, saith he, I have once begun, I will speak to my Lord. What if twenty be found there? He said: I will not destroy it for the sake of twenty.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=32-#x">
+                [32]
+               </a>
+               I beseech thee, saith he, be not angry, Lord, if I speak yet once more: What if ten should be found there? And he said: I will not destroy it for the sake of ten.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=18&amp;l=33-#x">
+                [33]
+               </a>
+               And the Lord departed, after he had left speaking to Abraham: and Abraham returned to his place.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01017.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 18
+              </td>
+              <td class="next">
+               <a href="01019.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,525 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 25
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04025.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04025.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04024.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 25
+           </td>
+           <td class="next">
+            <a href="04026.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             25
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The people fall into fornication and idolatry; for which twenty-four thousand are slain. The zeal of Phinees.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=1-#x">
+                [1]
+               </a>
+               And Israel at that time abode in Settim, and the people committed fornication with the daughters of Moab,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=2-#x">
+                [2]
+               </a>
+               Who called them to their sacrifices. And they ate of them, and adored their gods.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=3-#x">
+                [3]
+               </a>
+               And Israel was
+               <u>
+                initiated to Beelphegor
+               </u>
+               : upon which the Lord being angry,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=4-#x">
+                [4]
+               </a>
+               Said to Moses: Take all the princes of the people, and hang them up on gibbets against the sun: that my fury may be turned away from Israel.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=5-#x">
+                [5]
+               </a>
+               And Moses said to the judges of Israel: Let every man kill his neighbours, that have been initiated to Beelphegor.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Initiated to Beelphegor"
+               </u>
+               : That is, they took to the worship of Beelphegor, an obscene idol of the Moabites, and were consecrated, as it were, to him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=6-#x">
+                [6]
+               </a>
+               And behold one of the children of Israel went in before his brethren to a harlot of Madian, in the sight of Moses, and of all the children of Israel, who were weeping before the door of the tabernacle.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=7-#x">
+                [7]
+               </a>
+               And when Phinees the son of Eleazar the son of Aaron the priest saw it, he rose up from the midst; of the multitude, and taking a dagger,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=8-#x">
+                [8]
+               </a>
+               Went in after the Israelite into the brothel house, and thrust both of them through together, to wit, the man and the woman in the genital parts. And the scourge ceased from the children of Israel:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=9-#x">
+                [9]
+               </a>
+               And there were slain four and twenty thousand men.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=10-#x">
+                [10]
+               </a>
+               And the Lord said to Moses:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=11-#x">
+                [11]
+               </a>
+               Phinees the son of Eleazar the son of Aaron the priest, hath turned away my wrath from the children of Israel: because he was moved with my zeal against them, that I myself might not destroy the children of Israel in my zeal.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=12-#x">
+                [12]
+               </a>
+               Therefore say to him: Behold I give him the peace of my covenant,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=13-#x">
+                [13]
+               </a>
+               And the covenant of the priesthood for ever shall be both to him and his seed, because he hath been zealous for his God, and hath made atonement for the wickedness of the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=14-#x">
+                [14]
+               </a>
+               And the name of the Israelite, was slain with the woman of Madian, was Zambri the son of Salu, a prince the kindred and tribe of Simeon.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=15-#x">
+                [15]
+               </a>
+               And the Madianite woman, that was slain with him, was called Cozbi the daughter of Sur, a most noble prince among the Madianites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=16-#x">
+                [16]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=17-#x">
+                [17]
+               </a>
+               Let the Madianites find you enemies, and slay you them:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=25&amp;l=18-#x">
+                [18]
+               </a>
+               Because they also have acted like enemies against you, and have guilefully deceived you by the idol Phogor, and Cozbi their sister, a daughter of a prince of Madian, who was slain in the day the plague for the sacrilege of Phogor.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04024.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 25
+              </td>
+              <td class="next">
+               <a href="04026.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

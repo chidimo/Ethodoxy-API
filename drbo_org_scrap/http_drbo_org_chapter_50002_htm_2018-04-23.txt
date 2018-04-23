@@ -1,0 +1,482 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="50003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ changes water into wine. He casts the sellers out of the temple.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               And the third day, there was a marriage in Cana of Galilee: and the mother of Jesus was there.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And Jesus also was invited, and his disciples, to the marriage.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And the wine failing, the mother of Jesus saith to him: They have no wine.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And Jesus saith to her: Woman,
+               <u>
+                what is that to me
+               </u>
+               and to thee? my hour is not yet come.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               His mother saith to the waiters: Whatsoever he shall say to you, do ye.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "What is that to me"
+               </u>
+               : These words of our Saviour, spoken to his mother, have been understood by some commentators as harsh, they not considering the next following verse: Whatsoever he shall say to you, do ye, which plainly shews that his mother knew of the miracle that he was to perform, and that it was at her request he wrought it; besides the manner of speaking the words as to the tone, and the countenance shewn at the same time, which could only be known to those who were present, or from what had followed: for words indicating anger in one tone of voice, would be understood quite the reverse in another.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               Now there were set there six waterpots of stone, according to the manner of the purifying of the Jews, containing two or three measures apiece.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               Jesus saith to them: Fill the waterpots with water. And they filled them up to the brim.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And Jesus saith to them: Draw out now, and carry to the chief steward of the feast. And they carried it.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               And when the chief steward had tasted the water made wine, and knew not whence it was, but the waiters knew who had drawn the water; the chief steward calleth the bridegroom,
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And saith to him: Every man at first setteth forth good wine, and when men have well drunk, then that which is worse. But thou hast kept the good wine until now.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               This beginning of miracles did Jesus in Cana of Galilee; and manifested his glory, and his disciples believed in him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               After this he went down to Capharnaum, he and his mother, and his brethren, and his disciples: and they remained there not many days.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               And the pasch of the Jews was at hand, and Jesus went up to Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               And he found in the temple them that sold oxen and sheep and doves, and the changers of money sitting.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               And when he had made, as it were, a scourge of little cords, he drove them all out of the temple, the sheep also and the oxen, and the money of the changers he poured out, and the tables he overthrew.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               And to them that sold doves he said: Take these things hence, and make not the house of my Father a house of traffic.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And his disciples remembered, that it was written: The zeal of thy house hath eaten me up.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               The Jews, therefore, answered, and said to him: What sign dost thou shew unto us, seeing thou dost these things?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               Jesus answered, and said to them: Destroy this temple, and in three days I will raise it up.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               The Jews then said: Six and forty years was this temple in building; and wilt thou raise it up in three days?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               But he spoke of the temple of his body.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               When therefore he was risen again from the dead, his disciples remembered, that he had said this, and they believed the scripture, and the word that Jesus had said.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               Now when he was at Jerusalem, at the pasch, upon the festival day, many believed in his name, seeing his signs which he did.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               But Jesus did not trust himself unto them, for that he knew all men,
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               And because he needed not that any should give testimony of man: for he knew what was in man.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="50003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

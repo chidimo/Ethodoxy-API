@@ -1,0 +1,649 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 22
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04022.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04022.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04021.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 22
+           </td>
+           <td class="next">
+            <a href="04023.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             22
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Balac, king of Moab, sendeth twice for Balaam to curse Israel. In his way Balaam is rebuked by an angel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=1-#x">
+                [1]
+               </a>
+               And they went forward and encamped in the plains of Moab, over against where Jericho is situate beyond the Jordan.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=2-#x">
+                [2]
+               </a>
+               And Balac the son of Sephor, seeing all that Israel had done to the Amorrhite,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=3-#x">
+                [3]
+               </a>
+               And that the Moabites were in great fear of him, and were not able to sustain his assault,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=4-#x">
+                [4]
+               </a>
+               He said to the elders of Madian: So will this people destroy all that dwell in our borders, as the ox is wont to eat the grass to the very roots. Now he was at that time king in Moab.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=5-#x">
+                [5]
+               </a>
+               He sent therefore messengers to Balaam the son of Beer, a soothsayer, who dwelt by the river of the land of the children of Ammon, to call him, and to say: Behold a people is come out of Egypt, that hath covered the face of the earth, sitting over against me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=6-#x">
+                [6]
+               </a>
+               Come therefore, and curse this people, because it is mightier than I: if by any means I may beat them and drive them out of my land: for I know that he whom thou shalt bless is blessed, and he whom thou shalt curse is cursed.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=7-#x">
+                [7]
+               </a>
+               And the ancients of Moab, and the elders of Madian, went with the price of divination in their hands. And when they were come to Balaam, and had told him all the words of Balac:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=8-#x">
+                [8]
+               </a>
+               He answered: Tarry here this night, and I will answer whatsoever the Lord shall say to me. And while they stayed with Balaam, God came and said to him:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=9-#x">
+                [9]
+               </a>
+               What mean these men that are with thee?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=10-#x">
+                [10]
+               </a>
+               He answered: Balac the son of Sephor king of the Moabites hath sent to me,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=11-#x">
+                [11]
+               </a>
+               Saying: Behold a people that is come out of Egypt, hath covered the face of the land: come and curse them, if by any means I may fight with them and drive them away.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=12-#x">
+                [12]
+               </a>
+               And God said to Balaam: Thou shalt not go with them, nor shalt thou curse the people: because it is blessed.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=13-#x">
+                [13]
+               </a>
+               And he rose in the morning and said to the princes: Go into your country, because the Lord hath forbid me to come with you.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=14-#x">
+                [14]
+               </a>
+               The princes returning, said to Balac: Balaam would not come with us.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=15-#x">
+                [15]
+               </a>
+               Then he sent many more and more noble than he had sent before:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=16-#x">
+                [16]
+               </a>
+               Who, when they were come to Balaam, said: Thus saith Balac the son of Sephor, Delay not to come to me:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=17-#x">
+                [17]
+               </a>
+               For I am ready to honour thee, and will give thee whatsoever thou wilt: come and curse this people.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=18-#x">
+                [18]
+               </a>
+               Balaam answered: If Balac would give me his house full of silver and gold, I cannot alter the word of the Lord my God, to speak either more or less.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=19-#x">
+                [19]
+               </a>
+               I pray you
+               <u>
+                to stay
+               </u>
+               here this night also, that I may know what the Lord will answer me once more.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=20-#x">
+                [20]
+               </a>
+               God therefore came to Balaam in the night, and said to him: It these men be come to call thee, arise and go with them: yet so, that thou do what I shall command thee.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "To stay"
+               </u>
+               : His desiring them to stay, after he had been fully informed already that it was not God's will he should go, came from the inclination he had to gratify Balac, for the sake of worldly gain. And this perverse disposition God punished by permitting him to go (though not to curse the people as he would willingly have done), and suffering him to fall still deeper and deeper into sin, till he came at last to give that abominable counsel against the people of God, which ended in his own destruction. So sad a thing it is to indulge a passion for money.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=21-#x">
+                [21]
+               </a>
+               Balaam arose in the morning, and saddling his ass went with them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=22-#x">
+                [22]
+               </a>
+               And God was angry. And an angel of the Lord stood in the way against Balaam, who sat on the ass, and had two servants with him.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=23-#x">
+                [23]
+               </a>
+               The ass seeing the angel standing in the way, with a drawn sword, turned herself out of the way, and went into the field. And when Balaam beat her, and had a mind to bring her again to the way,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=24-#x">
+                [24]
+               </a>
+               The angel stood in a narrow place between two walls, wherewith the vineyards were enclosed.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=25-#x">
+                [25]
+               </a>
+               And the ass seeing him, thrust herself close to the wall, and bruised the foot of the rider. But he beat her again:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=26-#x">
+                [26]
+               </a>
+               And nevertheless the angel going on to a narrow place, where there was no way to turn aside either to the right hand or to the left, stood to meet him.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=27-#x">
+                [27]
+               </a>
+               And when the ass saw the angel standing, she fell under the feet of the rider: who being angry beat her sides more vehemently with a staff.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=28-#x">
+                [28]
+               </a>
+               And the Lord
+               <u>
+                opened the mouth
+               </u>
+               of the ass, and she said: What have I done to thee? Why strikest thou me, lo, now this third time?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=29-#x">
+                [29]
+               </a>
+               Balaam answered: Because thou hast deserved it, and hast served me ill: I would I had a sword that I might kill thee.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=30-#x">
+                [30]
+               </a>
+               The ass said: Am not I thy beast, on which thou hast been always accustomed to ride until this present day? tell me if I ever did the like thing to thee. But he said: Never.
+              </p>
+              <p class="note">
+               [28]
+               <u>
+                "Opened the mouth"
+               </u>
+               : The angel moved the tongue of the ass, to utter these speeches, to rebuke, by the mouth of a brute beast, the brutal fury and folly of Balaam.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=31-#x">
+                [31]
+               </a>
+               Forthwith the Lord opened the eyes of Balaam, and he saw the angel standing in the way with a drawn sword, and he worshipped him falling flat on the ground.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=32-#x">
+                [32]
+               </a>
+               And the angel said to him: Why beatest thou thy ass these three times? I am come to withstand thee, because thy way is
+               <u>
+                perverse
+               </u>
+               , and contrary to me:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=33-#x">
+                [33]
+               </a>
+               And unless the ass had turned out of the way, giving place to me who stood against thee, I had slain thee, and she should have lived.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=34-#x">
+                [34]
+               </a>
+               Balaam said: I have sinned, not knowing that thou didst stand against me: and now if it displease thee that I go, I will return.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=35-#x">
+                [35]
+               </a>
+               The angel said: Go with these men, and see thou speak no other thing than what I shall command thee. He went therefore with the princes.
+              </p>
+              <p class="note">
+               [32]
+               <u>
+                "Perverse"
+               </u>
+               : Because thy inclinations are wicked in being willing for the sake of gain to curse the people of whom I am the guardian.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=36-#x">
+                [36]
+               </a>
+               And when Balac heard it he came forth to meet him in a town of the Moabites, that is situate in the uttermost borders of Arnon.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=37-#x">
+                [37]
+               </a>
+               And he said to Balaam: I sent messengers to call thee, why didst thou not come immediately to me? was it because I am not able to reward thy coming?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=38-#x">
+                [38]
+               </a>
+               He answered him: Lo, here I am: shall I have power to speak any other thing but that which God shall put in my mouth?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=39-#x">
+                [39]
+               </a>
+               So they went on together, and came into a city, that was in the uttermost borders of his kingdom.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=40-#x">
+                [40]
+               </a>
+               And when Balac had killed oxen and sheep, he sent presents to Balaam, and to the princes that were with him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=22&amp;l=41-#x">
+                [41]
+               </a>
+               And when morning was come, he brought him to the high places of Baal, and he beheld the uttermost part of the people.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04021.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 22
+              </td>
+              <td class="next">
+               <a href="04023.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

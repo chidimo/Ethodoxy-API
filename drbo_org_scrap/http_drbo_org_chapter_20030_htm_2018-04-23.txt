@@ -1,0 +1,625 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Job Chapter 30
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/20030.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/20030.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Job
+           </td>
+           <td class="next">
+            <a href="21001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="20029.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 30
+           </td>
+           <td class="next">
+            <a href="20031.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="20001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="20002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="20003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="20004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="20005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="20006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="20007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="20008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="20009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="20010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="20011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="20012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="20013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="20014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="20015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="20016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="20017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="20018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="20019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="20020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="20021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="20022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="20023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="20024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="20025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="20026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="20027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="20028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="20029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             30
+            </td>
+            <td width="30">
+             <a href="20031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="20032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="20033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="20034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="20035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="20036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="20037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="20038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="20039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="20040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="20041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="20042.htm">
+              42
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Job shews the wonderful change of his temporal estate, from welfare to great calamity.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=1-#x">
+                [1]
+               </a>
+               <u>
+                But now the younger in time
+               </u>
+               scorn me, whose fathers I would not have set with the dogs of my flock:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=2-#x">
+                [2]
+               </a>
+               The strength of whose hands was to me as nothing, and they were thought unworthy of life itself.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=3-#x">
+                [3]
+               </a>
+               Barren with want and hunger, who gnawed in the wilderness, disfigured with calamity and misery.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=4-#x">
+                [4]
+               </a>
+               And they ate grass, and barks of trees, and the root of junipers was their food.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=5-#x">
+                [5]
+               </a>
+               Who snatched up these things out of the valleys, and when they had found any of them, they ran to them with a cry.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "But now the younger in time"
+               </u>
+               : That is, younger than I am, and as it were obscure, when I was conspicuous and in magnificence; they now look down on me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=6-#x">
+                [6]
+               </a>
+               They dwelt in the desert places of torrents, and in caves of earth, or upon the gravel.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=7-#x">
+                [7]
+               </a>
+               They pleased themselves among these kind of things, and counted it delightful to be under the briers.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=8-#x">
+                [8]
+               </a>
+               The children of foolish and base men, and not appearing at all upon the earth.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=9-#x">
+                [9]
+               </a>
+               Now I am turned into their song, and am become their byword.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=10-#x">
+                [10]
+               </a>
+               They abhor me, and flee far from me, and are not afraid to spit in my face.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=11-#x">
+                [11]
+               </a>
+               For he hath opened his quiver, and hath afflicted me, and hath put a bridle into my mouth.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=12-#x">
+                [12]
+               </a>
+               At the right hand of my rising, my calamities forthwith arose: they have overthrown my feet, and have overwhelmed me with their paths as with waves.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=13-#x">
+                [13]
+               </a>
+               They have destroyed my ways, they have lain in wait against me, and they have prevailed, and there was none to help.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=14-#x">
+                [14]
+               </a>
+               They have rushed in upon me, as when a wall is broken, and a gate opened, and have rolled themselves down to my miseries.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=15-#x">
+                [15]
+               </a>
+               I am brought to nothing: as a wind thou hast taken away my desire: and my prosperity hath passed away like a cloud.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=16-#x">
+                [16]
+               </a>
+               And now my soul fadeth within myself, and the days of affliction possess me.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=17-#x">
+                [17]
+               </a>
+               In the night my bone is pierced with sorrows: and they that feed upon me, do not sleep.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=18-#x">
+                [18]
+               </a>
+               With the multitude of them my garment is consumed, and they have girded me about, as with the collar of my coat.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=19-#x">
+                [19]
+               </a>
+               I am compared to dirt, and am likened to embers and ashes.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=20-#x">
+                [20]
+               </a>
+               I cry to thee, and thou hearest me not: I stand up, and thou dost not regard me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=21-#x">
+                [21]
+               </a>
+               Thou art changed to be cruel toward me, and in the hardness of thy hand thou art against me.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=22-#x">
+                [22]
+               </a>
+               Thou hast lifted me up, and set me as it were upon the wind, and thou hast mightily dashed me.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=23-#x">
+                [23]
+               </a>
+               I know that thou wilt deliver me to death, where a house is appointed for every one that liveth.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=24-#x">
+                [24]
+               </a>
+               But yet thou stretchest not forth thy hand to their consumption: and if they shall fall down thou wilt save.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=25-#x">
+                [25]
+               </a>
+               I wept heretofore for him that was afflicted, and my soul had compassion on the poor.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=26-#x">
+                [26]
+               </a>
+               I expected good things, and evils are come upon me: I waited for light, and darkness broke out.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=27-#x">
+                [27]
+               </a>
+               My inner parts have boiled without any rest, the days of affliction have prevented me.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=28-#x">
+                [28]
+               </a>
+               I went mourning without indignation; I rose up, and cried in the crowd.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=29-#x">
+                [29]
+               </a>
+               I was the
+               <u>
+                brother of dragons
+               </u>
+               , and companion of ostriches.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=30-#x">
+                [30]
+               </a>
+               My skin is become black upon me, and my bones are dried up with heat.
+              </p>
+              <p class="note">
+               [29]
+               <u>
+                "Brother of dragons"
+               </u>
+               : Imitating these creatures in their lamentable noise.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=30&amp;l=31-#x">
+                [31]
+               </a>
+               My harp is turned to mourning, and my organ into the voice of those that weep.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Job
+              </td>
+              <td class="next">
+               <a href="21001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="20029.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 30
+              </td>
+              <td class="next">
+               <a href="20031.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

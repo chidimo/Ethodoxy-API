@@ -1,0 +1,495 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Corinthians Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/53009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/53009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint Paul To The Corinthians
+           </td>
+           <td class="next">
+            <a href="54001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="53008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="53010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="53001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="53002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="53003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="53004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="53005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="53006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="53007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="53008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="53010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="53011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="53012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="53013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="53014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="53015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="53016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The apostle did not make use of his power of being maintained at the charges of those to whom he preached, that he might give no hindrance to the gospel. Of running in the race and striving for the mastery.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               Am not I free? Am not I an apostle? Have not I seen Christ Jesus our Lord? Are not you my work in the Lord?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               And if unto others I be not an apostle, but yet to you I am. For you are the seal of my apostleship in the Lord.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               My defence with them that do examine me is this.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               Have not we power to eat and to drink?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               Have we not power to carry about
+               <u>
+                a woman, a sister
+               </u>
+               , as well as the rest of the apostles, and the brethren of the Lord, and Cephas?
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "A woman, a sister"
+               </u>
+               : Some erroneous translators have corrupted this text by rendering it, a sister, a wife: whereas, it is certain, St. Paul had no wife (chap. 7 ver. 7, 8) and that he only speaks of such devout women, as, according to the custom of the Jewish nation, waited upon the preachers of the gospel, and supplied them with necessaries.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               Or I only and Barnabas, have not we power to do this?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               Who serveth as a soldier at any time, at his own charges? Who planteth a vineyard, and eateth not of the fruit thereof? Who feedeth the flock, and eateth not of the milk of the flock?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               Speak I these things according to man? Or doth not the law also say these things?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               For it is written in the law of Moses: Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               Or doth he say this indeed for our sakes? For these things are written for our sakes: that he that plougheth, should plough in hope; and he that thrasheth, in hope to receive fruit.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               If we have sown unto you spiritual things, is it a great matter if we reap your carnal things?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               If others be partakers of this power over you, why not we rather? Nevertheless, we have not used this power: but we bear all things, lest we should give any hindrance to the gospel of Christ.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               Know you not, that they who work in the holy place, eat the things that are of the holy place; and they that serve the altar, partake with the altar?
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               So also the Lord ordained that they who preach the gospel, should live by the gospel.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               But I have used none of these things. Neither have I written these things, that they should be so done unto me: for it is good for me to die, rather than that any man should make my glory void.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               For if I preach the gospel,
+               <u>
+                it is no glory
+               </u>
+               to me, for a necessity lieth upon me: for woe is unto me if I preach not the gospel.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               For if I do this thing willingly, I have a reward: but if against my will, a dispensation is committed to me:
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               What is my reward then? That preaching the gospel, I may deliver the gospel without charge, that I abuse not my power in the gospel.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               For whereas I was free as to all, I made myself the servant of all, that I might gain the more.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               And I became to the Jews, a Jew, that I might gain the Jews:
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "It is no glory"
+               </u>
+               : That is, I have nothing to glory of.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               To them that are under the law, as if I were under the law, (whereas myself was not under the law,) that I might gain them that were under the law. To them that were without the law, as if I were without the law, (whereas I was not without the law of God, but was in the law of Christ,) that I might gain them that were without the law.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               To the weak I became weak, that I might gain the weak. I became all things to all men, that I might save all.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               And I do all things for the gospel's sake: that I may be made partaker thereof.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               Know you not that they that run in the race, all run indeed, but one receiveth the prize? So run that you may obtain.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               And every one that striveth for the mastery, refraineth himself from all things: and they indeed that they may receive a corruptible crown; but we an incorruptible one.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               I therefore so run, not as at an uncertainty: I so fight, not as one beating the air:
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               But
+               <u>
+                I chastise
+               </u>
+               my body, and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "I chastise"
+               </u>
+               : Here St. Paul shews the necessity of self-denial and mortification, to subdue the flesh, and its inordinate desires.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint Paul To The Corinthians
+              </td>
+              <td class="next">
+               <a href="54001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="53008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="53010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

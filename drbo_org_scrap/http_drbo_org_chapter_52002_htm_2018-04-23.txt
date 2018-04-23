@@ -1,0 +1,468 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Romans Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/52002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/52002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Romans
+           </td>
+           <td class="next">
+            <a href="53001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="52003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="52001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="52003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="52004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="52005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="52006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="52007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="52008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="52009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="52010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="52011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="52012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="52013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="52014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="52015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="52016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Jews are censured, who make their boast of the law and keep it not. He declares who are the true Jews.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               Wherefore thou art inexcusable, O man, whosoever thou art that judgest. For wherein thou judgest another, thou condemnest thyself. For thou dost the same things which thou judgest.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               For we know that the judgment of God is, according to truth, against them that do such things.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And thinkest thou this, O man, that judgest them who do such things, and dost the same, that thou shalt escape the judgment of God?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               Or despisest thou the riches of his goodness, and patience, and longsuffering? Knowest thou not, that the benignity of God leadeth thee to penance?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               But according to thy hardness and impenitent heart, thou treasurest up to thyself wrath, against the day of wrath, and revelation of the just judgment of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               Who will render to every man according to his works.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               To them indeed, who according to patience in good work, seek glory and honour and incorruption, eternal life:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               But to them that are contentious, and who obey not the truth, but give credit to iniquity, wrath and indignation.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               Tribulation and anguish upon every soul of man that worketh evil, of the Jew first, and also of the Greek.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               But glory, and honour, and peace to every one that worketh good, to the Jew first, and also to the Greek.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               For there is no respect of persons with God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               For whosoever have sinned without the law, shall perish without the law; and whosoever have sinned in the law, shall be judged by the law.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               For not the hearers of the law are just before God, but the doers of the law shall be justified.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               For when the Gentiles, who have not the law, do by nature those things that are of the law; these having not the law are a law to themselves:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Who shew the work of the law written in their hearts, their conscience bearing witness to them, and their thoughts between themselves accusing, or also defending one another,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               In the day when God shall judge the secrets of men by Jesus Christ, according to my gospel.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               But if thou art called a Jew and restest in the law, and makest thy boast of God,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               And knowest his will, and approvest the more profitable things, being instructed by the law,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               Art confident that thou thyself art a guide of the blind, a light of them that are in darkness,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               An instructor of the foolish, a teacher of infants, having the form of knowledge and of truth in the law.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               Thou therefore that teachest another, teachest not thyself: thou that preachest that men should not steal, stealest:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               Thou that sayest, men should not commit adultery, committest adultery: thou that abhorrest idols, committest sacrilege:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               Thou that makest thy boast of the law, by transgression of the law dishonourest God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               (For the name of God through you is blasphemed among the Gentiles, as it is written.)
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               Circumcision profiteth indeed, if thou keep the law; but if thou be a transgressor of the law, thy circumcision is made uncircumcision.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               If, then, the uncircumcised keep the justices of the law, shall not this uncircumcision be counted for circumcision?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               And shall not that which by nature is uncircumcision, if it fulfill the law, judge thee, who by the letter and circumcision art a transgressor of the law?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               For it is not he is a Jew, who is so outwardly; nor is that circumcision which is outwardly in the flesh:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               But he is a Jew, that is one inwardly; and the circumcision is that of the heart, in the spirit, not in the letter; whose praise is not of men, but of God.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Romans
+              </td>
+              <td class="next">
+               <a href="53001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="52003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

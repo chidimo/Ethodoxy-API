@@ -1,0 +1,568 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Luke Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/49004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/49004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Luke
+           </td>
+           <td class="next">
+            <a href="50001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="49005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="49001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="49002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="49003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="49005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="49006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="49007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="49008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="49009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="49010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="49011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="49012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="49013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="49014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="49015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="49016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="49017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="49018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="49019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="49020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="49021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="49022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="49023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="49024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ's fasting and temptation. He is persecuted in Nazareth. His miracles in Capharnaum.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               And Jesus being full of the Holy Ghost, returned from the Jordan, and was led by the Spirit into the desert,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               For the space of forty days; and was tempted by the devil. And he ate nothing in those days; and when they were ended, he was hungry.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               And the devil said to him: If thou be the Son of God, say to this stone that it be made bread.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               And Jesus answered him: It is written, that Man liveth not by bread alone, but by every word of God.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               And the devil led him into a high mountain, and shewed him all the kingdoms of the world in a moment of time;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And he said to him: To thee will I give all this power, and the glory of them; for to me they are delivered, and to whom I will, I give them.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               If thou therefore wilt adore before me, all shall be thine.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               And Jesus answering said to him: It is written: Thou shalt adore the Lord thy God, and him only shalt thou serve.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               And he brought him to Jerusalem, and set him on a pinnacle of the temple, and he said to him: If thou be the Son of God, cast thyself from hence.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               For it is written, that He hath given his angels charge over thee, that they keep thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               And that in their hands they shall bear thee up, lest perhaps thou dash thy foot against a stone.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               And Jesus answering, said to him: It is said: Thou shalt not tempt the Lord thy God.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               And all the temptation being ended, the devil departed from him for a time.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               And Jesus returned in the power of the spirit, into Galilee, and the fame of him went out through the whole country.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And he taught in their synagogues, and was magnified by all.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               And he came to Nazareth, where he was brought up: and he went into the synagogue, according to his custom, on the sabbath day; and he rose up to read.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               And the book of Isaias the prophet was delivered unto him. And as he unfolded the book, he found the place where it was written:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               The Spirit of the Lord is upon me. Wherefore he hath anointed me to preach the gospel to the poor, he hath sent me to heal the contrite of heart,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               To preach deliverance to the captives, and sight to the blind, to set at liberty them that are bruised, to preach the acceptable year of the Lord, and the day of reward.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               And when he had folded the book, he restored it to the minister, and sat down. And the eyes of all in the synagogue were fixed on him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               And he began to say to them: This day is fulfilled this scripture in your ears.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               And all gave testimony to him: and they wondered at the words of grace that proceeded from his mouth, and they said: Is not this the son of Joseph?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               And he said to them: Doubtless you will say to me this similitude: Physician, heal thyself: as great things as we have heard done in Capharnaum, do also here in thy own country.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               And he said: Amen I say to you, that no prophet is accepted in his own country.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               In truth I say to you, there were many widows in the days of Elias in Israel, when heaven was shut up three years and six months, when there was a great famine throughout all the earth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               And to none of them was Elias sent, but to Sarepta of Sidon, to a widow woman.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=27-#x">
+                [27]
+               </a>
+               And there were many lepers in Israel in the time of Eliseus the prophet: and none of them was cleansed but Naaman the Syrian.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=28-#x">
+                [28]
+               </a>
+               And all they in the synagogue, hearing these things, were filled with anger.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=29-#x">
+                [29]
+               </a>
+               And they rose up and thrust him out of the city; and they brought him to the brow of the hill, whereon their city was built, that they might cast him down headlong.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=30-#x">
+                [30]
+               </a>
+               But he passing through the midst of them, went his way.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=31-#x">
+                [31]
+               </a>
+               And he went down into Capharnaum, a city of Galilee, and there he taught them on the sabbath days.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=32-#x">
+                [32]
+               </a>
+               And they were astonished at his doctrine: for his speech was with power.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=33-#x">
+                [33]
+               </a>
+               And in the synagogue there was a man who had an unclean devil, and he cried out with a loud voice,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=34-#x">
+                [34]
+               </a>
+               Saying: Let us alone, what have we to do with thee, Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the holy one of God.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=35-#x">
+                [35]
+               </a>
+               And Jesus rebuked him, saying: Hold thy peace, and go out of him. And when the devil had thrown him into the midst, he went out of him, and hurt him not at all.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=36-#x">
+                [36]
+               </a>
+               And there came fear upon all, and they talked among themselves, saying: What word is this, for with authority and power he commandeth the unclean spirits, and they go out?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=37-#x">
+                [37]
+               </a>
+               And the fame of him was published into every place of the country.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=38-#x">
+                [38]
+               </a>
+               And Jesus rising up out of the synagogue, went into Simon's house. And Simon's wife's mother was taken with a great fever, and they besought him for her.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=39-#x">
+                [39]
+               </a>
+               And standing over her, he commanded the fever, and it left her. And immediately rising, she ministered to them.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=40-#x">
+                [40]
+               </a>
+               And when the sun was down, all they that had any sick with divers diseases, brought them to him. But he laying his hands on every one of them, healed them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=41-#x">
+                [41]
+               </a>
+               And devils went out from many, crying out and saying: Thou art the Son of God. And rebuking them he suffered them not to speak, for they knew that he was Christ.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=42-#x">
+                [42]
+               </a>
+               And when it was day, going out he went into a desert place, and the multitudes sought him, and came unto him: and they stayed him that he should not depart from them.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=43-#x">
+                [43]
+               </a>
+               To whom he said: To other cities also I must preach the kingdom of God: for therefore am I sent.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=4&amp;l=44-#x">
+                [44]
+               </a>
+               And he was preaching in the synagogues of Galilee.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Luke
+              </td>
+              <td class="next">
+               <a href="50001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="49005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

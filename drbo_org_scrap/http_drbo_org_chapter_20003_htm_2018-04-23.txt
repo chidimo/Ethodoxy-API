@@ -1,0 +1,593 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Job Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/20003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/20003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Job
+           </td>
+           <td class="next">
+            <a href="21001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="20002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="20004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="20001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="20002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="20004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="20005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="20006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="20007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="20008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="20009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="20010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="20011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="20012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="20013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="20014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="20015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="20016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="20017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="20018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="20019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="20020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="20021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="20022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="20023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="20024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="20025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="20026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="20027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="20028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="20029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="20030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="20031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="20032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="20033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="20034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="20035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="20036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="20037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="20038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="20039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="20040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="20041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="20042.htm">
+              42
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Job expresses his sense of the miseries of man's life, by cursing the day of his birth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               After this Job opened his mouth, and
+               <u>
+                cursed his day
+               </u>
+               ,
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               And he said:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               Let the day perish wherein I was born, and the night in which it was said: A man child is conceived.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               Let that day be turned into darkness, let not God regard it from above, and let not the light shine upon it.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               Let darkness, and the shadow of death cover it, let a mist overspread it, and let it be wrapped up in bitterness.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Cursed his day"
+               </u>
+               : Job cursed the day of his birth, not by way of wishing evil to any thing of God's creation; but only to express in a stronger manner his sense of human miseries in general, and of his own calamities in particular.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               Let a darksome whirlwind seize upon that night, let it not be counted in the days of the year, nor numbered in the months.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Let that night be solitary, and not worthy of praise.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               Let them curse it who curse the day. who are ready to raise up a leviathan:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Let the stars be darkened with the mist thereof: let it expect light and not see it, nor the rising of the dawning of the day:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               Because it shut not up the doors of the womb that bore me, nor took away evils from my eyes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               Why did I not die in the womb, why did I not perish when I came out of the belly?
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               Why received upon the knees? why suckled at the breasts?
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               For now I should have been asleep and still, and should have rest in my sleep.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               With kings and consuls of the earth, who build themselves solitudes:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               Or with princes, that possess gold, and All their houses with silver:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               Or as a hidden untimely birth I should not be, or as they that being conceived have not seen the light.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               There the wicked cease from tumult, and there the wearied in strength are at rest.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               And they sometime bound together without disquiet, have not heard the voice of the oppressor.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               The small and great are there, and the servant is free from his master.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               Why is light given to him that is in misery, and life to them that are in bitterness of soul?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               That look for death, and it cometh not, as they that dig for a treasure:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               And they rejoice exceedingly when they have found the grave.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               To a man whose way is hidden, and God hath surrounded him with darkness?
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               Before I eat I sigh: and as overflowing waters, so is my roaring:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=25-#x">
+                [25]
+               </a>
+               For the fear which I feared hath come upon me: and that which I was afraid of, hath befallen me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=3&amp;l=26-#x">
+                [26]
+               </a>
+               Have I not dissembled? have I not kept silence? have I not been quiet? and indignation is come upon me.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Job
+              </td>
+              <td class="next">
+               <a href="21001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="20002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="20004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

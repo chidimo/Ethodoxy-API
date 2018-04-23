@@ -1,0 +1,507 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 John Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/69005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/69005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="68001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint John
+           </td>
+           <td class="next">
+            <a href="70001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="69004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="69001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="69002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="69003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="69004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Of them that are born of God, and of true charity. Faith overcomes the world. Three that bear witness to Christ. Of faith in his name and of sin that is and is not to death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               Whosoever believeth that Jesus is the Christ,
+               <u>
+                is born of God
+               </u>
+               . And every one that loveth him who begot, loveth him also who is born of him.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               In this we know that we love the children of God: when we love God, and keep his commandments.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               For this is the charity of God, that we keep his commandments: and his commandments are not heavy.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               For whatsoever is born of God, overcometh the world: and this is the victory which overcometh the world,
+               <u>
+                our faith
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Is born of God"
+               </u>
+               : That is, is justified, and become a child of God by baptism: which is also to be understood; provided the belief of this fundamental article of the Christian faith be accompanied with all the other conditions, which, by the word of God, and his appointment, are also required to justification; such as a general belief of all that God has revealed and promised: hope, love, repentance, and a sincere disposition to keep God's holy law and commandments.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Our faith"
+               </u>
+               : Not a bare, speculative, or dead faith; but a faith that worketh by charity. Gal. 5. 6
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               This is he that
+               <u>
+                came by water and blood
+               </u>
+               , Jesus Christ: not by water only, but by water and blood. And it is the Spirit which testifieth, that Christ is the truth.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               And there are three who give testimony in heaven, the Father, the Word, and the Holy Ghost. And these three are one.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               And there are three that give testimony on earth:
+               <u>
+                the spirit, and the water, and the blood
+               </u>
+               : and these three are one.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               If we receive the testimony of men, the testimony of God is greater. For this is the testimony of God, which is greater, because he hath testified of his Son.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               He that believeth in the Son of God, hath the testimony of God in himself.
+               <u>
+                He that believeth not the Son
+               </u>
+               , maketh him a liar: because he believeth not in the testimony which God hath testified of his Son.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Came by water and blood"
+               </u>
+               : Not only to wash away our sins by the water of baptism, but by his own blood.
+              </p>
+              <p class="note">
+               [8]
+               <u>
+                "The spirit, and the water, and the blood"
+               </u>
+               : As the Father, the Word, and the Holy Ghost, all bear witness to Christ's divinity; so the spirit, which he yielded up, crying out with a loud voice upon the cross; and the water and blood that issued from his side, bear witness to his humanity, and are one; that is, all agree in one testimony.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "He that believeth not the Son"
+               </u>
+               : By refusing to believe the testimonies given by the three divine persons, that Jesus was the Messias, and the true Son of God, by whom eternal life is obtained and promised to all that comply with his doctrine. In him we have also this lively confidence, that we shall obtain whatever we ask, according to his will, when we ask what is for our good, with perseverance, and in the manner we ought. And this we know, and have experience of, by having obtained the petitions that we have made.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               And this is the testimony, that God hath given to us eternal life. And this life is in his Son.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               He that hath the Son, hath life. He that hath not the Son, hath not life.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               These things I write to you, that you may know that you have eternal life, you who believe in the name of the Son of God.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               And this is the confidence which we have towards him: That, whatsoever we shall ask according to his will, he heareth us.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               And we know that he heareth us whatsoever we ask: we know that we have the petitions which we request of him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               He that knoweth his brother to sin
+               <u>
+                a sin which is not to death
+               </u>
+               , let him ask, and life shall be given to him, who sinneth not to death. There is
+               <u>
+                a sin unto death
+               </u>
+               : for that I say not that any man ask.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               All iniquity is sin. And there is a sin unto death.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               We know that whosoever is born of God, sinneth not: but the generation of God preserveth him, and the wicked one toucheth him not.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               We know that we are of God, and
+               <u>
+                the whole world is seated in wickedness
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               And we know that the Son of God is come: and he hath given us understanding that we may know the true God,
+               <u>
+                and may be in his true Son
+               </u>
+               . This is the true God and life eternal.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "A sin which is not to death"
+               </u>
+               : It is hard to determine what St. John here calls a sin which is not to death, and a sin which is unto death. The difference can not be the same as betwixt sins that are called venial and mortal: for he says, that if a man pray for his brother, who commits a sin that is not to death, life shall be given him: therefore such a one had before lost the life of grace, and been guilty of what is commonly called a mortal sin. And when he speaks of a sin that is unto death, and adds these words, for that I say not that any man ask, it cannot be supposed that St. John would say this of every mortal sin, but only of some heinous sins, which are very seldom remitted, because such sinners very seldom repent. By a sin therefore which is unto death, interpreters commonly understand a wilfull apostasy from the faith, and from the known truth, when a sinner, hardened by his own ingratitude, becomes deaf to all admonitions, will do nothing for himself, but runs on to a final impenitence. Nor yet does St. John say, that such a sin is never remitted, or cannot be remitted, but only has these words, for that I say not that any man ask the remission: that is, though we must pray for all sinners whatsoever, yet men can not pray for such sinners with such a confidence of obtaining always their petitions, as St. John said before, ver. 14. Whatever exposition we follow on this verse, our faith teacheth us from the holy scriptures, that God desires not the death of any sinner, but that he be converted and live, Ezech. 33. 11. Though men's sins be as red as scarlet, they shall become as white as snow, Isa. 3. 18. It is the will of God that every one come to the knowledge of the truth, and be saved. There is no sin so great but which God is willing to forgive, and has left a power in his church to remit the most enormous sins: so that no sinner need despair of pardon, nor will any sinner perish, but by his own fault.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "A sin unto death"
+               </u>
+               : Some understand this of final impenitence, or of dying in mortal sin; which is the only sin that never can be remitted. But, it is probable, he may also comprise under this name, the sin of apostasy from the faith, and some other such heinous sins as are seldom and hardly remitted: and therefore he gives little encouragement, to such as pray for these sinners, to expect what they ask.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "The whole world is seated in wickedness"
+               </u>
+               : That is, a great part of the world. It may also signify, is under the wicked one, meaning the devil, who is elsewhere called the prince of this world, that is, of all the wicked. John 12. 31.
+              </p>
+              <p class="note">
+               [20]
+               <u>
+                "And may be in his true Son"
+               </u>
+               : He is, or this is the true God, and life eternal. Which words are a clear proof of Christ's divinity, and as such made use of by the ancient fathers.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               Little children,
+               <u>
+                keep yourselves from idols
+               </u>
+               . Amen.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "Keep yourselves from idols"
+               </u>
+               : An admonition to the newly converted Christians, lest conversing with heathens and idolaters, they might fall back into the sin of idolatry, which may be the sin unto death here mentioned by St. John.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="68001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint John
+              </td>
+              <td class="next">
+               <a href="70001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="69004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

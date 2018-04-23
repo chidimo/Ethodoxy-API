@@ -1,0 +1,433 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Timothy Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/61005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/61005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="60001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint Paul To Timothy
+           </td>
+           <td class="next">
+            <a href="62001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="61004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="61006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="61001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="61002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="61003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="61004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="61006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               He gives him lessons concerning widows, and how he is to behave to his clergy.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               An ancient man rebuke not, but entreat him as a father: young men, as brethren:
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               Old women, as mothers: young women, as sisters, in all chastity.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               Honour widows, that are widows indeed.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               But if any widow have children, or grandchildren, let her learn first to govern her own house, and to make a return of duty to her parents: for this is acceptable before God.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               But she that is a widow indeed, and desolate, let her trust in God, and continue in supplications and prayers night and day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               For she that liveth in pleasures, is dead while she is living.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               And this give in charge, that they may be blameless.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               But if any man have not care of his own, and especially of those of his house, he hath denied the faith, and is worse than an infidel.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               Let a widow be chosen of no less than threescore years of age, who hath been the wife of one husband.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               Having testimony for her good works, if she have brought up children, if she have received to harbour, if she have washed the saints' feet, if she have ministered to them that suffer tribulation, if she have diligently followed every good work.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               But the younger widows avoid. For when they have grown wanton in Christ, they will marry:
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               Having damnation, because they have made void
+               <u>
+                their first faith
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               And withal being idle they learn to go about from house to house: and are not only idle, but tattlers also, and busybodies, speaking things which they ought not.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               I will therefore that the younger should marry, bear children, be mistresses of families, give no occasion to the adversary to speak evil.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               For some are already turned aside after Satan.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "Their first faith"
+               </u>
+               : Their vow, by which they had engaged themselves to Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               If any of the faithful have widows, let him minister to them, and let not the church be charged: that there may be sufficient for them that are widows indeed.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               Let the priests that rule well, be esteemed worthy of double honour: especially they who labour in the word and doctrine:
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               For the scripture saith: Thou shalt not muzzle the ox that treadeth out the corn: and, The labourer is worthy of his reward.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               Against a priest receive not an accusation, but under two or three witnesses.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               Them that sin reprove before all: that the rest also may have fear.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               I charge thee before God, and Christ Jesus, and the elect angels, that thou observe these things without prejudice, doing nothing by declining to either side.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=22-#x">
+                [22]
+               </a>
+               Impose not hands lightly upon any man, neither be partaker of other men's sins. Keep thyself chaste.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=23-#x">
+                [23]
+               </a>
+               Do not still drink water, but use a little wine for thy stomach's sake, and thy frequent infirmities.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=24-#x">
+                [24]
+               </a>
+               Some men's sins are manifest, going before to judgment: and some men they follow after.
+               <a href="/x/d?b=drb&amp;bk=61&amp;ch=5&amp;l=25-#x">
+                [25]
+               </a>
+               In like manner also good deeds are manifest: and they that are otherwise, cannot be hid.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="60001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint Paul To Timothy
+              </td>
+              <td class="next">
+               <a href="62001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="61004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="61006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

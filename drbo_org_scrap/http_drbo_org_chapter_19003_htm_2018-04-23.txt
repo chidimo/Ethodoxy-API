@@ -1,0 +1,408 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Esther Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/19003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/19003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="18001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Esther
+           </td>
+           <td class="next">
+            <a href="20001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="19004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="19001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="19002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="19004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="19005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="19006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="19007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="19008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="19009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="19010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="19011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="19012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="19013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="19014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="19015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="19016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Aman, advanced by the king, is offended at Mardochai, and therefore procureth the king's decree to destroy the whole nation of the Jews.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               After these things, king Assuerus advanced Aman, the son of Amadathi, who was of the race of Agag: and he set his throne above all the princes that were with him.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               And all the king's servants, that were at the doors of the palace, bent their knees, and worshipped Aman: for so the emperor had commanded them, only Mardochai did not bend his knee, nor worship him.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               And the king's servants that were chief at the doors of the palace, said to him: Why dost thou alone not observe the king's commandment?
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               And when they were saying this often, and he would not hearken to them; they told Aman, desirous to know whether he would continue in his resolution: for he had told them that he was a Jew.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               Now when Aman had heard this, and had proved by experience that Mardochai did not bend his knee to him, nor worship him, he was exceeding angry.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And he counted it nothing to lay his hands upon Mardochai alone: for he had heard that he was of the nation of the Jews, and he chose rather to destroy all the nation of the Jews that were in the kingdom of Assuerus.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               In the first month (which is called Nisan) in the twelfth year a of the reign of Assuerus, the lot was cast into an urn, which in Hebrew is called Phur, before Aman, on what day and what month the nation of the Jews should be destroyed: and there came out the twelfth month, which is called Adar.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And Aman said to king Assuerus: There is a people scattered through all the provinces of thy kingdom, and separated one from another, that use new laws and ceremonies, and moreover despise the king's ordinances: and thou knowest very well that it is not expedient for thy kingdom that they should grow insolent by impunity.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               If it please thee, decree that they may he destroyed, and I will pay ten thousand talents to thy treasurers.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And the king took the ring that he used, from his own hand, and gave it to Aman, the son of Amadathi of the race of Agag, the enemy of the Jews,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               And he said to him: As to the money which thou promisest, keep it for thyself: and as to the people, do with them as seemeth good to thee.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               And the king's scribes were called in the first month Nisan, on the thirteenth day of the same month: and they wrote, as Aman had commanded, to all the king's lieutenants, and to the judges of the provinces, and of divers nations, as every nation could read, and hear according to their different languages, in the name of king Assuerus: and the letters, sealed with his ring,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Were sent by the king's messengers to all provinces, to kill and destroy all the Jews, both young and old, little children, and women, in one day, that is, on the thirteenth of the twelfth month, which is called Adar, and to make a spoil of their goods.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               And the contents of the letters were to this effect, that all provinces might know and be ready against that day.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               The couriers that were sent made haste to fulfill the king's commandment. And immediately the edict was hung up in Susan, the king and Aman feasting together, and all the Jews that were in the city weeping.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="18001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Esther
+              </td>
+              <td class="next">
+               <a href="20001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="19004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,483 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judith Chapter 16
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/18016.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/18016.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="17001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judith
+           </td>
+           <td class="next">
+            <a href="19001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="18015.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 16
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="18001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="18002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="18003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="18004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="18005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="18006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="18007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="18008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="18009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="18010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="18011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="18012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="18013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="18014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="18015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             16
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The canticle of Judith: her virtuous life and death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=1-#x">
+                [1]
+               </a>
+               Then Judith sung this canticle to the Lord, saying:
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=2-#x">
+                [2]
+               </a>
+               Begin ye to the Lord with timbrels, sing ye to the Lord with cymbals, tune unto him a new psalm, extol and call upon his name.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=3-#x">
+                [3]
+               </a>
+               The Lord putteth an end to wars, the Lord is his name.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=4-#x">
+                [4]
+               </a>
+               He hath set his camp in the midst of his people, to deliver us from the hand of all our enemies.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=5-#x">
+                [5]
+               </a>
+               The Assyrians came out of the mountains from the north in the multitude of his strength: his multitude stopped up the torrents, and their horses covered the valleys.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=6-#x">
+                [6]
+               </a>
+               He bragged that he would set my borders on fire, and kill my young men with the sword, to make my infants a prey, and my virgins captives.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=7-#x">
+                [7]
+               </a>
+               But the almighty Lord hath struck him, and hath delivered him into the hands of a woman, and hath slain him.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=8-#x">
+                [8]
+               </a>
+               For their mighty one did not fall by young men, neither did the sons of Titan strike him, nor tall giants oppose themselves to him, but Judith the daughter of Merari weakened him with the beauty of her face.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=9-#x">
+                [9]
+               </a>
+               For she put off her the garments of widowhood, and put on her the garments of joy, to give joy to the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=10-#x">
+                [10]
+               </a>
+               She anointed her face with ointment, and bound up her locks with a crown, she took a new robe to deceive him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=11-#x">
+                [11]
+               </a>
+               Her sandals ravished his eyes, her beauty made his soul her captive, with a sword she cut off his head.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=12-#x">
+                [12]
+               </a>
+               The Persians quaked at her constancy, and the Medes at her boldness.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=13-#x">
+                [13]
+               </a>
+               Then the camp of the Assyrians howled, when my lowly ones appeared, parched with thirst.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=14-#x">
+                [14]
+               </a>
+               The sons of the damsels have pierced them through, and they have killed them like children fleeing away: they perished in battle before the face of the Lord my God.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=15-#x">
+                [15]
+               </a>
+               Let us sing a hymn to the Lord, let us sing a new hymn to our God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=16-#x">
+                [16]
+               </a>
+               O Adonai, Lord, great art thou, and glorious in thy power, and no one can overcome thee.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=17-#x">
+                [17]
+               </a>
+               Let all thy creatures serve thee: because thou hast spoken, and they were made: thou didst send forth thy spirit, and they were created, and there is no one that can resist thy voice.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=18-#x">
+                [18]
+               </a>
+               The mountains shall be moved from the foundations with the waters: the rocks shall melt as wax before thy face.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=19-#x">
+                [19]
+               </a>
+               But they that fear thee, shall be great with thee in all things.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=20-#x">
+                [20]
+               </a>
+               Woe be to the nation that riseth up against my people: for the Lord almighty will take revenge on them, in the day of judgment he will visit them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=21-#x">
+                [21]
+               </a>
+               For he will give fire, and worms into their flesh, that they may burn, and may feel for ever.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=22-#x">
+                [22]
+               </a>
+               And it came to pass after these things, that all the people, after the victory, came to Jerusalem to adore the Lord: and as soon as they were purified, they all offered holocausts, and vows, and their promises.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=23-#x">
+                [23]
+               </a>
+               And Judith offered for
+               <u>
+                an anathema of oblivion
+               </u>
+               all the arms of Holofernes, which the people gave her, and the canopy that she had taken away out of his chamber.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=24-#x">
+                [24]
+               </a>
+               And the people were joyful in the sight of the sanctuary, and for three months the joy of this victory was celebrated with Judith.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=25-#x">
+                [25]
+               </a>
+               And after those days every man returned to his house, and Judith was made great in Bethulia, and she was most renowned in all the land of Israel.
+              </p>
+              <p class="note">
+               [23]
+               <u>
+                "An anathema of oblivion"
+               </u>
+               : That is, a gift or offering made to God, by way of an everlasting monument, to prevent the oblivion or forgetting so great a benefit.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=26-#x">
+                [26]
+               </a>
+               And chastity was joined to her virtue, so that she knew no man all the days of her life, after the death of Manasses her husband.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=27-#x">
+                [27]
+               </a>
+               And on festival days she came forth with great glory.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=28-#x">
+                [28]
+               </a>
+               And she abode in her husband's house a hundred and five years, and made her handmaid free, and she died, and was buried with her husband in Bethulia.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=29-#x">
+                [29]
+               </a>
+               And all the people mourned for seven days.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=30-#x">
+                [30]
+               </a>
+               And all the time of her life there was none that troubled Israel, nor many years after her death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=16&amp;l=31-#x">
+                [31]
+               </a>
+               But the day of the festivity of this victory is received by the Hebrews in the number of holy days, and is religiously observed by the Jews from that time until this day.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="17001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judith
+              </td>
+              <td class="next">
+               <a href="19001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="18015.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 16
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,610 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="02007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               God reneweth his promise. The genealogies of Ruben, Simon and Levi, down to Moses and Aaron.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord said to Moses: Now thou shalt see what I will do to Pharao: for by a mighty hand shall he let them go, and with a strong hand shall he cast them out of his land.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               And the Lord spoke to Moses, saying: I am the Lord,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               That appeared to Abraham, to Isaac, and to Jacob, by the name of God Almighty; and
+               <u>
+                my name ADONAI
+               </u>
+               I did not shew them.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               And I made a covenant with them, to give them the land of Chanaan, the land of their pilgrimage wherein they were strangers.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               I have heard the groaning of the children of Israel, wherewith the Egyptians have oppressed them: and I have remembered my covenant.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "My name Adonai"
+               </u>
+               : The name, which is in the Hebrew text, is that most proper name of God, which signifieth his eternal, self-existent being, Ex. 3. 14, which the Jews out of reverence never pronounce; but, instead of it, whenever it occurs in the Bible, they read Adonai, which signifies the Lord; and, therefore, they put the points or vowels, which belong to the name Adonai, to the four letters of that other ineffable name Jod, He, Vau, He. Hence some moderns have framed the name Jehovah, unknown to all the ancients, whether Jews or Christians; for the true pronunciation of the name, which is in the Hebrew text, by long disuse, is now quite lost.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               Therefore say to the children of Israel: I am the Lord who will bring you out from the work prison of the Egyptians, and will deliver you from bondage: and redeem you with a high arm, and great judgments.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               And I will take you to myself for my people, I will be your God: and you shall know that I am the Lord your God who brought you out from the work prison of the Egyptians.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               And brought you into the land, concerning which I lifted up my hand to give it to Abraham, Isaac, and Jacob and I will give it you to possess, I am the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               And Moses told all this to the children of Israel: but they did not hearken to him, for anguish of spirit, and most painful work.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               And the Lord spoke to Moses, saying:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               Go in, and speak to Pharao king of Egypt, that he let the children of Israel go out of his land.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               Moses answered before the Lord Behold the children of Israel do no hearken to me; and how will Pharao hear me, especially as I am of
+               <u>
+                uncircumcised lips
+               </u>
+               ?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               And the Lord spoke to Moses and Aaron, and he gave them a charge unto the children of Israel, and unto Pharao the king of Egypt, that they should bring forth the children of Israel out of the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               These are the heads of their house by their families. The sons of Rubel the firstborn of Israel: Henoch and Phallu, Hesron and Charmi.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               These are the kindreds of Ruben. The sons of Simeon: Jamuel, and Jamin and Ahod, and Jachin, and Soar, and Saul the son of a Chanaanitess: these are the families of Simeon.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "Uncircumcised lips"
+               </u>
+               : So he calls the defect he had in his words, or utterance.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               And these are the names of the sons of Levi by their kindreds: Gerson, and Caath, and Merari. And the years of the life of Levi were a hundred and thirty seven.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               The sons of Gerson: Lobni and Semei, by their kindreds.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               The sons of Caath: Amram, and Isaar, and Hebron, and Oziel. And the years of Caath's life were a hundred and thirty-three.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               The sons of Merari: Moholi and Musi. These are the kindreds of Levi by their families.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               And Amram took to wife Jochabed his aunt by the father's side: and she bore him Aaron and Moses. And the years of Amram's life were a hundred and thirty-seven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               The sons also of Isaar: Core, and Nepheg, and Zechri.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               The sons also of Oziel: Mizael, and Elizaphan, and Sethri.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=23-#x">
+                [23]
+               </a>
+               And Aaron took to wife Elizabeth the daughter of Aminadab, sister of Nahason, who bore him Nadab, and Abiu, and Eleazar, and Ithamar.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=24-#x">
+                [24]
+               </a>
+               The sons also of Core: Aser, and Elcana, and Abiasaph. These are the kindreds of the Corites.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=25-#x">
+                [25]
+               </a>
+               But Eleazar the son of Aaron took a wife of the daughters of Phutiel: and she bore him Phinees. These are the heads of the Levitical families by their kindreds.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=26-#x">
+                [26]
+               </a>
+               These are Aaron and Moses, whom the Lord commanded to bring forth the children of Israel out of the land of Egypt by their companies.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=27-#x">
+                [27]
+               </a>
+               These are they that speak to Pharao king of Egypt, in order to bring out the children of Israel from Egypt: these are that Moses and Aaron,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=28-#x">
+                [28]
+               </a>
+               In the day when the Lord spoke to Moses in the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=29-#x">
+                [29]
+               </a>
+               And the Lord spoke to Moses, saying: I am the Lord: speak thou to Pharao king of Egypt all that I say to thee.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=6&amp;l=30-#x">
+                [30]
+               </a>
+               And Moses said before the Lord: Lo I am of uncircumcised lips, how will Pharao hear me?
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="02007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

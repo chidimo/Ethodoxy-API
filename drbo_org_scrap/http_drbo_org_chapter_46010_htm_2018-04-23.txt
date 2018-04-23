@@ -1,0 +1,529 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Machabees Chapter 10
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/46010.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/46010.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="47001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46009.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 10
+           </td>
+           <td class="next">
+            <a href="46011.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="46001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="46002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="46003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="46004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="46005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="46006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="46007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="46008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="46009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             10
+            </td>
+            <td width="30">
+             <a href="46011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="46012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="46013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="46014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="46015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The purification of the temple and city. Other exploits of Judas. His victory over Timotheus.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=1-#x">
+                [1]
+               </a>
+               But Machabeus, and they that were with him, by the protection of the Lord, recovered the temple and the city again.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=2-#x">
+                [2]
+               </a>
+               But he threw down the altars, which the heathens had set up in the streets, as also the temples of the idols.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=3-#x">
+                [3]
+               </a>
+               And having purified the temple, they made another altar: and taking fire out of the fiery stones, they offered sacrifices after two years, and set forth incense, and lamps, and the loaves of proposition.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=4-#x">
+                [4]
+               </a>
+               And when they had done these things, they besought the Lord, lying prostrate on the ground, that they might no more fall into such evils; but if they should at any time sin, that they might be chastised by him more gently, and not be delivered up to barbarians and blasphemous men.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=5-#x">
+                [5]
+               </a>
+               Now upon the same day that the temple had been polluted by the strangers, on the very same day it was cleansed again, to wit, on the five and twentieth day of the month of Casleu.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=6-#x">
+                [6]
+               </a>
+               And they kept eight days with joy, after the manner of the feast of the tabernacles, remembering that not long before they had kept the feast of the tabernacles when they were in the mountains, and in dens like wild beasts.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=7-#x">
+                [7]
+               </a>
+               Therefore they now, carried boughs, and green branches, and palms for Him that had given them good success in cleansing his place.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=8-#x">
+                [8]
+               </a>
+               And they ordained by a common statute, and decree, that all the nation of the Jews should keep those days every year.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=9-#x">
+                [9]
+               </a>
+               And this was the end of Antiochus that was called the Illustrious.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=10-#x">
+                [10]
+               </a>
+               But now we will relate the acts of Eupator the son of that wicked Antiochus, abridging the account of the evils that happened in the wars.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=11-#x">
+                [11]
+               </a>
+               For when he was come to the crown, he appointed over the affairs of his realm one Lysias, general of the army of Phenicia and Syria.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=12-#x">
+                [12]
+               </a>
+               For Ptolemee that was called Macer, was determined to be strictly just to the Jews, and especially by reason of the wrong that had been done them, and to deal peaceably with them.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=13-#x">
+                [13]
+               </a>
+               But being accused for this to Eupator by his friends, and being oftentimes called traitor, because he had left Cyprus which Philometor had committed to him, and coming over to Antiochus the Illustrious, had revolted also from him, he put an end to his life by poison.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=14-#x">
+                [14]
+               </a>
+               But Gorgias, who was governor of the holds, taking with him the strangers, often fought against the Jews.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=15-#x">
+                [15]
+               </a>
+               And
+               <u>
+                the Jews
+               </u>
+               that occupied the most commodious hold, received those that were driven out of Jerusalem, and attempted to make war.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "The Jews"
+               </u>
+               : He speaks of them that had fallen from their religion, and were enemies of their country, who joining with the Idumeans or Edomites, kept possession of the strong holds, and from thence annoyed their countrymen.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=16-#x">
+                [16]
+               </a>
+               Then they that were with Machabeus, beseeching the Lord by prayers to be their helper, made a strong attack upon the strong holds of the Idumeans:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=17-#x">
+                [17]
+               </a>
+               And assaulting them with great force, won the holds, killed them that came in the way, and slew altogether no fewer than twenty thousand.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=18-#x">
+                [18]
+               </a>
+               And whereas some were fled into very strong towers, having all manner of provision to sustain a siege,
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=19-#x">
+                [19]
+               </a>
+               Machabeus left Simon and Joseph, and Zacheus, and them that were with them in sufficient number to besiege them, and departed to those expeditions which urged more.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=20-#x">
+                [20]
+               </a>
+               Now they that were with Simon, being led with covetousness, were persuaded for the sake of money by some that were in the towers: and taking seventy thousand didrachmas, let some of them escape.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=21-#x">
+                [21]
+               </a>
+               But when it was told Machabeus what was done, he assembled the rulers of the people, and accused those men that they had sold their brethren for money, having let their adversaries escape.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=22-#x">
+                [22]
+               </a>
+               So he put these traitors to death, and forthwith took the two towers.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=23-#x">
+                [23]
+               </a>
+               And having good success in arms and in all things he took in hand, he slew more than twenty thousand in the two holds.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=24-#x">
+                [24]
+               </a>
+               But Timotheus who before had been overcome by the Jews, having called together a multitude of foreign troops, and assembled horsemen out of Asia, came as though he would take Judea by force of arms.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=25-#x">
+                [25]
+               </a>
+               But Machabeus and they that were with him, when he drew near, prayed to the Lord, sprinkling earth upon their heads and girding their loins with haircloth,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=26-#x">
+                [26]
+               </a>
+               And lying prostrate at the foot of the altar, besought him to be merciful to them, and to be an enemy to their enemies, and an adversary to their adversaries, as the law saith.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=27-#x">
+                [27]
+               </a>
+               And so after prayer taking their arms, they went forth further from the city, and when they were come very near the enemies they rested.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=28-#x">
+                [28]
+               </a>
+               But as soon as the sun was risen both sides joined battle: the one part having with their valour the Lord for a surety of victory and success: but the other side making their rage their leader in battle.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=29-#x">
+                [29]
+               </a>
+               But when they were in the heat of the engagement there appeared to the enemies from heaven five men upon horses, comely with golden bridles, conducting the Jews:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=30-#x">
+                [30]
+               </a>
+               Two of whom took Machabeus between them, and covered him on every side with their arms, and kept him safe: but cast darts and fireballs against the enemy, so that they fell down, being both confounded with blindness, and filled with trouble.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=31-#x">
+                [31]
+               </a>
+               And there were slain twenty thousand five hundred, and six hundred horsemen.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=32-#x">
+                [32]
+               </a>
+               But Timotheus fled into Gazara a strong hold, where Chereas was governor.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=33-#x">
+                [33]
+               </a>
+               Then Machabeus, and they that were with him, cheerfully laid siege to the fortress four days.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=34-#x">
+                [34]
+               </a>
+               But they that were within, trusting to the strength of the place, blasphemed exceedingly, and cast forth abominable words.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=35-#x">
+                [35]
+               </a>
+               But when the fifth day appeared, twenty young men of them that were with Machabeus, inflamed in their minds because of the blasphemy, approached manfully to the wall, and pushing forward with fierce courage got up upon it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=36-#x">
+                [36]
+               </a>
+               Moreover others also getting up after them, went to set fire to the towers and the gates, and to burn the blasphemers alive.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=37-#x">
+                [37]
+               </a>
+               And having for two days together pillaged and sacked the fortress, they killed
+               <u>
+                Timotheus
+               </u>
+               , who was found hid in a certain place: they slew also his brother Chereas, and Apollophanes.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=10&amp;l=38-#x">
+                [38]
+               </a>
+               And when this was done, they blessed the Lord with hymns and thanksgiving, who had done great things in Israel, and given them the victory.
+              </p>
+              <p class="note">
+               [37]
+               <u>
+                "Timotheus"
+               </u>
+               : This man, who was killed at the taking of Gazara, is different from that Timotheus who is mentioned in the fifth chapter of the first book of Machabees, and of whom there is mention in the following chapter.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="47001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46009.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 10
+              </td>
+              <td class="next">
+               <a href="46011.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

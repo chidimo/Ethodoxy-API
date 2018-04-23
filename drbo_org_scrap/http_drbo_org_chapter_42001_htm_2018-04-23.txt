@@ -1,0 +1,328 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Aggeus (Haggai) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/42001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/42001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="41001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Aggeus (Haggai)
+         </td>
+         <td class="next">
+          <a href="43001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="42002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="42002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The people are reproved for neglecting to build the temple. They are encouraged to set about the work.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             In the second year of Darius the king, in the sixth month, in the first day of the month, the word of the Lord came by the hand of Aggeus the prophet, to Zorobabel the son of Salathiel, governor of Juda, and to Jesus the son of Josedec the high priest, saying:
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Thus saith the Lord of hosts, saying: This people saith: The time is not yet come for building the house of the Lord.
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And the word of the Lord came by the hand of Aggeus the prophet, saying:
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             Is it time for you to dwell in ceiled houses, and this house lie desolate?
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And now thus saith the Lord of hosts: Set your hearts to consider your ways.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             You have sowed much, and brought in little: you have eaten, but have not had enough: you have drunk, but have not been filled with drink: you have clothed yourselves, but have not been warmed: and he that hath earned wages, put them into a bag with holes.
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             Thus saith the Lord of hosts: Set Your hearts upon your ways:
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Go up to the mountain, bring timber, and build the house: and it shall be acceptable to me, and I shall be glorified, saith the Lord.
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             You have looked for more, and behold it became less, and you brought it home, and I blowed it away: why, saith the Lord of hosts? because my house is desolate, and you make haste every man to his own house.
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             Therefore the heavens over you were stayed from giving dew, and the earth was hindered from yielding her fruits:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the wine, and upon the oil, and upon all that the ground bringeth forth, and upon men, and upon beasts, and upon all the labour of the hands.
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             Then Zorobabel the son of Salathiel, and Jesus the son of Josedec the high priest, and all the remnant of the people hearkened to the voice of the Lord their God, and to the words of Aggeus the prophet, as the Lord their God sent him to them: and the people feared before the Lord.
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And Aggeus the messenger of the Lord, as one of the messengers of the Lord, spoke, saying to the people: I am with you, saith the Lord.
+             <a href="/x/d?b=drb&amp;bk=42&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And the Lord stirred up the spirit of Zorobabel the son of Salathiel governor of Juda, and the spirit of Jesus the son of Josedec the high priest, and the spirit of all the rest of the people: and they went in, and did the work in the house of the Lord of hosts their God.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="41001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Prophecy Of Aggeus (Haggai)
+            </td>
+            <td class="next">
+             <a href="43001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="42002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

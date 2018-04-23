@@ -1,0 +1,677 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 16
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04016.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04016.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04015.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 16
+           </td>
+           <td class="next">
+            <a href="04017.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             16
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The schism of Core and his adherents: their punishment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=1-#x">
+                [1]
+               </a>
+               And behold Core the son of Isaar, the son of Caath, the son of Levi, and Dathan and Abiron the sons of Eliab, and Hon the son of Pheleth of the children of Ruben,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=2-#x">
+                [2]
+               </a>
+               <u>
+                Rose up
+               </u>
+               against Moses, and with them two hundred and fifty others of the children of Israel, leading men of the synagogue, and who in the time of assembly were called by name.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=3-#x">
+                [3]
+               </a>
+               And when they had stood up against Moses and Aaron, they said: Let it be enough for you, that all the multitude consisteth of holy ones, and the Lord is among them: Why lift you up yourselves above the people of the Lord?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=4-#x">
+                [4]
+               </a>
+               When Moses heard this, he fell flat on his face:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=5-#x">
+                [5]
+               </a>
+               And speaking to Core and all the multitude, he said: In the morning the Lord will make known who belong to him, and the holy he will join to himself: and whom he shall choose, they shall approach to him.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Rose up"
+               </u>
+               : The crime of these men, which was punished in so remarkable a manner, was that of schism, and of rebellion against the authority established by God in the church; and their pretending to the priesthood without being lawfully called and sent: the same is the case of all modern sectaries.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=6-#x">
+                [6]
+               </a>
+               Do this therefore: Take every man of you your censers, thou Core, and all thy company.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=7-#x">
+                [7]
+               </a>
+               And putting fire in them tomorrow, put incense upon it before the Lord: and whomsoever he shall choose, the same shall be holy: you take too much upon you, ye sons of Levi.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=8-#x">
+                [8]
+               </a>
+               And he said again to Core: Hear ye sons of Levi.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=9-#x">
+                [9]
+               </a>
+               Is it a small thing unto you, that the God of Israel hath spared you from all the people, and joined you to himself, that you should serve him in the service of the tabernacle, and should stand before the congregation of the people, and should minister to him?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=10-#x">
+                [10]
+               </a>
+               Did he therefore make thee and all thy brethren the sons of Levi to approach unto him, that you should challenge to yourselves the priesthood also,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=11-#x">
+                [11]
+               </a>
+               And that all thy company should stand against the Lord? for what is Aaron that you murmur against him?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=12-#x">
+                [12]
+               </a>
+               Then Moses sent to call Dathan and Abiron the sons of Eliab. But they answered: We will not come.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=13-#x">
+                [13]
+               </a>
+               Is it a small matter to thee, that thou hast brought us out of a land that flowed with milk and honey, to kill us in the desert, except thou rule also like a lord over us?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=14-#x">
+                [14]
+               </a>
+               Thou hast brought us indeed into a land that floweth with rivers of milk and honey, and hast given us possessions of fields and vineyards; wilt thou also pull out our eyes? We will not come.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=15-#x">
+                [15]
+               </a>
+               Moses therefore being
+               <u>
+                very angry
+               </u>
+               , said to the Lord: Respect not their sacrifices: thou knowest that I have not taken of them so much as a young ass at any time, nor have injured any of them.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "Very angry"
+               </u>
+               : This anger was a zeal against sin; and an indignation at the affront offered to God; like that which the same holy prophet conceived upon the sight of the golden calf, Ex. 32. 19.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=16-#x">
+                [16]
+               </a>
+               And he said to Core: Do thou and thy congregation stand apart before the Lord tomorrow, and Aaron apart.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=17-#x">
+                [17]
+               </a>
+               Take every one of you censers, and put incense upon them, offering to the Lord two hundred and fifty censers: let Aaron also hold his censer.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=18-#x">
+                [18]
+               </a>
+               When they had done this, Moses and Aaron standing,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=19-#x">
+                [19]
+               </a>
+               And had drawn up all the multitude against them to the door of the tabernacle, the glory of the Lord appeared to them all.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=20-#x">
+                [20]
+               </a>
+               And the Lord speaking to Moses and Aaron, said:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=21-#x">
+                [21]
+               </a>
+               Separate yourselves from among this congregation, that I may presently destroy them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=22-#x">
+                [22]
+               </a>
+               They fell flat on their face, and said: O most mighty, the God of the spirits of all flesh, for one man's sin shall thy wrath rage against all?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=23-#x">
+                [23]
+               </a>
+               And the Lord said to Moses:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=24-#x">
+                [24]
+               </a>
+               Command the whole people to separate themselves from the tents of Core and Dathan and Abiron.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=25-#x">
+                [25]
+               </a>
+               And Moses arose, and went to Dathan and Abiron: and the ancients of Israel following him,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=26-#x">
+                [26]
+               </a>
+               He said to the multitude: Depart from the tents of these wicked men, and touch nothing of theirs, lest you be involved in their sins.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=27-#x">
+                [27]
+               </a>
+               And when they were departed from their tents round about, Dathan and Abiron coming out stood in the entry of their pavilions with their wives and children, and all the people.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=28-#x">
+                [28]
+               </a>
+               And Moses said: By this you shall know that the Lord hath sent me to do all things that you see, and that I have not forged them of my own head:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=29-#x">
+                [29]
+               </a>
+               If these men die the common death of men, and if they be visited with a plague, wherewith others also are wont to be visited, the Lord did not send me.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=30-#x">
+                [30]
+               </a>
+               But if the Lord do a new thing, and the earth opening her mouth swallow them down, and all things that belong to them, and they go down alive into hell, you shall know that they have blasphemed the Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=31-#x">
+                [31]
+               </a>
+               And immediately as he had made an end of speaking, the earth broke asunder under their feet:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=32-#x">
+                [32]
+               </a>
+               And opening her mouth, devoured them with their tents and all their substance.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=33-#x">
+                [33]
+               </a>
+               And they went down alive into hell the ground closing upon them, and they perished from among the people.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=34-#x">
+                [34]
+               </a>
+               But all Israel, that was standing round about, fled at the cry of them that were perishing: saying: Lest perhaps the earth swallow us up also.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=35-#x">
+                [35]
+               </a>
+               And a fire coming out from the Lord, destroyed the two hundred and fifty men that offered the incense.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=36-#x">
+                [36]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=37-#x">
+                [37]
+               </a>
+               Command Eleazar the son of Aaron the priest to take up the censers that lie in the burning, and to scatter the fire of one side and the other: because they are sanctified
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=38-#x">
+                [38]
+               </a>
+               In the deaths of the sinners: and let him beat them into plates, and fasten them to the altar, because incense hath been offered in them to the Lord, and they are sanctified, that the children of Israel may see them for a sign and a memorial.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=39-#x">
+                [39]
+               </a>
+               Then Eleazar the priest took the brazen censers, wherein they had offered, whom the burning fire had devoured, and beat them into plates, fastening them to the altar:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=40-#x">
+                [40]
+               </a>
+               That the children of Israel might have for the time to come wherewith they should be admonished, that no stranger or any one that is not of seed of Aaron should come near to offer incense to the Lord, lest he should suffer as Core suffered, and all his congregation, according as the Lord spoke to Moses.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=41-#x">
+                [41]
+               </a>
+               The following day all the multitude of the children of Israel murmured against Moses and Aaron, saying: You have killed the people of the Lord.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=42-#x">
+                [42]
+               </a>
+               And when there arose a sedition, and the tumult increased,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=43-#x">
+                [43]
+               </a>
+               Moses and Aaron fled to the tabernacle of the covenant. And when the were gone into it, the cloud covered it, and the glory of the Lord appeared.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=44-#x">
+                [44]
+               </a>
+               And the Lord said to Moses:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=45-#x">
+                [45]
+               </a>
+               Get you out from the midst of this multitude, this moment will I destroy them. And as they were lying on the ground,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=46-#x">
+                [46]
+               </a>
+               Moses said to Aaron: Take the censer, and putting fire in it from the altar, put incense upon it, and go quickly to the people to pray for them: for already wrath is gone out from the Lord, and the plague rageth.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=47-#x">
+                [47]
+               </a>
+               When Aaron had done this, and had run to the midst of the multitude which the burning fire was now destroying, he offered the incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=48-#x">
+                [48]
+               </a>
+               And standing between the dead and the living, he prayed for the people, and the plague ceased.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=49-#x">
+                [49]
+               </a>
+               And the number of them that were slain was fourteen thousand and seven hundred men, besides them that had perished in the sedition of Core.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=16&amp;l=50-#x">
+                [50]
+               </a>
+               And Aaron returned to Moses to the door of the tabernacle of the covenant after the destruction was over.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04015.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 16
+              </td>
+              <td class="next">
+               <a href="04017.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

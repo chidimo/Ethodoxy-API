@@ -1,0 +1,461 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 10
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/07010.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/07010.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judges
+           </td>
+           <td class="next">
+            <a href="08001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="07009.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 10
+           </td>
+           <td class="next">
+            <a href="07011.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="07001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="07002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="07003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="07004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="07005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="07006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="07007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="07008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="07009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             10
+            </td>
+            <td width="30">
+             <a href="07011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="07012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="07013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="07014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="07015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="07016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="07017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="07018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="07019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="07020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="07021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Thola ruleth Israel twenty-three years; and Jair twenty-two. The people fall again into idolatry, and are afflicted again by the Philistines and Ammonites. They cry to God for help, who upon their repentance hath compassion on them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=1-#x">
+                [1]
+               </a>
+               After Abimelech there arose a ruler in Israel, Thola son of Phua the
+               <u>
+                uncle of Abimelech
+               </u>
+               , a man of Issachar, who dwelt in Samir of mount Ephraim:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=2-#x">
+                [2]
+               </a>
+               And he judged Israel three and twenty years, and he died and was buried in Samir.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=3-#x">
+                [3]
+               </a>
+               To him succeeded Jair the Galaadite, who judged Israel for two and twenty years.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=4-#x">
+                [4]
+               </a>
+               Having thirty sons that rode on thirty ass colts, and were princes of thirty cities, which from his name were called
+               <u>
+                Havoth Jair
+               </u>
+               , that is, the towns of Jair, until this present day in the land of Galaad.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=5-#x">
+                [5]
+               </a>
+               And Jair died: and was buried in the place which was called Camon.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Uncle of Abimelech"
+               </u>
+               : i. e., half brother to Gedeon, as being born of the same mother, but by a different father, and of a different tribe.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Havoth Jair"
+               </u>
+               : This name was now confirmed to these towns, which they had formerly received from another Jair. Num. 32. 41.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=6-#x">
+                [6]
+               </a>
+               But the children of Israel, adding new sins to their old ones, did evil in the sight of the Lord, and served idols, Baalim and Astaroth, and the gods of Syria and of Sidon and of Moab and of the children of Ammon and of the Philistines: and they left the Lord, and did not serve him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=7-#x">
+                [7]
+               </a>
+               And the Lord being angry with them, delivered them into the hands of the Philistines and of the children of Ammon.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=8-#x">
+                [8]
+               </a>
+               And they were afflicted, and grievously oppressed for eighteen years, all they that dwelt beyond the Jordan in the land of the Amorrhite, who is in Galaad:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=9-#x">
+                [9]
+               </a>
+               Insomuch that the children of Ammon passing over the Jordan, wasted Juda and Benjamin and Ephraim: and Israel was distressed exceedingly.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=10-#x">
+                [10]
+               </a>
+               And they cried to the Lord, and said: We have sinned against thee, because we have forsaken the Lord our God, and have served Baalim.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=11-#x">
+                [11]
+               </a>
+               And the Lord said to them: Did not the Egyptians and the Amorrhites, and the children of Ammon and the Philistines,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=12-#x">
+                [12]
+               </a>
+               The Sidonians also and Amalec and Chanaan oppress you, and you cried to me, and I delivered you out of their hand?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=13-#x">
+                [13]
+               </a>
+               And yet you have forsaken me, and have worshipped strange gods: therefore I will deliver you no more:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=14-#x">
+                [14]
+               </a>
+               Go and call upon the gods which you have chosen: let them deliver you in the time of distress.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=15-#x">
+                [15]
+               </a>
+               And the children of Israel said to the Lord: We have sinned, do thou unto us whatsoever pleaseth thee: only deliver us this time.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=16-#x">
+                [16]
+               </a>
+               And saying these things, they cast away out of their coasts all the idols of strange gods and served the Lord their God: and he was touched with their miseries.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=17-#x">
+                [17]
+               </a>
+               And the children of Ammon shouting together, pitched their tents in Galaad: against whom the children of Israel assembled themselves together and camped in Maspha.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=10&amp;l=18-#x">
+                [18]
+               </a>
+               And the princes of Galaad said one to another: Whosoever of us shall first begin to fight against the children of Ammon, he shall be the leader of the people of Galaad.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judges
+              </td>
+              <td class="next">
+               <a href="08001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="07009.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 10
+              </td>
+              <td class="next">
+               <a href="07011.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

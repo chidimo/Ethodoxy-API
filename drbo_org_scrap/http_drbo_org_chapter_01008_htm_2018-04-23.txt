@@ -1,0 +1,633 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="01009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The deluge ceaseth. Noe goeth out of the ark, and offereth a sacrifice. God's covenant to him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               And God remembered Noe, and all the living creatures, and all the cattle which were with him in the ark, and brought a wind upon the earth, and the waters were abated.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               The fountains also of the deep, and the flood gates of heaven were shut up, and the rain from heaven was restrained.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And the waters returned from off the earth going and coming: and they began to be abated after a hundred and fifty days.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               And the ark rested in the seventh month, the seven and twentieth day of the month, upon the mountains of Armenia.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               And the waters were going and decreasing until the tenth month: for in the tenth month, the first day of the month, the tops of the mountains appeared.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               And after that forty days were passed, Noe, opening the window of the ark which he had made, sent forth a raven:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               Which went forth and
+               <u>
+                did not return
+               </u>
+               , till the waters were dried up upon the earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               He sent forth also a dove after him, to see if the waters had now ceased upon the face of the earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               But she, not finding where her foot might rest, returned to him into the ark: for the waters were upon the whole earth: and he put forth his hand, and caught her, and brought her into the ark.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               And having waited yet seven other days, he again sent forth the dove out of the ark.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Did not return"
+               </u>
+               : The raven did not return into the ark; but (as it may be gathered from the Hebrew) went to and fro; sometimes going to the mountains, where it found carcasses to feed on: and other times returning, to rest upon the top of the ark.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And she came to him in the evening, carrying a bough of an olive tree, with green leaves, in her mouth. Noe therefore understood that the waters were ceased upon the earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               And he stayed yet other seven days: and he sent forth the dove, which returned not any more unto him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               Therefore in the six hundredth and first year, the first month, the first day of the month, the waters were lessened upon the earth, and Noe opening the covering of the ark, looked, and saw that the face of the earth was dried.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               In the second month, the seven and twentieth day of the month, the earth was dried.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               And God spoke to Noe, saying:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               Go out of the ark, thou and thy wife, thy sons, and the wives of thy sons with thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               All living things that are with thee of all flesh, as well in fowls as in beasts, and all creeping things that creep upon the earth, bring out with thee, and go ye upon the earth: increase and multiply upon it.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               So Noe went out, he and his sons: his wife, and the wives of his sons with him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               And all living things, and cattle, and creeping things that creep upon the earth, according to their kinds, went out of the ark.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               And Noe built an altar unto the Lord: and taking of all cattle and fowls that were clean, offered
+               <u>
+                holocausts
+               </u>
+               upon the altar.
+              </p>
+              <p class="note">
+               [20]
+               <u>
+                "Holocausts"
+               </u>
+               : or whole burnt offerings. In which the whole victim was consumed by fire upon God's altar, and no part was reserved for the use of priest or people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               And the Lord
+               <u>
+                smelled
+               </u>
+               a sweet savour, and said: I will no more curse the earth for the sake of man: for the imagination and thought of man's heart are prone to evil from his youth: therefore I will no more destroy every living soul as I have done.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               All the days of the earth, seedtime and harvest, cold and heat, summer and winter, night and day, shall not cease.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "Smelled"
+               </u>
+               : A figurative expression, denoting that God was well pleased with the sacrifices which his servant offered.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="01009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,528 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Mark Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/48004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/48004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Mark
+           </td>
+           <td class="next">
+            <a href="49001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="48005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="48001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="48002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="48003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="48005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="48006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="48007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="48008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="48009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="48010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="48011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="48012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="48013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="48014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="48015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="48016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The parable of the sower. Christ stills the tempest at sea.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               And again he began to teach by the sea side; and a great multitude was gathered together unto him, so that he went up into a ship, and sat in the sea; and all the multitude was upon the land by the sea side.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               And he taught them many things in parables, and said unto them in his doctrine:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               Hear ye: Behold, the sower went out to sow.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               And whilst he sowed, some fell by the way side, and the birds of the air came and ate it up.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               And other some fell upon stony ground, where it had not much earth; and it shot up immediately, because it had no depth of earth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And when the sun was risen, it was scorched; and because it had no root, it withered away.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               And some fell among thorns; and the thorns grew up, and choked it, and it yielded no fruit.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               And some fell upon good ground; and brought forth fruit that grew up, and increased and yielded, one thirty, another sixty, and another a hundred.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               And he said: He that hath ears to hear, let him hear.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               And when he was alone, the twelve that were with him asked him the parable.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               And he said to them: To you it is given to know the mystery of the kingdom of God: but to them that are without, all things are done in parables:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               <u>
+                That seeing they may see
+               </u>
+               , and not perceive; and hearing they may hear, and not understand: lest at any time they should be converted, and their sins should be forgiven them.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               And he saith to them: Are you ignorant of this parable? and how shall you know all parables?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               He that soweth, soweth the word.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And these are they by the way side, where the word is sown, and as soon as they have heard, immediately Satan cometh and taketh away the word that was sown in their hearts.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "That seeing they may see"
+               </u>
+               : in punishment of their wilfully shutting their eyes, (St. Matt. 13. 15,) God justly withdrew those lights and graces, which otherwise he would have given them, for their effectual conversion.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               And these likewise are they that are sown on the stony ground: who when they have heard the word, immediately receive it with joy.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               And they have no root in themselves, but are only for a time: and then when tribulation and persecution ariseth for the word they are presently scandalized.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               And others there are who are sown among thorns: these are they that hear the word,
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               And the cares of the world, and the deceitfulness of riches, and the lusts after other things entering in choke the word, and it is made fruitless.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               And these are they who are sown upon the good ground, who hear the word, and receive it, and yield fruit, the one thirty, another sixty, and another a hundred.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               And he said to them: Doth a candle come in to be put under a bushel, or under a bed? and not to be set on a candlestick?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               For there is nothing hid, which shall not be made manifest: neither was it made secret, but that it may come abroad.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               If any man have ears to hear, let him hear.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               And he said to them: Take heed what you hear. In what measure you shall mete, it shall be measured to you again, and more shall be given to you.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               For he that hath, to him shall be given: and he that hath not, that also which he hath shall be taken away from him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               And he said: So is the kingdom of God, as if a man should cast seed into the earth,
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=27-#x">
+                [27]
+               </a>
+               And should sleep, and rise, night and day, and the seed should spring, and grow up whilst he knoweth not.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=28-#x">
+                [28]
+               </a>
+               For the earth of itself bringeth forth fruit, first the blade, then the ear, afterwards the full corn in the ear.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=29-#x">
+                [29]
+               </a>
+               And when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=30-#x">
+                [30]
+               </a>
+               And he said: To what shall we liken the kingdom of God? or to what parable shall we compare it?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=31-#x">
+                [31]
+               </a>
+               It is as a grain of mustard seed: which when it is sown in the earth, is less than all the seeds that are in the earth:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=32-#x">
+                [32]
+               </a>
+               And when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches, so that the birds of the air may dwell under the shadow thereof.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=33-#x">
+                [33]
+               </a>
+               And with many such parables, he spoke to them the word, according as they were able to hear.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=34-#x">
+                [34]
+               </a>
+               And without parable he did not speak unto them; but apart, he explained all things to his disciples.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=35-#x">
+                [35]
+               </a>
+               And he saith to them that day, when evening was come: Let us pass over to the other side.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=36-#x">
+                [36]
+               </a>
+               And sending away the multitude, they take him even as he was in the ship: and there were other ships with him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=37-#x">
+                [37]
+               </a>
+               And there arose a great storm of wind, and the waves beat into the ship, so that the ship was filled.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=38-#x">
+                [38]
+               </a>
+               And he was in the hinder part of the ship, sleeping upon a pillow; and they awake him, and say to him: Master, doth it not concern thee that we perish?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=39-#x">
+                [39]
+               </a>
+               And rising up, he rebuked the wind, and said to the sea: Peace, be still. And the wind ceased: and there was made a great calm.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=4&amp;l=40-#x">
+                [40]
+               </a>
+               And he said to them: Why are you fearful? have you not faith yet? And they feared exceedingly: and they said one to another: Who is this (thinkest thou) that both wind and sea obey him?
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Mark
+              </td>
+              <td class="next">
+               <a href="49001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="48005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

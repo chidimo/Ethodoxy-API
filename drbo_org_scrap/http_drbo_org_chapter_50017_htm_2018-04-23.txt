@@ -1,0 +1,475 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 17
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50017.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50017.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50016.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 17
+           </td>
+           <td class="next">
+            <a href="50018.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             17
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ's prayer for his disciples.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=1-#x">
+                [1]
+               </a>
+               These things Jesus spoke, and lifting up his eyes to heaven, he said: Father, the hour is come, glorify thy Son, that thy Son may glorify thee.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=2-#x">
+                [2]
+               </a>
+               As thou hast given him power over all flesh, that he may give eternal life to all whom thou hast given him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=3-#x">
+                [3]
+               </a>
+               Now this is eternal life: That they may know thee, the only true God, and Jesus Christ, whom thou hast sent.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=4-#x">
+                [4]
+               </a>
+               I have glorified thee on the earth; I have finished the work which thou gavest me to do.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=5-#x">
+                [5]
+               </a>
+               And now glorify thou me, O Father, with thyself, with the glory which I had, before the world was, with thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=6-#x">
+                [6]
+               </a>
+               I have manifested thy name to the men whom thou hast given me out of the world. Thine they were, and to me thou gavest them; and they have kept thy word.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=7-#x">
+                [7]
+               </a>
+               Now they have known, that all things which thou hast given me, are from thee:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=8-#x">
+                [8]
+               </a>
+               Because the words which thou gavest me, I have given to them; and they have received them, and have known in very deed that I came out from thee, and they have believed that thou didst send me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=9-#x">
+                [9]
+               </a>
+               I pray for them: I pray not for the world, but for them whom thou hast given me: because they are thine:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=10-#x">
+                [10]
+               </a>
+               And all my things are thine, and thine are mine; and I am glorified in them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=11-#x">
+                [11]
+               </a>
+               And now I am not in the world, and these are in the world, and I come to thee. Holy Father, keep them in thy name whom thou has given me; that they may be one, as we also are.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=12-#x">
+                [12]
+               </a>
+               While I was with them, I kept them in thy name. Those whom thou gavest me have I kept; and none of them is lost, but the son of perdition, that the scripture may be fulfilled.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=13-#x">
+                [13]
+               </a>
+               And now I come to thee; and these things I speak in the world, that they may have my joy filled in themselves.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=14-#x">
+                [14]
+               </a>
+               I have given them thy word, and the world hath hated them, because they are not of the world; as I also am not of the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=15-#x">
+                [15]
+               </a>
+               I pray not that thou shouldst take them out of the world, but that thou shouldst keep them from evil.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=16-#x">
+                [16]
+               </a>
+               They are not of the world, as I also am not of the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=17-#x">
+                [17]
+               </a>
+               Sanctify them in truth. Thy word is truth.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=18-#x">
+                [18]
+               </a>
+               As thou hast sent me into the world, I also have sent them into the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=19-#x">
+                [19]
+               </a>
+               And for them do I sanctify myself, that they also may be sanctified in truth.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=20-#x">
+                [20]
+               </a>
+               And not for them only do I pray, but for them also who through their word shall believe in me;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=21-#x">
+                [21]
+               </a>
+               That they all may be one, as thou, Father, in me, and I in thee; that they also may be one in us; that the world may believe that thou hast sent me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=22-#x">
+                [22]
+               </a>
+               And the glory which thou hast given me, I have given to them; that they may be one, as we also are one:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=23-#x">
+                [23]
+               </a>
+               I in them, and thou in me; that they may be made perfect in one: and the world may know that thou hast sent me, and hast loved them, as thou hast also loved me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=24-#x">
+                [24]
+               </a>
+               Father, I will that where I am, they also whom thou hast given me may be with me; that they may see my glory which thou hast given me, because thou hast loved me before the creation of the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=25-#x">
+                [25]
+               </a>
+               Just Father, the world hath not known thee; but I have known thee: and these have known that thou hast sent me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=17&amp;l=26-#x">
+                [26]
+               </a>
+               And I have made known thy name to them, and will make it known; that the love wherewith thou hast loved me, may be in them, and I in them.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50016.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 17
+              </td>
+              <td class="next">
+               <a href="50018.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,433 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Esdras (Nehemiah) Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/16004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/16004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Esdras (Nehemiah)
+           </td>
+           <td class="next">
+            <a href="17001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="16003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="16005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="16001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="16002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="16003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="16005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="16006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="16007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="16008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="16009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="16010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="16011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="16012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="16013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The building is carried on notwithstanding the opposition of their enemies.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               And it came to pass, that when Sanaballat heard that we were building the wall he was angry: and being moved exceedingly he scoffed at the Jews.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               And said before his brethren, and the multitude of the Samaritans: What are the silly Jews doing? Will the Gentiles let them alone? will they sacrifice and make an end in a day? are they able to raise stones out of the heaps of the rubbish, which are burnt?
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               Tobias also the Ammonite who was by him said: Let them build: if a fox go up, he will leap over their stone wall.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               Hear thou our God, for we are despised: turn their reproach upon their own head, and give them to be despised in a land of captivity.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               Cover not their iniquity, and let not their sin be blotted out from before thy face, because they have mocked thy builders.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               So we built the wall, and joined it all together unto the half thereof: and the heart of the people was excited to work.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               And it came to pass, when Sanaballat, and Tobias, and the Arabians, and the Ammonites, and the Azotians heard that the walls of Jerusalem were made up, and the breaches began to be closed, that they were exceedingly angry.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               And they all assembled themselves together, to come, and to fight against Jerusalem, and to prepare ambushes.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               And we prayed to our God, and set watchmen upon the wall day and night against them.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               And Juda said: The strength of the bearer of burdens is decayed, and the rubbish is very much, and we shall not be able to build the wall.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               And our enemies said: Let them not know, nor understand, till we come in the midst of them, and kill them, and cause the work to cease.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               And it came to pass, that when the Jews that dwelt by them came and told us ten times, out of all the places from whence they came to us,
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               I set the people in the place behind the wall round about in order, with their swords, and spears, and bows.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               And I looked and rose up: and I said to the chief men and the magistrates, and to the rest of the common people: be not afraid of them. Remember the Lord who is great and terrible, and fight for your brethren, your sons, and your daughters, and your wives, and your houses.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And it came to pass, when our enemies heard that the thing had been told us, that God defeated their counsel. And we returned all of us to the walls, every man to his work.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               And it came to pass from that day forward, that half of their young men did the work, and half were ready for to fight, with spears, and shields, and bows, and coats of mail, and the rulers were behind them in all the house of Juda.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               Of them that built on the wall and that carried burdens, and that laded: with one of his hands he did the work, and with the other he held a sword.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               For every one of the builders was girded with a sword about his reins. And they built, and sounded with a trumpet by me.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               And I said to the nobles, and to the magistrates, and to the rest of the common people: The work is great and wide, and we are separated on the wall one far from another:
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               In what place soever you shall hear the sound of the trumpet, run all thither unto us: our God will fight for us.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               And let us do the work: and let one half of us hold our spears from the rising of the morning, till the stars appear.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               At that time also I said to the people: Let every one with his servant stay in the midst of Jerusalem, and let us take our turns in the night, and by day, to work.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               Now I and my brethren, and my servants, and the watchmen that followed me, did not put off our clothes: only every man stripped himself when he was to be washed.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Esdras (Nehemiah)
+              </td>
+              <td class="next">
+               <a href="17001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="16003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="16005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

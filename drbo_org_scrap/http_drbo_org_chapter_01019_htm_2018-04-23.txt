@@ -1,0 +1,689 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 19
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01019.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01019.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01018.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 19
+           </td>
+           <td class="next">
+            <a href="01020.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             19
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Lot, entertaining Angels in his house, is delivered from Sodom, which is destroyed: his wife for looking back is turned into a statue of salt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=1-#x">
+                [1]
+               </a>
+               And the two angels came to Sodom in the evening, and Lot was sitting in the gate of the city. And seeing them, he rose up and went to meet them: and worshipped prostrate to the ground,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=2-#x">
+                [2]
+               </a>
+               And said: I beseech you, my lords, turn in to the house of your servant, and lodge there: wash your feet, and in the morning you shall go on your way. And they said: No, but we will abide in the street.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=3-#x">
+                [3]
+               </a>
+               He pressed them very much to turn in unto him: and when they were come into his house, he made them a feast, and baked unleavened bread and they ate:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=4-#x">
+                [4]
+               </a>
+               But before they went to bed, the men of the city beset the house both young and old, all the people together.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=5-#x">
+                [5]
+               </a>
+               And they called Lot, and said to him: Where are the men that came in to thee at night? bring them out hither that we may know them:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=6-#x">
+                [6]
+               </a>
+               Lot went out to them, and shut the door after him, and said:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=7-#x">
+                [7]
+               </a>
+               Do not so, I beseech you, my brethren, do not commit this evil.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=8-#x">
+                [8]
+               </a>
+               I have two daughters who as yet have not known man: I will bring them out to you, and abuse you them as it shall please you, so that you do no evil to these men, because they are come in under the shadow of my roof.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=9-#x">
+                [9]
+               </a>
+               But they said: Get thee back thither. And again: Thou camest in, said they, as a, stranger, was it to be a judge? therefore we will afflict thee more than them. And they pressed very violently upon Lot: and they were even at the point of breaking open the doors.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=10-#x">
+                [10]
+               </a>
+               And behold the men put out their hand, and drew in Lot unto them, and shut the door:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=11-#x">
+                [11]
+               </a>
+               And them that were without, they struck with blindness from the least to the greatest, so that they could not find the door.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=12-#x">
+                [12]
+               </a>
+               And they said to Lot: Hast thou here any of thine? son in law, or sons, or daughters, all that are thine bring them out of this city:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=13-#x">
+                [13]
+               </a>
+               For we will destroy this place, because their cry is grown loud before the Lord, who hath sent us to destroy them.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=14-#x">
+                [14]
+               </a>
+               So Lot went out, and spoke to his sons in law that were to have his daughters, and said: Arise: get you out of this place, because the Lord will destroy this city. And he seemed to them to speak as it were in jest.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=15-#x">
+                [15]
+               </a>
+               And when it was morning, the angels pressed him, saying: Arise, take thy wife, and the two daughters which thou hast: lest thou also perish in the wickedness of the city.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=16-#x">
+                [16]
+               </a>
+               And as he lingered, they took his hand, and the hand of his wife, and of his two daughters, because the Lord spared him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=17-#x">
+                [17]
+               </a>
+               And they brought him forth, and set him without the city: and there they spoke to him, saying: Save thy life: look not back, neither stay thou in all the country about: but save thyself in the mountain, lest thou be also consumed.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=18-#x">
+                [18]
+               </a>
+               And Lot said to them: I beseech thee my Lord,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=19-#x">
+                [19]
+               </a>
+               Because thy servant hath found grace before thee, and thou hast magnified thy mercy, which thou hast shewn to me, in saving my life, and I cannot escape to the mountain, lest some evil seize me, and I die:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=20-#x">
+                [20]
+               </a>
+               There is this city here at hand, to which I may flee, it is a little one, and I shall be saved in it: is it not a little one, and my soul shall live?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=21-#x">
+                [21]
+               </a>
+               And he said to him: Behold also in this, I have heard thy prayers, not to destroy the city for which thou hast spoken.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=22-#x">
+                [22]
+               </a>
+               Make haste and be saved there, because I cannot do any thing till thou go in thither. Therefore the name of that city was called
+               <u>
+                Segor
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=23-#x">
+                [23]
+               </a>
+               The sun was risen upon the earth, and Lot entered into Segor.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=24-#x">
+                [24]
+               </a>
+               And the Lord rained upon Sodom and Gomorrha brimstone and fire from the Lord out of heaven.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=25-#x">
+                [25]
+               </a>
+               And he destroyed these cities, and all the country about, all the inhabitants of the cities, and all things that spring from the earth.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Segor"
+               </u>
+               : That is, a little one.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=26-#x">
+                [26]
+               </a>
+               <u>
+                And his wife
+               </u>
+               looking behind her, was turned into a statue of salt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=27-#x">
+                [27]
+               </a>
+               And Abraham got up early in the morning and in the place where he had stood before with the Lord,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=28-#x">
+                [28]
+               </a>
+               He looked towards Sodom and Gomorrha, and the whole land of that country: and he saw the ashes rise up from the earth as the smoke of a furnace.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=29-#x">
+                [29]
+               </a>
+               Now when God destroyed the cities of that country, remembering Abraham, he delivered Lot out of the destruction of the cities wherein he had dwelt.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=30-#x">
+                [30]
+               </a>
+               And Lot went up out of Segor, and abode in the mountain, and his two daughters with him, (for he was afraid to stay in Segor,) and he dwelt in a cave, he and his two daughters with him.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "And his wife"
+               </u>
+               : As a standing memorial to the servants of God to proceed in virtue, and not to look back to vice or its allurements.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=31-#x">
+                [31]
+               </a>
+               And the elder said to the younger Our father is old, and there is no man left on the earth, to come in unto us after the manner of the whole earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=32-#x">
+                [32]
+               </a>
+               Come, let us make him drunk with wine, and let us lie with him, that we may preserve seed of our father.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=33-#x">
+                [33]
+               </a>
+               And they made their father drink wine that night: and the elder went in and lay with her father: but he perceived not neither when his daughter lay down, nor when she rose up.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=34-#x">
+                [34]
+               </a>
+               And the next day the elder said to the younger: Behold I lay last night with my father, let us make him drink wine also to night, and thou shalt lie with him, that we may save seed of our father.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=35-#x">
+                [35]
+               </a>
+               They made their father drink wine that night also, and the younger daughter went in, and lay with him: and neither then did he perceive when she lay down, nor when she rose up.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=36-#x">
+                [36]
+               </a>
+               So the two daughters of Lot were with child by their father.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=37-#x">
+                [37]
+               </a>
+               And the elder bore a son, and she called his name Moab: he is the father of the Moabites unto this day.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=19&amp;l=38-#x">
+                [38]
+               </a>
+               The younger also bore a son, and she called his name Ammon, that is, the son of my people: he is the father of the Ammonites unto this day.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01018.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 19
+              </td>
+              <td class="next">
+               <a href="01020.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

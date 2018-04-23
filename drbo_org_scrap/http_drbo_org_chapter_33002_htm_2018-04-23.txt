@@ -1,0 +1,529 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Osee (Hosea) Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/33002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/33002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="32001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Osee (Hosea)
+           </td>
+           <td class="next">
+            <a href="34001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="33001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="33003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="33001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="33003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="33004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="33005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="33006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="33007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="33008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="33009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="33010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="33011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="33012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="33013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="33014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Israel is justly punished for leaving God. The abundance of grace in the church of Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               <u>
+                Say ye to your brethren
+               </u>
+               : You are my people, and to your sister: Thou hast obtained mercy.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               Judge
+               <u>
+                your mother
+               </u>
+               , judge her: because she is not my wife, and I am not her husband. Let her put away her fornications from her face, and her adulteries from between her breasts.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               Lest I strip her naked, and set her as in the day that she was born: and I will make her as a wilderness, and will set her as a land that none can pass through, and will kill her with drought.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And I will not have mercy on her children: for they are the children of fornications.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               For their mother hath committed fornication, she that conceived them is covered with shame: for she said: I will go after my lovers, that give me my bread, and my water, my wool, and my flax, my oil, and my drink.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Say ye to your brethren"
+               </u>
+               : or, Call your brethren, My people: and your sister, Her that hath obtained mercy. This is connected with the latter end of the foregoing chapter, and relates to the converts of Israel.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Your mother"
+               </u>
+               : The synagogue.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               Wherefore behold I will hedge up thy way with thorns, and I will stop it up with a wall, and she shall not find her paths.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               And she shall follow after her lovers, and shall not overtake them: and she shall seek them, and shall not find, and she shall say: I will go, and return to my first husband, because it was better with me then, than now.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And she did not know that I gave her corn and wine, and oil, and multiplied her silver, and gold, which they have used in the service of Baal.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               Therefore will I return, and take away my corn in its season, and my wine in its season, and I will set at liberty my wool, and my flax, which covered her disgrace.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And now I will lay open her folly in the eyes of her lovers: and no man shall deliver her out of my hand:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               And I will cause all her mirth to cease, her solemnities, her new moons, her sabbaths, and all her festival times.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               And I will destroy her vines, and her fig trees, of which she said: These are my rewards, which my lovers have given me: and I will make her as a forest, and the beasts of the field shall devour her.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               And I will visit upon her the days of Baalim, to whom she burnt incense, and decked herself out with her earrings, and with her jewels, and went after her lovers, and forgot me, saith the Lord.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               Therefore, behold
+               <u>
+                I will allure her
+               </u>
+               , and will lead her into the wilderness: and I will speak to her heart.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               And I will give her vinedressers out of the same place, and the valley of Achor for an opening of hope: and she shall sing there according to the days of her youth, and according to the days of her coming up out of the land of Egypt.
+              </p>
+              <p class="note">
+               [14]
+               <u>
+                "I will allure her"
+               </u>
+               : After all her disloyalties, I will still allure her by my grace etc., and send her vinedressers, viz., the apostles: originally her own children, who shall open to her the gates of hope; as heretofore at her coming into the land of promise, she had all good success after she had satisfied the divine justice by the execution of Achan in the valley of Achor. Jos. 7.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               And it shall be in that day, saith the Lord, That she shall call me:
+               <u>
+                My husband
+               </u>
+               , and she shall call me no more Baali.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And I will take away the names of
+               <u>
+                Baalim
+               </u>
+               out of her mouth, and she shall no more remember their name.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               And in that day I will make a covenant with them, with the beasts of the field, and with the fowls of the air, and with the creeping things of the earth: and I will destroy the bow, and the sword, and war out of the land: and I will make them sleep secure.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               And
+               <u>
+                I will espouse thee
+               </u>
+               to me for ever: and I will espouse thee to me in justice, and judgment, and in mercy, and in commiserations.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               And I will espouse thee to me in faith: and thou shalt know that I am the Lord.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "My husband"
+               </u>
+               : In Hebrew, Ishi. Baali, my lord. The meaning of this verse is: that whereas Ishi and Baali were used indifferently in those days by wives speaking to their husbands; the synagogue, whom God was pleased to consider as his spouse, should call him only Ishi, and abstain from the name of Baali, because of its affinity with the idol Baal.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "Baalim"
+               </u>
+               : It is the plural number of Baal: for there were divers idols of Baal.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "I will espouse thee"
+               </u>
+               : This relates to the happy espousals of Christ with his church: which shall never be dissolved.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               And it shall come to pass in that day: I will hear, saith the Lord, I will
+               <u>
+                hear the heavens
+               </u>
+               , and they shall hear the earth.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               And the earth shall hear the corn, and the wine, and the oil, and these shall hear Jezrahel.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               And I will sow her unto me in the earth, and I will have mercy on her that was without mercy.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               And I will say to
+               <u>
+                that which was not my people
+               </u>
+               : Thou art my people: and they shall say: Thou art my God.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "Hear the heavens"
+               </u>
+               : All shall conspire in favour of the church, which in the following verse is called Jezrahel, that is, the seed of God.
+              </p>
+              <p class="note">
+               [24]
+               <u>
+                "That which was not my people"
+               </u>
+               : This relates to the conversion of the Gentiles.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="32001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Osee (Hosea)
+              </td>
+              <td class="next">
+               <a href="34001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="33001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="33003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

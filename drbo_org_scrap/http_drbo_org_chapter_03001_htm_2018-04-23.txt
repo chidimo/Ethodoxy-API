@@ -1,0 +1,444 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Leviticus Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/03001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/03001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="02001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Book Of Leviticus
+         </td>
+         <td class="next">
+          <a href="04001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="03002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="03002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="03003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="03004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="03005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="03006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="03007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="03008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="03009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="03010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="03011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="03012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="03013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="03014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="03015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="03016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="03017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="03018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="03019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="03020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="03021.htm">
+            21
+           </a>
+          </td>
+          <td width="30">
+           <a href="03022.htm">
+            22
+           </a>
+          </td>
+          <td width="30">
+           <a href="03023.htm">
+            23
+           </a>
+          </td>
+          <td width="30">
+           <a href="03024.htm">
+            24
+           </a>
+          </td>
+          <td width="30">
+           <a href="03025.htm">
+            25
+           </a>
+          </td>
+          <td width="30">
+           <a href="03026.htm">
+            26
+           </a>
+          </td>
+          <td width="30">
+           <a href="03027.htm">
+            27
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Of holocausts or burnt offerings.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             And the Lord called Moses, and spoke to him from the tabernacle of the testimony, saying:
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Speak to the children of Israel, and thou shalt say to them: The man among you that shall offer to the Lord a sacrifice of the cattle, that is, offering victims of oxen and sheep,
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             If his offering be
+             <u>
+              a holocaust
+             </u>
+             , and of the herd, he shall offer a male without blemish, at the door of the testimony, to make the Lord favourable to him:
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And he shall put his hand upon the head of the victim, and it shall be acceptable, and help to its expiation.
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And he shall immolate the calf before the Lord, and the priests the sons of Aaron shall offer the blood thereof, pouring it round about the altar, which is before the door of the tabernacle.
+            </p>
+            <p class="note">
+             [3]
+             <u>
+              "A holocaust"
+             </u>
+             : That is, a whole burnt offering (olokauston), so called, because the whole victim was consumed with fire; and given in such manner to God as wholly to evaporate, as it were, for his honour and glory; without having any part of it reserved for the use of man. The other sacrifices in the Old Testament were either offerings for sin, or peace offerings: and these latter again were either offered in thanksgiving for blessings received; or by way of prayer for new favours or graces. So that sacrifices were then offered to God for four different ends or intentions, answerable to the different obligations which man has to God: 1. By way of adoration, homage, praise, and glory due to his divine majesty. 2. By way of thanksgiving for all benefits received from him. 3. By way of confessing and craving pardon for sins. 4. By way of prayer and petition for grace and relief in all necessities. In the New Law we have but one sacrifice, viz., that of the body and blood of Christ: but this one sacrifice of the New Testament perfectly answers all these four ends; and both priest and people, as often as it is celebrated, ought to join in offering it up for these four ends.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And when they have flayed the victim, they shall cut the joints into pieces,
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And shall put fire on the altar, having before laid in order a pile of wood:
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             And they shall lay the parts that are cut out in order thereupon, to wit, the head, and all things that cleave to the liver,
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             The entrails and feet being washed with water: and the priest shall burn them upon the altar for a holocaust, and a sweet savour to the Lord.
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And if the offering be of the flocks, a holocaust of sheep or of goats, he shall offer a male without blemish:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And he shall immolate it at the side of the altar that looketh to the north, before the Lord: but the sons of Aaron shall pour the blood thereof upon the altar round about:
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And they shall divide the joints, the head, and all that cleave to the liver: and shall lay them upon the wood, under which the fire is to be put:
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             But the entrails and the feet they shall wash with water. And the priest shall offer it all and burn it all upon the altar for a holocaust, and most sweet savour to the Lord.
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             But if the oblation of a holocaust to the Lord be of birds, of turtles, or of young pigeons,
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             The priest shall offer it at the altar: and twisting back the neck, and breaking the place of the wound, he shall make the blood run down upon the brim of the altar.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             But the crop of the throat, and the feathers he shall cast beside the altar at the east side, in the place where the ashes are wont to be poured out,
+             <a href="/x/d?b=drb&amp;bk=3&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             And he shall break the pinions thereof, and shall not cut, nor divide it with a knife, and shall burn it upon the altar, putting fire under the wood. It is a holocaust and oblation of most sweet savour to the Lord.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="02001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Book Of Leviticus
+            </td>
+            <td class="next">
+             <a href="04001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="03002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

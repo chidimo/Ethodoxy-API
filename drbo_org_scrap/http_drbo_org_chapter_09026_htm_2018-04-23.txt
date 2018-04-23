@@ -1,0 +1,521 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Kings (1 Samuel) Chapter 26
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/09026.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/09026.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="08001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Kings (1 Samuel)
+           </td>
+           <td class="next">
+            <a href="10001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="09025.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 26
+           </td>
+           <td class="next">
+            <a href="09027.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="09001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="09002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="09003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="09004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="09005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="09006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="09007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="09008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="09009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="09010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="09011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="09012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="09013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="09014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="09015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="09016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="09017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="09018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="09019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="09020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="09021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="09022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="09023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="09024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="09025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             26
+            </td>
+            <td width="30">
+             <a href="09027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="09028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="09029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="09030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="09031.htm">
+              31
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Saul goeth out again after David, who cometh by night where Saul and his men are asleep, but suffereth him not to be touched. Saul again confesseth his fault, and promiseth peace.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=1-#x">
+                [1]
+               </a>
+               And the men of Ziph came to Saul in Gabaa, saying: Behold David is hid in the hill of Hachila, which is over against the wilderness.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=2-#x">
+                [2]
+               </a>
+               And Saul arose, and went down to the wilderness of Ziph, having with him three thousand chosen men of Israel, to seek David in the wilderness of Ziph.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=3-#x">
+                [3]
+               </a>
+               And Saul encamped in Gabaa Hachila, which was over against the wilderness in the way: and David abode in the wilderness. And seeing that Saul was come after him into the wilderness,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=4-#x">
+                [4]
+               </a>
+               He sent spies, and learned that he was most certainly come thither.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=5-#x">
+                [5]
+               </a>
+               And David arose secretly, and came to the place where Saul was: and when he had beheld the place, wherein Saul slept, and Abner the son of Ner, the captain of his army, and Saul sleeping in a tent, and the rest of the multitude round about him,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=6-#x">
+                [6]
+               </a>
+               David spoke to Achimelech the Hethite, and Abisai the son of Sarvia the brother of Joab, saying: Who will go down with me to Saul into the camp? And Abisai said: I will go with thee.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=7-#x">
+                [7]
+               </a>
+               So David and Abisai came to the people by night, and found Saul lying and sleeping in the tent, and his spear fixed in the ground at his head: and Abner and the people sleeping round about him.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=8-#x">
+                [8]
+               </a>
+               And Abisai said to David: God hath shut up thy enemy this day into thy hands: now then I will run him through with my spear even to the earth at once, and there shall be no need of a second time.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=9-#x">
+                [9]
+               </a>
+               And David said to Abisai: Kill him not: for who shall put forth his hand against the Lord's anointed, and shall be guiltless?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=10-#x">
+                [10]
+               </a>
+               And David said: As the Lord liveth, unless the Lord shall strike him, or his day shall come to die, or he shall go down to battle and perish:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=11-#x">
+                [11]
+               </a>
+               The Lord be merciful unto me, that I extend not my hand upon the Lord's anointed. But now take the spear, which is at his head, and the cup of water, and let us go.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=12-#x">
+                [12]
+               </a>
+               So David took the spear, and the cup of water which was at Saul's head, and they went away: and no man saw it, or knew it, or awaked, but they were all asleep, for a deep sleep from the Lord was fallen upon them.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=13-#x">
+                [13]
+               </a>
+               And when David was gone over to the other side. and stood on the top of the hill afar off, and a good space was between them,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=14-#x">
+                [14]
+               </a>
+               David cried to the people, and to Abner the son of Ner, saying: Wilt thou not answer, Abner? And Abner answering, said: Who art thou, that criest, and disturbest the king?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=15-#x">
+                [15]
+               </a>
+               And David said to Abner: Art not thou a man? and who is like thee in Israel? why then hast thou not kept thy lord the king? for there came one of the people in to kill the king thy lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=16-#x">
+                [16]
+               </a>
+               This thing is not good, that thou hast done: as the Lord liveth, you are the sons of death, who have not kept your master, the Lord's anointed. And now where is the king's spear, and the cup of water, which was at his head?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=17-#x">
+                [17]
+               </a>
+               And Saul knew David's voice, and said: Is this thy voice, my son David? And David said: It is my voice, my lord the king.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=18-#x">
+                [18]
+               </a>
+               And he said: Wherefore doth my lord persecute his servant? What have I done? or what evil is there in my hand?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=19-#x">
+                [19]
+               </a>
+               Now therefore hear, I pray thee, my lord the king, the words of thy servant: If the Lord stir thee up against me, let him accept of sacrifice: but if the sons of men, they are cursed in the sight of the Lord, who have cast me out this day, that I should not dwell in the inheritance of the Lord, saying: Go, serve strange gods.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=20-#x">
+                [20]
+               </a>
+               And now let not my blood be shed upon the earth before the Lord: for the king of Israel is come out to seek a flea, as the partridge is hunted in the mountains.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=21-#x">
+                [21]
+               </a>
+               And Saul said: I have sinned, return, my son David, for I will no more do thee harm, because my life hath been precious in thy eyes this day: for it appeareth that I have done foolishly, and have been ignorant in very many things.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=22-#x">
+                [22]
+               </a>
+               And David answering, said: Behold the king's spear: let one of the king's servants come over and fetch it.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=23-#x">
+                [23]
+               </a>
+               And the Lord will reward every one according to his justice, and his faithfulness: for the Lord hath delivered thee this day into my hand, and I would not put forth my hand against the Lord's anointed.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=24-#x">
+                [24]
+               </a>
+               And as thy life hath been much set by this day in my eyes, so let my life be much set by in the eyes of the Lord, and let him deliver me from all distress.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=26&amp;l=25-#x">
+                [25]
+               </a>
+               Then Saul said to David: Blessed art thou, my son David: and truly doing thou shalt do, and prevailing thou shalt prevail. And David went on his way, and Saul returned to his place.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="08001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Kings (1 Samuel)
+              </td>
+              <td class="next">
+               <a href="10001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="09025.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 26
+              </td>
+              <td class="next">
+               <a href="09027.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

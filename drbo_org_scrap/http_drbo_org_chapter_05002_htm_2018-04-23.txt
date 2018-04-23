@@ -1,0 +1,599 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Deuteronomy Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/05002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/05002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Deuteronomy
+           </td>
+           <td class="next">
+            <a href="06001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="05001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="05003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="05001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="05003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="05004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="05005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="05006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="05007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="05008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="05009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="05010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="05011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="05012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="05013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="05014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="05015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="05016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="05017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="05018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="05019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="05020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="05021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="05022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="05023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="05024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="05025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="05026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="05027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="05028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="05029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="05030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="05031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="05032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="05033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="05034.htm">
+              34
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               They are forbid to fight against the Edomites, Moabites, and Ammonites. Their victory over Sehon king of Hesebon.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               And departing from thence we came into the wilderness that leadeth to the Red Sea, as the Lord had spoken to me: and we compassed mount Seir a long time.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And the Lord said to me:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               You have compassed this mountain long enough: go toward the north:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And command thou the people, saying: You shall pass by the borders of your brethren the children of Esau, who dwell in Seir, and they will be afraid of you.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               Take ye then good heed that you stir not against them. For I will not give you of their land so much as the step of one foot can tread upon, because I have given mount Seir to Esau, for a possession.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               You shall buy meats of them for money and shall eat: you shall draw waters for money, and shall drink.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               The Lord thy God hath blessed thee in every work of thy hands: the Lord thy God dwelling with thee, knoweth thy journey, how thou hast passed through this great wilderness, for forty years, and thou hast wanted nothing.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And when we had passed by our brethren the children of Esau, that dwelt in Seir, by the way of the plain from Elath and from Asiongaber, we came to the way that leadeth to the desert of Moab.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               And the Lord said to me: Fight not against the Moabites, neither go to battle against them: for I will not give thee any of their land, because I have given Ar to the children of Lot in possession.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               The Emims first were the inhabitants thereof, a people great, and strong, and so tall, that like the race of the Enacims,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               They were esteemed as giants, and were like the sons of the Enacims. But the Moabites call them Emims.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               The Horrhites also formerly dwelt in Seir: who being driven out and destroyed, the children of Esau dwelt there, as Israel did in the land of his possession, which the Lord gave him.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               Then rising up to pass the torrent Zared, we came to it.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               And the time that we journeyed from Cadesbarne till we passed over the torrent Zared, was thirty-eight years: until all the generation of the men that were fit for war was consumed out of the camp, as the Lord had sworn:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               For his hand was against them, that they should perish from the midst of the camp.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               And after all the fighting men were dead,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               The Lord spoke to me, saying:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               Thou shalt pass this day the borders of Moab, the city named Ar:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               And when thou comest nigh the frontiers of the children of Ammon, take heed thou fight not against them, nor once move to battle: for I will not give thee of the land of the children of Ammon, because I have given it to the children of Lot for a possession.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               It was accounted a land of giants: and giants formerly dwelt in it, whom the Ammonites call Zomzommims,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               A people great and many, and of tall stature, like the Enacims whom the Lord destroyed before their face: and he made them to dwell in their stead,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               As he had done in favour of the children of Esau, that dwell in Seir, destroying the Horrhites, and delivering their land to them, which they possess to this day.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               The Hevites also, that dwelt in Haserim as far as Gaza, were expelled by the Cappadocians: who came out of Cappadocia, and destroyed them, and dwelt in their stead.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               Arise ye, and pass the torrent Arnon: Behold I have delivered into thy hand Sehon king of Hesebon the Amorrhite, and begin thou to possess his land and make war against him.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               This day will I begin to send the dread and fear of thee upon the nations that dwell under the whole heaven: that when they hear thy name they may fear and tremble, and be in pain like women in travail.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               So I sent messengers from the wilderness of Cademoth to Sehon the king of Hesebon with peaceable words, saying:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               We will pass through thy land, we will go along by the highway: we will not turn aside neither to the right hand nor to the left.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               Sell us meat for money, that we may eat: give us water for money and so we will drink. We only ask that thou wilt let us pass through,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               As the children of Esau have done, that dwell in Seir, and the Moabites, that abide in Ar: until we come to the Jordan, and pass to the land which the Lord our God will give us.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=30-#x">
+                [30]
+               </a>
+               And Sehon the king of Hesebon would not let us pass: because the Lord thy God had
+               <u>
+                hardened
+               </u>
+               his spirit, and fixed his heart, that he might be delivered into thy hands, as now thou seest.
+              </p>
+              <p class="note">
+               [30]
+               <u>
+                "Hardened"
+               </u>
+               : That is, in punishment of his past sins he left him to his own stubborn and perverse disposition, which drew him to his ruin. See the note on Ex. 7. 3.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=31-#x">
+                [31]
+               </a>
+               And the Lord said to me: Behold I have begun to deliver unto thee Sehon and his land, begin to possess it.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=32-#x">
+                [32]
+               </a>
+               And Sehon came out to meet us with all his people to fight at Jasa.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=33-#x">
+                [33]
+               </a>
+               And the Lord our God delivered him to us: and we slew him with his sons and all his people.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=34-#x">
+                [34]
+               </a>
+               And we took all his cities at that time, killing the inhabitants of them, men and women and children. We left nothing of them:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=35-#x">
+                [35]
+               </a>
+               Except the cattle which came to the share of them that took them: and the spoils of the cities, which we took:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=36-#x">
+                [36]
+               </a>
+               From Aroer, which is upon the bank of the torrent Amen, a town that is situate in a valley, as far as Galaad. There was not a village or city, that escaped our hands: the Lord our God delivered all unto us:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=2&amp;l=37-#x">
+                [37]
+               </a>
+               Except the land of the children of Ammon, to which we approached not: and all that border upon the torrent Jeboc, and the cities in the mountains, and all the places which the Lord our God forbade us.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Deuteronomy
+              </td>
+              <td class="next">
+               <a href="06001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="05001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="05003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,599 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Lamentations Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/29003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/29003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="28001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Lamentations Of Jeremias
+           </td>
+           <td class="next">
+            <a href="30001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="29002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="29004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="29001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="29002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="29004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="29005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               (No prolog)
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Aleph. I am the man that see my poverty by the rod of his indignation.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               Aleph. He hath led me, and brought me into darkness, and not into light.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               Aleph. Only against me he hath turned, and turned again his hand all the day.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               Beth. My skin and my flesh he hath made old, he hath broken my bones.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               Beth. He hath built round about me, and he hath compassed me with gall and labour.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               Beth. He hath set me in dark places as those that are dead for ever.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Ghimel. He hath built against me round about, that I may not get out: he hath made my fetters heavy.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               Ghimel. Yea, and when I cry, and entreat, he hath shut out my prayer.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Ghimel. He hath shut up my ways with square stones, he hath turned my paths upside down.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               Daleth. He is become to me as a bear lying in wait: as a lion in secret places.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               Daleth. He hath turned aside my paths, and hath broken me in pieces, he hath made me desolate.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               Daleth. He hath bent his bow, and set me as a mark for his arrows.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               He. He hath shot into my reins the daughters of his quiver.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               He. I am made a derision to all my people, their song all the day long.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               He. He hath filled me with bitterness, he hath inebriated me with wormwood.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               Vau. And he hath broken my teeth one by one, he hath fed me with ashes.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               Vau. And my soul is removed far off from peace, I have forgotten good things.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               Vau. And I said: My end and my hope is perished from the Lord.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               Zain. Remember my poverty, and transgression, the wormwood, and the gall.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               Zain. I will be mindful and remember, and my soul shall languish within me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               Zain. These things I shall think over in my heart, therefore will I hope.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               Heth. The mercies of the Lord that we are not consumed: because his commiserations have not failed.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               Heth. They are new every morning, great is thy faithfulness.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               Heth. The Lord is my portion, said my soul: therefore will I wait for him.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=25-#x">
+                [25]
+               </a>
+               Teth. The Lord is good to them that hope in him, to the soul that seeketh him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=26-#x">
+                [26]
+               </a>
+               Teth. It is good to wait with silence for the salvation of God.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=27-#x">
+                [27]
+               </a>
+               Teth. It is good for a man, when he hath borne the yoke from his youth.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=28-#x">
+                [28]
+               </a>
+               Jod. He shall sit solitary, and hold his peace: because he hath taken it up upon himself.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=29-#x">
+                [29]
+               </a>
+               Jod. He shall put his mouth in the dust, if so be there may be hope.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=30-#x">
+                [30]
+               </a>
+               Jod. He shall give his cheek to him that striketh him, he shall be filled with reproaches.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=31-#x">
+                [31]
+               </a>
+               Caph. For the Lord will not cast off for ever.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=32-#x">
+                [32]
+               </a>
+               Caph. For if he hath cast off, he will also have mercy, according to the multitude of his mercies.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=33-#x">
+                [33]
+               </a>
+               Caph. For he hath not willingly afflicted, nor cast off the children of men.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=34-#x">
+                [34]
+               </a>
+               Lamed. To crush under his feet all the prisoners of the land,
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=35-#x">
+                [35]
+               </a>
+               Lamed. To turn aside the judgment of a man before the face of the most High,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=36-#x">
+                [36]
+               </a>
+               Lamed. To destroy a man wrongfully in his judgment, the Lord hath not approved.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=37-#x">
+                [37]
+               </a>
+               Mem. Who is he that hath commanded a thing to be done, when the Lord commandeth it not?
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=38-#x">
+                [38]
+               </a>
+               Mem. Shall not both evil and good proceed out of the mouth of the Highest?
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=39-#x">
+                [39]
+               </a>
+               Mem. Why hath a living man murmured, man suffering for his sins?
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=40-#x">
+                [40]
+               </a>
+               Nun. Let us search our ways, and seek, and return to the Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=41-#x">
+                [41]
+               </a>
+               Nun. Let us lift up our hearts with our hands to the Lord in the heavens.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=42-#x">
+                [42]
+               </a>
+               Nun. We have done wickedly, and provoked thee to wrath: therefore thou art inexorable.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=43-#x">
+                [43]
+               </a>
+               Samech. Thou hast covered in thy wrath, and hast struck us: thou hast killed and hast not spared.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=44-#x">
+                [44]
+               </a>
+               Samech. Thou hast set a cloud before thee, that our prayer may not pass through.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=45-#x">
+                [45]
+               </a>
+               Samech. Thou hast made me as an outcast, and refuse in the midst of the people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=46-#x">
+                [46]
+               </a>
+               Phe. All our enemies have opened their mouths against us.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=47-#x">
+                [47]
+               </a>
+               Phe. Prophecy is become to us a fear, and a snare, and destruction.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=48-#x">
+                [48]
+               </a>
+               Phe. My eye hath run down with streams of water, for the destruction of the daughter of my people.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=49-#x">
+                [49]
+               </a>
+               Ain. My eye is afflicted, and hath not been quiet, because there was no rest:
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=50-#x">
+                [50]
+               </a>
+               Ain. Till the Lord regarded and looked down from the heavens.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=51-#x">
+                [51]
+               </a>
+               Ain. My eye hath wasted my soul because of all the daughters of my city.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=52-#x">
+                [52]
+               </a>
+               Sade. My enemies have chased me and caught me like a bird, without cause.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=53-#x">
+                [53]
+               </a>
+               Sade. My life is fallen into the pit, and they have laid a stone over me.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=54-#x">
+                [54]
+               </a>
+               Sade. Waters have flowed over my head: I said: I am cut off.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=55-#x">
+                [55]
+               </a>
+               Coph. I have called upon thy name, O Lord, from the lowest pit.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=56-#x">
+                [56]
+               </a>
+               Coph. Thou hast heard my voice: turn not away thy ear from my sighs, and cries.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=57-#x">
+                [57]
+               </a>
+               Coph. Thou drewest near in the day, when I called upon thee, thou saidst: Fear not.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=58-#x">
+                [58]
+               </a>
+               Res. Thou hast judged, O Lord, the cause of my soul, thou the Redeemer of my life.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=59-#x">
+                [59]
+               </a>
+               Res. Thou hast seen, O Lord, their iniquity against me: judge thou my judgment.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=60-#x">
+                [60]
+               </a>
+               Res. Thou hast seen all their fury, and all their thoughts against me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=61-#x">
+                [61]
+               </a>
+               Sin. Thou hast heard their reproach, O Lord, all their imaginations against me.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=62-#x">
+                [62]
+               </a>
+               Sin. The lips of them that rise up against me: and their devices against me all the day.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=63-#x">
+                [63]
+               </a>
+               Sin. Behold their sitting down, and their rising up, I am their song.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=64-#x">
+                [64]
+               </a>
+               Thau. Thou shalt render them a recompense, O Lord, according to the works of their hands.
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=65-#x">
+                [65]
+               </a>
+               Thau. Thou shalt give them a buckler of heart, thy labour.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=29&amp;ch=3&amp;l=66-#x">
+                [66]
+               </a>
+               Thau. Thou shalt persecute them in anger, and shalt destroy them from under the heavens, O Lord.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="28001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Lamentations Of Jeremias
+              </td>
+              <td class="next">
+               <a href="30001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="29002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="29004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

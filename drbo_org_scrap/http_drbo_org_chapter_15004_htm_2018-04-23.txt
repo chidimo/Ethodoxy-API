@@ -1,0 +1,439 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Esdras (Ezra) Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/15004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/15004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Esdras (Ezra)
+           </td>
+           <td class="next">
+            <a href="16001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="15005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="15001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="15002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="15003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="15005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="15006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="15007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="15008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="15009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="15010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Samaritans by their letter to the king hinder the building.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               Now the enemies of Juda and Benjamin heard that the children of the captivity were building a temple to the Lord the God of Israel.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               And they came to Zorobabel, and the chief of the fathers, and said to them: Let us build with you, for we seek your God as ye do: behold we have sacrificed to him, since the days of Asor Haddan king of Assyria, who brought us hither.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               But Zorobabel, and Josue, and the rest of the chief of the fathers of Israel said to them: You have nothing to do with us to build a house to our God, but we ourselves alone will build to the Lord our God, as Cyrus king of the Persians hath commanded us.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               Then the people of the land hindered the hands of the people of Juda, and troubled them in building.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               And they hired counsellors against them, to frustrate their design all the days of Cyrus king of Persia, even until the reign of Darius king of the Persians.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And in the reign of
+               <u>
+                Assuerus
+               </u>
+               , in the beginning of his reign, they wrote an accusation against the inhabitants of Juda and Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               And in the days of Artaxerxes, Beselam, Mithridates, and Thabeel, and the rest that were in the council wrote to Artaxerxes king of the Persians: and the letter of accusation was written in Syriac, and was read in the Syrian tongue.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               Reum Beelteem, and Samsai the scribe wrote a letter from Jerusalem to king Artaxerxes, in this manner:
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               Reum Beelteem, and Samsai the scribe and the rest of their counsellors, the Dinites, and the Apharsathacites, the Therphalites, the Apharsites, the Erchuites, the Babylonians, the Susanechites, the Dievites, and the Elamites,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               And the rest of the nations, whom the great and glorious Asenaphar brought over: and made to dwell in the cities of Samaria and in the rest of the countries of this side of the river in peace.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Assuerus"
+               </u>
+               : Otherwise called Cambyses the son and successor of Cyrus. He is also in the following verse named Artaxerxes, a name common to almost all the kings of Persia.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               (This is the copy of the letter, which they sent to him:) To Artaxerxes the king, thy servants, the men that are on this side of the river, send greeting.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               Be it known to the king, that the Jews, who came up from thee to us, are come to Jerusalem a rebellious and wicked city, which they are building, setting up the ramparts thereof and repairing the walls.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               And now be it known to the king, that if this city be built up, and the walls thereof repaired, they will not pay tribute nor toll, nor yearly revenues, and this loss will fail upon the kings.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               But we remembering the salt that we have eaten in the palace, and because we count it a crime to see the king wronged, have therefore sent and certified the king,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               That search may be made in the books of the histories of thy fathers, and thou shalt find written in the records: and shalt know that this city is a rebellious city, and hurtful to the kings and provinces, and that wars were raised therein of old time: for which cause also the city was destroyed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               We certify the king, that if this city be built, and the walls thereof repaired, thou shalt have no possession on this side of the river.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               The king sent word to Reum Beelteem and Samsai the scribe, and to the rest that were in their council, inhabitants of Samaria, and to the rest beyond the river, sending greeting and peace.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               The accusation, which you have sent to us, hath been plainly read before me,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               And I commanded: and search hath been made, and it is found, that this city of old time hath rebelled against kings, and seditions and wars have been raised therein.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               For there have been powerful kings in Jerusalem, who hare had dominion over all the country that is beyond the river: and have received tribute, and toll and revenues.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               Now therefore hear the sentence: Hinder those men, that this city be not built, till further orders be given by me.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               See that you be not negligent in executing this, lest by little and little the evil grow to the hurt of the kings.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               Now the copy of the edict of king Artaxerxes was read before Reum Beelteem, and Samsai the scribe, and their counsellors: and they went up in haste to Jerusalem to the Jews, and hindered them with arm and power.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               Then the work of the house of the Lord in Jerusalem was interrupted, and ceased till the second year of the reign of Darius king of the Persians.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Esdras (Ezra)
+              </td>
+              <td class="next">
+               <a href="16001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="15005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

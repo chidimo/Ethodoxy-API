@@ -1,0 +1,480 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Josue (Joshua) Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/06002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/06002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="05001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Josue (Joshua)
+           </td>
+           <td class="next">
+            <a href="07001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="06003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="06001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="06003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="06004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="06005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="06006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="06007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="06008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="06009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="06010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="06011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="06012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="06013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="06014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="06015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="06016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="06017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="06018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="06019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="06020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="06021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="06022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="06023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="06024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Two spies are sent to Jericho, who are received and concealed by Rahab.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               And Josue the son of Nun sent from Setim two men, to spy secretly: and said to them: Go, and view the land and the city of Jericho. They went and entered into the house of a woman that was a harlot named Rahab, and lodged with her.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And it was told the king of Jericho, and was said: Behold there are men come in hither, by night, of the children of Israel, to spy the land.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And the king of Jericho sent to Rahab, saying: Bring forth the men that came to thee, and are entered into thy house: for they are spies, and are come to view all the land.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And the woman taking the men, hid them, and said: I confess they came to me, but I knew not whence they were:
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               And at the time of shutting the gate in the dark, they also went out together. I know not whither they are gone: pursue after them quickly, and you will overtake them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               But she made the men go up to the top of her house, and covered them with the stalks of flax, which was there.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               Now they that were sent, pursued after them, by the way that leadeth to the fords of the Jordan: and as soon as they were gone out, the gate was presently shut.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               The men that were hidden were not yet asleep, when behold the woman went up to them, and said:
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               I know that the Lord hath given this land to you: for the dread of you is fallen upon us, and all the inhabitants of the land have lost all strength.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               We have heard that the Lord dried up the water of the Red Sea at your going in, when you came out of Egypt: and what things you did to the two kings of the Amorrhites, that were beyond the Jordan: Sehon and Og whom you slew.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               And hearing these things we were affrighted, and our heart fainted away, neither did there remain any spirit in us at your coming in: for the Lord your God he is God in heaven above, and in the earth beneath.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               Now therefore swear ye to me by the Lord, that as I have shewn mercy to you, so you also will shew mercy to my father's house: and give me a true token,
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               That you will save my father and mother, my brethren and sisters, and all things that are theirs, and deliver our souls from death.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               They answered her: Be our lives for you unto death, only if thou betray us not. And when the Lord shall have delivered us the land, we will shew thee mercy and truth.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Then she let them down with a cord out of a window: for her house joined close to the wall.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               And she said to them: Get ye up to the mountains, lest perhaps they meet you as they return: and there lie ye hid three days, till they come back, and so you shall go on your way.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And they said to her: We shall be blameless of this oath, which thou hast made us swear:
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               If when we come into the land, this scarlet cord be a sign, and thou tie it in the window, by which thou hast let us down: and gather together thy father and mother, and brethren and all thy kindred into thy house.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               Whosoever shall go out of the door of thy house, his blood shall be upon his own head, and we shall be quit. But the blood of all that shall be with thee in the house, shall light upon our head, if any man touch them.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               But if thou wilt betray us, and utter this word abroad, we shall be quit of this oath which thou hast made us swear.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               And she answered: As you have spoken, so be it done. And sending them on their way, she hung the scarlet cord in the window.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               But they went and came to the mountains, and stayed there three days till they that pursued them were returned. For having sought them through all the way, they found them not.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               And when they were gone back into the city, the spies returned, and came down from the mountain: and passing over the Jordan, they came to Josue the son of Nun, and told him all that befel them.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               And said: The Lord hath delivered all this land into our hands, and all the inhabitants thereof are overthrown with fear.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="05001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Josue (Joshua)
+              </td>
+              <td class="next">
+               <a href="07001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="06003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

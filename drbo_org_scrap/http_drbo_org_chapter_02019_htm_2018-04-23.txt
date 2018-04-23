@@ -1,0 +1,576 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 19
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02019.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02019.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02018.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 19
+           </td>
+           <td class="next">
+            <a href="02020.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             19
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               They come to Sinai: the people are commanded to be sanctified. The Lord, coming in thunder and lightning, speaketh with Moses.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=1-#x">
+                [1]
+               </a>
+               In the third month of the departure of Israel out of the land of Egypt, on this day they came into the wilderness of Sinai:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=2-#x">
+                [2]
+               </a>
+               For departing out of Raphidim, and coming to the desert of Sinai, they camped in the same place, and there Israel pitched their tents over against the mountain.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=3-#x">
+                [3]
+               </a>
+               <u>
+                And Moses went up to God
+               </u>
+               : and the Lord called unto him from the mountain, and said: Thus shalt thou say to the house of Jacob, and tell the children of Israel:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=4-#x">
+                [4]
+               </a>
+               You have seen what I have done to the Egyptians, how I have carried you upon the wings of eagles, and have taken you to myself.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=5-#x">
+                [5]
+               </a>
+               If therefore you will hear my voice, and keep my covenant, you shall be my peculiar possession above all people: for all the earth is mine.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "And Moses went up to God"
+               </u>
+               : Moses went up to mount Sinai, where God spoke to him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=6-#x">
+                [6]
+               </a>
+               And you shall be to me a priestly kingdom, and a holy nation. Those are the words thou shalt speak to the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=7-#x">
+                [7]
+               </a>
+               Moses came, and calling together the elders of the people, he declared all the words which the Lord had commanded.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=8-#x">
+                [8]
+               </a>
+               And all the people answered together: All that the Lord hath spoken, we will do. And when Moses had related the people's words to the Lord,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=9-#x">
+                [9]
+               </a>
+               The Lord said to him: Lo, now will I come to thee in the darkness of a cloud, that the people may hear me speaking to thee, and may believe thee for ever. And Moses told the words of the people to the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=10-#x">
+                [10]
+               </a>
+               And he said to him: Go to the people, and sanctify them today, and tomorrow, and let them wash their garments.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=11-#x">
+                [11]
+               </a>
+               And let them be ready against the third day: for on the third day the Lord will come down in the sight of all the people upon mount Sinai.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=12-#x">
+                [12]
+               </a>
+               And thou shalt appoint certain limits to the people round about, and thou shalt say to them: Take heed you go not up into the mount, and that ye touch not the borders thereof: every one that toucheth the mount dying he shall die.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=13-#x">
+                [13]
+               </a>
+               No hands shall touch him, but he shall be stoned to death, or shall be shot through with arrows: whether it be beast, or man, he shall not live. When the trumpet shall begin to sound, then let them go up into the mount.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=14-#x">
+                [14]
+               </a>
+               And Moses came down from the mount to the people, and sanctified them. And when they had washed their garments,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=15-#x">
+                [15]
+               </a>
+               He said to them: Be ready against the third day, and come not near your wives.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=16-#x">
+                [16]
+               </a>
+               And now the third day was come, and the morning appeared: and behold thunders began to be heard, and lightning to flash, and a very thick cloud to cover the mount, and the noise of the trumpet sounded exceeding loud, and the people that was in the camp, feared.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=17-#x">
+                [17]
+               </a>
+               And when Moses had brought them forth to meet God from the place of the camp, they stood at the bottom of the mount.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=18-#x">
+                [18]
+               </a>
+               And all mount Sinai was on a smoke: because the Lord was come down upon it in fire, and the smoke arose from it as out of a furnace: and all the mount was terrible.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=19-#x">
+                [19]
+               </a>
+               And the sound of the trumpet grew by degrees louder and louder, and was drawn out to a greater length: Moses spoke, and God answered him.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=20-#x">
+                [20]
+               </a>
+               And the Lord came down upon mount Sinai, in the very top of the mount, and he called Moses unto the top thereof. And when he was gone up thither,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=21-#x">
+                [21]
+               </a>
+               He said unto him: Go down, and charge the people: lest they should have a mind to pass the limits to see the Lord, and a very great multitude of them should perish.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=22-#x">
+                [22]
+               </a>
+               The priests also that come to the Lord, let them be sanctified, lest he strike them.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=23-#x">
+                [23]
+               </a>
+               And Moses said to the Lord: The people cannot come up to mount Sinai: for thou did charge, and command, saying: Set limits about the mount, and sanctify it.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=24-#x">
+                [24]
+               </a>
+               And the Lord said to him: Go, get thee down: and thou shalt come up, thou and Aaron with thee: but let not the priests and the people pass the limits, nor come up to the Lord, lest he kill them.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=19&amp;l=25-#x">
+                [25]
+               </a>
+               And Moses went down to the people and told them all.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02018.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 19
+              </td>
+              <td class="next">
+               <a href="02020.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

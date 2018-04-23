@@ -1,0 +1,483 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Micheas (Micah) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/38001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/38001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="37001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Micheas (Micah)
+         </td>
+         <td class="next">
+          <a href="39001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="38002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="38002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="38003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="38004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="38005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="38006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="38007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Samaria for her sins shall be destroyed by the Assyrians; they shall also invade Juda and Jerusalem.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The word of the Lord that came to Micheas the Morasthite, in the days of Joathan, Achaz, and Ezechias, kings of Juda: which he saw concerning Samaria and Jerusalem.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Hear, all ye people: and let the earth give ear, and all that is therein: and let the Lord God be a witness to you, the Lord from his holy temple.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             For behold the Lord will come forth out of his place: and he will come down, and will tread upon the high places of the earth.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And the mountains shall be melted under him: and the valleys shall be cleft, as wax before the fire, and as waters that run down a steep place.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             For the wickedness of Jacob is all this, and for the sins of the house of Israel. What is the wickedness of Jacob? is it not Samaria? and what are the high places of Juda? are they not Jerusalem?
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And I will make Samaria as a heap of stones in the field when a vineyard is planted: and I will bring down the stones thereof into the valley, and will lay her foundations bare.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And all her graven things shall be cut in pieces, and all
+             <u>
+              her wages
+             </u>
+             shall be burnt with fire, and I will bring to destruction all her idols: for they were gathered together
+             <u>
+              of the hire of a harlot
+             </u>
+             , and unto the hire of a harlot they shall return.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Therefore will I lament and howl: I will go stripped and naked: I will make a wailing like the dragons, and a mourning like the ostriches.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             Because her wound is desperate, because it is come even to Juda,
+             <u>
+              it hath touched the gate
+             </u>
+             of my people even to Jerusalem.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             <u>
+              Declare ye it not in Geth
+             </u>
+             ,
+             <u>
+              weep ye not
+             </u>
+             with tears: in the house of Dust sprinkle yourselves with dust.
+            </p>
+            <p class="note">
+             [7]
+             <u>
+              "Her wages"
+             </u>
+             : That is, her donaries or presents offered to her idols: or the hire of all her traffic and labour.-- Ibid.
+            </p>
+            <p class="note">
+             [7]
+             <u>
+              "Of the hire of a harlot"
+             </u>
+             : They were gathered together by one idolatrous city, viz., Samaria: and they shall be carried away to another idolatrous city, viz., Ninive.
+            </p>
+            <p class="note">
+             [9]
+             <u>
+              "It hath touched the gate"
+             </u>
+             : That is, the destruction of Samaria shall be followed by the invasion of my people of Juda, and the Assyrians shall come and lay all waste even to the confines of Jerusalem.
+            </p>
+            <p class="note">
+             [10]
+             <u>
+              "Declare ye it not in Geth"
+             </u>
+             : Viz., amongst the Philistines, lest they rejoice at your calamity.-- Ibid.
+            </p>
+            <p class="note">
+             [10]
+             <u>
+              "Weep ye not"
+             </u>
+             : Keep in your tears, that you may not give your enemies an occasion of insulting over you; but in your own houses, or in your house of dust, your earthly habitation, sprinkle yourselves with dust, and put on the habit of penitents. Some take the house of dust (in Hebrew, Aphrah) to be the proper name of a city.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And pass away, O
+             <u>
+              thou that dwellest in the Beautiful place
+             </u>
+             , covered with thy shame:
+             <u>
+              she went not forth
+             </u>
+             that dwelleth in the confines:
+             <u>
+              the House adjoining
+             </u>
+             shall receive mourning from you, which stood by herself.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             For
+             <u>
+              she is become weak
+             </u>
+             unto good that dwelleth in bitterness: for evil is come down from the Lord into the gate of Jerusalem.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             A tumult of chariots hath astonished the inhabitants of Lachis:
+             <u>
+              it is the beginning
+             </u>
+             of sin to the daughter of Sion, for in thee were found the crimes of Israel.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             <u>
+              Therefore shall she send
+             </u>
+             messengers to the inheritance of Geth: the houses of lying to deceive the kings of Israel.
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             Yet will I bring
+             <u>
+              an heir
+             </u>
+             to thee that dwellest in Maresa: even to Odollam shall the glory of Israel come.
+            </p>
+            <p class="note">
+             [11]
+             <u>
+              "Thou that dwellest in the beautiful place"
+             </u>
+             : viz., in Samaria. In the Hebrew the Beautiful place is expressed by the word Sapir, which some take for the proper name of a city.-- Ibid.
+            </p>
+            <p class="note">
+             [11]
+             <u>
+              "She went not forth"
+             </u>
+             : that is, they that dwelt in the confines came not forth, but kept themselves within, for fear.-- Ibid.
+            </p>
+            <p class="note">
+             [11]
+             <u>
+              "The house adjoining"
+             </u>
+             : Viz., Judea and Jerusalem, neighbours to Samaria, and partners in her sins, shall share also in her mourning and calamity; though they have pretended to stand by themselves, trusting in their strength.
+            </p>
+            <p class="note">
+             [12]
+             <u>
+              "She is become weak"
+             </u>
+             : Jerusalem is become weak unto any good; because she dwells in the bitterness of sin.
+            </p>
+            <p class="note">
+             [13]
+             <u>
+              "It is the beginning"
+             </u>
+             : That is, Lachis was the first city of Juda that learned from Samaria the worship of idols, and communicated it to Jerusalem.
+            </p>
+            <p class="note">
+             [14]
+             <u>
+              "Therefore shall she send"
+             </u>
+             : Lachis shall send to Geth for help: but in vain: for Geth, instead of helping, shall be found to be a house of lying and deceit to Israel.
+            </p>
+            <p class="note">
+             [15]
+             <u>
+              "An heir"
+             </u>
+             : Maresa (which was the name of a city of Juda) signifies inheritance: but here God by his prophet tells the Jews, that he will bring them an heir to take possession of their inheritance: and that the glory of Israel shall be obliged to give place, and to retire even to Odollam, a city in the extremity of their dominions. And therefore he exhorts them to penance in the following verse.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=38&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             Make thee bald, and be polled for thy delicate children: enlarge thy baldness as the eagle: for they are carried into captivity from thee.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="37001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Prophecy Of Micheas (Micah)
+            </td>
+            <td class="next">
+             <a href="39001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="38002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

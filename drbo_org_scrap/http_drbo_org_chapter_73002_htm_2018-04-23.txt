@@ -1,0 +1,499 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Apocalypse (Revelation) Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/73002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/73002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="72001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            The Apocalypse Of Saint John (Revelation)
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="73001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="73003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="73001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="73003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="73004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="73005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="73006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="73007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="73008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="73009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="73010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="73011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="73012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="73013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="73014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="73015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="73016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="73017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="73018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="73019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="73020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="73021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="73022.htm">
+              22
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Directions what to write to the angels or bishops of Ephesus, Smyrna, Pergamus and Thyatira.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               Unto the angel of the church of Ephesus write: These things saith he, who holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks:
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               I know thy works, and thy labour, and thy patience, and how thou canst not bear them that are evil, and thou hast tried them, who say they are apostles, and are not, and hast found them liars:
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And thou hast patience, and hast endured for my name, and hast not fainted.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               But I have somewhat against thee, because thou hast left thy first charity.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               Be mindful therefore from whence thou art fallen: and do penance, and do the first works. Or else I come to thee, and will move thy candlestick out of its place, except thou do penance.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               But this thou hast, that thou hatest the deeds of the Nicolaites, which I also hate.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               He, that hath an ear, let him hear what the Spirit saith to the churches: To him, that overcometh, I will give to eat of the tree of life, which is in the paradise of my God.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And to the angel of the church of Smyrna write: These things saith the First and the Last, who was dead, and is alive:
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               I know thy tribulation and thy poverty, but thou art rich: and thou art blasphemed by them that say they are Jews and are not, but are the synagogue of Satan.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               Fear none of those things which thou shalt suffer. Behold, the devil will cast some of you into prison that you may be tried: and you shall have tribulation ten days. Be thou faithful until death: and I will give thee the crown of life.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               He, that hath an ear, let him hear what the Spirit saith to the churches: He that shall overcome, shall not be hurt by the second death.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               And to the angel of the church of Pergamus write: These things, saith he, that hath the sharp two edged sword:
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               I know where thou dwellest, where the seat of Satan is: and thou holdest fast my name, and hast not denied my faith. Even in those days when Antipas was my faithful witness, who was slain among you, where Satan dwelleth.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               But I have against thee a few things: because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat, and to commit fornication:
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               So hast thou also them that hold the doctrine of the Nicolaites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               In like manner do penance: if not, I will come to thee quickly, and will fight against them with the sword of my mouth.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               He, that hath an ear, let him hear what the Spirit saith to the churches: To him that overcometh, I will give the hidden manna, and will give him a white counter, and in the counter, a new name written, which no man knoweth, but he that receiveth it.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               And to the angel of the church of Thyatira write: These things saith the Son of God, who hath his eyes like to a flame of fire, and his feet like to fine brass.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               I know thy works, and thy faith, and thy charity, and thy ministry, and thy patience, and thy last works which are more than the former.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               But I have against thee a few things: because thou sufferest the woman Jezabel, who calleth herself a prophetess, to teach, and to seduce my servants, to commit fornication, and to eat of things sacrificed to idols.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               And I gave her a time that she might do penance, and she will not repent of her fornication.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               Behold, I will cast her into a bed: and they that commit adultery with her shall be in very great tribulation, except they do penance from their deeds.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               And I will kill her children with death, and all the churches shall know that I am he that searcheth the reins and hearts, and I will give to every one of you according to your works. But to you I say,
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               And to the rest who are at Thyatira: Whosoever have not this doctrine, and who have not known the depths of Satan, as they say, I will not put upon you any other burthen.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               Yet that, which you have, hold fast till I come.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               And he that shall overcome, and keep my works unto the end, I will give him
+               <u>
+                power over the nations
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               And he shall rule them with a rod of iron, and as the vessel of a potter they shall be broken,
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               As I also have received of my Father: and I will give him the morning star.
+               <a href="/x/d?b=drb&amp;bk=73&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               He that hath an ear, let him hear what the Spirit saith to the churches.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "Power over the nations"
+               </u>
+               : This shews, that the saints, who are with Christ our Lord in heaven, receive power from him to preside over nations and provinces, as patrons; and shall come with him at the end of the world to execute his will against those who have not kept his commandments.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="72001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               The Apocalypse Of Saint John (Revelation)
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="73001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="73003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

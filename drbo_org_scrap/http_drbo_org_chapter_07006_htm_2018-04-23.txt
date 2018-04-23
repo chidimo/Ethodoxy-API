@@ -1,0 +1,548 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/07006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/07006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judges
+           </td>
+           <td class="next">
+            <a href="08001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="07005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="07007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="07001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="07002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="07003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="07004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="07005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="07007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="07008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="07009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="07010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="07011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="07012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="07013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="07014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="07015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="07016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="07017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="07018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="07019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="07020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="07021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The people for their sins, are oppressed by the Madianites. Gedeon is called to deliver them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               And the children of Israel again did evil in the sight of the Lord: and he delivered them into the hand of Madian seven years.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               And they were grievously oppressed by them. And they made themselves dens and eaves in the mountains, and strong holds to resist.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               And when Israel had sown, Madian and Amalec, and the rest of the eastern nations came up:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               And pitching their tents among them, wasted all things as they were in the blade even to the entrance of Gaza: and they left nothing at all in Israel for sustenance of life, nor sheep, nor oxen, nor asses.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               For they and all their flocks came with their tents, and like locusts filled all places, an innumerable multitude of men, and of camels, wasting whatsoever they touched.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               And Israel was humbled exceedingly in the sight of Madian.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               And he cried to the Lord desiring help against the Madianites.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               And he sent unto them a prophet, and he spoke: Thus saith the Lord the God of Israel: I made you to come up out of Egypt, and brought you out of the house of bondage,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               And delivered you out of the hands of the Egyptians, and of all the enemies that afflicted you: and I cast them out at your coming in, and gave you their land.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               And I said: I am the Lord your God, fear not the gods of the Amorrhites, in whose land you dwell. And you would not hear my voice.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               And an angel of the Lord came, and sat under an oak, that was in Ephra, and belonged to Joas the father of the family of Ezri. And when Gedeon his son was threshing and cleansing wheat by the winepress, to flee from Madian,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               The angel of the Lord appeared to him, and said: The Lord is with thee, O most valiant of men.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               And Gedeon said to him: I beseech thee, my lord, if the Lord be with us, why have these evils fallen upon us? Where are his miracles, which our fathers have told us of, saying: The Lord brought us Out of Egypt? but now the Lord hath forsaken us, and delivered us into the bands of Madian.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               And the Lord looked upon him, and said: Go in this thy strength, and thou shalt deliver Israel out of the hand of Madian: know that I have sent thee.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               He answered and said: I beseech thee, my lord, wherewith shall I deliver Israel? Behold my family is
+               <u>
+                the meanest in Manasses
+               </u>
+               , and I am the least in my father's house.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "The meanest in Manasses"
+               </u>
+               : Mark how the Lord chooseth the humble (who are mean and little in their own eyes) for the greatest enterprises.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               And the Lord said to him: I will be with thee: and thou shalt cut off Madian as one man.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               And he said: If I have found grace before thee, give me a sign that it is thou that speakest to me,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               And depart not hence, till I return to thee, and bring a sacrifice, and offer it to thee. And he answered: I will wait thy coming.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               So Gedeon went in, and boiled a kid, and made unleavened loaves of a measure of flour: and putting the flesh in a basket, and the broth of the flesh into a pot, he carried all under the oak, and presented to him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               And the angel of the Lord said to him: Take the flesh and the unleavened loaves, and lay them upon that rock, and pour out the broth thereon. And when he had done so,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               The angel of the Lord put forth the tip of the rod, which he held in his hand, and touched the flesh and the unleavened loaves: and there arose a fire from the rock, and consumed the flesh and the unleavened loaves: and the angel of the Lord vanished out of his sight.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               And Gedeon seeing that it was the angel of the Lord, said: Alas, my Lord God: for I have seen the angel of the Lord face to face.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=23-#x">
+                [23]
+               </a>
+               And the Lord said to him: Peace be with thee: fear not, thou shalt not die.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=24-#x">
+                [24]
+               </a>
+               And Gedeon built there an altar to the Lord, and called it the Lord's peace, until this present day. And when he was yet in Ephra, which is of the family of Ezri,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=25-#x">
+                [25]
+               </a>
+               That night the Lord said to him: Take a bullock of thy father's, and another bullock of seven years, and thou shalt destroy the altar of Baal, which is thy father's: and cut down the grove that is about the altar:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=26-#x">
+                [26]
+               </a>
+               And thou shalt build an altar to the Lord thy God in the top of this rock, whereupon thou didst lay the sacrifice before: and thou shalt take the second bullock, and shalt offer a holocaust upon a pile of the wood, which thou shalt cut down out of the grove.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=27-#x">
+                [27]
+               </a>
+               Then Gedeon taking ten men of his servants, did as the Lord had commanded him. But fearing his father's house, and the men of that city, he would not do it by day, but did all by night.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=28-#x">
+                [28]
+               </a>
+               And when the men of that town were risen in the morning, they saw the altar of Baal destroyed, and the grove cut down, and the second bullock laid upon the altar, which then was built.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=29-#x">
+                [29]
+               </a>
+               And they said one to another: Who hath done this? And when they inquired for the author of the fact, it was said: Gedeon the son of Joas did all this.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=30-#x">
+                [30]
+               </a>
+               And they said to Joas: Bring out thy son hither, that he may die: because he hath destroyed the altar of Baal, and hath cut down his grove.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=31-#x">
+                [31]
+               </a>
+               He answered them: Are you the avengers of Baal, that you fight for him? he that is his adversary, let him die before tomorrow light appear: if he be a god, let him revenge himself on him that hath cast down his altar.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=32-#x">
+                [32]
+               </a>
+               From that day Gedeon was called Jerobaal, because Joss had said: Let Baal revenge himself on him that hath cast down his altar.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=33-#x">
+                [33]
+               </a>
+               Now all Madian, and Amalec, and the eastern people were gathered together, and passing over the Jordan, camped in the valley of Jezrael.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=34-#x">
+                [34]
+               </a>
+               But the spirit of the Lord came upon Gedeon, and be sounded the trumpet and called together the house of Abiezer, to follow him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=35-#x">
+                [35]
+               </a>
+               And he sent messengers into all Manasses, and they also followed him: and other messengers into Aser and Zabulon and Nephtali, and they came to meet him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=36-#x">
+                [36]
+               </a>
+               And Gedeon said to God: If thou wilt save Israel by my hand, as thou hast said,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=37-#x">
+                [37]
+               </a>
+               I will put this fleece of wool on the floor: if there be dew on the fleece only, and it be dry on all the ground beside, I, shall know that by my hand, as thou hast said, thou wilt deliver Israel.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=38-#x">
+                [38]
+               </a>
+               And it was so. And rising before day wringing the fleece, he filled a vessel with the dew.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=39-#x">
+                [39]
+               </a>
+               And he said again to God: let not thy wrath be kindled against me if I try once more, seeking a sign in the fleece. I pray that the fleece only may be dry, and all the ground wet with dew.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=6&amp;l=40-#x">
+                [40]
+               </a>
+               And God did that night as he had requested: and it was dry on the fleece only, and there was dew on all the ground.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judges
+              </td>
+              <td class="next">
+               <a href="08001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="07005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="07007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

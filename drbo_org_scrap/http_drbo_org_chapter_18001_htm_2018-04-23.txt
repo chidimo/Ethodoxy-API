@@ -1,0 +1,384 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judith Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/18001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/18001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="17001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Book Of Judith
+         </td>
+         <td class="next">
+          <a href="19001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="18002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="18002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="18003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="18004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="18005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="18006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="18007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="18008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="18009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="18010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="18011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="18012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="18013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="18014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="18015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="18016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Nabuchodonosor king of the Assyrians overcometh Arphaxad king of the Medes.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             Now
+             <u>
+              Arphaxad
+             </u>
+             king of the Medes had brought many nations under his dominions, and he built a very strong city, which he called Ecbatana,
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Of stones squared and hewed: he made the walls thereof seventy cubits broad, and thirty cubits high, and the towers thereof he made a hundred cubits high. But on the square of them, each side was extended the space of twenty feet.
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And he made the gates thereof according to the height of the towers:
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And he gloried as a mighty one in the force of his army and in the glory of his chariots.
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             Now in the twelfth year of his reign,
+             <u>
+              Nabuchodonosor
+             </u>
+             king of the Assyrians, who reigned in Ninive the great city, fought against Arphaxad and overcame him,
+            </p>
+            <p class="note">
+             [1]
+             <u>
+              "Arphaxad"
+             </u>
+             : He was probably the same as is called Dejoces by Herodotus; to whom he attributes the building of Ecbatana, the capital city of Media.
+            </p>
+            <p class="note">
+             [5]
+             <u>
+              "Nabuchodonosor"
+             </u>
+             : Not the king of Babylon, who took and destroyed Jerusalem, but another of the same name, who reigned in Ninive: and is called by profane historians Saosduchin. He succeeded Asarhaddan in the kingdom of the Assyrians, and was contemporary with Manasses king of Juda.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             In the great plain which is called Ragua, about the Euphrates, and the Tigris, and the Jadason, in the plain of Erioch the king of the Elicians.
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             Then was the kingdom of Nabuchodonosor exalted, and his heart was elevated: and he sent to all that dwelt in Cilicia and Damascus, and Libanus,
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             And to the nations that are in Carmelus, and Cedar, and to the inhabitants of Galilee in the great plain of Asdrelon,
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And to all that were in Samaria, and beyond the river Jordan even to Jerusalem, and all the land of Jesse till you come to the borders of Ethiopia.
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             To all these Nabuchodonosor king of the Assyrians, sent messengers:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             But they all with one mind refused, and sent them back empty, and rejected them without honour.
+             <a href="/x/d?b=drb&amp;bk=18&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             Then king Nabuchodonosor being angry against all that land, swore by his throne and kingdom that he would revenge himself of all those countries.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="17001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Book Of Judith
+            </td>
+            <td class="next">
+             <a href="19001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="18002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

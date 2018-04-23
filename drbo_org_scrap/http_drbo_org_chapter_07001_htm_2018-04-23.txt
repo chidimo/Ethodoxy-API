@@ -1,0 +1,575 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/07001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/07001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="06001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Book Of Judges
+         </td>
+         <td class="next">
+          <a href="08001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="07002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="07002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="07003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="07004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="07005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="07006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="07007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="07008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="07009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="07010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="07011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="07012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="07013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="07014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="07015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="07016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="07017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="07018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="07019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="07020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="07021.htm">
+            21
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The expedition and victory of Juda against the Chanaanites: who are tolerated in many places.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             After the death of Josue the children of Israel consulted the Lord, saying: Who shall go up before us against the Chanaanite, and shall be the leader of the war?
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             And the Lord said: Juda shall go up: behold I have delivered the land into his hands.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And Juda said to Simeon his brother: Come up with me into my lot, and fight against the Chanaanite, that I also may go along with thee into thy lot. And Simeon went with him.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And Juda went up, and the Lord delivered the Chanaanite, and the Pherezite into their hands: and they slew of them in Bezec ten thousand men.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And they found Adonibezec in Bezec, and fought against him, and they defeated the Chanaanite, and the Pherezite.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And Adonibezec fled: and they pursued after him and took him, and cut off his fingers and toes.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And Adonibezec said: Seventy kings having their fingers and toes cut off, gathered up the leavings of the meat under my table: as I have done, so hath God requited me. And they brought him to Jerusalem, and he died there.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             And the children of Juda besieging
+             <u>
+              Jerusalem
+             </u>
+             , took it, and put it to the sword, and set the whole city on fire.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And afterwards they went down and fought against the Chanaanite, who dwelt in the mountains, and in the south, and in the plains.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And Juda going forward against the Chanaanite, that dwelt in
+             <u>
+              Hebron
+             </u>
+             (the name whereof was in former times Cariath-Arbe) slew Sesai, and Ahiman, and Tholmai:
+            </p>
+            <p class="note">
+             [8]
+             <u>
+              "Jerusalem"
+             </u>
+             : This city was divided into two; one part was called Jebus, the other Salem: the one was in the tribe of Juda, the other in the tribe of Benjamin. After it was taken and burnt by the men of Juda, it was quickly rebuilt again by the Jebusites, as we may gather from ver. 21; and continued in their possession till it was taken by king David.
+            </p>
+            <p class="note">
+             [10]
+             <u>
+              "Hebron"
+             </u>
+             : This expedition against Hebron, etc. is the same as is related, Jos. 15. 24. It is here repeated, to give the reader at once a short sketch of all the achievements of the tribe of Juda against the Chanaanites.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And departing from thence he went to the inhabitants of Dabir, the ancient name of which was Cariath-Sepher, that is,
+             <u>
+              the city of letters
+             </u>
+             .
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And Caleb said: He that shall take Cariath-Sepher, and lay it waste, to him will I give my daughter Axa to wife.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And Othoniel the son of Cenez, the younger brother of Caleb, having taken it, he gave him Axa his daughter to wife.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And as she was going on her way her husband admonished her to ask a field of her father. And as she sighed sitting on her ass, Caleb said to her: What aileth thee?
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             But she answered: Give me a blessing, for thou hast given me a dry land: give me also a watery land. So Caleb gave her the upper and the nether watery ground.
+            </p>
+            <p class="note">
+             [11]
+             <u>
+              "The city of letters"
+             </u>
+             : Perhaps so called from some famous school, or library, kept there.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             And the children of
+             <u>
+              the Cinite
+             </u>
+             , the kinsman of Moses, went up from
+             <u>
+              the city of palms
+             </u>
+             , with the children of Juda into the wilderness of his lot, which is at the south side of Arad, and they dwelt with him.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             And Juda went with Simeon his brother, and they together defeated the Chanaanites that dwelt in Sephaath, and slew them. And the name of the city was called Horma, that is, Anathema.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             And Juda took
+             <u>
+              Gaza
+             </u>
+             with its confines, and Ascalon and Accaron with their confines.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             And the Lord was with Juda, and he possessed the hill country: but
+             <u>
+              was not able
+             </u>
+             to destroy the inhabitants of the valley, because they had many chariots armed with scythes.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             And they gave Hebron to Caleb, as Moses had said, who destroyed out of it the three sons of Enac.
+            </p>
+            <p class="note">
+             [16]
+             <u>
+              "The Cinite"
+             </u>
+             : Jethro the father in law of Moses was called Cinoeus, or the Cinite; and his children who came along with the children of Israel settled themselves among them in the land of Chanaan, embracing their worship and religion. From these the Rechabites sprung, of whom see Jer. 35.-- Ibid.
+            </p>
+            <p class="note">
+             [16]
+             <u>
+              "The city of palms"
+             </u>
+             : Jericho, so called from the abundance of palm trees.
+            </p>
+            <p class="note">
+             [18]
+             <u>
+              "Gaza"
+             </u>
+             : These were three of the principal cities of the Philistines, famous both in sacred and profane history. They were taken at this time by the Israelites: but as they took no care to put garrisons in them, the Philistines soon recovered them.
+            </p>
+            <p class="note">
+             [19]
+             <u>
+              "Was not able"
+             </u>
+             : Through a cowardly fear of their chariots armed with hooks and scythes, and for want of confidence in God.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             But the sons of Benjamin did not destroy the Jebusites that inhabited Jerusalem: and the Jebusite hath dwelt with the sons of Benjamin in Jerusalem until this present day.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             The house of Joseph also went up against Bethel, and the Lord was with them.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             For when they were besieging the city, which before was called Luza,
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             They saw a man coming out of the city, and they said to him: shew us the entrance into the city, and we will shew thee mercy.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             And when he had shewn them, they smote the city with the edge of the sword: but that man and all his kindred they let go:
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             Who being sent away, went into the land of Hethim, and built there a city, and called it Luza: which is so called until this day.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             Manasses also did not destroy Bethsan, and Thanac with their villages, nor the inhabitants of Dor, and Jeblaam, and Mageddo with their villages. And the Chanaanite began to dwell with them.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=28-#x">
+              [28]
+             </a>
+             But after Israel was grown strong he made them tributaries, and would not destroy them.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=29-#x">
+              [29]
+             </a>
+             Ephraim also did not slay the Chanaanite that dwelt in Gazer, but dwelt with him.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=30-#x">
+              [30]
+             </a>
+             Zabulon destroyed not the inhabitants of Cetron, and Naalol: but the Chanaanite dwelt among them, and became their tributaries.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=31-#x">
+              [31]
+             </a>
+             Aser also destroyed not the inhabitants of Accho, and of Sidon, of Ahalab, and of Achazib, and of Helba, and of Aphec, and of Rohob:
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=32-#x">
+              [32]
+             </a>
+             And he dwelt in the midst of the Chanaanites the inhabitants of that land, and did not slay them.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=33-#x">
+              [33]
+             </a>
+             Nephtali also destroyed not the inhabitants of Bethsames, and of Bethanath: and he dwelt in the midst of the Chanaanites the inhabitants of the land, and the Bethsamites and Bethanites were tributaries to him.
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=34-#x">
+              [34]
+             </a>
+             And the Amorrhite straitened the children of Dan in the mountain, and gave them not place to go down to the plain:
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=35-#x">
+              [35]
+             </a>
+             And
+             <u>
+              he dwelt
+             </u>
+             in the mountain Hares, that is, of potsherds, in Aialon and Salebim. And the hand of the house of Joseph was heavy upon him, and he became tributary to him.
+            </p>
+            <p class="note">
+             [35]
+             <u>
+              "He dwelt"
+             </u>
+             : That is, the Amorrhite.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=7&amp;ch=1&amp;l=36-#x">
+              [36]
+             </a>
+             And the border of the Amorrhite was from the ascent of the scorpion, the rock, and the higher places.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="06001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Book Of Judges
+            </td>
+            <td class="next">
+             <a href="08001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="07002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

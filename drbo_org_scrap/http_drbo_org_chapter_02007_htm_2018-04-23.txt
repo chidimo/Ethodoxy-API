@@ -1,0 +1,599 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 7
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02007.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02007.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02006.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 7
+           </td>
+           <td class="next">
+            <a href="02008.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             07
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Moses and Aaron go into Pharao: they turn the rod into a serpent; and the waters of Egypt into blood, which was the first plague. The magicians do the like, and Pharao's heart is hardened.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord said to Moses: Behold I have appointed thee
+               <u>
+                the God of Pharao
+               </u>
+               : and Aaron thy brother shall be thy prophet.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=2-#x">
+                [2]
+               </a>
+               Thou shalt speak to him all that I command thee; and he shall speak to Pharao, that he let the children of Israel go out of his land.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=3-#x">
+                [3]
+               </a>
+               But
+               <u>
+                I shall harden
+               </u>
+               his heart, and shall multiply my signs and wonders in the land of Egypt,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=4-#x">
+                [4]
+               </a>
+               And he will not hear you: and I will lay my hand upon Egypt, and will bring forth my army and my people the children of Israel out of the land of Egypt, by very great judgments.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=5-#x">
+                [5]
+               </a>
+               And the Egyptians shall know that I am the Lord, who have stretched forth my hand upon Egypt, and have brought forth the children of Israel out of the midst of them.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "The god of Pharao"
+               </u>
+               : Viz., to be his judge; and to exercise a divine power, as God's instrument, over him and his people.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "I shall harden"
+               </u>
+               : not by being the efficient cause of his hardness of heart, but by permitting it; and by withdrawing grace from him, in punishment of his malice; which alone was the proper cause of his being hardened.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=6-#x">
+                [6]
+               </a>
+               And Moses and Aaron did as the Lord had commanded: so did they.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=7-#x">
+                [7]
+               </a>
+               And Moses was eighty years old, and Aaron eighty-three, when they spoke to Pharao.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=8-#x">
+                [8]
+               </a>
+               And the Lord said to Moses and Aaron:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=9-#x">
+                [9]
+               </a>
+               When Pharao shall say to you, shew signs: thou shalt say to Aaron: Take thy rod, and cast it down before Pharao, and it shall be turned into a serpent.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=10-#x">
+                [10]
+               </a>
+               So Moses and Aaron went in unto Pharao, and did as the Lord had commanded. And Aaron took the rod before Pharao, and his servants, and it was turned into a serpent.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=11-#x">
+                [11]
+               </a>
+               And Pharao called the wise men and the
+               <u>
+                magicians
+               </u>
+               : and they also by Egyptian enchantments and certain secrets did in like manner.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=12-#x">
+                [12]
+               </a>
+               And they every one cast down their rods, and they were turned into serpents: but Aaron's rod devoured their rods.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=13-#x">
+                [13]
+               </a>
+               And Pharao's heart was hardened, and he did not hearken to them, as the Lord had commanded.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=14-#x">
+                [14]
+               </a>
+               And the Lord said to Moses: Pharao's heart is hardened, he will not let the people go.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=15-#x">
+                [15]
+               </a>
+               Go to him in the morning, behold he will go out to the waters: and thou shalt stand to meet him on the bank of the river: and thou shalt take in thy hand the rod that was turned into a serpent.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "Magicians"
+               </u>
+               : Jannes, and Mambres, or Jambres, 2 Tim. 3. 8.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=16-#x">
+                [16]
+               </a>
+               And thou shalt say to him: The Lord God of the Hebrews sent me to thee saying: Let my people go to sacrifice to me in the desert: and hitherto thou wouldst not hear.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=17-#x">
+                [17]
+               </a>
+               Thus therefore saith the Lord: In this thou shalt know that I am the Lord: behold I will strike with the rods that is in my hand, the water of the river, and it shall be turned into blood.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=18-#x">
+                [18]
+               </a>
+               And the fishes that are in the river shall die, and the waters shall be corrupted, and the Egyptians shall be afflicted when they drink the water of the river.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=19-#x">
+                [19]
+               </a>
+               The Lord also said to Moses: Say to Aaron, Take thy rod, and stretch forth thy hand upon the waters of Egypt, and upon their rivers, and streams and pools, and all the ponds of waters, that they may be turned into blood: and let blood be in all the land of Egypt, both in vessels of wood and of stone.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=20-#x">
+                [20]
+               </a>
+               And Moses and Aaron did as the Lord had commanded: and lifting up the rod he struck the water of the river before Pharao and his servants: and it was turned into blood.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=21-#x">
+                [21]
+               </a>
+               And the fishes that were in the river died: and the river corrupted, and the Egyptians could not drink the water of the river, and there was blood in all the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=22-#x">
+                [22]
+               </a>
+               And the magicians of the Egyptians with their enchantments did in like manner: and Pharao's heart was hardened, neither did he hear them, as the Lord had commanded.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=23-#x">
+                [23]
+               </a>
+               And he turned himself away and went into his house, neither did he set his heart to it this time also.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=24-#x">
+                [24]
+               </a>
+               And all the Egyptians dug round about the river for water to drink: for they could not drink of the water of the river.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=7&amp;l=25-#x">
+                [25]
+               </a>
+               And seven days were fully ended, after that the Lord struck the river.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02006.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 7
+              </td>
+              <td class="next">
+               <a href="02008.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

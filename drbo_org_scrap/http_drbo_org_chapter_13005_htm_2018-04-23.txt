@@ -1,0 +1,526 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Paralipomenon (1 Chronicles) Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/13005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/13005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="12001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            1 Paralipomenon (1 Chronicles)
+           </td>
+           <td class="next">
+            <a href="14001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="13006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="13001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="13002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="13003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="13004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="13006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="13007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="13008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="13009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="13010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="13011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="13012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="13013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="13014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="13015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="13016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="13017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="13018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="13019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="13020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="13021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="13022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="13023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="13024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="13025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="13026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="13027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="13028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="13029.htm">
+              29
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Genealogies of Ruben and Gad: their victories over the Agarites: their captivity.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               Now the sons of Ruben the firstborn of Israel, (for he was his firstborn: but forasmuch as he defiled his father's bed, his first birthright was given to the sons of Joseph the son of Israel, and he was not accounted for the firstborn.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               But of the race of Juda, who was the strongest among his brethren, came the princes: but the first birthright was
+               <u>
+                accounted to Joseph
+               </u>
+               .)
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               The sons then of Ruben the firstborn of Israel were Enoch, and Phallu, Esron, and Charmi.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               The sons of Joel: Samaia his son, Gog his son, Semei his son,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               Micha his son, Reia his son, Baal his son,
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Accounted to Joseph"
+               </u>
+               : Viz., as to the double portion, which belonged to the firstborn; but the princely dignity was given to Juda, and the priesthood to Levi.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               Beera his son, whom Thelgathphalnasar king of the Assyrians carried away captive, and he was prince in the tribe of Ruben.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               And his brethren, and all his kindred, when they were numbered by their families, had for princes Jehiel, and Zacharias.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               And Bala the son of Azaz, the son of Samma, the son of Joel, dwelt in Aroer as far as Nebo, and Beelmeon.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               And eastward he had his habitation as far as the entrance of the desert, and the river Euphrates. For they possessed a great number of cattle in the land of Galaad.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               And in the days of Saul they fought against the Agarites, and slew them, and dwelt in their tents in their stead, in all the country, that looketh to the east of Galaad.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               And the children of Gad dwelt over against them in the land of Basan, as far as Selcha:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               Johel the chief, and Saphan the second: and Janai, and Saphat in Basan.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               And their brethren according to the houses of their kindreds, were Michael, and Mosollam, and Sebe, and Jorai, and Jacan, and Zie, and Heber, seven.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               These were the sons of Abihail, the son of Hurl, the son of Jara, the son of Galaad, the son of Michael, the son of Jesisi, the son of Jeddo, the son of But.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               And their brethren the sons of Abdiel, the son of Guni, chief of the house in their families,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               And they dwelt in Galaad, and in Basan and in the towns thereof, and in all the suburbs of Saron, unto the borders.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               All these were numbered in the days of Joathan king of Juda, and in the days of Jeroboam king of Israel.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               The sons of Ruben, and of Gad, and of the half tribe of Manasses, fighting men, bearing shields, and swords, and bending the bow, and trained up to battles, four and forty thousand seven hundred and threescore that went out to war.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               They fought against the Agarites: but the Itureans, and Naphis, and Nodab,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               Gave them help. And the Agarites were delivered into their hands, and all that were with them, because they called upon God in the battle: and he heard them, because they had put their faith in him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               And they took all that they possessed, of camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men a hundred thousand souls.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=22-#x">
+                [22]
+               </a>
+               And many fell down slain: for it was the battle of the Lord. And they dwelt in their stead till the captivity.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=23-#x">
+                [23]
+               </a>
+               And the children of the half tribe of Manasses possessed the land, from the borders of Basan unto Baal, Hermon, and Sanir, and mount Hermon, for their number was great.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=24-#x">
+                [24]
+               </a>
+               And these were the heads of the house of their kindred, Epher, and Jesi, and Eliel, and Esriel, and Jeremia, and Odoia, and Jediel, most valiant and powerful men, and famous chiefs in their families.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=25-#x">
+                [25]
+               </a>
+               But they forsook the God of their fathers, and went astray after the gods of the people of the land, whom God destroyed before them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=5&amp;l=26-#x">
+                [26]
+               </a>
+               And the God of Israel stirred up the spirit of Phul king of the Assyrians, and the spirit of Thelgathphalnasar king of Assur: and he carried away Ruben, and Gad, and the half tribe of Manasses, and brought them to Lahela, and to Habor, and to Ara, and to the river of Gozan, unto this day.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="12001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               1 Paralipomenon (1 Chronicles)
+              </td>
+              <td class="next">
+               <a href="14001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="13006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,606 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Machabees Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/45003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/45003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="44001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="46001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="45004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="45001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="45002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="45004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="45005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="45006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="45007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="45008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="45009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="45010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="45011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="45012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="45013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="45014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="45015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="45016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Judas Machabeus succeeds his father, and overthrows Apollonius and Seron. A great army is sent against him out of Syria. He prepares his people for battle by fasting and prayer.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Then his son Judas, called Machabeus, rose up in his stead.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               And all his brethren helped him, and all they that had joined themselves to his father, and they fought with cheerfulness the battle of Israel.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               And he got his people great honour, and put on a breastplate as a giant, and girt his warlike armour about him in battles, and protected the camp with his sword.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               In his acts he was like a lion, and like a lion's whelp roaring for his prey.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               And he pursued the wicked and sought them out, and them that troubled his people he burnt with fire:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And his enemies were driven away for fear of him, and all the workers of iniquity were troubled: and salvation prospered in his hand.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               And he grieved many kings, and made Jacob glad with his works, and his memory is blessed for ever.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And he went through the cities of Juda, and destroyed the wicked out of them, and turned away wrath from Israel.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               And he was renowned even to the utmost part of the earth, and he gathered them that were perishing.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And Apollonius gathered together the Gentiles, and a numerous and great army from Samaria, to make war against Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               And Judas understood it, and went forth to meet him: and he overthrew him, and killed him: and many fell down slain, the rest fled away.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               And he took their spoils, and Judas took the sword of Apollonius, and fought with it all his lifetime.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               And Seron captain of the army of Syria heard that Judas had assembled a company of the faithful, and a congregation with him,
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               And he said: I will get me a name, and will be glorified in the kingdom, and will overthrow Judas, and those that are with him, that have despised the edict of the king.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               And he made himself ready: and the host of the wicked went up with him, strong succours, to be revenged of the children of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               And they approached even as far as Bethoron: and Judas went forth to meet him, with a small company.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               But when they saw the army coming to meet them, they said to Judas: How shall we, being few, be able to fight against so great a multitude and so strong, and we are ready to faint with fasting today?
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               And Judas said: It is an easy matter for many to be shut up in the hands of a few: and there is no difference in the sight of the God of heaven to deliver with a great multitude, or with a small company:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               For the success of war is not in the multitude of the army, but strength cometh from heaven.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               They come against us with an insolent multitude, and with pride, to destroy us, and our wives, and our children, and to take our spoils.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               But we will fight for our lives and our laws:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               And the Lord himself will overthrow them before our face: but as for you, fear them not.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               And as soon as he had made an end of speaking, he rushed suddenly upon them: and Seron and his host were overthrown before him:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               And he pursued him by the descent of Bethoron even to the plain, and there fell of them eight hundred men, and the rest fled into the land of the Philistines.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=25-#x">
+                [25]
+               </a>
+               And the fear of Judas and of his brethren, and the dread of them fell upon all the nations round about them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=26-#x">
+                [26]
+               </a>
+               And his fame came to the king, and all nations told of the battles of Judas.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=27-#x">
+                [27]
+               </a>
+               Now when king Antiochus heard these words, he was angry in his mind: and he sent and gathered the forces of all his kingdom, an exceeding strong army.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=28-#x">
+                [28]
+               </a>
+               And he opened his treasury, and gave out pay to the army for a year: and he commanded them, that they should be ready for all things.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=29-#x">
+                [29]
+               </a>
+               And he perceived that the money of his treasures failed, and that the tributes of the country were small because of the dissension, and the evil that he had brought upon the land, that he might take away the laws of old times:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=30-#x">
+                [30]
+               </a>
+               And he feared that he should not have as formerly enough, for charges and gifts, which he had given before with a liberal hand: for he had abounded more than the kings that had been before him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=31-#x">
+                [31]
+               </a>
+               And he was greatly perplexed in mind, and purposed to go into Persia, and to take tributes of the countries, and to gather much money.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=32-#x">
+                [32]
+               </a>
+               And he left Lysias, a nobleman of the blood royal, to oversee the affairs of the kingdom, from the river Euphrates even to the river of Egypt:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=33-#x">
+                [33]
+               </a>
+               And to bring up his son Antiochus, till he came again.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=34-#x">
+                [34]
+               </a>
+               And he delivered to him half the army, and the elephants: and he gave him charge concerning all that he would have done, and concerning the inhabitants of Judea, and Jerusalem:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=35-#x">
+                [35]
+               </a>
+               And that he should send an army against them, to destroy and root out the strength of Israel, and the remnant of Jerusalem, and to take away the memory of them from that place:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=36-#x">
+                [36]
+               </a>
+               And that he should settle strangers to dwell in all their coasts, and divide their land by lot.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=37-#x">
+                [37]
+               </a>
+               So the king took the half of the army that remained, and went forth from Antioch the chief city of his kingdom, in the hundred and forty-seventh year: and he passed over the river Euphrates, and went through the higher countries.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=38-#x">
+                [38]
+               </a>
+               Then Lysias chose Ptolemee the son of Dorymenus, and Nicanor, and Gorgias, mighty men of the king's friends.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=39-#x">
+                [39]
+               </a>
+               And he sent with them forty thousand men, and seven thousand horsemen: to go into the land of Juda, and to destroy it according to the king's orders.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=40-#x">
+                [40]
+               </a>
+               So they went forth with all their power, and came, and pitched near Emmaus in the plain country.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=41-#x">
+                [41]
+               </a>
+               And the merchants of the countries heard the fame of them: and they took silver and gold in abundance, and servants: and they came into the camp, to buy the children of Israel for slaves: and there were joined to them the forces of Syria, and of the land of the strangers.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=42-#x">
+                [42]
+               </a>
+               And Judas and his brethren saw that evils were multiplied, and that the armies approached to their borders: and they knew the orders the king had given to destroy the people and utterly abolish them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=43-#x">
+                [43]
+               </a>
+               And they said every man to his neighbour: Let us raise up the low condition of our people, and let us fight for our people, and our sanctuary.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=44-#x">
+                [44]
+               </a>
+               And the assembly was gathered that they might be ready for battle: and that they might pray, and ask mercy and compassion.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=45-#x">
+                [45]
+               </a>
+               Now Jerusalem was not inhabited, but was like a desert: there was none of her children that went in or out: and the sanctuary was trodden down: and the children of strangers were in the castle, there was the habitation of the Gentiles: and joy was taken away from Jacob, and the pipe and harp ceased there.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=46-#x">
+                [46]
+               </a>
+               And they assembled together, and came to Maspha over against Jerusalem: for in Maspha was a place of prayer heretofore in Israel.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=47-#x">
+                [47]
+               </a>
+               And they fasted that day, and put on haircloth, and put ashes upon their heads: and they rent their garments:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=48-#x">
+                [48]
+               </a>
+               And they laid open the books of the law, in which the Gentiles searched for the likeness of their idols:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=49-#x">
+                [49]
+               </a>
+               And they brought the priestly ornaments, and the firstfruits and tithes, and stirred up the Nazarites that had fulfilled their days:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=50-#x">
+                [50]
+               </a>
+               And they cried with a loud voice toward heaven, saying: What shall we do with these, and whither shall we carry them?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=51-#x">
+                [51]
+               </a>
+               For thy holies are trodden down, and are profaned, and thy priests are in mourning, and are brought low.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=52-#x">
+                [52]
+               </a>
+               And behold the nations are come together against us to destroy us: thou knowest what they intend against us.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=53-#x">
+                [53]
+               </a>
+               How shall we be able to stand before their face, unless thou, O God, help us?
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=54-#x">
+                [54]
+               </a>
+               Then they sounded with trumpets, and cried out with a loud voice.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=55-#x">
+                [55]
+               </a>
+               And after this Judas appointed captains over the people, over thousands, and over hundreds, and over fifties, and over tens.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=56-#x">
+                [56]
+               </a>
+               And he said to them that were building houses, or had betrothed wives, or were planting vineyards, or were fearful, that they should return every man to his house, according to the law.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=57-#x">
+                [57]
+               </a>
+               So they removed the camp, and pitched on the south side of Emmaus.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=58-#x">
+                [58]
+               </a>
+               And Judas said: Gird yourselves, and be valiant men, and be ready against the morning, that you may fight with these nations that are assembled against us to destroy us and our sanctuary.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=59-#x">
+                [59]
+               </a>
+               For it is better for us to die in battle, than to see the evils of our nation, and of the holies:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=3&amp;l=60-#x">
+                [60]
+               </a>
+               Nevertheless as it shall be the will of God in heaven so be it done.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="44001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="46001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="45004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

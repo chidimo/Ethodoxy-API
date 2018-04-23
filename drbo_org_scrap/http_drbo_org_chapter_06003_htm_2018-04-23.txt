@@ -1,0 +1,450 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Josue (Joshua) Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/06003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/06003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="05001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Josue (Joshua)
+           </td>
+           <td class="next">
+            <a href="07001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="06004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="06001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="06002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="06004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="06005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="06006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="06007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="06008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="06009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="06010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="06011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="06012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="06013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="06014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="06015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="06016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="06017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="06018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="06019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="06020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="06021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="06022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="06023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="06024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The river Jordan is miraculously dried up for the passage of the children of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               And Josue rose before daylight, and removed the camp: and they departed from Setim, and came to the Jordan, he, and all the children of Israel, and they abode there for three days.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               After which, the heralds went through the midst of the camp,
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               And began to proclaim: When you shall see the ark of the covenant of the Lord your God, and the priests of the race of Levi carrying it, rise you up also, and follow them as they go before:
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               And let there be between you and the ark the space of two thousand cubits: that you may see it afar off, and know which way you must go: for you have not gone this way before: and take care you come not near the ark.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               And Josue said to the people: Be ye sanctified: for tomorrow the Lord will do wonders among you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And he said to the priests: Take up the ark of the covenant, and go before the people. And they obeyed his commands, and took it up and walked before them.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               And the Lord said to Josue: This day will I begin to exalt thee before Israel: that they may know that as I was with Moses, so I am with thee also.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And do thou command the priests that carry the ark of the covenant, and say to them: When you shall have entered into part of the water of the Jordan, stand in it.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               And Josue said to the children of Israel: Come hither and hear the word of the Lord your God.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And again he said: By this you shall know that the Lord the living God is in the midst of you, and that he shall destroy before your sight the Chanaanite and the Hethite, the Hevite and the Pherezite, the Gergesite also and the Jebusite, and the Amorrhite.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               Behold the ark of the covenant of the Lord of all the earth shall go before you into the Jordan.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               Prepare ye twelve men of the tribes of Israel, one of every tribe.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               And when the priests, that carry the ark of the Lord the God of the whole earth, shall set the soles of their feet in the waters of the Jordan, the waters that are beneath shall run down and go off: and those that come from above, shall stand together upon a heap.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               So the people went out of their tents, to pass over the Jordan: and the priests that carried the ark of the covenant. went on before them.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               And as soon as they came into the Jordan, and their feet were dipped in part of the water, (now the Jordan, it being harvest time, had filled the banks of its channel,)
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               The waters that came down from above stood in one place, and swelling up like a mountain, were seen afar off from the city that is called Adom, to the place of Sarthan: but those that were beneath, ran down into the sea of the wilderness (which now is called the Dead Sea) until they wholly failed.
+               <a href="/x/d?b=drb&amp;bk=6&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               And the people marched over against Jericho: and the priests that carried the ark of the covenant of the Lord, stood girded upon the dry ground in the midst of the Jordan, and all the people passed over through the channel that was dried up.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="05001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Josue (Joshua)
+              </td>
+              <td class="next">
+               <a href="07001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="06004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

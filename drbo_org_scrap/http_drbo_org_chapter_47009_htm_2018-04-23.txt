@@ -1,0 +1,573 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/47009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/47009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Matthew
+           </td>
+           <td class="next">
+            <a href="48001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="47010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="47001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="47002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="47003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="47004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="47005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="47006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="47007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="47008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="47010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="47011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="47012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="47013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="47014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="47015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="47016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="47017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="47018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="47019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="47020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="47021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="47022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="47023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="47024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="47025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="47026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="47027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="47028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ heals one sick of palsy: calls Matthew: cures the issue of blood: raises to life the daughter of Jairus: gives sight to two blind men: and heals a dumb man possessed by the devil.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And entering into a boat, he passed over the water and came into his own city.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               And behold they brought to him one sick of the palsy lying in a bed. And Jesus, seeing their faith, said to the man sick of the palsy: Be of good heart, son, thy sins are forgiven thee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               And behold some of the scribes said within themselves: He blasphemeth.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               And Jesus seeing their thoughts, said: Why do you think evil in your hearts?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               Whether is easier, to say, Thy sins are forgiven thee: or to say, Arise, and walk?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               But that you may know that the Son of man hath power on earth to forgive sins, (then said he to the man sick of palsy,) Arise, take up thy bed, and go into thy house.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               And he arose, and went into his house.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               And the multitude seeing it, feared, and glorified God that gave such power to men.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               And when Jesus passed on from hence, he saw a man sitting in the custom house, named Matthew; and he saith to him: Follow me. And he rose up and followed him.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And it came to pass as he was sitting at meat in the house, behold many publicans and sinners came, and sat down with Jesus and his disciples.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               And the Pharisees seeing it, said to his disciples: Why doth your master eat with publicans and sinners?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               But Jesus hearing it, said: They that are in health need not a physician, but they that are ill.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               Go then and learn what this meaneth, I will have mercy and not sacrifice. For I am not come to call the just, but sinners.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               Then came to him the disciples of John, saying: Why do we and the Pharisees fast often, but thy disciples do not fast?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               And Jesus said to them:
+               <u>
+                Can the children of the bridegroom
+               </u>
+               mourn, as long as the bridegroom is with them? But the days will come, when the bridegroom shall be taken away from them, and then they shall fast.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "Can the children of the bridegroom"
+               </u>
+               : This, by a Hebraism, signifies the friends or companions of the bridegroom.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               And nobody putteth a piece of raw cloth unto an old garment. For it taketh away the fullness thereof from the garment, and there is made a greater rent.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               Neither do they put new wine into old bottles. Otherwise the bottles break, and the wine runneth out, and the bottles perish. But new wine they put into new bottles: and both are preserved.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               As he was speaking these things unto them, behold a certain ruler came up, and adored him, saying: Lord, my daughter is even now dead; but come, lay thy hand upon her, and she shall live.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               And Jesus rising up followed him, with his disciples.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               And behold a woman who was troubled with an issue of blood twelve years, came behind him, and touched the hem of his garment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               For she said within herself: If I shall touch only his garment, I shall be healed.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               But Jesus turning and seeing her, said: Be of good heart, daughter, thy faith hath made thee whole. And the woman was made whole from that hour.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               And when Jesus was come into the house of the ruler, and saw the minstrels and the multitude making a rout,
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               He said: Give place, for the girl is not dead, but sleepeth. And they laughed him to scorn.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               And when the multitude was put forth, he went in, and took her by the hand. And the maid arose.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               And the fame hereof went abroad into all that country.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               And as Jesus passed from thence, there followed him two blind men crying out and saying, Have mercy on us, O Son of David.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               And when he was come to the house, the blind men came to him. And Jesus saith to them, Do you believe, that I can do this unto you? They say to him, Yea, Lord.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               Then he touched their eyes, saying, According to your faith, be it done unto you.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               And their eyes were opened, and Jesus strictly charged them, saying, See that no man know this.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               But they going out, spread his fame abroad in all that country.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=32-#x">
+                [32]
+               </a>
+               And when they were gone out, behold they brought him a dumb man, possessed with a devil.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=33-#x">
+                [33]
+               </a>
+               And after the devil was cast out, the dumb man spoke, and the multitudes wondered, saying, Never was the like seen in Israel.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=34-#x">
+                [34]
+               </a>
+               But the Pharisees said, By the prince of devils he casteth out devils.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=35-#x">
+                [35]
+               </a>
+               And Jesus went about all the cities, and towns, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every disease, and every infirmity.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=36-#x">
+                [36]
+               </a>
+               And seeing the multitudes, he had compassion on them: because they were distressed, and lying like sheep that have no shepherd.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=37-#x">
+                [37]
+               </a>
+               Then he saith to his disciples, The harvest indeed is great, but the labourers are few.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=9&amp;l=38-#x">
+                [38]
+               </a>
+               Pray ye therefore the Lord of the harvest, that he send forth labourers into his harvest.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Matthew
+              </td>
+              <td class="next">
+               <a href="48001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="47010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

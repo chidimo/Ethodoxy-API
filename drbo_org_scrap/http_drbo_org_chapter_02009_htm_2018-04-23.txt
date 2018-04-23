@@ -1,0 +1,632 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="02010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The fifth plague is a murrain among the cattle. The sixth, of boils in men and beasts. The seventh, of hail. Pharao promiseth again to let the people go, and breaketh his word.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord said to Moses: Go in to Pharao, and speak to him: Thus saith the Lord God of the Hebrews: Let my people go to sacrifice to me.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               But if thou refuse, and withhold them still:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               Behold my hand shall be upon thy fields: and a very grievous murrain upon thy horses, and asses, and camels, and oxen, and sheep.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               And the Lord will make a wonderful difference between the possessions of Israel and the possessions of the Egyptians, that nothing at all shall die of those things that belong to the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               And the Lord appointed a time, saying: Tomorrow will the Lord do this thing in the land.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               The Lord therefore did this thing the next day: and
+               <u>
+                all the beasts
+               </u>
+               of the Egyptians died, but of the beasts of the children of Israel there died not one.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               And Pharao sent to see: and there was not any thing dead of that which Israel possessed. And Pharao's heart was hardened, and he did not let the people go.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               And the Lord said to Moses and Aaron: Take to you handfuls of ashes out of the chimney, and let Moses sprinkle it in the air in the presence of Pharao.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               And be there dust upon all the land of Egypt: for there shall be boils and swelling blains both in men and beasts in the whole land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And they took ashes out of the chimney, and stood before Pharao, and Moses sprinkled it in the air: and there came boils with swelling blains in men and beasts.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "All the beasts"
+               </u>
+               : That is, many of all kinds.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               Neither could the magicians stand before Moses for the boils that were upon them, and in all the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               And the Lord
+               <u>
+                hardened
+               </u>
+               Pharao's heart, and he hearkened not unto them, as the Lord had spoken to Moses.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               And the Lord said to Moses: Arise in the morning, and stand before Pharao, and thou shalt say to him: Thus saith the Lord the God of the Hebrews: Let my people go to sacrifice to me.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               For I will at this time send all my plagues upon thy heart, and upon thy servants, and upon thy people: that thou mayst know there is none like me in all the earth.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               For now I will stretch out my hand to strike thee, and thy people with pestilence, and thou shalt perish from the earth.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "Hardened"
+               </u>
+               : See the annotations above, chap. 4. 21, chap. 7. 3, and chap. 8. 15.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               And therefore have I raised thee, that I may shew my power in thee, and my name may be spoken of throughout all the earth.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               Dost thou yet hold back my people: and wilt thou not let them go?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               Behold I will cause it to rain tomorrow at this same hour, an exceeding great hail: such as hath not been in Egypt from the day that it was founded, until this present time.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               Send therefore now presently, and gather together thy cattle, and all that thou hast in the field: for men and beasts, and all things that shall be found abroad, and not gathered together out of the fields, which the hail shall fall upon, shall die.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               He that feared the word of the Lord among Pharao's servants, made his servants and his cattle flee into houses:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               But he that regarded not the word of the Lord, left his servants and his cattle in the fields:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               And the Lord said to Moses: Stretch forth thy hand towards heaven, that there may be hail in the whole land of Egypt, upon men, and upon beasts, and upon every herb of the field in the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               And Moses stretched forth his rod towards heaven, and the Lord sent thunder and hail, and lightning running along the ground: and the Lord rained hail upon the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               And the hail and fire mixed with it drove on together: and it was of so great bigness, as never before was seen in the whole land of Egypt since that nation was founded.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               And the hail destroyed through all the land of Egypt all things that were in the fields, both man and beast: and the hail smote every herb of the field, and it broke every tree of the country.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               Only in the land of Gessen, where the children of Israel were, the hail fell not.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               And Pharao sent and called Moses and Aaron, saying to them: I have sinned this time also; the Lord is just: I and my people are wicked.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               Pray ye to the Lord, that the thunderings of God and the hail may cease: that I may let you go, and that you may stay here no longer.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               Moses said: As soon as I am gone out of the city, I will stretch forth my hands to the Lord, and the thunders shall cease, and the hail shall be no more: that thou mayst know that the earth is the Lord's.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               But I know that neither thou, nor thy servants do yet fear the Lord God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               The flax therefore and the barley were hurt, because the barley was green, and the flax was now boiled:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=32-#x">
+                [32]
+               </a>
+               But the wheat, and other winter corn were not hurt, because they were lateward.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=33-#x">
+                [33]
+               </a>
+               And when Moses was gone from Pharao out of the city, he stretched forth his hands to the Lord: and the thunders and the hail ceased, neither did there drop any more rain upon the earth.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=34-#x">
+                [34]
+               </a>
+               And Pharao seeing that the rain and the hail, and the thunders were ceased, increased his sin.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=9&amp;l=35-#x">
+                [35]
+               </a>
+               And his heart was hardened, and the heart of his servants, and it was made exceeding hard: neither did he let the children of Israel go, as the Lord had commanded by the hand of Moses.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="02010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

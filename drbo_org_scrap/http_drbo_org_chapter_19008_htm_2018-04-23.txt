@@ -1,0 +1,416 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Esther Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/19008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/19008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="18001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Esther
+           </td>
+           <td class="next">
+            <a href="20001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="19009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="19001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="19002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="19003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="19004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="19005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="19006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="19007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="19009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="19010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="19011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="19012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="19013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="19014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="19015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="19016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Mardochai is advanced: Aman's letters are reversed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               On that day king Assuerus gave the house of Aman, the Jews' enemy, to queen Esther, and Mardochai came in before the king. For Esther had confessed to him that he was her uncle.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               And the king took the ring which he had commanded to be taken again from Aman, and gave it to Mardochai. And Esther set Mardochai over her house.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And not content with these things, she fell down at the king's feet and wept, and speaking to him besought him, that he would give orders that the malice of Aman the Agagite, and his most wicked devices which he had invented against the Jews, should be of no effect.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               But he, as the manner was, held out the golden sceptre with his hand, which was the sign of clemency: and she arose up and stood before him,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               And said: If it please the king, and if I have found favour in his sight, and my request be not disagreeable to him, I beseech thee, that the former letters of Aman the traitor and enemy of the Jews, by which he commanded that they should be destroyed in all the king's provinces, may be reversed by new letters.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               For how can I endure the murdering and slaughter of my people?
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               And king Assuerus answered Esther the queen, and Mardochai the Jew: I have given Aman's house to Esther, and I have commanded him to be hanged on a gibbet, because he durst lay hands on the Jews.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               Write ye therefore to the Jews, as it pleaseth you, in the king's name, and seal the letters with my ring. For this was the custom, that no man durst gainsay the letters which were sent in the king's name, and were sealed with his ring.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               Then the king's scribes and secretaries were called for (now it was the time of the third month which is called Siban) the three and twentieth day of the month, and letters were written, as Mardochai had a mind, to the Jews, and to the governors, and to the deputies, and to the judges, who were rulers over the hundred and twenty-seven provinces, from India even to Ethiopia: to province and province, to people and people, according to their languages and characters, and to the Jews, according as they could read and hear.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               And these letters which were sent in the king's name, were sealed with his ring, and sent by posts: who were to run through all the provinces, to prevent the former letters with new messages.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And the king gave orders to them, to speak to the Jews in every city, and to command them to gather themselves together, and to stand for their lives, and to kill and destroy all their enemies with their wives and children and all their houses, and to take their spoil.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               And one day of revenge was appointed through all the provinces, to wit, the thirteenth of the twelfth month Adar.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               And this was the content of the letter, that it should be notified in all lands and peoples that were subject to the empire of king Assuerus, that the Jews were ready to be revenged of their enemies.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               So the swift posts went out carrying the messages, and the king's edict was hung up in Susan.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               And Mardochai going forth out of the palace, and from the king's presence, shone in royal apparel, to wit, of violet and sky colour, wearing a golden crown on his head, and clothed with a cloak of silk and purple. And all the city rejoiced and was glad.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               But to the Jews a new light seemed to rise, joy, honour, and dancing.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               And in all peoples, cities, and provinces, whithersoever the king's commandments came, there was wonderful rejoicing, feasts and banquets, and keeping holy day: insomuch that many of other nations and religion, joined themselves to their worship and ceremonies. For a great dread of the name of the Jews had fallen upon all.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="18001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Esther
+              </td>
+              <td class="next">
+               <a href="20001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="19009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

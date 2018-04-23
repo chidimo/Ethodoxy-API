@@ -1,0 +1,423 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Corinthians Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/53002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/53002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint Paul To The Corinthians
+           </td>
+           <td class="next">
+            <a href="54001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="53001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="53003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="53001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="53003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="53004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="53005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="53006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="53007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="53008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="53009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="53010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="53011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="53012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="53013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="53014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="53015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="53016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               His preaching was not in loftiness of words, but in spirit and power. And the wisdom he taught was not to be understood by the worldly wise or sensual man, but only by the spiritual man.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               And I, brethren, when I came to you, came not in loftiness of speech or of wisdom, declaring unto you the testimony of Christ.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               For I judged not myself to know anything among you, but Jesus Christ, and him crucified.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And I was with you in weakness, and in fear, and in much trembling.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And my speech and my preaching was not in the persuasive words of human wisdom, but in shewing of the Spirit and power;
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               That your faith might not stand on the wisdom of men, but on the power of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               Howbeit we speak wisdom among the perfect: yet not the wisdom of this world, neither of the princes of this world that come to nought;
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               But we speak the wisdom of God in a mystery, a wisdom which is hidden, which God ordained before the world, unto our glory:
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               Which none of the princes of this world knew; for if they had known it, they would never have crucified the Lord of glory.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               But, as it is written: That eye hath not seen, nor ear heard, neither hath it entered into the heart of man, what things God hath prepared for them that love him.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               But to us God hath revealed them, by this Spirit. For the Spirit searcheth all things, yea, the deep things of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               For what man knoweth the things of a man, but the spirit of a man that is in him? So the things also that are of God no man knoweth, but the Spirit of God.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               Now we have received not the spirit of this world, but the Spirit that is of God; that we may know the things that are given us from God.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               Which things also we speak, not in the learned words of human wisdom; but in the doctrine of the Spirit, comparing spiritual things with spiritual.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               But
+               <u>
+                the sensual man
+               </u>
+               perceiveth not these things that are of the Spirit of God; for it is foolishness to him, and he cannot understand, because it is spiritually examined.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               But the spiritual man judgeth all things; and he himself is judged of no man.
+              </p>
+              <p class="note">
+               [14]
+               <u>
+                "The sensual man"
+               </u>
+               : The sensual man is either he who is taken up with sensual pleasures, with carnal and worldly affections; or he who measureth divine mysteries by natural reason, sense, and human wisdom only. Now such a man has little or no notion of the things of God. Whereas the spiritual man is he who, in the mysteries of religion, takes not human sense for his guide: but submits his judgment to the decisions of the church, which he is commanded to hear and obey. For Christ hath promised to remain to the end of the world with his church, and to direct her in all things by the Spirit of truth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               For who hath known the mind of the Lord, that we may instruct him? But we have the mind of Christ.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint Paul To The Corinthians
+              </td>
+              <td class="next">
+               <a href="54001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="53001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="53003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

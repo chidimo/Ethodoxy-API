@@ -1,0 +1,644 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Baruch Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/30006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/30006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="29001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Baruch
+           </td>
+           <td class="next">
+            <a href="31001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="30005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            next &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="30001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="30002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="30003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="30004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="30005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The epistle of Jeremias to the captives, as a preservative against idolatry. A copy of the epistle that Jeremias sent to them that were to be led away captives into Babylon, by the king of Babylon, to declare to them according to what was commanded him by God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               For the sins that you have committed before God, you shall be carried away captives into Babylon by Nabuchodonosor the king of Babylon.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               And when you are come into Babylon, you shall be there many years, and for a long time, even to
+               <u>
+                seven generations
+               </u>
+               : and after that I will bring you away from thence with peace.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               But now, you shall see in Babylon gods of gold, and of silver, and of stone, and of wood borne upon shoulders, causing fear to the Gentiles.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               Beware therefore that you imitate not the doings of others, and be afraid, and the fear of them should seize upon you.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               But when you see the multitude behind, and before, adoring them, say you in your hearts: Thou oughtest to be adored, O Lord.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Seven generations"
+               </u>
+               : That is, seventy years.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               For my angel is with you: And I myself will demand an account of your souls.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               For their tongue that is polished by the craftsman, and themselves laid over with gold and silver, are false things, and they cannot speak.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               And as if it were for a maiden that loveth to go gay: so do they take gold and make them up.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               Their gods have golden crowns upon their heads: whereof the priests secretly convey away from them gold, and silver, and bestow it on themselves.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               Yea and they give thereof to prostitutes, and they dress out harlots: and again when they receive it of the harlots, they adorn their gods.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               And these gods cannot defend themselves from the rust, and the moth.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               But when they have covered them with a purple garment, they wipe their face because of the dust of the house, which is very much among them.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               This holdeth a sceptre as a man, as a judge of the country, but cannot put to death one that offendeth him.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               And this hath in his hand a sword, or an axe, but cannot save himself from war, or from robbers, whereby be it known to you, that they are not gods.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               Therefore fear them not. For as a vessel that a man uses when it is broken becometh useless, even so are their gods:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               When they are placed in the house, their eyes are full of dust by the feet of them that go in.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               And as the gates are made sure on every side upon one that hath offended the king, or like a dead man carried to the grave, so do the priests secure the doors with bars and locks, lest they be stripped by thieves.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               They light candles to them, and in great number, of which they cannot see one: but they are like beams in the house.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               And they say that the creeping things which are of the earth, gnaw their hearts, while they eat them and their garments, and they feel it not.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               Their faces are black with the smoke that is made in the house.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               Owls, and swallows, and other birds fly upon their bodies, and upon their heads, and cats in like manner.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               Whereby you may know that they are no gods. Therefore fear them not.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=23-#x">
+                [23]
+               </a>
+               The gold also which they have, is for shew, but except a man wipe off the rust, they will not shine: for neither when they were molten, did they feel it.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=24-#x">
+                [24]
+               </a>
+               Men buy them at a high price, whereas there is no breath in them.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=25-#x">
+                [25]
+               </a>
+               And having not the use of feet they are carried upon shoulders, declaring to men how vile they are. Be they confounded also that worship them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=26-#x">
+                [26]
+               </a>
+               Therefore if they fall to the ground, they rise not up again of themselves, nor if a man set them upright, will they stand by themselves, but their gifts shall be set before them, as to the dead.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=27-#x">
+                [27]
+               </a>
+               The things that are sacrificed to them, their priests sell and abuse: in like manner also their wives take part of them, but give nothing of it either to the sick, or to the poor.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=28-#x">
+                [28]
+               </a>
+               The childbearing and menstruous women touch their sacrifices: knowing therefore by these things that they are not gods, fear them not.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=29-#x">
+                [29]
+               </a>
+               For how can they be called gods? because women set offerings before the gods of silver, and of gold, and of wood:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=30-#x">
+                [30]
+               </a>
+               And priests sit in their temples, having their garments rent, and their heads and beards shaven, and nothing upon their heads.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=31-#x">
+                [31]
+               </a>
+               And they roar and cry before their gods, as men do at the feast when one is dead.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=32-#x">
+                [32]
+               </a>
+               The priests take away their garments, and clothe their wives and their children.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=33-#x">
+                [33]
+               </a>
+               And whether it be evil that one doth unto them, or good, they are not able to recompense it: neither can they set up a king nor put him down:
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=34-#x">
+                [34]
+               </a>
+               In like manner they can neither give riches, nor requite evil. If a man make a vow to them, and perform it not, they cannot require it.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=35-#x">
+                [35]
+               </a>
+               They cannot deliver a man from death nor save the weak from the mighty.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=36-#x">
+                [36]
+               </a>
+               They cannot restore the blind man to his sight: nor deliver a man from distress.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=37-#x">
+                [37]
+               </a>
+               They shall not pity the widow, nor do good to the fatherless.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=38-#x">
+                [38]
+               </a>
+               Their gods, of wood, and of stone, and of gold, and of silver, are like the stones that are hewn out of the mountains: and they that worship them shall be confounded.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=39-#x">
+                [39]
+               </a>
+               How then is it to be supposed, or to be said, that they are gods?
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=40-#x">
+                [40]
+               </a>
+               Even the Chaldeans themselves dishonour them: who when they hear of one dumb that cannot speak, they present him to Bel, entreating him, that he may speak,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=41-#x">
+                [41]
+               </a>
+               As though they could be sensible that have no motion themselves: and they, when they shall perceive this, will leave them: for their gods themselves have no sense.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=42-#x">
+                [42]
+               </a>
+               The women also with cords about them, sit in the ways, burning olive stones.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=43-#x">
+                [43]
+               </a>
+               And when any one of them, drawn away by some passenger, lieth with him, she upbraideth her neighbour, that she was not thought as worthy as herself, nor her cord broken.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=44-#x">
+                [44]
+               </a>
+               But all things that are done about them, are false: how is it then to be thought, or to be said, that they are gods?
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=45-#x">
+                [45]
+               </a>
+               And they are made by workmen, and by goldsmiths. They shall be nothing else but what the priests will have them to be.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=46-#x">
+                [46]
+               </a>
+               For the artificers themselves that make them, are of no long continuance. Can those things then that are made by them be gods?
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=47-#x">
+                [47]
+               </a>
+               But they have left false things and reproach to them that come after.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=48-#x">
+                [48]
+               </a>
+               For when war cometh upon them, or evils, the priests consult with themselves where they may hide themselves with them.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=49-#x">
+                [49]
+               </a>
+               How then can they be thought to be gods, that can neither deliver themselves from war, nor save themselves from evils?
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=50-#x">
+                [50]
+               </a>
+               For seeing they are but of wood, and laid over with gold, and with silver, it shall be known hereafter that they are false things, by all nations and kings: and it shall be manifest that they are no gods, but the work of men's hands, and that there is no work of God in them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=51-#x">
+                [51]
+               </a>
+               Whence, therefore, is it known that they are not gods, but the work of men's hands, and no work of God is in them?
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=52-#x">
+                [52]
+               </a>
+               They cannot set up a king over the land, nor give rain to men.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=53-#x">
+                [53]
+               </a>
+               They determine no causes, nor deliver countries from oppression; because they can do nothing, and are as daws between heaven and earth.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=54-#x">
+                [54]
+               </a>
+               For when fire shall fall upon the house of these gods of wood, and of silver, and of gold, their priests indeed will flee away, and be saved: but they themselves shall be burnt in the midst like beams.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=55-#x">
+                [55]
+               </a>
+               And they cannot withstand a king and war. How then can it be supposed, or admitted that they are gods?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=56-#x">
+                [56]
+               </a>
+               Neither are these gods of wood, and of stone, and laid over with gold, and with silver, able to deliver themselves from thieves or robbers:
+               <u>
+                they that are stronger than them
+               </u>
+               ,
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=57-#x">
+                [57]
+               </a>
+               Shall take from them the gold, and silver, and the raiment wherewith they are clothed, and shall go their way, neither shall they help themselves.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=58-#x">
+                [58]
+               </a>
+               Therefore it is better to be a king that sheweth his power: or else a profitable vessel in the house, with which the owner thereof will be well satisfied: or a door in the house, to keep things safe that are therein, than such false gods.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=59-#x">
+                [59]
+               </a>
+               The sun, and the moon, and the stars being bright, and sent forth for profitable uses, are obedient.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=60-#x">
+                [60]
+               </a>
+               In like manner the lightning, when it breaketh forth, is easy to be seen: and after the same manner the wind bloweth in every country.
+              </p>
+              <p class="note">
+               [56]
+               <u>
+                "They that are stronger than them"
+               </u>
+               : That is, robbers and thieves are stronger than these idols, being things without life or motion.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=61-#x">
+                [61]
+               </a>
+               And the clouds when God commandeth them to go over the whole world, do that which is commanded them.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=62-#x">
+                [62]
+               </a>
+               The fire also being sent from above to consume mountains and woods, doth as it is commanded. But these neither in shew, nor in power are like to any one of them.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=63-#x">
+                [63]
+               </a>
+               Wherefore it is neither to be thought, nor to be said, that they are gods: since they are neither able to judge causes, nor to do any good to men.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=64-#x">
+                [64]
+               </a>
+               Knowing, therefore, that they are not gods, fear them not.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=65-#x">
+                [65]
+               </a>
+               For neither can they curse kings, nor bless them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=66-#x">
+                [66]
+               </a>
+               Neither do they shew signs in the heaven to the nations, nor shine as the sun, nor give light as the moon.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=67-#x">
+                [67]
+               </a>
+               Beasts are better than they, which can fly under a covert, and help themselves.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=68-#x">
+                [68]
+               </a>
+               Therefore there is no manner of appearance that they are gods: so fear them not.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=69-#x">
+                [69]
+               </a>
+               For as a scarecrow in a garden of cucumbers keepeth nothing, so are their gods of wood, and of silver, and laid over with gold.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=70-#x">
+                [70]
+               </a>
+               They are no better than a white thorn in a garden, upon which every bird sitteth. In like manner also their gods of wood, and laid over with gold, and with silver, are like to a dead body cast forth in the dark.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=71-#x">
+                [71]
+               </a>
+               By the purple also and the scarlet which are motheaten upon them, you shall know that they are not gods. And they themselves at last are consumed, and shall be a reproach in the country.
+               <a href="/x/d?b=drb&amp;bk=30&amp;ch=6&amp;l=72-#x">
+                [72]
+               </a>
+               Better, therefore, is the just man that hath no idols: for he shall be far from reproach.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="29001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Baruch
+              </td>
+              <td class="next">
+               <a href="31001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="30005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               next &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

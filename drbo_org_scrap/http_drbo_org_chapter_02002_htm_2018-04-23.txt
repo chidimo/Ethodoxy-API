@@ -1,0 +1,632 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="02003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Moses is born and exposed on the bank of the river; where he is taken up by the daughter of Pharao, and adopted for her son. He killeth an Egyptian, and fleeth into Madian; where he marrieth a wife.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               After this there went a man of the house of Levi; and took a wife of his own kindred.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And she conceived, and bore a son; and seeing him a goodly child hid him three months.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And when she could hide him no longer, she took a basket made of bulrushes, and daubed it with slime and pitch: and put the little babe therein, and laid him in the sedges by the river's brink,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               His sister standing afar off, and taking notice what would be done.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               And behold the daughter of Pharao came down to wash herself in the river: and her maids walked by the river's brink. And when she saw the basket in the sedges, she sent one of her maids for it: and when it was brought,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               She opened it and seeing within it an infant crying, having compassion on it she said: This is one of the babes of the Hebrews.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               And the child's sister said to her Shall I go and call to thee a Hebrew woman, to nurse the babe?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               She answered: Go. The maid went and called her mother.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               And Pharao's daughter said to her. Take this child and nurse him for me: I will give thee thy wages. The woman took, and nursed the child: and when he was grown up, she delivered him to Pharao's daughter.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And she adopted him for a son, and called him
+               <u>
+                Moses
+               </u>
+               , saying: Because I took him out of the water.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "Moses"
+               </u>
+               : Or Moyses, in the Egyptian tongue, signifies one taken or saved out of the water.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               In those days after Moses was grown up, he went out to his brethren: and saw their affliction, and an Egyptian striking one of the Hebrews his brethren.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               And when he had looked about this way and that way, and saw no one there,
+               <u>
+                he slew the Egyptian
+               </u>
+               and hid him in the sand.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               And going out the next day, he saw two Hebrews quarrelling: and he said to him that did the wrong: Why strikest thou thy neighbour?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               But he answered: Who hath appointed thee prince and judge over us? Wilt thou kill me, as thou didst yesterday kill the Egyptian? Moses feared, and said: How is this come to be known?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               And Pharao heard of this word and sought to kill Moses: but he fled from his sight, and abode in the land of
+               <u>
+                Madian
+               </u>
+               , and he sat down by a well.
+              </p>
+              <p class="note">
+               [12]
+               <u>
+                "He slew the Egyptian"
+               </u>
+               : This he did by a particular inspiration of God; as a prelude to his delivering the people from their oppression and bondage. He thought, says St. Stephen, Acts 7. 25, that his brethren understood that God by his hand would save them. But such particular and extraordinary examples are not to be imitated.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "Madian"
+               </u>
+               : A city and country of Arabia, which took its name from Madian the son of Abraham, by Cetura, and was peopled by his posterity.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               And the priest of Madian had seven daughters, who came to draw water: and when the troughs were filled, desired to water their father's flocks.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And the shepherds came and drove them away: and Moses arose, and defending the maids, watered their sheep.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               And when they returned to
+               <u>
+                Raguel
+               </u>
+               their father, he said to them: Why are ye come sooner than usual?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               They answered: A man of Egypt delivered us from the hands of the shepherds: and he drew water also with us, and gave the sheep to drink.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               But he said: Where is he? why have you let the man go? call him that he may eat bread.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "Raguel"
+               </u>
+               : He had two names, being also called Jethro, as appears from the first verse of the following chapter.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               And Moses swore that he would dwell with him. And he took Sephora his daughter to wife:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               And she bore him a son, whom he called
+               <u>
+                Gersam
+               </u>
+               , saying: I have been a stranger in a foreign country. And she bore another, whom he called Eliezer, saying: For the God of my father, my helper hath delivered me out of the hand of Pharao.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               Now after a long time the king of Egypt died: and the children of Israel groaning, cried out because of the works: and their cry went up unto God from the works.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               And he heard their groaning, and remembered the covenant which he made with Abraham, Isaac, and Jacob.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               And the Lord looked upon the children of Israel, and he
+               <u>
+                knew them
+               </u>
+               .
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Gersam"
+               </u>
+               : Or Gershom. This name signifies a stranger there: as Eliezer signifies the help of God.
+              </p>
+              <p class="note">
+               [25]
+               <u>
+                "Knew them"
+               </u>
+               : That is, he had respect to them, he cast a merciful eye upon them.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="02003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

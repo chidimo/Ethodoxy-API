@@ -1,0 +1,429 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Osee (Hosea) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/33001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/33001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="32001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Osee (Hosea)
+         </td>
+         <td class="next">
+          <a href="34001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="33002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="33002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="33003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="33004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="33005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="33006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="33007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="33008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="33009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="33010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="33011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="33012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="33013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="33014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             By marrying a harlot, and by the names of his children, the prophet sets forth the crimes of Israel and their punishment. He foretells their redemption by Christ.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The word of the Lord, that came to Osee the son of Beeri, in the days of Ozias, Joathan, Achaz, and Ezechias kings of Juda, and in the days of Jeroboam the son of Joas king of Israel.
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             The beginning of the Lord's speaking by Osee: and the Lord said to Osee: Go, take thee
+             <u>
+              a wife of fornications
+             </u>
+             , and have of her
+             <u>
+              children of fornications
+             </u>
+             : for the land by fornication shall depart from the Lord.
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             So he went, and took Gomer the daughter of Debelaim: and she conceived and bore him a son.
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And the Lord said to him: Call his name Jezrahel: for yet a little while, and I will visit the blood of Jezrahel upon the house of Jehu, and I will cause to cease the kingdom of the house of Israel.
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And in that day I will break in pieces the bow of Israel in the valley of Jezrahel.
+            </p>
+            <p class="note">
+             [2]
+             <u>
+              "A wife of fornications"
+             </u>
+             : That is, a wife that has been given to fornication. This was to represent the Lord's proceedings with his people Israel, who, by spiritual fornication, were continually offending him.-- Ibid.
+            </p>
+            <p class="note">
+             [2]
+             <u>
+              "Children of fornications"
+             </u>
+             : So called from the character of their mother, if not also from their own wicked dispositions.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And she conceived again, and bore a daughter, and he said to him: Call her name,
+             <u>
+              Without mercy
+             </u>
+             : for I will not add any more to have mercy on the house of Israel, but I will utterly forget them.
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And I will have mercy on the house of Juda, and I will save them by the Lord their God: and I will not save them by bow, nor by sword, nor by battle, nor by horses, nor by horsemen.
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             And she weaned her that was called Without mercy. And she conceived, and bore a son.
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And he said: Call his name,
+             <u>
+              Not my people
+             </u>
+             : for you are not my people, and I will not be yours.
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And
+             <u>
+              the number
+             </u>
+             of the children of Israel shall be as the sand of the sea, that is without measure, and shall not be numbered. And it shall be in the place where it shall be said to them: You are not my people: it shall be said to them: Ye are the sons of the living God.
+            </p>
+            <p class="note">
+             [6]
+             <u>
+              "Without mercy"
+             </u>
+             : Lo-Ruhamah.
+            </p>
+            <p class="note">
+             [9]
+             <u>
+              "Not my people"
+             </u>
+             : Lo-ammi.
+            </p>
+            <p class="note">
+             [10]
+             <u>
+              "The number"
+             </u>
+             : Viz., of the true Israelites, the children of the church of Christ.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=33&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And the children of Juda, and the children of Israel shall be gathered together: and they shall appoint themselves
+             <u>
+              one head
+             </u>
+             , and shall come up out of the land: for
+             <u>
+              great is the day of Jezrahel
+             </u>
+             .
+             <p class="note">
+              [11]
+              <u>
+               "One head"
+              </u>
+              : viz., Christ.-- Ibid.
+             </p>
+             <p class="note">
+              [11]
+              <u>
+               "Great is the day of Jezrahel"
+              </u>
+              : That is, of the seed of God; for Jezrahel signifies the seed of God.
+             </p>
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="32001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Prophecy Of Osee (Hosea)
+            </td>
+            <td class="next">
+             <a href="34001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="33002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

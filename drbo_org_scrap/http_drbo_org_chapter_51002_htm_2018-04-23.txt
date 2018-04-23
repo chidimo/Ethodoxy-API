@@ -1,0 +1,624 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Acts Of Apostles Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/51002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/51002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            The Acts Of The Apostles
+           </td>
+           <td class="next">
+            <a href="52001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="51003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="51001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="51003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="51004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="51005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="51006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="51007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="51008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="51009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="51010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="51011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="51012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="51013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="51014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="51015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="51016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="51017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="51018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="51019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="51020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="51021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="51022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="51023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="51024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="51025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="51026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="51027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="51028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The disciples receive the Holy Ghost. Peter's sermon to the people. The piety of the first converts.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               And when the days of the Pentecost were accomplished, they were all together in one place:
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And suddenly there came a sound from heaven, as of a mighty wind coming, and it filled the whole house where they were sitting.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And there appeared to them parted tongues as it were of fire, and it sat upon every one of them:
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And they were all filled with the Holy Ghost, and they began to speak with divers tongues, according as the Holy Ghost gave them to speak.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               Now there were dwelling at Jerusalem, Jews, devout men, out of every nation under heaven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               And when this was noised abroad, the multitude came together, and were confounded in mind, because that every man heard them speak in his own tongue.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               And they were all amazed, and wondered, saying: Behold, are not all these, that speak, Galileans?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And how have we heard, every man our own tongue wherein we were born?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               Parthians, and Medes, and Elamites, and inhabitants of Mesopotamia, Judea, and Cappadocia, Pontus and Asia,
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               Phrygia, and Pamphylia, Egypt, and the parts of Libya about Cyrene, and strangers of Rome,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               Jews also, and proselytes, Cretes, and Arabians: we have heard them speak in our own tongues the wonderful works of God.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               And they were all astonished, and wondered, saying one to another: What meaneth this?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               But others mocking, said: These men are full of new wine.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               But Peter standing up with the eleven, lifted up his voice, and spoke to them: Ye men of Judea, and all you that dwell in Jerusalem, be this known to you, and with your ears receive my words.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               For these are not drunk, as you suppose, seeing it is but the third hour of the day:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               But this is that which was spoken of by the prophet Joel:
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And it shall come to pass, in the last days, (saith the Lord,) I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               And upon my servants indeed, and upon my handmaids will I pour out in those days of my spirit, and they shall prophesy.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               And I will shew wonders in the heaven above, and signs on the earth beneath: blood and fire, and vapour of smoke.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               The sun shall be turned into darkness, and the moon into blood, before the great and manifest day of the Lord come.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               And it shall come to pass, that whosoever shall call upon the name of the Lord, shall be saved.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               Ye men of Israel, hear these words: Jesus of Nazareth, a man approved of God among you, by miracles, and wonders, and signs, which God did by him, in the midst of you, as you also know:
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               This same being delivered up,
+               <u>
+                by the determinate
+               </u>
+               counsel and foreknowledge of God, you by the hands of wicked men have crucified and slain.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               Whom God hath raised up,
+               <u>
+                having loosed the sorrows
+               </u>
+               of hell, as it was impossible that he should be holden by it.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               For David saith concerning him: I foresaw the Lord before my face: because he is at my right hand, that I may not be moved.
+              </p>
+              <p class="note">
+               [23]
+               <u>
+                "By the determinate"
+               </u>
+               : God delivered up his Son; and his Son delivered up himself, for the love of us, and for the sake of our salvation; and so Christ's being delivered up was holy, and was God's own determination. But they who betrayed and crucified him, did wickedly, following therein their own malice and the instigation of the devil; not the will and determination of God, who was by no means the author of their wickedness; though he permitted it; because he could, and did draw out of it so great a good, viz., the salvation of man.
+              </p>
+              <p class="note">
+               [24]
+               <u>
+                "Having loosed the sorrows"
+               </u>
+               : Having overcome the grievous pains of death and all the power of hell.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               For this my heart hath been glad, and my tongue hath rejoiced: moreover my flesh also shall rest in hope.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               Because thou wilt not leave my soul in hell, nor suffer thy Holy One to see corruption.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               Thou hast made known to me the ways of life: thou shalt make me full of joy with thy countenance.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               Ye men, brethren, let me freely speak to you of the patriarch David; that he died, and was buried; and his sepulchre is with us to this present day.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=30-#x">
+                [30]
+               </a>
+               Whereas therefore he was a prophet, and knew that God hath sworn to him with an oath, that of the fruit of his loins one should sit upon his throne.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=31-#x">
+                [31]
+               </a>
+               Foreseeing this, he spoke of the resurrection of Christ. For neither was he left in hell, neither did his flesh see corruption.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=32-#x">
+                [32]
+               </a>
+               This Jesus hath God raised again, whereof all we are witnesses.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=33-#x">
+                [33]
+               </a>
+               Being exalted therefore by the right hand of God, and having received of the Father the promise of the Holy Ghost, he hath poured forth this which you see and hear.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=34-#x">
+                [34]
+               </a>
+               For David ascended not into heaven; but he himself said: The Lord said to my Lord, sit thou on my right hand,
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=35-#x">
+                [35]
+               </a>
+               Until I make thy enemies thy footstool.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=36-#x">
+                [36]
+               </a>
+               Therefore let all the house of Israel know most certainly, that God hath made both Lord and Christ, this same Jesus, whom you have crucified.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=37-#x">
+                [37]
+               </a>
+               Now when they had heard these things, they had compunction in their heart, and said to Peter, and to the rest of the apostles: What shall we do, men and brethren?
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=38-#x">
+                [38]
+               </a>
+               But Peter said to them: Do penance, and be baptized every one of you in the name of Jesus Christ, for the remission of your sins: and you shall receive the gift of the Holy Ghost.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=39-#x">
+                [39]
+               </a>
+               For the promise is to you, and to your children, and to all that are far off, whomsoever the Lord our God shall call.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=40-#x">
+                [40]
+               </a>
+               And with very many other words did he testify and exhort them, saying: Save yourselves from this perverse generation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=41-#x">
+                [41]
+               </a>
+               They therefore that received his word, were baptized; and there were added in that day about three thousand souls.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=42-#x">
+                [42]
+               </a>
+               And they were persevering in the doctrine of the apostles, and in the communication of the breaking of bread, and in prayers.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=43-#x">
+                [43]
+               </a>
+               And fear came upon every soul: many wonders also and signs were done by the apostles in Jerusalem, and there was great fear in all.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=44-#x">
+                [44]
+               </a>
+               And all they that believed, were together, and had all things common.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=45-#x">
+                [45]
+               </a>
+               Their possessions and goods they sold, and divided them to all, according as every one had need.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=46-#x">
+                [46]
+               </a>
+               And continuing daily with one accord in the temple, and breaking bread from house to house, they took their meat with gladness and simplicity of heart;
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=2&amp;l=47-#x">
+                [47]
+               </a>
+               Praising God, and having favour with all the people. And the Lord increased daily together such as should be saved.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               The Acts Of The Apostles
+              </td>
+              <td class="next">
+               <a href="52001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="51003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

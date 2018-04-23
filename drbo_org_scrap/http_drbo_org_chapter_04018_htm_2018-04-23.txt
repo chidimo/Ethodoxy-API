@@ -1,0 +1,609 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 18
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04018.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04018.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04017.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 18
+           </td>
+           <td class="next">
+            <a href="04019.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             18
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The charge of the priests and of the Levites, and their portion.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord said to Aaron: Thou, and thy sons,
+               <u>
+                and thy father's house with thee shall bear the iniquity of the sanctuary
+               </u>
+               : and thou and thy sons with thee shall bear the sins of your priesthood.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=2-#x">
+                [2]
+               </a>
+               And take with thee thy brethren also of the tribe of Levi, and the sceptre of thy father, and let them be ready in hand, and minister to thee: but thou and thy sons shall minister in the tabernacle of the testimony.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=3-#x">
+                [3]
+               </a>
+               And the Levites shall watch to do thy commands, and about all the works of the tabernacle: only they shall not come nigh the vessels of the sanctuary nor the altar, lest both they die, and you also perish with them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=4-#x">
+                [4]
+               </a>
+               But let them be with thee, and watch in the charge of the tabernacle, and in all the ceremonies thereof. A stranger shall not join himself with you.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=5-#x">
+                [5]
+               </a>
+               Watch ye in the charge of the sanctuary, and in the ministry of the altar: lest indignation rise upon the children of Israel.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "And thy father's house with thee, shall bear the iniquity of the sanctuary"
+               </u>
+               : That is, you shall be punished if, through negligence or want of due attention, you err in the discharge of the sacred functions for which you were ordained.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=6-#x">
+                [6]
+               </a>
+               I have given you your brethren the Levites from among the children of Israel, and have delivered them for a gift to the Lord, to serve in the ministries of the tabernacle.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=7-#x">
+                [7]
+               </a>
+               But thou and thy sons look ye to the priesthood: and all things that pertain to the service of the altar, and that are within the veil, shall be executed by the priests. If any stranger shall approach, he shall be slain.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=8-#x">
+                [8]
+               </a>
+               And the Lord said to Aaron: Behold I have given thee the charge of my firstfruits. All things that are sanctified by the children of Israel, I have delivered to thee and to thy sons for the priestly office, by everlasting ordinances.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=9-#x">
+                [9]
+               </a>
+               These therefore shalt thou take of the things that are sanctified, and are offered to the Lord. Every offering, and sacrifice, and whatsoever is rendered to me for sin and for trespass, and becometh holy of holies, shall be for thee and thy sons.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=10-#x">
+                [10]
+               </a>
+               Thou shalt eat it in the sanctuary: the males only shall eat thereof, because it is a consecrated thing to thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=11-#x">
+                [11]
+               </a>
+               But the firstfruits, which the children of Israel shall vow and offer, I have given to thee, and to thy sons, and to thy daughters, by a perpetual law. He that is clean in thy house, shall eat them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=12-#x">
+                [12]
+               </a>
+               All the best of the oil, and of the wine, and of the corn, whatsoever firstfruits they offer to the Lord, I have given them to thee.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=13-#x">
+                [13]
+               </a>
+               All the firstripe of the fruits, that the ground bringeth forth, and which are brought to the Lord, shall be for thy use: he that is clean in thy house, shall eat them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=14-#x">
+                [14]
+               </a>
+               Every thing that the children of Israel shall give by vow, shall be thine.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=15-#x">
+                [15]
+               </a>
+               Whatsoever is firstborn of all flesh, which they offer to the Lord, whether it be of men, or of beasts, shall belong to thee: only for the firstborn of man thou shalt take a price, and every beast that is unclean thou shalt cause to be redeemed,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=16-#x">
+                [16]
+               </a>
+               And the redemption of it shall be after one month, for five sicles of silver, by the weight of the sanctuary. A sicle hath twenty obols.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=17-#x">
+                [17]
+               </a>
+               But the firstling of a cow and of a sheep and of a goat thou shalt not cause to be redeemed, because they are sanctified to the Lord. Their blood only thou shalt pour upon the altar, and their fat thou shalt burn for a most sweet odour to the Lord.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=18-#x">
+                [18]
+               </a>
+               But the flesh shall fall to thy use, as the consecrated breast, and the right shoulder shall be thine.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=19-#x">
+                [19]
+               </a>
+               All the firstfruits of the sanctuary which the children of Israel offer to the Lord, I have given to thee and to thy sons and daughters, by a perpetual ordinance. It is
+               <u>
+                a covenant of salt
+               </u>
+               for ever before the Lord, to thee and to thy sons.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=20-#x">
+                [20]
+               </a>
+               And the Lord said to Aaron: You shall possess nothing in their land, neither shall you have a portion among them: I am thy portion and inheritance in the midst of the children of Israel.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "A covenant of salt"
+               </u>
+               : It is a proverbial expression, signifying a covenant not to be altered or corrupted; as salt is used to keep things from corruption; a covenant perpetual, like that by which it was appointed, that salt should be used in every sacrifice. Lev. 2.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=21-#x">
+                [21]
+               </a>
+               And I have given to the sons of Levi all the tithes of Israel for a possession for the ministry wherewith they serve me in the tabernacle of the covenant:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=22-#x">
+                [22]
+               </a>
+               That the children of Israel may not approach any more to the tabernacle, nor commit
+               <u>
+                deadly sin
+               </u>
+               ,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=23-#x">
+                [23]
+               </a>
+               But only the sons of Levi may serve me in the tabernacle, and bear the sins of the people. It shall be an everlasting ordinance in your generations. They shall not possess any other thing,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=24-#x">
+                [24]
+               </a>
+               But be content with the oblation or tithes, which I have separated for their uses and necessities.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=25-#x">
+                [25]
+               </a>
+               And the Lord spoke to Moses, saying:
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Deadly sin"
+               </u>
+               : That is, sin which will bring death after it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=26-#x">
+                [26]
+               </a>
+               Command the Levites, and declare unto them: When you shall receive of the children of Israel the tithes, which I have given you, offer the firstfruits of them to the Lord, that is to say, the tenth part of the tenth:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=27-#x">
+                [27]
+               </a>
+               That it may be reckoned to you as an oblation of firstfruits, as well of the barnfloors as of the winepresses:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=28-#x">
+                [28]
+               </a>
+               And of all the things of which you receive tithes, offer the firstfruits to the Lord, and give them to Aaron the priest.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=29-#x">
+                [29]
+               </a>
+               All the things that you shall offer of the tithes, and shall separate for the gifts of the Lord, shall be the best and choicest things.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=30-#x">
+                [30]
+               </a>
+               And thou shalt say to them: If you offer all the goodly and the better things of the tithes, it shall be reckoned to you as if you had given the firstfruits of the barnfloor and the winepress:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=31-#x">
+                [31]
+               </a>
+               And you shall eat them in all your places, both you and your families: because it is your reward for the ministry, wherewith you serve in the tabernacle of the testimony.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=18&amp;l=32-#x">
+                [32]
+               </a>
+               And you shall not sin in this point, by reserving the choicest and fat things to yourselves, lest you profane the oblations of the children of Israel, and die.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04017.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 18
+              </td>
+              <td class="next">
+               <a href="04019.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

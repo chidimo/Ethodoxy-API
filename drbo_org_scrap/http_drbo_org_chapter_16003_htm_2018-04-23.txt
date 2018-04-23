@@ -1,0 +1,469 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Esdras (Nehemiah) Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/16003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/16003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Esdras (Nehemiah)
+           </td>
+           <td class="next">
+            <a href="17001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="16002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="16004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="16001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="16002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="16004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="16005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="16006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="16007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="16008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="16009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="16010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="16011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="16012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="16013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               They begin to build the walls: the names and order of the builders.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Then Eliasib the high priest arose, and his brethren the priests, and they built the flock gate: they sanctified it, and set up the doors thereof, even unto the tower of a hundred cubits they sanctified it unto the tower of Hananeel.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               And next to him the men of Jericho built: and next to them built Zachur the son of Amri.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               But the fish gate the sons of Asnaa built: they covered it, and set up the doors thereof, and tire locks, and the bars. And next to them built Marimuth the son of Urias the son of Accus.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               And next to him built Mosollam tile son of Barachias, the sell of Merezebel, and next to them built Sadoc the son of Baana.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               And next to them the Thecuites built: but their great men did not put their necks to the work of their Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And Joiada the son of Phasea, and Mosollam the son of Besodia built the old gate: they covered it and set up the doors thereof, and the locks, and the bars.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               And next to them built Meltias the Gabaonite, and Jadon the Meronathite, the men of Gabaon and Maspha, for the governor that was in the country beyond the river.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And next to him built Eziel the son of Araia the goldsmith: and next to him built Ananias the son of the perfumer: and they left Jerusalem unto the wall of the broad street.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               And next to him built Raphaia the son of Hur, lord of the street of Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And next to him Jedaia the son of Haromaph over against his own house: and next to him built Hattus the son of Hasebonia.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               Melchias the son of Herem, and Hasub the son of Phahath Moab, built half the street, and the tower of the furnaces.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               And next to him built Sellum the son of Alohes, lord of half the street of Jerusalem, he and his daughters.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               And the gate of the valley Hanun built, and the inhabitants of Zanoe: they built it, and set up the doors thereof, and the locks, and the bars, and a thousand cubits in the wall unto the gate of the dunghill.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               And the gate of the dunghill Melchias the son of Rechab built, lord of the street of Bethacharam: he built it, and set up the doors thereof, and the locks, and the bars.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               And the gate of the fountain Sellum the son of Cholhoza built, lord of the street of Maspha: he built it, and covered it, and set up the doors thereof, and the locks, and the bare, and the walls of the pool of Siloe unto the king's guard, and unto the steps that go down from the city of David.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               After him built Nehemias the son of Azboc, lord of half the street of Bethsur, as far as over against the sepulchre of David, and to the pool, that was built with great labour, and to the house of the mighty.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               After him built the Levites, Rehum the son of Benni. After him built Hasebias, lord of half the street of Ceila in his own street.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               After him built their brethren Bavai the son of Enadad, lord of half Ceila.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               And next to him Aser the son of Josue, lord of Maspha, built another measure, over against the going up of the strong corner.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               After him in the mount Baruch the son of Zachai built another measure, from the corner to the door of the house of Eliasib the high priest.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               After him Merimuth the son of Urias the son of Haccus, built another measure, from the door of the house of Eliasib, to the end of the house of Eliasib.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               And after him built the priests, the men of the plains of the Jordan.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               After him built Benjamin and Hasub, over against their own house: and after him built Azarias the son of Maasias the son of Ananias over against his house.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               After him built Bennui the son of Hanadad another measure, from the house of Azarias unto the bending, and unto the corner.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=25-#x">
+                [25]
+               </a>
+               Phalel, the son of Ozi, over against the bending and the tower, which lieth out from the king's high house, that is, in the court of the prison: after him Phadaia the son of Pharos.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=26-#x">
+                [26]
+               </a>
+               And the Nathinites dwelt in Ophel, as far as over against the water gate toward the east, and the tower that stood out.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=27-#x">
+                [27]
+               </a>
+               After him the Thecuites built another measure over against, from the great tower that standeth out unto the wall of the temple.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=28-#x">
+                [28]
+               </a>
+               And upward from the horse gate the priests built, every man over against his house.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=29-#x">
+                [29]
+               </a>
+               After them built Sadoc the son of Emmer over against his house. And after him built Semaia the son of Sechenias, keeper of the east gate.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=30-#x">
+                [30]
+               </a>
+               After him built Hanania the son of Selemia, and Hanun the sixth son of Seleph, another measure: after him built Mosollam the son of Barachias over against his treasury. After him Melcias the goldsmith's son built unto the house of the Nathinites, and of the sellers of small wares, over against the judgment gate, and unto the chamber of the corner.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=3&amp;l=31-#x">
+                [31]
+               </a>
+               And within the chamber of the corner of the flock gate, the goldsmiths and the merchants built.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Esdras (Nehemiah)
+              </td>
+              <td class="next">
+               <a href="17001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="16002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="16004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

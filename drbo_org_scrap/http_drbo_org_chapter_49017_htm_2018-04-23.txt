@@ -1,0 +1,549 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Luke Chapter 17
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/49017.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/49017.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Luke
+           </td>
+           <td class="next">
+            <a href="50001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49016.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 17
+           </td>
+           <td class="next">
+            <a href="49018.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="49001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="49002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="49003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="49004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="49005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="49006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="49007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="49008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="49009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="49010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="49011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="49012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="49013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="49014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="49015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="49016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             17
+            </td>
+            <td width="30">
+             <a href="49018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="49019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="49020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="49021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="49022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="49023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="49024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Lessons of avoiding scandal and of the efficacy of faith. The ten lepers. The manner of the coming of Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=1-#x">
+                [1]
+               </a>
+               And he said to his disciples: It is impossible that scandals should not come: but woe to him through whom they come.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=2-#x">
+                [2]
+               </a>
+               It were better for him, that a millstone were hanged about his neck, and he cast into the sea, than that he should scandalize one of these little ones.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=3-#x">
+                [3]
+               </a>
+               Take heed to yourselves. If thy brother sin against thee, reprove him: and if he do penance, forgive him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=4-#x">
+                [4]
+               </a>
+               And if he sin against thee seven times in a day, and seven times in a day be converted unto thee, saying, I repent; forgive him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=5-#x">
+                [5]
+               </a>
+               And the apostles said to the Lord: Increase our faith.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=6-#x">
+                [6]
+               </a>
+               And the Lord said: If you had faith like to a grain of mustard seed, you might say to this mulberry tree, Be thou rooted up, and be thou transplanted into the sea: and it would obey you.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=7-#x">
+                [7]
+               </a>
+               But which of you having a servant ploughing, or feeding cattle, will say to him, when he is come from the field: Immediately go, sit down to meat:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=8-#x">
+                [8]
+               </a>
+               And will not rather say to him: Make ready my supper, and gird thyself, and serve me, whilst I eat and drink, and afterwards thou shalt eat and drink?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=9-#x">
+                [9]
+               </a>
+               Doth he thank that servant, for doing the things which he commanded him?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=10-#x">
+                [10]
+               </a>
+               I think not. So you also, when you shall have done all these things that are commanded you, say: We are
+               <u>
+                unprofitable servants
+               </u>
+               ; we have done that which we ought to do.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "Unprofitable servants"
+               </u>
+               : Because our service is of no profit to our master; and he justly claims it as our bounden duty. But though we are unprofitable to him, our serving him is not unprofitable to us; for he is pleased to give by his grace a value to our good works, which, in consequence of his promise, entitles them to an eternal reward.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=11-#x">
+                [11]
+               </a>
+               And it came to pass, as he was going to Jerusalem, he passed through the midst of Samaria and Galilee.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=12-#x">
+                [12]
+               </a>
+               And as he entered into a certain town, there met him ten men that were lepers, who stood afar off;
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=13-#x">
+                [13]
+               </a>
+               And lifted up their voice, saying: Jesus, master, have mercy on us.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=14-#x">
+                [14]
+               </a>
+               Whom when he saw, he said: Go, shew yourselves to the priests. And it came to pass, as they went, they were made clean.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=15-#x">
+                [15]
+               </a>
+               And one of them, when he saw that he was made clean, went back, with a loud voice glorifying God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=16-#x">
+                [16]
+               </a>
+               And he fell on his face before his feet, giving thanks: and this was a Samaritan.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=17-#x">
+                [17]
+               </a>
+               And Jesus answering, said, Were not ten made clean? and where are the nine?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=18-#x">
+                [18]
+               </a>
+               There is no one found to return and give glory to God, but this stranger.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=19-#x">
+                [19]
+               </a>
+               And he said to him: Arise, go thy way; for thy faith hath made thee whole.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=20-#x">
+                [20]
+               </a>
+               And being asked by the Pharisees, when the kingdom of God should come? he answered them, and said: The kingdom of God cometh not with observation:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=21-#x">
+                [21]
+               </a>
+               Neither shall they say: Behold here, or behold there. For lo, the kingdom of God is within you.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=22-#x">
+                [22]
+               </a>
+               And he said to his disciples: The days will come, when you shall desire to see one day of the Son of man; and you shall not see it.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=23-#x">
+                [23]
+               </a>
+               And they will say to you: See here, and see there. Go ye not after, nor follow them:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=24-#x">
+                [24]
+               </a>
+               For as the lightning that lighteneth from under heaven, shineth unto the parts that are under heaven, so shall the Son of man be in his day.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=25-#x">
+                [25]
+               </a>
+               But first he must suffer many things, and be rejected by this generation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=26-#x">
+                [26]
+               </a>
+               And as it came to pass in the days of Noe, so shall it be also in the days of the Son of man.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=27-#x">
+                [27]
+               </a>
+               They did eat and drink, they married wives, and were given in marriage, until the day that Noe entered into the ark: and the flood came and destroyed them all.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=28-#x">
+                [28]
+               </a>
+               Likewise as it came to pass, in the days of Lot: they did eat and drink, they bought and sold, they planted and built.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=29-#x">
+                [29]
+               </a>
+               And in the day that Lot went out of Sodom, it rained fire and brimstone from heaven, and destroyed them all.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=30-#x">
+                [30]
+               </a>
+               Even thus shall it be in the day when the Son of man shall be revealed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=31-#x">
+                [31]
+               </a>
+               In that hour, he that shall be on the housetop, and his goods in the house, let him not go down to take them away: and he that shall be in the field, in like manner, let him not return back.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=32-#x">
+                [32]
+               </a>
+               Remember Lot's wife.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=33-#x">
+                [33]
+               </a>
+               Whosoever shall seek to save his life, shall lose it: and whosoever shall lose it, shall preserve it.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=34-#x">
+                [34]
+               </a>
+               I say to you: in that night there shall be two men in one bed; the one shall be taken, and the other shall be left.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=35-#x">
+                [35]
+               </a>
+               Two women shall be grinding together: the one shall be taken, and the other shall be left: two men shall be in the field; the one shall be taken, and the other shall be left.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=36-#x">
+                [36]
+               </a>
+               They answering, say to him: Where, Lord?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=17&amp;l=37-#x">
+                [37]
+               </a>
+               Who said to them: Wheresoever the body shall be, thither will the eagles also be gathered together.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Luke
+              </td>
+              <td class="next">
+               <a href="50001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49016.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 17
+              </td>
+              <td class="next">
+               <a href="49018.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

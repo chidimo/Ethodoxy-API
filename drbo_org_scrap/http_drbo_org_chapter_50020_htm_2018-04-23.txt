@@ -1,0 +1,518 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 20
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50020.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50020.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50019.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 20
+           </td>
+           <td class="next">
+            <a href="50021.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             20
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ's resurrection and manifestation to his disciples.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=1-#x">
+                [1]
+               </a>
+               And on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre; and she saw the stone taken away from the sepulchre.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=2-#x">
+                [2]
+               </a>
+               She ran, therefore, and cometh to Simon Peter, and to the other disciple whom Jesus loved, and saith to them: They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=3-#x">
+                [3]
+               </a>
+               Peter therefore went out, and that other disciple, and they came to the sepulchre.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=4-#x">
+                [4]
+               </a>
+               And they both ran together, and that other disciple did outrun Peter, and came first to the sepulchre.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=5-#x">
+                [5]
+               </a>
+               And when he stooped down, he saw the linen cloths lying; but yet he went not in.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=6-#x">
+                [6]
+               </a>
+               Then cometh Simon Peter, following him, and went into the sepulchre, and saw the linen cloths lying,
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=7-#x">
+                [7]
+               </a>
+               And the napkin that had been about his head, not lying with the linen cloths, but apart, wrapped up into one place.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=8-#x">
+                [8]
+               </a>
+               Then that other disciple also went in, who came first to the sepulchre: and he saw, and believed.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=9-#x">
+                [9]
+               </a>
+               For as yet they knew not the scripture, that he must rise again from the dead.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=10-#x">
+                [10]
+               </a>
+               The disciples therefore departed again to their home.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=11-#x">
+                [11]
+               </a>
+               But Mary stood at the sepulchre without, weeping. Now as she was weeping, she stooped down, and looked into the sepulchre,
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=12-#x">
+                [12]
+               </a>
+               And she saw two angels in white, sitting, one at the head, and one at the feet, where the body of Jesus had been laid.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=13-#x">
+                [13]
+               </a>
+               They say to her: Woman, why weepest thou? She saith to them: Because they have taken away my Lord; and I know not where they have laid him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=14-#x">
+                [14]
+               </a>
+               When she had thus said, she turned herself back, and saw Jesus standing; and she knew not that it was Jesus.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=15-#x">
+                [15]
+               </a>
+               Jesus saith to her: Woman, why weepest thou? whom seekest thou? She, thinking it was the gardener, saith to him: Sir, if thou hast taken him hence, tell me where thou hast laid him, and I will take him away.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=16-#x">
+                [16]
+               </a>
+               Jesus saith to her: Mary. She turning, saith to him: Rabboni (which is to say, Master).
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=17-#x">
+                [17]
+               </a>
+               Jesus saith to her: Do not touch me, for I am not yet ascended to my Father. But go to my brethren, and say to them: I ascend to my Father and to your Father, to my God and your God.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=18-#x">
+                [18]
+               </a>
+               Mary Magdalen cometh, and telleth the disciples: I have seen the Lord, and these things he said to me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=19-#x">
+                [19]
+               </a>
+               Now when it was late that same day, the first of the week, and
+               <u>
+                the doors were shut
+               </u>
+               , where the disciples were gathered together, for fear of the Jews, Jesus came and stood in the midst, and said to them: Peace be to you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=20-#x">
+                [20]
+               </a>
+               And when he had said this, he shewed them his hands and his side. The disciples therefore were glad, when they saw the Lord.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "The doors were shut"
+               </u>
+               : The same power which could bring Christ's whole body, entire in all its dimensions, through the doors, can without the least question make the same body really present in the sacrament; though both the one and the other be above our comprehension.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=21-#x">
+                [21]
+               </a>
+               He said therefore to them again: Peace be to you. As the Father hath sent me, I also send you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=22-#x">
+                [22]
+               </a>
+               When he had said this, he breathed on them; and he said to them: Receive ye the Holy Ghost.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=23-#x">
+                [23]
+               </a>
+               <u>
+                Whose sins
+               </u>
+               you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=24-#x">
+                [24]
+               </a>
+               Now Thomas, one of the twelve, who is called Didymus, was not with them when Jesus came.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=25-#x">
+                [25]
+               </a>
+               The other disciples therefore said to him: We have seen the Lord. But he said to them: Except I shall see in his hands the print of the nails, and put my finger into the place of the nails, and put my hand into his side, I will not believe.
+              </p>
+              <p class="note">
+               [23]
+               <u>
+                "Whose sins"
+               </u>
+               : See here the commission, stamped by the broad seal of heaven, by virtue of which the pastors of Christ's church absolve repenting sinners upon their confession.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=26-#x">
+                [26]
+               </a>
+               And after eight days again his disciples were within, and Thomas with them. Jesus cometh, the doors being shut, and stood in the midst, and said: Peace be to you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=27-#x">
+                [27]
+               </a>
+               Then he saith to Thomas: Put in thy finger hither, and see my hands; and bring hither thy hand, and put it into my side; and be not faithless, but believing.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=28-#x">
+                [28]
+               </a>
+               Thomas answered, and said to him: My Lord, and my God.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=29-#x">
+                [29]
+               </a>
+               Jesus saith to him: Because thou hast seen me, Thomas, thou hast believed: blessed are they that have not seen, and have believed.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=30-#x">
+                [30]
+               </a>
+               Many other signs also did Jesus in the sight of his disciples, which are not written in this book.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=20&amp;l=31-#x">
+                [31]
+               </a>
+               But these are written, that you may believe that Jesus is the Christ, the Son of God: and that believing, you may have life in his name.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50019.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 20
+              </td>
+              <td class="next">
+               <a href="50021.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,449 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ecclesiastes Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/23003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/23003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="22001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Ecclesiastes
+           </td>
+           <td class="next">
+            <a href="24001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="23002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="23004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="23001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="23002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="23004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="23005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="23006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="23007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="23008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="23009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="23010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="23011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="23012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               All human things are liable to perpetual changes. We are to rest on God's providence, and cast away fruitless cares.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               All things have their season, and in their times all things pass under heaven.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               A time to be born and a time to die. A time to plant, and a time to pluck up that which is planted.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               A time to kill, and a time to heal. A time to destroy, and a time to build.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               A time to weep, and a time to laugh. A time to mourn, and a time to dance.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               A time to scatter stones, and a time to gather. A time to embrace, and a time to be far from embraces.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               A time to get, and a time to lose. A time to keep, and a time to cast away.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               A time to rend, and a time to sew. A time to keep silence, and a time to speak.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               A time of love, and a time of hatred. A time of war, and a time of peace.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               What hath man more of his labour?
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               I have seen the trouble, which God hath given the sons of men to be exercised in it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               He hath made all things good in their time, and hath delivered the world to their consideration, so that man cannot find out the work which God hath made from the beginning to the end.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               And I have known that there was no better thing than to rejoice, and to do well in this life.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               For every man that eateth and drinketh, and seeth good of his labour, this is the gift of God.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               I have learned that all the works which God hath made, continue for ever: we cannot add any thing, nor take away from those things which God hath made that he may be feared.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               That which hath been made, the same continueth: the things that shall be, have already been: and God restoreth that which is past.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               I saw under the sun in the place of judgment wickedness, and in the place of justice iniquity.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               And I said in my heart: God shall judge both the just and the wicked, and then shall be the time of every thing.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               I said in my heart concerning the sons of men, that God would prove them, and shew them to be like beasts.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               Therefore the death of man, and of beasts is one, and the condition of them both is equal: as man dieth, so they also die: all things breathe alike, and
+               <u>
+                man hath nothing more
+               </u>
+               than beast: all things are subject to vanity.
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               And all things go to one place: of earth they were made, and into earth they return together.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "Man hath nothing more"
+               </u>
+               : Viz., as to the life of the body.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               <u>
+                Who knoweth
+               </u>
+               if the spirit of the children of Adam ascend upward, and if the spirit of the beasts descend downward?
+               <a href="/x/d?b=drb&amp;bk=23&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               And I have found that nothing is better than for a man to rejoice in his work, and that this is his portion. For who shall bring him to know the things that shall be after him?
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "Who knoweth"
+               </u>
+               : Viz., experimentally: since no one in this life can see a spirit. But as to the spirit of the beasts, which is merely animal, and become extinct by the death of the beast, who can tell the manner it acts so as to give life and motion, and by death to descend downward, that is, to be no more?
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="22001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Ecclesiastes
+              </td>
+              <td class="next">
+               <a href="24001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="23002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="23004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

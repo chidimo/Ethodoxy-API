@@ -1,0 +1,469 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Tobias (Tobit) Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/17005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/17005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="16001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Tobias (Tobit)
+           </td>
+           <td class="next">
+            <a href="18001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="17004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="17006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="17001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="17002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="17003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="17004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="17006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="17007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="17008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="17009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="17010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="17011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="17012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="17013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="17014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Young Tobias seeking a guide for his journey, the angel Raphael, in shape of a man, undertaketh this office.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               Then Tobias answered his father, and said: I will do all things, father, which thou hast commanded me.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               But how I shall get this money, I cannot tell; he knoweth me not, and I know not him: what token shall I give him? nor did I ever know the way which leadeth thither.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               Then his father answered him, and said: I have a note of his hand with me, which when thou shalt shew him, he will presently pay it.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               But go now, and seek thee out some faithful man, to go with thee for his hire: that thou mayst receive it, while I yet live.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               Then Tobias going forth, found a beautiful young man, standing girded, and as it were ready to walk.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               And not knowing that he was an angel of God, he saluted him, and said: From whence art thou, good young man?
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               But he answered: Of the children of Israel. And Tobias said to him: Knowest thou the way that leadeth to the country of the Medes?
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               And he answered: I know it: and I have often walked through all the ways thereof, and I have abode with Gabelus our brother, who dwelleth at Rages a city of the Medes, which is situate in the mount of Ecbatana.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               And Tobias said to him: Stay for me, I beseech thee, till I tell these same things to my father.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               Then Tobias going in told all these things to his father. Upon which his father being in admiration, desired that he would come in unto him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               So going in he saluted him, and said: Joy be to thee always.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               And Tobias said: What manner of joy shall be to me, who sit in darkness, and see not the light of heaven?
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               And the young man said to him: Be of good courage, thy cure from God is at hand.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               And Tobias said to him: Canst thou conduct my son to Gabelus at Rages, a city of the Medes? and when thou shalt return, I will pay thee thy hire.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               And the angel said to him: I will conduct him thither, and bring him back to thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               And Tobias said to him: I pray thee, tell me, of what family, or what tribe art thou?
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               And Raphael the angel answered: Dost thou seek the family of him thou hirest, or the hired servant himself to go with thy son?
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               But lest I should make thee uneasy, I am
+               <u>
+                Azarias
+               </u>
+               the son of the great Ananias.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               And Tobias answered: Thou art of a great family. But I pray thee be not angry that I desired to know thy family.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=20-#x">
+                [20]
+               </a>
+               And the angel said to him: I will lead thy son safe, and bring him to thee again safe.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "Azarias"
+               </u>
+               : The angel took the form of Azarias: and therefore might call himself by the name of the man whom he personated. Azarias, in Hebrew, signifies the help of God, and Ananias the grace of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=21-#x">
+                [21]
+               </a>
+               And Tobias answering, said: May you have a good journey, and God be with you in your way, and his angel accompany you.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=22-#x">
+                [22]
+               </a>
+               Then all things being ready, that were to be carried in their journey, Tobias bade his father and his mother farewell, and they set out both together.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=23-#x">
+                [23]
+               </a>
+               And when they were departed, his mother began to weep, and to say: Thou hast taken the staff of our old age, and sent him away from us.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=24-#x">
+                [24]
+               </a>
+               I wish the money for which thou hast sent him, had never been.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=25-#x">
+                [25]
+               </a>
+               For poverty was sufficient for us, that we might account it as riches, that we saw our son.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=26-#x">
+                [26]
+               </a>
+               And Tobias said to her: Weep not, our son will arrive thither safe, and will return safe to us, and thy eyes shall see him.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=27-#x">
+                [27]
+               </a>
+               For I believe that the good angel of God doth accompany him, and doth order all things well that are done about him, so that he shall return to us with joy.
+               <a href="/x/d?b=drb&amp;bk=17&amp;ch=5&amp;l=28-#x">
+                [28]
+               </a>
+               At these words his mother ceased weeping, and held her peace.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="16001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Tobias (Tobit)
+              </td>
+              <td class="next">
+               <a href="18001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="17004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="17006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

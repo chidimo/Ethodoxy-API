@@ -1,0 +1,608 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="50005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ talks with the Samaritan woman. He heals the ruler's son.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               When Jesus therefore understood that the Pharisees had heard that Jesus maketh more disciples, and baptizeth more than John,
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               (Though Jesus himself did not baptize, but his disciples,)
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               He left Judea, and went again into Galilee.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               And he was of necessity to pass through Samaria.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               He cometh therefore to a city of Samaria, which is called Sichar, near the land which Jacob gave to his son Joseph.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               Now Jacob's well was there. Jesus therefore being wearied with his journey, sat thus on the well. It was about the sixth hour.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               There cometh a woman of Samaria, to draw water. Jesus saith to her: Give me to drink.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               For his disciples were gone into the city to buy meats.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               Then that Samaritan woman saith to him: How dost thou, being a Jew, ask of me to drink, who am a Samaritan woman? For the Jews do not communicate with the Samaritans.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               Jesus answered, and said to her: If thou didst know the gift of God, and who he is that saith to thee, Give me to drink; thou perhaps wouldst have asked of him, and he would have given thee living water.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               The woman saith to him: Sir, thou hast nothing wherein to draw, and the well is deep; from whence then hast thou living water?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               Art thou greater than our father Jacob, who gave us the well, and drank thereof himself, and his children, and his cattle?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               Jesus answered, and said to her: Whosoever drinketh of this water, shall thirst again; but he that shall drink of the water that I will give him, shall not thirst for ever:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               But the water that I will give him, shall become in him a fountain of water, springing up into life everlasting.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               The woman saith to him: Sir, give me this water, that I may not thirst, nor come hither to draw.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               Jesus saith to her: Go, call thy husband, and come hither.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               The woman answered, and said: I have no husband. Jesus said to her: Thou hast said well, I have no husband:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               For thou hast had five husbands: and he whom thou now hast, is not thy husband. This thou hast said truly.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               The woman saith to him: Sir, I perceive that thou art a prophet.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               Our fathers adored on
+               <u>
+                this mountain
+               </u>
+               , and you say, that at Jerusalem is the place where men must adore.
+              </p>
+              <p class="note">
+               [20]
+               <u>
+                "This mountain"
+               </u>
+               : Garizim, where the Samaritans had their schismatical temple.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               Jesus saith to her: Woman, believe me, that the hour cometh, when you shall neither on this mountain, nor in Jerusalem, adore the Father.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               You adore that which you know not: we adore that which we know; for salvation is of the Jews.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               But the hour cometh, and now is, when the true adorers shall adore the Father in spirit and in truth. For the Father also seeketh such to adore him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               God is a spirit; and they that adore him, must adore him in spirit and in truth.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               The woman saith to him: I know that the Messias cometh (who is called Christ). Therefore, when he is come, he will tell us all things.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               Jesus saith to her: I am he, who am speaking with thee.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=27-#x">
+                [27]
+               </a>
+               And immediately his disciples came; and they wondered that he talked with the woman. Yet no man said: What seekest thou? or, why talkest thou with her?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=28-#x">
+                [28]
+               </a>
+               The woman therefore left her waterpot, and went her way into the city, and saith to the men there:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=29-#x">
+                [29]
+               </a>
+               Come, and see a man who has told me all things whatsoever I have done. Is not he the Christ?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=30-#x">
+                [30]
+               </a>
+               They went therefore out of the city, and came unto him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=31-#x">
+                [31]
+               </a>
+               In the mean time the disciples prayed him, saying: Rabbi, eat.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=32-#x">
+                [32]
+               </a>
+               But he said to them: I have meat to eat, which you know not.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=33-#x">
+                [33]
+               </a>
+               The disciples therefore said one to another: Hath any man brought him to eat?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=34-#x">
+                [34]
+               </a>
+               Jesus saith to them: My meat is to do the will of him that sent me, that I may perfect his work.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=35-#x">
+                [35]
+               </a>
+               Do you not say, There are yet four months, and then the harvest cometh? Behold, I say to you, lift up your eyes, and see the countries; for they are white already to harvest.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=36-#x">
+                [36]
+               </a>
+               And he that reapeth receiveth wages, and gathereth fruit unto life everlasting: that both he that soweth, and he that reapeth, may rejoice together.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=37-#x">
+                [37]
+               </a>
+               For in this is the saying true: That it is one man that soweth, and it is another that reapeth.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=38-#x">
+                [38]
+               </a>
+               I have sent you to reap that in which you did not labour: others have laboured, and you have entered into their labours.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=39-#x">
+                [39]
+               </a>
+               Now of that city many of the Samaritans believed in him, for the word of the woman giving testimony: He told me all things whatsoever I have done.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=40-#x">
+                [40]
+               </a>
+               So when the Samaritans were come to him, they desired that he would tarry there. And he abode there two days.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=41-#x">
+                [41]
+               </a>
+               And many more believed in him because of his own word.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=42-#x">
+                [42]
+               </a>
+               And they said to the woman: We now believe, not for thy saying: for we ourselves have heard him, and know that this is indeed the Saviour of the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=43-#x">
+                [43]
+               </a>
+               Now after two days, he departed thence, and went into Galilee.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=44-#x">
+                [44]
+               </a>
+               For Jesus himself gave testimony that a prophet hath no honour in his own country.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=45-#x">
+                [45]
+               </a>
+               And when he was come into Galilee, the Galileans received him, having seen all the things he had done at Jerusalem on the festival day; for they also went to the festival day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=46-#x">
+                [46]
+               </a>
+               He came again therefore into Cana of Galilee, where he made the water wine. And there was a certain ruler, whose son was sick at Capharnaum.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=47-#x">
+                [47]
+               </a>
+               He having heard that Jesus was come from Judea into Galilee, went to him, and prayed him to come down, and heal his son; for he was at the point of death.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=48-#x">
+                [48]
+               </a>
+               Jesus therefore said to him: Unless you see signs and wonders, you believe not.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=49-#x">
+                [49]
+               </a>
+               The ruler saith to him: Lord, come down before that my son die.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=50-#x">
+                [50]
+               </a>
+               Jesus saith to him: Go thy way; thy son liveth. The man believed the word which Jesus said to him, and went his way.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=51-#x">
+                [51]
+               </a>
+               And as he was going down, his servants met him; and they brought word, saying, that his son lived.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=52-#x">
+                [52]
+               </a>
+               He asked therefore of them the hour wherein he grew better. And they said to him: Yesterday, at the seventh hour, the fever left him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=53-#x">
+                [53]
+               </a>
+               The father therefore knew, that it was at the same hour that Jesus said to him, Thy son liveth; and himself believed, and his whole house.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=4&amp;l=54-#x">
+                [54]
+               </a>
+               This is again the second miracle that Jesus did, when he was come out of Judea into Galilee.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="50005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

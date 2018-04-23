@@ -1,0 +1,548 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 27
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02027.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02027.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02026.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 27
+           </td>
+           <td class="next">
+            <a href="02028.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             27
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The altar; and the court of the tabernacle with its hangings and pillars. Provision of oil for lamps.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=1-#x">
+                [1]
+               </a>
+               Thou shalt make also an altar of setim wood, which shall be five cubits long and as many broad, that is, foursquare, and three cubits high.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=2-#x">
+                [2]
+               </a>
+               And there shall be horns at the four corners of the same: and thou shalt cover it with brass.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=3-#x">
+                [3]
+               </a>
+               And thou shalt make for the uses thereof pans to receive the ashes, and tongs and fleshhooks, and firepans: all its vessels thou shalt make of brass.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=4-#x">
+                [4]
+               </a>
+               And a grate of brass in manner of a net: at the four corners of which shall be four rings of brass,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=5-#x">
+                [5]
+               </a>
+               Which thou shalt put under the hearth of the altar: and the grate shall be even to the midst of the altar.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=6-#x">
+                [6]
+               </a>
+               Thou shalt make also two bars for the altar of setim wood, which thou shalt cover with plates of brass:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=7-#x">
+                [7]
+               </a>
+               And thou shalt draw them through rings, and they shall be on both sides of the altar to carry it.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=8-#x">
+                [8]
+               </a>
+               Thou shalt not make it solid, but empty and hollow in the inside, as it was shewn thee in the mount.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=9-#x">
+                [9]
+               </a>
+               Thou shalt make also the court of the tabernacle, in the south side whereof southward there shall be hangings of fine twisted linen of a hundred cubits long for one side.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=10-#x">
+                [10]
+               </a>
+               And twenty pillars with as many sockets of brass, the heads of which with their engraving of silver.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=11-#x">
+                [11]
+               </a>
+               In like manner also on the north side there shall be hangings of a hundred cubits long, twenty pillars, and as many sockets of brass, and their heads with their engraving of silver.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=12-#x">
+                [12]
+               </a>
+               But in the breadth of the court, that looketh to the west, there shall be hangings of fifty cubits, and ten pillars, and as many sockets.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=13-#x">
+                [13]
+               </a>
+               In that breadth also of the court, which looketh to the east, there shall be fifty cubits.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=14-#x">
+                [14]
+               </a>
+               In which there shall be for one side hangings of fifteen cubits, and three pillars and as many sockets.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=15-#x">
+                [15]
+               </a>
+               And in the other side there shall be hangings of fifteen cubits, with three pillars and as many sockets.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=16-#x">
+                [16]
+               </a>
+               And in the entrance of the court there shall be made a hanging of twenty cubits of violet and purple, and scarlet twice dyed, and fine twisted linen, with embroidered work: it shall have four pillars with as many sockets.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=17-#x">
+                [17]
+               </a>
+               All the pillars of the court round about shall be garnished with plates of silver, silver heads and sockets of brass.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=18-#x">
+                [18]
+               </a>
+               In length the court shall take up a hundred cubits, in breadth fifty, the height shall be of five cubits, and it shall be made of fine twisted linen, and shall have sockets of brass.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=19-#x">
+                [19]
+               </a>
+               All the vessels of the tabernacle for all uses and ceremonies, and the pins both of it, and of the court, thou shalt make of brass.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=20-#x">
+                [20]
+               </a>
+               Command the children of Israel that they bring thee the purest oil of the olives, and beaten with a pestle: that a lamp may burn always,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=27&amp;l=21-#x">
+                [21]
+               </a>
+               In the tabernacle of the testimony without the veil that hangs before the testimony. And Aaron and his sons shall order it, that it may give light before the Lord until the morning. It shall be a perpetual observance throughout their successions among the children of Israel.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02026.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 27
+              </td>
+              <td class="next">
+               <a href="02028.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

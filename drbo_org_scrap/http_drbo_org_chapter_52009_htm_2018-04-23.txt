@@ -1,0 +1,574 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Romans Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/52009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/52009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Romans
+           </td>
+           <td class="next">
+            <a href="53001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="52010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="52001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="52002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="52003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="52004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="52005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="52006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="52007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="52008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="52010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="52011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="52012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="52013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="52014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="52015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="52016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The apostle's concern for the Jews. God's election is free and not confined to their nation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               I speak the truth in Christ, I lie not, my conscience bearing me witness in the Holy Ghost:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               That I have great sadness, and continual sorrow in my heart.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               For I wished myself to be an
+               <u>
+                anathema
+               </u>
+               from Christ, for my brethren, who are my kinsmen according to the flesh,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               Who are Israelites, to whom belongeth the adoption as of children, and the glory, and the testament, and the giving of the law, and the service of God, and the promises:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               Whose are the fathers, and of whom is Christ, according to the flesh, who is over all things, God blessed for ever. Amen.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Anathema"
+               </u>
+               : A curse. The apostle's concern and love for his countrymen the Jews was so great, that he was willing to suffer even an anathema, or curse, for their sake; or any evil that could come upon him, without his offending God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               Not as though the word of God hath miscarried. For
+               <u>
+                all are not Israelites
+               </u>
+               that are of Israel:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               Neither are all they that are the seed of Abraham, children; but in Isaac shall thy seed be called:
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               That is to say, not they that are the children of the flesh, are the children of God; but they, that are the children of the promise, are accounted for the seed.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               For this is the word of promise: According to this time will I come; and Sara shall have a son.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And not only she. But when Rebecca also had conceived at once, of Isaac our father.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "All are not Israelites"
+               </u>
+               : Not all, who are the carnal seed of Israel, are true Israelites in God's account: who, as by his free grace, he heretofore preferred Isaac before Ismael, and Jacob before Esau, so he could, and did by the like free grace, election and mercy, raise up spiritual children by faith to Abraham and Israel, from among the Gentiles, and prefer them before the carnal Jews.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               For when the children were
+               <u>
+                not yet born
+               </u>
+               , nor had done any good or evil (that the purpose of God, according to election, might stand,)
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               Not of works, but of him that calleth, it was said to her: The elder shall serve the younger.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               As it is written: Jacob I have loved, but Esau I have hated.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               What shall we say then? Is there injustice with God? God forbid.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               For he saith to Moses: I will have mercy on whom I will have mercy; and I will shew mercy to whom I will shew mercy.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "Not yet born"
+               </u>
+               : By this example of these twins, and the preference of the younger to the elder, the drift of the apostle is, to shew that God, in his election, mercy and grace, is not tied to any particular nation, as the Jews imagined; nor to any prerogative of birth, or any forgoing merits. For as, antecedently to his grace, he sees no merits in any, but finds all involved in sin, in the common mass of condemnation; and all children of wrath: there is no one whom he might not justly leave in that mass; so that whomsoever he delivers from it, he delivers in his mercy: and whomsoever he leaves in it, he leaves in his justice. As when, of two equally criminal, the king is pleased out of pure mercy to pardon one, whilst he suffers justice to take place in the execution of the other.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               So then it is
+               <u>
+                not of him that willeth
+               </u>
+               , nor of him that runneth, but of God that sheweth mercy.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               For the scripture saith to Pharao:
+               <u>
+                To this purpose
+               </u>
+               have I raised thee, that I may shew my power in thee, and that my name may be declared throughout all the earth.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               Therefore he hath mercy on whom he will; and whom he will,
+               <u>
+                he hardeneth
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               Thou wilt say therefore to me: Why doth he then find fault? for who resisteth his will?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               O man, who art thou that repliest against God? Shall the thing formed say to him that formed it: Why hast thou made me thus?
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "Not of him that willeth"
+               </u>
+               : That is, by any power or strength of his own, abstracting from the grace of God.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "To this purpose"
+               </u>
+               : Not that God made him on purpose that he should sin, and so be damned; but foreseeing his obstinacy in sin, and the abuse of his own free will, he raised him up to be a mighty king, to make a more remarkable example of him: and that his power might be better known, and his justice in punishing him, published throughout the earth.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "He hardeneth"
+               </u>
+               : Not by being the cause or author of his sin, but by withholding his grace, and so leaving him in his sin, in punishment of his past demerits.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               Or hath not
+               <u>
+                the potter
+               </u>
+               power over the clay, of the same lump, to make one vessel unto honour, and another unto dishonour?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               What if God, willing to shew his wrath, and to make his power known, endured with much patience vessels of wrath, fitted for destruction,
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               That he might shew the riches of his glory on the vessels of mercy, which he hath prepared unto glory?
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               Even us, whom also he hath called, nor only of the Jews, but also of the Gentiles.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               As in Osee he saith: I will call that which was not my people, my people; and her that was not beloved, beloved; and her that had not obtained mercy, one that hath obtained mercy.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "The potter"
+               </u>
+               : This similitude is used only to shew that we are not to dispute with our Maker, nor to reason with him why he does not give as much grace to one as to another; for since the whole lump of our clay is vitiated by sin, it is owing to his goodness and mercy, that he makes out of it so many vessels of honor; and it is no more than just, that others, in punishment of their unrepented sins, should be given up to be vessels of dishonor.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               And it shall be, in the place where it was said unto them, You are not my people; there they shall be called the sons of the living God.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               And Isaias crieth out concerning Israel: If the number of the children of Israel be as the sand of the sea,
+               <u>
+                a remnant
+               </u>
+               shall be saved.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               For he shall finish his word, and cut it short in justice; because a short word shall the Lord make upon the earth.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               And as Isaias foretold: Unless the Lord of Sabaoth had left us a seed, we had been made as Sodom, and we had been like unto Gomorrha.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               What then shall we say? That the Gentiles, who followed not after justice, have attained to justice, even the justice that is of faith.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "A remnant"
+               </u>
+               : That is, a small number only of the children of Israel shall be converted and saved. How perversely is this text quoted for the salvation of men of all religions, when it speaks only of the converts of the children of Israel!
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               But Israel, by following after the law of justice, is not come unto the law of justice.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=32-#x">
+                [32]
+               </a>
+               Why so? Because they sought it not by faith, but as it were of works. For they stumbled at the stumblingstone.
+               <a href="/x/d?b=drb&amp;bk=52&amp;ch=9&amp;l=33-#x">
+                [33]
+               </a>
+               As it is written: Behold I lay in Sion a stumblingstone and a rock of scandal; and whosoever believeth in him shall not be confounded.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Romans
+              </td>
+              <td class="next">
+               <a href="53001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="52010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

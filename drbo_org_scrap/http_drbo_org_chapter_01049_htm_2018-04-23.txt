@@ -1,0 +1,770 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 49
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01049.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01049.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01048.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 49
+           </td>
+           <td class="next">
+            <a href="01050.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             49
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Jacob's prophetical blessings of his twelve sons: his death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=1-#x">
+                [1]
+               </a>
+               And Jacob called his sons, and said to them: Gather yourselves together that I may tell you the things that shall befall you in the last days.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=2-#x">
+                [2]
+               </a>
+               Gather yourselves together, and hear, O ye sons of Jacob, hearken to Israel your father:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=3-#x">
+                [3]
+               </a>
+               Ruben, my firstborn, thou art
+               <u>
+                my strength
+               </u>
+               , and the beginning of my sorrow: excelling in gifts, greater in command.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=4-#x">
+                [4]
+               </a>
+               Thou art poured out as water,
+               <u>
+                grow thou not
+               </u>
+               : because thou wentest up to thy father's bed, and didst defile his couch.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=5-#x">
+                [5]
+               </a>
+               Simeon and Levi brethren: vessels of iniquity, waging war.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "My strength"
+               </u>
+               : He calls him his strength, as being born whilst his father was in his full strength and vigour: he calls him the beginning of his sorrow, because cares and sorrows usually come on with the birth of children. Excelling in gifts, etc., because the firstborn had a title to a double portion, and to have the command over his brethren, which Ruben forfeited by his sin; being poured out as water, that is, spilt and lost.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Grow thou not"
+               </u>
+               : This was not meant by way of a curse or imprecation; but by way of a prophecy foretelling that the tribe of Ruben should not inherit the pre-eminences usually annexed to the first birthright, viz., the double portion, the being prince or lord over the other brethren, and the priesthood: of which the double portion was given to Joseph, the princely office to Juda, and the priesthood to Levi.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=6-#x">
+                [6]
+               </a>
+               Let not my soul go into their counsel, nor my glory be in their assembly: because in their fury they
+               <u>
+                slew a man
+               </u>
+               , and in their selfwill they undermined a wall.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=7-#x">
+                [7]
+               </a>
+               Cursed be their fury, because it was stubborn: and their wrath because it was cruel: I will divide them in Jacob, and will scatter them in Israel.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=8-#x">
+                [8]
+               </a>
+               Juda, thee shall thy brethren praise: thy hands shall be on the necks of thy enemies: the sons of thy father shall bow down to thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=9-#x">
+                [9]
+               </a>
+               Juda is
+               <u>
+                a lion's whelp
+               </u>
+               : to the prey, my son, thou art gone up: resting thou hast couched as a lion, and as a lioness, who shall rouse him?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=10-#x">
+                [10]
+               </a>
+               The sceptre shall not be taken away from Juda, nor a ruler from his thigh, till he come that is to be sent, and he shall be the expectation of nations.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Slew a man,"
+               </u>
+               : viz., Sichem the son of Hemor, with all his people, Gen. 34.; mystically and prophetically it alludes to Christ, whom their posterity, viz., the priests and the scribes, put to death.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "A lion's whelp"
+               </u>
+               : This blessing of Juda foretelleth the strength of his tribe, the fertility of his inheritance; and principally that the sceptre and legislative power should not be utterly taken away from his race till about the time of the coming of Christ: as in effect it never was: which is a demonstration against the modern Jews, that the Messiah is long since come; for the sceptre has long since been utterly taken away from Juda.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=11-#x">
+                [11]
+               </a>
+               Tying his foal to the vineyard, and his ass, O my son, to the vine. He shall wash his robe in wine, and his garment in the blood of the grape.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=12-#x">
+                [12]
+               </a>
+               His eyes are more beautiful than wine, and his teeth whiter than milk.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=13-#x">
+                [13]
+               </a>
+               Zabulon shall dwell on the sea shore, and in the road of ships, reaching as far as Sidon.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=14-#x">
+                [14]
+               </a>
+               Issachar shall be a strong ass lying down between the borders.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=15-#x">
+                [15]
+               </a>
+               He saw rest that it was good: and the land that it was excellent: and he bowed his shoulder to carry, and became a servant under tribute.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=16-#x">
+                [16]
+               </a>
+               <u>
+                Dan shall judge
+               </u>
+               his people like another tribe in Israel.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=17-#x">
+                [17]
+               </a>
+               Let Dan be a snake in the way, a serpent in the path, that biteth the horse's heels that his rider may fall backward.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=18-#x">
+                [18]
+               </a>
+               I will look for thy salvation, O Lord.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=19-#x">
+                [19]
+               </a>
+               <u>
+                Gad, being girded
+               </u>
+               , shall fight before him: and he himself shall be girded backward.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=20-#x">
+                [20]
+               </a>
+               Aser, his bread shall be fat, and he shall yield dainties to kings.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "Dan shall judge"
+               </u>
+               : This was verified in Samson, who was of the tribe of Dan, and began to deliver Israel. Judges 13. 5. But as this deliverance was but temporal and very imperfect, the holy patriarch (ver. 18) aspires after another kind of deliverer, saying: I will look for thy salvation, O Lord.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "Gad being girded"
+               </u>
+               : It seems to allude to the tribe of Gad; when after they had received for their lot the land of Galaad, they marched in arms before the rest of the Israelites, to the conquest of the land of Chanaan: from whence they afterwards returned loaded with spoils. See Jos. 4. and 12.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=21-#x">
+                [21]
+               </a>
+               Nephtali, a hart let loose, and giving words of beauty.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=22-#x">
+                [22]
+               </a>
+               Joseph is a growing son, a growing son and comely to behold; the daughters
+               <u>
+                run to and fro
+               </u>
+               upon the wall.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=23-#x">
+                [23]
+               </a>
+               But they that held darts provoked him, and quarrelled with him, and envied him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=24-#x">
+                [24]
+               </a>
+               <u>
+                His bow rested upon the strong
+               </u>
+               , and the bands of his arms and his hands were loosed, by the hands of the mighty one of Jacob: thence he came forth a pastor, the stone of Israel.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=25-#x">
+                [25]
+               </a>
+               The God of thy father shall be thy helper, and the Almighty shall bless thee with the blessings of heaven above, with the blessings of the deep that lieth beneath, with the blessings of the breasts and of the womb.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Run to and fro"
+               </u>
+               : To behold his beauty; whilst his envious brethren turned their darts against him, etc.
+              </p>
+              <p class="note">
+               [24]
+               <u>
+                "His bow rested upon the strong"
+               </u>
+               : That is, upon God, who was his strength: who also loosed his bands, and brought him out of prison to be the pastor, that is, the feeder and ruler of Egypt, and the stone, that is, the rock and support of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=26-#x">
+                [26]
+               </a>
+               <u>
+                The blessings of thy father
+               </u>
+               are strengthened with the blessings of his fathers: until
+               <u>
+                the desire of the everlasting hills
+               </u>
+               should come; may they be upon the head of Joseph, and upon the crown of
+               <u>
+                the Nazarite
+               </u>
+               among his brethren.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=27-#x">
+                [27]
+               </a>
+               Benjamin a ravenous wolf, in the morning shall eat the prey, and in the evening shall divide the spoil.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=28-#x">
+                [28]
+               </a>
+               All these are the twelve tribes of Israel: these things their father spoke to them, and he blessed every one, with their proper blessings.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=29-#x">
+                [29]
+               </a>
+               And he charged them, saying: I am now going
+               <u>
+                to be gathered to my people
+               </u>
+               : bury me with my fathers in the double cave, which is in the field of Ephron the Hethite,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=30-#x">
+                [30]
+               </a>
+               Over against Mambre in the land of Chanaan, which Abraham bought together with the field of Ephron the Hethite for a possession to bury in.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "The blessings of thy father"
+               </u>
+               : That is, thy father's blessings are made more prevalent and effectual in thy regard, by the additional strength they receive from his inheriting the blessings of his progenitors Abraham and Isaac.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "The desire of the everlasting hills"
+               </u>
+               : These blessings all looked forward towards Christ, called the desire of the everlasting hills, as being longed for, as it were, by the whole creation. Mystically, the patriarchs and prophets are called the everlasting hills, by reason of the eminence of their wisdom and holiness.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "The Nazarite"
+               </u>
+               : This word signifies one separated; and agrees to Joseph, as being separated from, and more eminent than, his brethren. As the ancient Nazarites were so called from their being set aside for God, and vowed to him.
+              </p>
+              <p class="note">
+               [29]
+               <u>
+                "To be gathered to my people"
+               </u>
+               : That is, I am going to die, and so to follow my ancestors that are gone before me, and to join their company in another world.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=31-#x">
+                [31]
+               </a>
+               There they buried him, and Sara his wife: there was Isaac buried with Rebecca his wife: there also Lia doth lie buried.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=49&amp;l=32-#x">
+                [32]
+               </a>
+               And when he had ended the commandments, wherewith he instructed his sons, he drew up his feet upon the bed, and died: and he was gathered to his people.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01048.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 49
+              </td>
+              <td class="next">
+               <a href="01050.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

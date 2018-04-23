@@ -1,0 +1,556 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 24
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02024.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02024.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02023.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 24
+           </td>
+           <td class="next">
+            <a href="02025.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             24
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Moses writeth his law; and after offering sacrifices, sprinkleth the blood of the testament upon the people: then goeth up the mountain which God covereth with a fiery cloud.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=1-#x">
+                [1]
+               </a>
+               And he said to Moses: Come up to the Lord, thou, and Aaron, Nadab, and Abiu, and seventy of the ancients of Israel, and you shall adore afar off.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=2-#x">
+                [2]
+               </a>
+               And Moses alone shall come up to the Lord, but they shall not come nigh; neither shall the people come up with him.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=3-#x">
+                [3]
+               </a>
+               So Moses came and told the people all the words of the Lord, and all the judgments: and all the people answered with one voice: We will do all the words of the Lord, which he hath spoken.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=4-#x">
+                [4]
+               </a>
+               And Moses wrote all the words of the Lord: and rising in the morning he built an altar at the foot of the mount, and twelve
+               <u>
+                titles
+               </u>
+               according to the twelve tribes of Israel.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=5-#x">
+                [5]
+               </a>
+               And he sent young men of the children of Israel, and they offered
+               <u>
+                holocausts
+               </u>
+               , and sacrificed pacific victims of calves to the Lord.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Titles"
+               </u>
+               : That is, pillars.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "Holocausts"
+               </u>
+               : Whole burnt offerings, in which the whole sacrifice was consumed with fire upon the altar.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=6-#x">
+                [6]
+               </a>
+               Then Moses took half of the blood, and put it into bowls: and the rest he poured upon the altar.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=7-#x">
+                [7]
+               </a>
+               And taking the book of the covenant, he read it in the hearing of the people: and they said: All things that the Lord hath spoken we will do, we will be obedient.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=8-#x">
+                [8]
+               </a>
+               And he took the blood and sprinkled it upon the people, and he said: This is the blood of the covenant which the Lord hath made with you concerning all these words.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=9-#x">
+                [9]
+               </a>
+               Then Moses and Aaron, Nadab and Abiu, and seventy of the ancients of Israel went up:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=10-#x">
+                [10]
+               </a>
+               And they saw the God of Israel: and under his feet as it were a work of sapphire stone, and as the heaven, when clear.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=11-#x">
+                [11]
+               </a>
+               Neither did he lay his hand upon those of the children of Israel, that retired afar off, and they saw God, and they did eat and drink.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=12-#x">
+                [12]
+               </a>
+               And the Lord said to Moses: Come up to me into the mount, and be there: and I will give thee tables of stone, and the law, and the commandments which I have written: that thou mayst teach them.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=13-#x">
+                [13]
+               </a>
+               Moses rose up, and his minister Josue: and Moses going up into the mount of God,
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=14-#x">
+                [14]
+               </a>
+               Said to the ancients: Wait ye here till we return to you. You have Aaron and Hur with you: if any question shall arise, you shall refer it to them.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=15-#x">
+                [15]
+               </a>
+               And when Moses was gone up, a cloud covered the mount.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=16-#x">
+                [16]
+               </a>
+               And the glory of the Lord dwelt upon Sinai, covering it with a cloud six days: and the seventh day he called him out of the midst of the cloud.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=17-#x">
+                [17]
+               </a>
+               And the sight of the glory of the Lord was like a burning fire upon the top of the mount, in the eyes of the children of Israel.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=24&amp;l=18-#x">
+                [18]
+               </a>
+               And Moses, entering into the midst of the cloud, went up into the mountain: and he was there forty days, and forty nights.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02023.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 24
+              </td>
+              <td class="next">
+               <a href="02025.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

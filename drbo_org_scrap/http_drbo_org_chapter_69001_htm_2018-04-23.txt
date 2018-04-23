@@ -1,0 +1,319 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 John Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/69001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/69001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="68001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          First Epistle Of Saint John
+         </td>
+         <td class="next">
+          <a href="70001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="69002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="69002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="69003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="69004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="69005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             He declares what he has seen and heard of Christ who is the life eternal, to the end that we may have fellowship with God and all good through him. Yet so if we confess our sins.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the word of life:
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             For the life was manifested; and we have seen and do bear witness, and declare unto you the life eternal, which was with the Father, and hath appeared to us:
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             That which we have seen and have heard, we declare unto you, that you also may have fellowship with us, and our fellowship may be with the Father, and with his Son Jesus Christ.
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And these things we write to you, that you may rejoice, and your joy may be full.
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And this is the declaration which we have heard from him, and declare unto you: That God is light, and in him there is no darkness.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth.
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             But if we walk in the light, as he also is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             If we say that we have no sin, we deceive ourselves, and the truth is not in us.
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             If we confess our sins, he is faithful and just, to forgive us our sins, and to cleanse us from all iniquity.
+             <a href="/x/d?b=drb&amp;bk=69&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             If we say that we have not sinned, we make him a liar, and his word is not in us.
+            </p>
+           </td>
+          </tr>
+         </table>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
+<center>
+ <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+  <tr>
+   <td class="prev">
+    &lt;
+    <a href="68001.htm">
+     previous
+    </a>
+   </td>
+   <td class="bookname">
+    First Epistle Of Saint John
+   </td>
+   <td class="next">
+    <a href="70001.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+  <tr>
+   <td class="prev">
+    &lt; previous
+   </td>
+   <td class="chapname">
+    Chapter 1
+   </td>
+   <td class="next">
+    <a href="69002.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+ </table>
+</center>
+<td class="adcol" valign="top">
+ <script>
+  side_ads ("../")
+ </script>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+ <tr>
+  <td class="botcenter">
+  </td>
+ </tr>
+</table>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+ var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+ <div class="statcounter">
+  <a href="http://statcounter.com/" target="_blank" title="web stats">
+   <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+  </a>
+ </div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

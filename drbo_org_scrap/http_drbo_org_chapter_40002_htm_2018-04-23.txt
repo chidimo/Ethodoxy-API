@@ -1,0 +1,456 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Habacuc (Habakkuk) Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/40002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/40002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="39001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Habacuc (Habakkuk)
+           </td>
+           <td class="next">
+            <a href="41001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="40001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="40003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="40001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="40003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The prophet is admonished to wait with faith. The enemies of God's people shall assuredly be punished.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               I
+               <u>
+                will stand
+               </u>
+               upon my watch, and fix my foot upon the tower: and I will watch, to see what will be said to me, and what I may answer to him that reproveth me.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And the Lord answered me, and said: Write the vision, and make it plain upon tables: that he that readeth it may run over it.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               For as yet the vision is far off, and it shall appear at the end, and shall not lie: if it make any delay, wait for it: for it shall surely come, and it shall not be slack.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               Behold, he that is unbelieving, his soul shall not be right in himself: but the just shall live in his faith.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               And
+               <u>
+                as wine deceiveth
+               </u>
+               him that drinketh it: so shall the proud man be, and he shall not be honoured: who hath enlarged his desire like hell: and is himself like death, and he is never satisfied: but will gather together unto him all nations, and heap together unto him all people.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Will stand"
+               </u>
+               : Waiting to see what the Lord will answer to my complaint, viz., that the Chaldeans, who are worse than the Jews, and who attribute all their success to their own strength, or to their idols, should nevertheless prevail over the people of the Lord. The Lord's answer is, that the prophet must wait with patience and faith: that all should be set right in due time; and the enemies of God and his people punished according to their deserts.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "As wine deceiveth"
+               </u>
+               : Viz., by affording only a short passing pleasure; followed by the evils and disgrace that are the usual consequences of drunkenness; so shall it be with the proud enemies of the people of God; whose success affordeth them only a momentary pleasure, followed by innumerable and everlasting evils.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               Shall not all these take up a parable against him, and a dark speech concerning him: and it shall be said: Woe to him that heapeth together that which is not his own? how long also doth he load himself with
+               <u>
+                thick clay
+               </u>
+               ?
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               Shall they not rise up suddenly that shall bite thee: and they be stirred up that shall tear thee, and thou shalt be a spoil to them?
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               Because thou hast spoiled many nations, all that shall be left of the people shall spoil thee: because of men's blood, and for the iniquity of the land, of the city, and of all that dwell therein.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               Woe to him that gathereth together an evil covetousness to his house, that his nest may be on high, and thinketh he may be delivered out of the hand of evil.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               Thou hast devised confusion to thy house, thou hast cut off many people, and thy soul hath sinned.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Thick clay"
+               </u>
+               : Ill-gotten goods, that, like mire, both burden and defile the soul.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               For the stone shall cry out of the wall: and the timber that is between the joints of the building, shall answer.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               Woe to him that buildeth a town with blood, and prepareth a city by iniquity.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               <u>
+                Are not these things
+               </u>
+               from the Lord of hosts? for
+               <u>
+                the people shall labour
+               </u>
+               in a great fire: and the nations in vain, and they shall faint.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               For the earth shall be filled, that men may know the glory of the Lord, as waters covering the sea.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Woe to him that giveth drink to his friend, and presenteth his gall, and maketh him drunk, that he may behold his nakedness.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "Are not these things"
+               </u>
+               : That is, shall not these punishments that are here recorded, come from the Lord upon him that is guilty of such crimes.-- Ibid.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "The people shall labour"
+               </u>
+               : Viz., the enemies of God's people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               Thou art filled with shame instead of glory: drink thou also, and fall fast asleep: the cup of the right hand of the Lord shall compass thee, and shameful vomiting shall be on thy glory.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               For
+               <u>
+                the iniquity of Libanus
+               </u>
+               shall cover thee, and the ravaging of beasts shall terrify them because of the blood of men, and the iniquity of the land, and of the city, and of all that dwell therein.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               What doth the graven thing avail, because the maker thereof hath graven it, a molten, and a false image? because the forger thereof hath trusted in a thing of his own forging, to make dumb idols.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               Woe to him that saith to wood: Awake: to the dumb stone: Arise: can it teach? Behold, it is laid over with gold, and silver, and there is no spirit in the bowels thereof.
+               <a href="/x/d?b=drb&amp;bk=40&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               But the Lord is in his holy temple: let all the earth keep silence before him.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "The iniquity of Libanus"
+               </u>
+               : That is, the iniquity committed by the Chaldeans against the temple of God, signified here by the name of Libanus.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="39001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Habacuc (Habakkuk)
+              </td>
+              <td class="next">
+               <a href="41001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="40001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="40003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

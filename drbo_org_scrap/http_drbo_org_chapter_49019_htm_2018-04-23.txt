@@ -1,0 +1,597 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Luke Chapter 19
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/49019.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/49019.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Luke
+           </td>
+           <td class="next">
+            <a href="50001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49018.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 19
+           </td>
+           <td class="next">
+            <a href="49020.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="49001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="49002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="49003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="49004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="49005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="49006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="49007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="49008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="49009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="49010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="49011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="49012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="49013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="49014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="49015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="49016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="49017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="49018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             19
+            </td>
+            <td width="30">
+             <a href="49020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="49021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="49022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="49023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="49024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Zacheus entertains Christ. The parable of the pounds. Christ rides upon an ass and weeps over Jerusalem.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=1-#x">
+                [1]
+               </a>
+               And entering in, he walked through Jericho.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=2-#x">
+                [2]
+               </a>
+               And behold, there was a man named Zacheus, who was the chief of the publicans, and he was rich.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=3-#x">
+                [3]
+               </a>
+               And he sought to see Jesus who he was, and he could not for the crowd, because he was low of stature.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=4-#x">
+                [4]
+               </a>
+               And running before, he climbed up into a sycamore tree, that he might see him; for he was to pass that way.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=5-#x">
+                [5]
+               </a>
+               And when Jesus was come to the place, looking up, he saw him, and said to him: Zacheus, make haste and come down; for this day I must abide in thy house.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=6-#x">
+                [6]
+               </a>
+               And he made haste and came down; and received him with joy.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=7-#x">
+                [7]
+               </a>
+               And when all saw it, they murmured, saying, that he was gone to be a guest with a man that was a sinner.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=8-#x">
+                [8]
+               </a>
+               But Zacheus standing, said to the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have wronged any man of any thing, I restore him fourfold.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=9-#x">
+                [9]
+               </a>
+               Jesus said to him: This day is salvation come to this house, because he also is a son of Abraham.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=10-#x">
+                [10]
+               </a>
+               For the Son of man is come to seek and to save that which was lost.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=11-#x">
+                [11]
+               </a>
+               As they were hearing these things, he added and spoke a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately be manifested.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=12-#x">
+                [12]
+               </a>
+               He said therefore: A certain nobleman went into a far country, to receive for himself a kingdom, and to return.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=13-#x">
+                [13]
+               </a>
+               And calling his ten servants,
+               <u>
+                he gave them ten pounds
+               </u>
+               , and said to them: Trade till I come.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=14-#x">
+                [14]
+               </a>
+               But his citizens hated him: and they sent an embassage after him, saying: We will not have this man to reign over us.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=15-#x">
+                [15]
+               </a>
+               And it came to pass, that he returned, having received the kingdom: and he commanded his servants to be called, to whom he had given the money, that he might know how much every man had gained by trading.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "He gave them ten pounds"
+               </u>
+               : In the original, what is here translated a pound, is in Latin, mina, in value of our coin, three pounds two shillings and sixpence.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=16-#x">
+                [16]
+               </a>
+               And the first came, saying: Lord, thy pound hath gained ten pounds.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=17-#x">
+                [17]
+               </a>
+               And he said to him: Well done, thou good servant, because thou hast been faithful in a little, thou shalt have power over ten cities.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=18-#x">
+                [18]
+               </a>
+               And the second came, saying: Lord, thy pound hath gained five pounds.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=19-#x">
+                [19]
+               </a>
+               And he said to him: Be thou also over five cities.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=20-#x">
+                [20]
+               </a>
+               And another came, saying: Lord, behold here is thy pound, which I have kept laid up in a napkin;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=21-#x">
+                [21]
+               </a>
+               For I feared thee, because thou art an austere man: thou takest up what thou didst not lay down, and thou reapest that which thou didst not sow.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=22-#x">
+                [22]
+               </a>
+               He saith to him: Out of thy own mouth I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up what I laid not down, and reaping that which I did not sow:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=23-#x">
+                [23]
+               </a>
+               And why then didst thou not give my money into the bank, that at my coming, I might have exacted it with usury?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=24-#x">
+                [24]
+               </a>
+               And he said to them that stood by: Take the pound away from him, and give it to him that hath ten pounds.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=25-#x">
+                [25]
+               </a>
+               And they said to him: Lord, he hath ten pounds.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=26-#x">
+                [26]
+               </a>
+               But I say to you, that to every one that hath shall be given, and he shall abound: and from him that hath not, even that which he hath, shall be taken from him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=27-#x">
+                [27]
+               </a>
+               But as for those my enemies, who would not have me reign over them, bring them hither, and kill them before me.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=28-#x">
+                [28]
+               </a>
+               And having said these things, he went before, going up to Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=29-#x">
+                [29]
+               </a>
+               And it came to pass, when he was come nigh to Bethphage and Bethania, unto the mount called Olivet, he sent two of his disciples,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=30-#x">
+                [30]
+               </a>
+               Saying: Go into the town which is over against you, at your entering into which you shall find the colt of an ass tied, on which no man ever hath sitten: loose him, and bring him hither.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=31-#x">
+                [31]
+               </a>
+               And if any man shall ask you: Why do you loose him? you shall say thus unto him: Because the Lord hath need of his service.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=32-#x">
+                [32]
+               </a>
+               And they that were sent, went their way, and found the colt standing, as he had said unto them.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=33-#x">
+                [33]
+               </a>
+               And as they were loosing the colt, the owners thereof said to them: Why loose you the colt?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=34-#x">
+                [34]
+               </a>
+               But they said: Because the Lord hath need of him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=35-#x">
+                [35]
+               </a>
+               And they brought him to Jesus. And casting their garments on the colt, they set Jesus thereon.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=36-#x">
+                [36]
+               </a>
+               And as he went, they spread their clothes underneath in the way.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=37-#x">
+                [37]
+               </a>
+               And when he was now coming near the descent of mount Olivet, the whole multitude of his disciples began with joy to praise God with a loud voice, for all the mighty works they had seen,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=38-#x">
+                [38]
+               </a>
+               Saying: Blessed be the king who cometh in the name of the Lord, peace in heaven, and glory on high!
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=39-#x">
+                [39]
+               </a>
+               And some of the Pharisees, from amongst the multitude, said to him: Master, rebuke thy disciples.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=40-#x">
+                [40]
+               </a>
+               To whom he said: I say to you, that if these shall hold their peace, the stones will cry out.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=41-#x">
+                [41]
+               </a>
+               And when he drew near, seeing the city, he wept over it, saying:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=42-#x">
+                [42]
+               </a>
+               If thou also hadst known, and that in this thy day, the things that are to thy peace; but now they are hidden from thy eyes.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=43-#x">
+                [43]
+               </a>
+               For the days shall come upon thee, and thy enemies shall cast a trench about thee, and compass thee round, and straiten thee on every side,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=44-#x">
+                [44]
+               </a>
+               And beat thee flat to the ground, and thy children who are in thee: and they shall not leave in thee a stone upon a stone: because thou hast not known the time of thy visitation.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=45-#x">
+                [45]
+               </a>
+               And entering into the temple, he began to cast out them that sold therein, and them that bought.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=46-#x">
+                [46]
+               </a>
+               Saying to them: It is written: My house is the house of prayer. But you have made it a den of thieves.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=47-#x">
+                [47]
+               </a>
+               And he was teaching daily in the temple. And the chief priests and the scribes and the rulers of the people sought to destroy him:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=19&amp;l=48-#x">
+                [48]
+               </a>
+               And they found not what to do to him: for all the people were very attentive to hear him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Luke
+              </td>
+              <td class="next">
+               <a href="50001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49018.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 19
+              </td>
+              <td class="next">
+               <a href="49020.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

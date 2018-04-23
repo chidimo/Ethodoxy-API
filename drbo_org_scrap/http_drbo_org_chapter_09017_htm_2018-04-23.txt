@@ -1,0 +1,665 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Kings (1 Samuel) Chapter 17
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/09017.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/09017.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="08001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Kings (1 Samuel)
+           </td>
+           <td class="next">
+            <a href="10001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="09016.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 17
+           </td>
+           <td class="next">
+            <a href="09018.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="09001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="09002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="09003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="09004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="09005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="09006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="09007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="09008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="09009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="09010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="09011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="09012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="09013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="09014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="09015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="09016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             17
+            </td>
+            <td width="30">
+             <a href="09018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="09019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="09020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="09021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="09022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="09023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="09024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="09025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="09026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="09027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="09028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="09029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="09030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="09031.htm">
+              31
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               War with the Philistines. Goliath challengeth Israel. He is slain by David.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=1-#x">
+                [1]
+               </a>
+               Now the Philistines gathering together their troops to battle, assembled at Socho of Juda, and camped between Socho and Azeca in the borders of Dommim.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=2-#x">
+                [2]
+               </a>
+               And Saul and the children of Israel being gathered together came to the valley of Terebinth, and they set the army in array to fight against the Philistines.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=3-#x">
+                [3]
+               </a>
+               And the Philistines stood on a mountain on the one side, and Israel stood on a mountain on the other side: and there was a valley between them.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=4-#x">
+                [4]
+               </a>
+               And there went out a man baseborn from the camp of the Philistines named Goliath, of Geth, whose height was six cubits and a span:
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=5-#x">
+                [5]
+               </a>
+               And he had a helmet of brass upon his head, and he was clothed with a coat of mail with scales, and the weight of his coat of mail was five thousand sicles of brass:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=6-#x">
+                [6]
+               </a>
+               And he had greaves of brass on his legs, and a buckler of brass covered his shoulders.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=7-#x">
+                [7]
+               </a>
+               And the staff of his spear was like a weaver's beam, and the head of his spear weighed six hundred sicles of iron: and his armourbearer went before him.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=8-#x">
+                [8]
+               </a>
+               And standing he cried out to the bands of Israel, and said to them: Why are you come out prepared to fight? am not I a Philistine, and you the servants of Saul? Choose out a man of you, and let him come down and fight hand to hand.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=9-#x">
+                [9]
+               </a>
+               If he be able to fight with me, and kill me, we will be servants to you: but if I prevail against him, and kill him, you shall be servants, and shall serve us.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=10-#x">
+                [10]
+               </a>
+               And the Philistine said: I have defied the bands of Israel this day: Give me a man, and let him fight with me hand to hand.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=11-#x">
+                [11]
+               </a>
+               And Saul and all the Israelites hearing these words of the Philistine were dismayed, and greatly afraid.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=12-#x">
+                [12]
+               </a>
+               Now David was the son of that Ephrathite of Bethlehem Juda before mentioned, whose name was Isai, who had eight sons, and was an old man in the days of Saul, and of great age among men.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=13-#x">
+                [13]
+               </a>
+               And his three eldest sons followed Saul to the battle: and the names of his three sons that went to the battle, were Eliab the firstborn, and the second Abinadab, and the third Samma.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=14-#x">
+                [14]
+               </a>
+               But David was the youngest. So the three eldest having followed Saul,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=15-#x">
+                [15]
+               </a>
+               David went, and returned from Saul, to feed his father's flock at Bethlehem.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=16-#x">
+                [16]
+               </a>
+               Now the Philistine came out morning and evening, and presented himself forty days.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=17-#x">
+                [17]
+               </a>
+               And Isai said to David his son: Take for thy brethren an ephi of frumenty, and these ten loaves, and run to the camp to thy brethren.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=18-#x">
+                [18]
+               </a>
+               And carry these ten little cheeses to the tribune: and go see thy brethren, if they are well: and learn with whom they are placed.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=19-#x">
+                [19]
+               </a>
+               But Saul, and they, and all the children of Israel were in the valley of Terebinth fighting against the Philistines.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=20-#x">
+                [20]
+               </a>
+               David therefore arose in the morning, and gave the charge of the flock to the keeper: and went away loaded as Isai had commanded him. And he came to the place of Magala, and to the army, which was going out to fight, and shouted for the battle.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=21-#x">
+                [21]
+               </a>
+               For Israel had put themselves in array, and the Philistines who stood against them were prepared.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=22-#x">
+                [22]
+               </a>
+               And David leaving the vessels which he had brought, under the care of the keeper of the baggage, ran to the place of the battle and asked if all things went well with his brethren.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=23-#x">
+                [23]
+               </a>
+               And as he talked with them, that baseborn man whose name was Goliath, the Philistine, of Geth, shewed himself coming up from the camp of the Philistines: and he spoke according to the same words, and David heard them.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=24-#x">
+                [24]
+               </a>
+               And all the Israelites when they saw the man, fled from his face, fearing him exceedingly.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=25-#x">
+                [25]
+               </a>
+               And some one of Israel said: Have you seen this man that is come up, for he is come up to defy Israel. And the man that shall slay him, the king will enrich with great riches, and will give him his daughter, and will make his father's house free from tribute in Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=26-#x">
+                [26]
+               </a>
+               And David spoke to the men that stood by him, saying: What shall be given to the man that shall kill this Philistine, and shall take away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living God?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=27-#x">
+                [27]
+               </a>
+               And the people answered him the same words saying: These things shall be given to the man that shall slay him.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=28-#x">
+                [28]
+               </a>
+               Now when Eliab his eldest brother heard this, when he was speaking with others, he was angry with David, and said: Why earnest thou hither? and why didst thou leave those few sheep in the desert? I know thy pride, and the wickedness of thy heart: that thou art come down to see the battle.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=29-#x">
+                [29]
+               </a>
+               And David said: What have I done? is there not cause to speak?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=30-#x">
+                [30]
+               </a>
+               And he turned a little aside from him to another: and said the same word. And the people answered him as before.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=31-#x">
+                [31]
+               </a>
+               And the words which David spoke were heard, and were rehearsed before Saul.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=32-#x">
+                [32]
+               </a>
+               And when he was brought to him, he said to him: Let not any man's heart be dismayed in him: I thy servant will go, and will fight against the Philistine.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=33-#x">
+                [33]
+               </a>
+               And Saul said to David: Thou art not able to withstand this Philistine, nor to fight against him: for thou art but a boy, but he is a warrior from his youth.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=34-#x">
+                [34]
+               </a>
+               And David said to Saul: Thy servant kept his father's sheep, and there came a lion, or a bear, and took a ram out of the midst of the flock:
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=35-#x">
+                [35]
+               </a>
+               And I pursued after them, and struck them, and delivered it out of their mouth: and they rose up against me, and I caught them by the throat, and I strangled and killed them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=36-#x">
+                [36]
+               </a>
+               For I thy servant have killed both a lion and a bear: and this uncircumcised Philistine shall be also as one of them. I will go now, and take away the reproach of the people: for who is this uncircumcised Philistine, who hath dared to curse the army of the living God?
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=37-#x">
+                [37]
+               </a>
+               And David said: The Lord who delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said to David: Go, and the Lord be with thee.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=38-#x">
+                [38]
+               </a>
+               And Saul clothed David with his garments, and put a helmet of brass upon his head, and armed him with a coat of mail.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=39-#x">
+                [39]
+               </a>
+               And David having girded his sword upon his armour, began to try if he could walk in armour: for he was not accustomed to it. And David said to Saul: I cannot go thus, for I am not used to it. And he laid them off,
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=40-#x">
+                [40]
+               </a>
+               And he took his staff, which he had always in his hands: and chose him five smooth stones out of the brook, and put them into the shepherd's scrip, which he had with him, and he took a sling in his hand, and went forth against the Philistine.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=41-#x">
+                [41]
+               </a>
+               And the Philistine came on, and drew nigh against David, and his armourbearer before him.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=42-#x">
+                [42]
+               </a>
+               And when the Philistine looked, and beheld David, he despised him. For he was a young man, ruddy, and of a comely countenance.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=43-#x">
+                [43]
+               </a>
+               And the Philistine said to David: Am I a dog, that thou comest to me with a staff? And the Philistine cursed David by his gods.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=44-#x">
+                [44]
+               </a>
+               And he said to David: Come to me, and I will give thy flesh to the birds of the air, and to the beasts of the earth.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=45-#x">
+                [45]
+               </a>
+               And David said to the Philistine: Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, which thou hast defied.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=46-#x">
+                [46]
+               </a>
+               This day, and the Lord will deliver thee into my hand, and I will slay thee, and take away thy head from thee: and I will give the carcasses of the army of the Philistines this day to the birds of the air, and to the beasts of the earth: that all the earth may know that there is a God in Israel.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=47-#x">
+                [47]
+               </a>
+               And all this assembly shall know, that the Lord saveth not with sword and spear: for it is his battle, and he will deliver you into our hands.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=48-#x">
+                [48]
+               </a>
+               And when the Philistine arose and was coming, and drew nigh to meet David, David made haste, and ran to the fight to meet the Philistine.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=49-#x">
+                [49]
+               </a>
+               And he put his hand into his scrip, and took a stone, and cast it with the sling, and fetching it about struck the Philistine in the forehead: and the stone was fixed in his forehead, and he fell on his face upon the earth.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=50-#x">
+                [50]
+               </a>
+               And David prevailed over the Philistine, with a sling and a stone, and he struck, and slew the Philistine. And as David had no sword in his hand,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=51-#x">
+                [51]
+               </a>
+               He ran, and stood over the Philistine, and took his sword, and drew it out of the sheath, and slew him, and cut off his head. And the Philistines seeing that their champion was dead, fled away.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=52-#x">
+                [52]
+               </a>
+               And the men of Israel and Juda rising up shouted, and pursued after the Philistines till they came to the valley and to the gates of Accaron, and there fell many wounded of the Philistines in the way of Saraim, and as far as Geth, and as far as Accaron.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=53-#x">
+                [53]
+               </a>
+               And the children of Israel returning, after they had pursued the Philistines, fell upon their camp.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=54-#x">
+                [54]
+               </a>
+               And David taking the head of the Philistine brought it to Jerusalem: but his armour he put in his tent.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=55-#x">
+                [55]
+               </a>
+               Now at the time that Saul saw David going out against the Philistines, he said to Abner the captain of the army: Of what family is this young man descended, Abner? And Abner said: As thy soul liveth, O king, I know not.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=56-#x">
+                [56]
+               </a>
+               And the king said: Inquire thou, whose son this man is.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=57-#x">
+                [57]
+               </a>
+               And when David was returned, after the Philistine was slain, Abner took him, and brought him in before Saul, with the head of the Philistine in his hand.
+               <a href="/x/d?b=drb&amp;bk=9&amp;ch=17&amp;l=58-#x">
+                [58]
+               </a>
+               And Saul said to him: Young man, of what family art thou? And David said: I am the son of thy servant Isai the Bethlehemite.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="08001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Kings (1 Samuel)
+              </td>
+              <td class="next">
+               <a href="10001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="09016.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 17
+              </td>
+              <td class="next">
+               <a href="09018.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

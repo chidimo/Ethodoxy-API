@@ -1,0 +1,473 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Acts Of Apostles Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/51006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/51006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            The Acts Of The Apostles
+           </td>
+           <td class="next">
+            <a href="52001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="51005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="51007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="51001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="51002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="51003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="51004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="51005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="51007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="51008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="51009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="51010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="51011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="51012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="51013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="51014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="51015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="51016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="51017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="51018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="51019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="51020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="51021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="51022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="51023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="51024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="51025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="51026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="51027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="51028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The ordination of the seven deacons. The zeal of Stephen.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               And in those days, the number of the disciples increasing, there arose a murmuring of the
+               <u>
+                Greeks
+               </u>
+               against the Hebrews, for that their widows were neglected in the daily ministration.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               Then the twelve calling together the multitude of the disciples, said: It is not reason that we should leave the word of God, and serve tables.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               Wherefore, brethren, look ye out among you seven men of good reputation, full of the Holy Ghost and wisdom, whom we may appoint over this business.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               But we will give ourselves continually to prayer, and to the ministry of the word.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               And the saying was liked by all the multitude. And they chose Stephen, a man full of faith, and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas, a proselyte of Antioch.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Greeks"
+               </u>
+               : So they called the Jews that were born and brought up in Greece.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               These they set before the apostles; and they praying, imposed hands upon them.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               And the word of the Lord increased; and the number of the disciples was multiplied in Jerusalem exceedingly: a great multitude also of the priests obeyed the faith.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               And Stephen, full of grace and fortitude, did great wonders and signs among the people.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               Now there arose some of that which is called the synagogue of the Libertines, and of the Cyrenians, and of the Alexandrians, and of them that were of Cilicia and Asia, disputing with Stephen.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               And they were not able to resist the wisdom and the spirit that spoke.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               Then they suborned men to say, they had heard him speak words of blasphemy against Moses and against God.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               And they stirred up the people, and the ancients, and the scribes; and running together, they took him, and brought him to the council.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               And they set up false witnesses, who said: This man ceaseth not to speak words against the holy place and the law.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the traditions which Moses delivered unto us.
+               <a href="/x/d?b=drb&amp;bk=51&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               And all that sat in the council, looking on him, saw his face as if it had been the face of an angel.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               The Acts Of The Apostles
+              </td>
+              <td class="next">
+               <a href="52001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="51005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="51007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

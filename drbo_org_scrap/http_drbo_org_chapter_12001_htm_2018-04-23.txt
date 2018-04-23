@@ -1,0 +1,449 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 4 Kings (2 Kings) Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/12001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/12001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="11001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Fourth Book Of Kings (2 Kings)
+         </td>
+         <td class="next">
+          <a href="13001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="12002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="12002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="12003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="12004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="12005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="12006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="12007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="12008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="12009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="12010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="12011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="12012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="12013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="12014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="12015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="12016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="12017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="12018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="12019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="12020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="12021.htm">
+            21
+           </a>
+          </td>
+          <td width="30">
+           <a href="12022.htm">
+            22
+           </a>
+          </td>
+          <td width="30">
+           <a href="12023.htm">
+            23
+           </a>
+          </td>
+          <td width="30">
+           <a href="12024.htm">
+            24
+           </a>
+          </td>
+          <td width="30">
+           <a href="12025.htm">
+            25
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Ochozias sendeth to consult Beelzebub: Elias foretelleth his death: and causeth fire to come down from heaven, upon two captains and their companies.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             And Moab rebelled against Israel, after the death of Achab.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             And Ochozias fell through the lattices of his upper chamber which he had in Samaria, and was sick: and he sent messengers, saying to them: Go, consult Beelzebub, the god of Accaron, whether I shall recover of this my illness.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And an angel of the Lord spoke to Elias the Thesbite, saying: Arise, and go up to meet the messengers of the king of Samaria, and say to them: Is there not a God in Israel, that ye go to consult Beelzebub the god of Accaron?
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             Wherefore thus saith the Lord: From the bed, on which thou art gone up, thou shalt not come down, but thou shalt surely die. And Elias went away.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And the messengers turned back to Ochozias. And he said to them: Why are you come back?
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             But they answered him: A man met us, and said to us: Go, and return to the king, that sent you, and you shall say to him: Thus saith the Lord: Is it because there was no God in Israel that thou sendest to Beelzebub the god of Accaron? Therefore thou shalt not come down from the bed, on which thou art gone up, but then shalt surely die.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And he said to them: What manner of man was he who met you, and spoke these words?
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             But they said: A hairy man with a girdle of leather about his loins. And he said: It is Elias the Thesbite.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And he sent to him a captain of fifty, and the fifty men that were under him. And he went up to him, and as he was sitting on the top of a hill, said to him: Man of God, the king hath commanded that thou come down.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And Elias answering, said to the captain of fifty: If I be a man of God,
+             <u>
+              let fire
+             </u>
+             come down from heaven, and consume thee, and thy fifty. And there came down fire from heaven, and consumed him, and the fifty that were with him.
+            </p>
+            <p class="note">
+             [10]
+             <u>
+              "Let fire"
+             </u>
+             : Elias was inspired to call for fire from heaven upon these captains, who came to apprehend him; not out of a desire to gratify any private passion; but to punish the insult offered to religion, to confirm his mission, and to shew how vain are the efforts of men against God, and his servants, whom he willeth to protect.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And again he sent to him another captain of fifty men, and his fifty with him. And he said to him: Man of God, thus saith the king: Make haste and come down.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             Elias answering, said: If I be a man of God, let fire come down from heaven, and consume thee and thy fifty. And fire came down from heaven, and consumed him and his fifty.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Again he sent a third captain of fifty men, and the fifty that were with him. And when he was come, he fell upon his knees, before Elias, and besought him and said: Man of God, despise not my life, and the lives of thy servants that are with me.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             Behold fire came down from heaven, and consumed the two first captains of fifty men, and the fifties that were with them: but now I beseech thee to spare my life.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And the angel of the Lord spoke to Elias, saying: Go down with him, fear not. He arose therefore, and went down with him to the king,
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             And said to him: Thus saith the Lord: Because thou hast sent messengers to consult Beelzebub the god of Accaron, as though there were not a God in Israel, of whom thou mightest inquire the word; therefore from the bed on which thou art gone up, thou shalt not come down, but thou shalt surely die.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             So he died according to the word of the Lord which Elias spoke, and Joram his brother reigned in his stead, in
+             <u>
+              the second year of Joram
+             </u>
+             the son of Josaphat king of Juda: because he had no son.
+             <a href="/x/d?b=drb&amp;bk=12&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             But the rest of the acts of Ochozias which he did, are they not written in the book of the words of the days of the kings of Israel?
+             <p class="note">
+              [17]
+              <u>
+               "The second year of Joram"
+              </u>
+              : Counted from the time that he was associated to the throne by his father Josaphat.
+             </p>
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="11001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Fourth Book Of Kings (2 Kings)
+            </td>
+            <td class="next">
+             <a href="13001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="12002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,392 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ruth Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/08001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/08001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="07001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Book Of Ruth
+         </td>
+         <td class="next">
+          <a href="09001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="08002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="08002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="08003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="08004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             Elimelech of Bethlehem going with his wife Noemi, and two sons, into the land of Moab, dieth there. His sons marry wives of that country and die without issue. Noemi returneth home with her daughter in law Ruth, who refuseth to part with her.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             In the days of one of the judges, when the judges ruled, there came a famine in the land. And a certain man of Bethlehem Juda, went to sojourn in the land of Moab with his wife and his two sons.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             He was named Elimelech, and his wife, Noemi: and his two sons, the one Mahalon, and the other Chelion, Ephrathites of Bethlehem Juda. And entering into the country of Moab, they abode there.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And Elimelech the husband of Noemi died: and she remained with her sons.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And they took wives of the women of Moab, of which one was called Orpha, and the other Ruth. And they dwelt there ten years.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And they both died, to wit, Mahalon and Chelion: and the woman was left alone, having lost both her sons and her husband.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And she arose to go from the land of Moab to her own country with both her daughters in law: for she had heard that the Lord had looked upon his people, and had given them food.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             Wherefore she went forth out of the place of her sojournment, with both her daughters in law: and being now in the way to return into the land of Juda,
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             She said to them: Go ye home to your mothers: the Lord deal mercifully with you, as you have dealt with the dead and with me.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             May he grant you to find rest in the houses of the husbands which you shall take. And she kissed them. And they lifted up their voice and began to weep,
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And to say: We will go on with thee to thy people.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             But she answered them: Return, my daughters: why come ye with me? have I any more sons in my womb, that you may hope for husbands of me?
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             Return again, my daughters, and go your ways: for I am now spent with age, and not fit for wedlock. Although I might conceive this night, and bear children,
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             If you would wait till they were grown up, and come to man's estate, you would be old women before you marry. Do not so, my daughters, I beseech you: for I am grieved the more for your distress, and the hand of the Lord is gone out against me.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And they lifted up their voice, and began to weep again: Orpha kissed her mother in law and returned: Ruth stuck close to her mother in law.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And Noemi said to her: Behold thy kinswoman is returned to her people, and
+             <u>
+              to her gods
+             </u>
+             , go thou with her.
+            </p>
+            <p class="note">
+             [15]
+             <u>
+              "To her gods"
+             </u>
+             : Noemi did not mean to persuade Ruth to return to the false gods she had formerly worshipped: but by this manner of speech, insinuated to her, that if she would go with her, she must renounce her false gods and return to the Lord the God of Israel.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             She answered: Be not against me, to desire that I should leave thee and depart: for whithersoever thou shalt go, I will go: and where thou shalt dwell, I also will dwell. Thy people shall be my people, and thy God my God.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             The land that shall receive thee dying, in the same will I die: and there will I be buried.
+             <u>
+              The Lord do so and so
+             </u>
+             to me, and add more also, if aught but death part me and thee.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             Then Noemi, seeing that Ruth was steadfastly determined to go with her, would not be against it, nor persuade her any more to return to her friends:
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             So they went together and came to Bethlehem. And when they were come into the city, the report was quickly spread among all: and the women said: This is that Noemi.
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             But she said to them: Call me not Noemi, (that is, beautiful,) but call me Mara, (that is, bitter,) for the Almighty hath quite filled me with bitterness.
+            </p>
+            <p class="note">
+             [17]
+             <u>
+              "The Lord do so and so"
+             </u>
+             : A form of swearing usual in the history of the Old Testament, by which the person wished such and such evils to fall upon them, if they did not do what they said.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             I went out full, and the Lord hath brought me back empty. Why then do you call me Noemi, whom the Lord hath humbled and the Almighty hath afflicted?
+             <a href="/x/d?b=drb&amp;bk=8&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             So Noemi came with Ruth the Moabitess her daughter in law, from the land of her sojournment: and returned into Bethlehem, in the beginning of the barley harvest.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="07001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Book Of Ruth
+            </td>
+            <td class="next">
+             <a href="09001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="08002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

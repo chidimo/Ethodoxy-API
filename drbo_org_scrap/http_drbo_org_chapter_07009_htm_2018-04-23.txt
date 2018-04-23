@@ -1,0 +1,655 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/07009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/07009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judges
+           </td>
+           <td class="next">
+            <a href="08001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="07008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="07010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="07001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="07002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="07003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="07004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="07005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="07006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="07007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="07008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="07010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="07011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="07012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="07013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="07014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="07015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="07016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="07017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="07018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="07019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="07020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="07021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Abimelech killeth his brethren. Joatham's parable. Gaal conspireth with the Sichemites against Abimelech, but is overcome. Abimelech destroyeth Sichem: but is killed at Thebes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And Abimelech the son of Jerobaal went to Sichem to his mother's brethren and spoke to them, and to all the kindred of his mother's father, saying:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               Speak to all the men of Sichem: whether is better for you that seventy men all the sons of Jerobaal should rule over you, or that one man should rule over you? And withal consider that I am your bone, and your flesh.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               And his mother's brethren spoke of him to all the men of Sichem, all these words, and they inclined their hearts after Abimelech, saying: He is our brother:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               And they gave him seventy weight of silver out of the temple of
+               <u>
+                Baalberith
+               </u>
+               : wherewith he hired to himself men that were needy, and vagabonds, and they followed him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               And he came to his father's house in Ephra, and slew his brethren the sons of Jerobaal, seventy men, upon one stone: and there remained only Joatham the youngest son of Jerobaal, who was hidden.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Baalberith"
+               </u>
+               : That is, Baal of the covenant, so called from the covenant they had made with Baal, chap. 8. 33.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               And all the men of Sichem were gathered together, and all the families of the city of Mello: and they went and made Abimelech king, by the oak that stood in Sichem.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               This being told to Joatham, he went and stood on the top of mount Garizim: and lifting up his voice, he cried, and said: Hear me, ye men of Sichem, so may God hear you.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               The trees went to anoint a king over them: and they said to the olive tree: Reign thou over us.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               And it answered: Can I leave my fatness, which
+               <u>
+                both gods and men make use of
+               </u>
+               , to come to be promoted among the trees?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And the trees said to the fig tree: Come thou and reign over us.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "Both gods and men make use of"
+               </u>
+               : The olive tree is introduced, speaking in this manner, because oil was used both in the worship of the true God, and in that of the false gods, whom the Sichemites served.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               And it answered them: Can I leave my sweetness, and my delicious fruits, and go to be promoted among the other trees?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               And the trees said to the vine: Come thou and reign over us.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               And it answered them: Can I forsake my wine, that
+               <u>
+                cheereth God and men
+               </u>
+               , and be promoted among the other trees?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               And all the trees said to the bramble: Come thou and reign over us.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               And it answered them: If indeed you mean to make me king, come ye and rest under my shadow: but if you mean it not, let fire come out from the bramble, and devour the cedars of Libanus.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "Cheereth God and men"
+               </u>
+               : Wine is here represented as agreeable to God, because he had appointed it to be offered up with his sacrifices. But we are not obliged to take these words, spoken by the trees, in Joatham's parable, according to the strict literal sense: but only in a sense accomodated to the design of the parable expressed in the conclusion of it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               Now therefore if you have done well, and without sin in appointing Abimelech king over you, and have dealt well with Jerobaal, and with his house, and have made a suitable return for the benefits of him, who fought for you,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               And exposed his life to dangers, to deliver you from the hands of Madian,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               And you are now risen up against my father's house, and have killed his sons seventy men upon one stone, and have made Abimelech the son of his handmaid king over the inhabitants of Sichem, because he is your brother:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               If therefore you have dealt well, and without fault with Jerobaal, and his house, rejoice ye this day in Abimelech, and may he rejoice in you.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               But if unjustly: let fire come out from him, and consume the inhabitants of Sichem, and the town of Mello: and let fire come out from the men of Sichem, and from the town of Mello, and devour Abimelech.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               And when he had said thus he fled, and went into Bera: and dwelt there for fear of Abimelech his brother.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               So Abimelech reigned over Israel for three years.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               And the Lord sent a very evil spirit between Abimelech and the inhabitants of Sichem: who began to detest him,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               And to leave the crime of the murder of the seventy sons of Jerobaal, and the shedding of their blood upon Abimelech their brother, and upon the rest of the princes of the Sichemites, who aided him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               And they set an ambush against him on the top of the mountains: and while they waited for his coming, they committed robberies, taking spoils of all that passed by: and it was told Abimelech.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               And Gaal the son of Obed came with his brethren, and went over to Sichem. And the inhabitants of Sichem taking courage at his coming,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               Went out into the fields, wasting the vineyards, and treading down the grapes: and singing and dancing they went into the temple of their god, and in their banquets and cups they cursed Abimelech.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               And Gaal the son of Obed cried: Who is Abimelech, and what is Sichem, that we should serve him? Is he not the son of Jerobaal, and hath made Zebul his servant ruler over the men of Emor the father of Sichem? Why then shall we serve him?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               Would to God that some man would put this people under my hand, that I might remove Abimelech out of the way. And it was said to Abimelech: Gather together the multitude of an army, and come.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               For Zebul the ruler of the city, hearing the words of Gaal, the son of Obed, was very angry,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               And sent messengers privately to Abimelech, saying: Behold Gaal the son of Obed is come into Sichem with his brethren, and endeavoureth to set the city against thee.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=32-#x">
+                [32]
+               </a>
+               Arise therefore in the night with the people that is with thee and he hid in the field:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=33-#x">
+                [33]
+               </a>
+               And betimes in the morning at sun rising set upon the city. And when he shall come out against thee with his people, do to him what thou shalt be able.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=34-#x">
+                [34]
+               </a>
+               Abimelech therefore arose with all his army by night, and laid ambushes near Sichem in four places.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=35-#x">
+                [35]
+               </a>
+               And Gaal the son of Obed went out, and stood in the entrance of the gate of the city. And Abimelech rose up, and all his army with him from the places of the ambushes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=36-#x">
+                [36]
+               </a>
+               And when Gaal saw the people, he said to Zebul: Behold a multitude cometh down from the mountains. And he answered him: Thou seest the shadows of the mountains as if they were the heads of men, and this is thy mistake.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=37-#x">
+                [37]
+               </a>
+               Again Gaal said: Behold there cometh people down from the middle of the land, and one troop cometh by the way that looketh towards the oak.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=38-#x">
+                [38]
+               </a>
+               And Zebul said to him: Where is now thy mouth wherewith thou saidst? Who is Abimelech that we should serve him? Is not this the people which thou didst despise? Go out, and fight against him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=39-#x">
+                [39]
+               </a>
+               So Gaal went out in the sight of the people of Sichem, and fought against Abimelech,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=40-#x">
+                [40]
+               </a>
+               Who chased and put him to flight, and drove him to the city: and many were slain of his people, even to the gate of the city:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=41-#x">
+                [41]
+               </a>
+               And Abimelech sat down in Ruma: but Zebul drove Gaal, and his companions out of the city, and would not suffer them to abide in it.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=42-#x">
+                [42]
+               </a>
+               So the day following the people went out into the field. And it was told Abimelech.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=43-#x">
+                [43]
+               </a>
+               And he took his army, and divided it into three companies, and laid ambushes in the fields. And seeing that the people came out of the city, he arose and set upon them,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=44-#x">
+                [44]
+               </a>
+               With his own company, assaulting and besieging the city: whilst the two other companies chased the enemies that were scattered about the field.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=45-#x">
+                [45]
+               </a>
+               And Abimelech assaulted the city all that day: and took it, and killed the inhabitants thereof, and demolished it, so that he
+               <u>
+                sowed salt
+               </u>
+               in it.
+              </p>
+              <p class="note">
+               [45]
+               <u>
+                "Sowed salt"
+               </u>
+               : To make the ground barren, and fit for nothing.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=46-#x">
+                [46]
+               </a>
+               And when they who dwelt in the tower of Sichem had heard this, they went into the temple of their god Berith where they had made a covenant with him, and from thence the place had taken its name, and it was exceeding strong.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=47-#x">
+                [47]
+               </a>
+               Abimelech also hearing that the men of the tower of Sichem were gathered together,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=48-#x">
+                [48]
+               </a>
+               Went up into mount Selmon he and all his people with him: and taking an axe, he cut down the bough of a tree, and laying it on his shoulder and carrying it, he said to his companions: What you see me do, do you out of hand.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=49-#x">
+                [49]
+               </a>
+               So they cut down boughs from the trees, every man as fast as he could, and followed their leader. And surrounding the fort they set it on fire: and so it came to pass that with the smoke and with the fire a thousand persons were killed, men and women together, of the inhabitants of the tower of Sichem.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=50-#x">
+                [50]
+               </a>
+               Then Abimelech departing from thence came to the town of Thebes, which he surrounded and besieged with his army.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=51-#x">
+                [51]
+               </a>
+               And there was in the midst of the city a high tower, to which both the men and the women were fled together, and all the princes of the city, and having shut and strongly barred the gate, they stood upon the battlements of the tower to defend themselves.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=52-#x">
+                [52]
+               </a>
+               And Abimelech coming near the tower, fought stoutly: and approaching to the gate, endeavoured to set fire to it:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=53-#x">
+                [53]
+               </a>
+               And behold a certain woman casting a piece of a millstone from above, dashed it against the head of Abimelech, and broke his skull.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=54-#x">
+                [54]
+               </a>
+               And he called hastily to his armourbearer, and said to him: Draw thy sword, and kill me: lest it should be said that I was slain by a woman. He did as he was commanded, and slew him.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=55-#x">
+                [55]
+               </a>
+               And when he was dead, all the men of Israel that were with him, returned to their homes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=56-#x">
+                [56]
+               </a>
+               And God repaid the evil, that Abimelech had done against his father, killing his seventy brethren.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=9&amp;l=57-#x">
+                [57]
+               </a>
+               The Sichemites also were rewarded for what they had done, and the curse of Joatham the son of Jerobaal came upon them.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judges
+              </td>
+              <td class="next">
+               <a href="08001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="07008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="07010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

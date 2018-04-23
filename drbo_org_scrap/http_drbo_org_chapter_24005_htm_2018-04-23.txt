@@ -1,0 +1,422 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Canticles (Solomon) Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/24005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/24005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="23001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Canticle Of Canticles (Song Of Solomon)
+           </td>
+           <td class="next">
+            <a href="25001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="24004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="24006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="24001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="24002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="24003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="24004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="24006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="24007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="24008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ calls his spouse: she languishes with love: and describes him by his graces.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               <u>
+                Let my beloved come into his garden
+               </u>
+               , and eat the fruit of his apple trees. I am come into my garden, O my sister, my spouse, I have gathered my myrrh, with my aromatical spices: I have eaten the honeycomb with my honey, I have drunk my wine with my milk: eat, O friends, and drink, and be inebriated, my dearly beloved.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               I sleep, and my heart watcheth; the voice of my beloved knocking: Open to me, my sister, my love, my dove, my undefiled: for my head is full of dew, and my locks of the drops of the nights.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               I have put off my garment, how shall I put it on? I have washed my feet, how shall I defile them?
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               <u>
+                My beloved put his hand through the key hole
+               </u>
+               , and my bowels were moved at his touch.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               I arose up to open to my beloved: my hands dropped with myrrh, and my fingers were full of the choicest myrrh.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Let my beloved come into his garden"
+               </u>
+               : Garden, mystically the church of Christ, abounding with fruit, that is, the good works of the elect.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "My beloved put his hand through the key hole"
+               </u>
+               : The spouse of Christ, his church, at times as it were penned up by its persecutors, and in fears, expecting the divine assistance, here signified by his hand: and ver. 6, but he had turned aside and was gone, that is, Christ permitting a further trial of suffering: and again, ver. 7, the keepers, etc., signifying the violent and cruel persecutors of the church taking her veil, despoiling the church of its places of worship and ornaments for the divine service.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               I opened the bolt of my door to my beloved: but he had turned aside, and was gone. My soul melted when he spoke: I sought him, and found him not: I called, and he did not answer me.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               The keepers that go about the city found me: they struck me: and wounded me: the keepers of the walls took away my veil from me.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               I adjure you, O daughters of Jerusalem, if you find my beloved, that you tell him that I languish with love.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               What manner of one is thy beloved of the beloved, O thou most beautiful among women? what manner of one is thy beloved of the beloved, that thou hast so adjured us?
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               <u>
+                My beloved
+               </u>
+               is white and ruddy, chosen out of thousands.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "My beloved"
+               </u>
+               : In this and the following verses, the church mystically describes Christ to those who know him not, that is, to infidels in order to convert them to the true faith.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               His head is as the finest gold: his locks as branches of palm trees, black as a raven.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               His eyes as doves upon brooks of waters, which are washed with milk, and sit beside the plentiful streams.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               His cheeks are as beds of aromatical spices set by the perfumers. His lips are as lilies dropping choice myrrh.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               His hands are turned and as of gold, full of hyacinths. His belly as of ivory, set with sapphires.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               His legs as pillars of marble, that are set upon bases of gold. His form as of Libanus, excellent as the cedars.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               His throat most sweet, and he is all lovely: such is my beloved, and he is my friend, O ye daughters of Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=24&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               Whither is thy beloved gone, O thou most beautiful among women? whither is thy beloved turned aside, and we will seek him with thee?
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="23001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Canticle Of Canticles (Song Of Solomon)
+              </td>
+              <td class="next">
+               <a href="25001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="24004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="24006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

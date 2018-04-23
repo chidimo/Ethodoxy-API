@@ -1,0 +1,580 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Paralipomenon (2 Chronicles) Chapter 32
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/14032.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/14032.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            2 Paralipomenon (2 Chronicles)
+           </td>
+           <td class="next">
+            <a href="15001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14031.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 32
+           </td>
+           <td class="next">
+            <a href="14033.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="14001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="14002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="14003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="14004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="14005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="14006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="14007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="14008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="14009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="14010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="14011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="14012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="14013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="14014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="14015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="14016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="14017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="14018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="14019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="14020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="14021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="14022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="14023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="14024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="14025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="14026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="14027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="14028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="14029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="14030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="14031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             32
+            </td>
+            <td width="30">
+             <a href="14033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="14034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="14035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="14036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Sennacherib invadeth Juda: his army is destroyed by an angel. Ezechias recovereth from his sickness: his other acts.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=1-#x">
+                [1]
+               </a>
+               After these things, and this truth, Sennacherib king of the Assyrians came and entered into Juda, and besieged the fenced cities, desiring to take them.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=2-#x">
+                [2]
+               </a>
+               And when Ezechias saw that Sennacherib was come, and that the whole force of the war was turning against Jerusalem,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=3-#x">
+                [3]
+               </a>
+               He took counsel with the princes, and the most valiant men, to stop up the heads of the springs, that were without the city: and as they were all of this mind,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=4-#x">
+                [4]
+               </a>
+               He gathered together a very great multitude, and they stopped up all the springs, and the brook, that ran through the midst of the land, saying: Lest the kings of the Assyrians should come, and And abundance of water.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=5-#x">
+                [5]
+               </a>
+               He built up also with great diligence all the wall that had been broken down, and built towers upon it, and another wall without: and he repaired Mello in the city of David, and made all sorts of arms and shields:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=6-#x">
+                [6]
+               </a>
+               And he appointed captains of the soldiers of the army: and he called them all together in the street of the gate of the city, and spoke to their heart, saying:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=7-#x">
+                [7]
+               </a>
+               Behave like men, and take courage: be not afraid nor dismayed for the king of the Assyrians, nor for all the multitude that is with him: for there are many more with us than with him.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=8-#x">
+                [8]
+               </a>
+               For with him is an arm of flesh: with us the Lord our God, who is our helper, and fighteth for us. And the people were encouraged with these words of Ezechias king of Juda.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=9-#x">
+                [9]
+               </a>
+               After this, Sennacherib king of the Assyrians sent his servants to Jerusalem, (for he with all his army was besieging Lachis,) to Ezechias king of Juda, and to all the people that were in the city, saying:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=10-#x">
+                [10]
+               </a>
+               Thus saith Sennacherib king of the Assyrians: In whom do you trust, that you sit still besieged in Jerusalem?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=11-#x">
+                [11]
+               </a>
+               Doth not Ezechias deceive you, to give you up to die by hunger and thirst, affirming that the Lord your God shall deliver you from the hand of the king of the Assyrians?
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=12-#x">
+                [12]
+               </a>
+               Is it not this same Ezechias, that hath destroyed his high places, and his altars, and commanded Juda and Jerusalem, saying: You shall worship before one altar, and upon it you shall burn incense?
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=13-#x">
+                [13]
+               </a>
+               Know you not what I and my fathers have done to all the people of the lands? have the gods of any nations and lands been able to deliver their country out of my hand?
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=14-#x">
+                [14]
+               </a>
+               Who is there among all the gods of the nations, which my fathers have destroyed, that could deliver his people out of my hand, that your God should be able to deliver you out of this hand?
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=15-#x">
+                [15]
+               </a>
+               Therefore let not Ezechias deceive you, nor delude you with a vain persuasion, and do not believe him. For if no god of all the nations and kingdoms, could deliver his people out of my hand, and out of the hand of my fathers, consequently neither shall your God be able to deliver you out of my hand.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=16-#x">
+                [16]
+               </a>
+               And many other things did his servants speak against the Lord God, and against Ezechias his servant.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=17-#x">
+                [17]
+               </a>
+               He wrote also letters full of blasphemy against the Lord the God of Israel, and he spoke against him: As the gods of other nations could not deliver their people out of my hand, so neither can the God of Ezechias deliver his people out of this hand.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=18-#x">
+                [18]
+               </a>
+               Moreover he cried out with a loud voice, in the Jews' tongue, to the people that sat on the walls of Jerusalem, that he might frighten them, and take the city.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=19-#x">
+                [19]
+               </a>
+               And he spoke against the God of Jerusalem, as against the gods of the people of the earth, the works of the hands of men.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=20-#x">
+                [20]
+               </a>
+               And Ezechias the king, and Isaias the prophet the son of Amos, prayed against this blasphemy, and cried out to heaven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=21-#x">
+                [21]
+               </a>
+               And the Lord sent an angel who cut off all the stout men and the warriors, and the captains of the army of the king of the Assyrians: and he returned with disgrace into his own country. And when he was come into the house of his god, his sons that came out of his bowels, slew him with the sword.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=22-#x">
+                [22]
+               </a>
+               And the Lord saved Ezechias and the inhabitants of Jerusalem, out of the hand of Sennacherib king of the Assyrians, and out of the hand of all, and gave them treasures on every side.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=23-#x">
+                [23]
+               </a>
+               Many also brought victims, and sacrifices to the Lord to Jerusalem, and presents to Ezechias king of Juda: and he was magnified thenceforth in the sight of all nations.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=24-#x">
+                [24]
+               </a>
+               In those days Ezechias was sick even to death, and he prayed to the Lord: and he heard him, and gave him a sign.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=25-#x">
+                [25]
+               </a>
+               But he did not render again according to the benefits which he had received, for his heart was lifted up: and wrath was enkindled against him, and against Juda and Jerusalem.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=26-#x">
+                [26]
+               </a>
+               And he humbled himself afterwards, because his heart had been lifted up, both he and the inhabitants of Jerusalem: and therefore the wrath of the Lord came not upon them in the days of Ezechias.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=27-#x">
+                [27]
+               </a>
+               And Ezechias was rich, and very glorious, and he gathered himself great treasures of silver and of gold, and of precious stones, of spices, and of arms, of all kinds, and of vessels of great price.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=28-#x">
+                [28]
+               </a>
+               Storehouses also of corn, of wine, and of oil, and stalls for all beasts, and folds for cattle.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=29-#x">
+                [29]
+               </a>
+               And he built himself cities: for he had flocks of sheep, and herds without number, for the Lord had given him very much substance.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=30-#x">
+                [30]
+               </a>
+               This same Ezechias was, he that stopped the upper source of the waters of Gihon, and turned them away underneath toward the west of the city of David: in ail his works he did prosperously what he would.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=31-#x">
+                [31]
+               </a>
+               But yet in the embassy of the princes of Babylon, that were sent to him, to inquire of the wonder that had happened upon the earth, God left him that he might be tempted, and all things might be made known that were in his heart.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=32-#x">
+                [32]
+               </a>
+               Now the rest of the acts of Ezechias, and of his mercies are written in the book of the kings of Juda and Israel.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=32&amp;l=33-#x">
+                [33]
+               </a>
+               And Ezechias slept with his fathers, and they buried him above the sepulchres of the sons of David: and all Juda, and all the inhabitants of Jerusalem celebrated his funeral: and Manasses his son reigned in his stead.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               2 Paralipomenon (2 Chronicles)
+              </td>
+              <td class="next">
+               <a href="15001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14031.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 32
+              </td>
+              <td class="next">
+               <a href="14033.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

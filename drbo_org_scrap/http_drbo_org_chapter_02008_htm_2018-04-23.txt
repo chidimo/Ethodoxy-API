@@ -1,0 +1,640 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="02009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="02003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The second plague is of frogs: Pharao promiseth to let the Israelites go, but breaketh his promise. The third plague is of sciniphs. The fourth is of flies. Pharao again promiseth to dismiss the people, but doth it not.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord said to Moses: Go in to Pharao, and thou shalt say to him: Thus saith the Lord: Let my people go to sacrifice to me.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               But if thou wilt not let them go behold I will strike all thy coasts with frogs.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And the river shall bring forth an abundance of frogs: which shall come up, and enter into thy house, and thy bedchamber, and upon thy bed, and in the houses of thy servants, and to thy people, and into thy ovens, and into the remains of thy meats;
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               And the frogs shall come in to thee and to thy people, and to all thy servants.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               And the Lord said to Moses: Say to Aaron, Stretch forth thy hand upon the streams and upon the rivers and the pools, and bring forth frogs upon the land of Egypt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               And Aaron stretched forth his hand upon the waters of Egypt, and the frogs came up, and covered the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               And the magicians also by their enchantments did in like manner, and the brought forth frogs upon all the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               But Pharao called Moses and Aaron and said to them:
+               <u>
+                Pray ye to the Lord
+               </u>
+               to take away the frogs from me and from my people; and I will let the people go to sacrifice to the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               And Moses said to Pharao: Set me a time when I shall pray for thee, and for thy servants, and for thy people, that the frogs may be driven away from thee and from thy house, and from thy servants, and from thy people: and may remain only in the river.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               And he answered: Tomorrow. But he said: I will do according to thy word; that thou mayst know that there is none like to the Lord our God.
+              </p>
+              <p class="note">
+               [8]
+               <u>
+                "Pray ye to the Lord"
+               </u>
+               : By this it appears, that though the magicians, by the help of the devil, could bring frogs, yet they could not take them away: God being pleased to abridge in this the power of Satan. So we see they could not afterwards produce the lesser insects; and in this restraint of the power of the devil, were forced to acknowledge the finger of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And the frogs shall depart from thee, and from thy house, and from thy servants, and from thy people; and shall remain only in the river.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               And Moses and Aaron went forth from Pharao: and Moses cried to the Lord for the promise, which he had made to Pharao concerning the frogs.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               And the Lord did according to the word of Moses: and the frogs died out of the houses, and out of the villages, and out of the fields:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               And they gathered them together into immense heaps, and the land was corrupted.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               And Pharao seeing that rest was given,
+               <u>
+                hardened his own heart
+               </u>
+               , and did not hear them, as the Lord had commanded.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "Hardened his own heart"
+               </u>
+               : By this we see that Pharao was himself the efficient cause of his heart being hardened, and not God.-- See the same repeated in ver. 32. Pharao hardened his heart at this time also: likewise chap. 9. 7, 35, and chap. 13. 15.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               And the Lord said to Moses: Say to Aaron, Stretch forth thy rod, and strike the dust of the earth: and may there be
+               <u>
+                sciniphs
+               </u>
+               in all the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               And they did so. And Aaron stretched forth his hand, holding the rod: and he struck the dust of the earth, and there came sciniphs on men and on beasts: all the dust of the earth was turned into sciniphs through all the land of Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               And the magicians with their enchantments practiced in like manner, to bring forth sciniphs, and they could not and there were sciniphs as well on men as on beasts.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               And the magicians said to Pharao This is the finger of God. And Pharao heart was hardened, and he hearkened not unto them, as the Lord had commanded.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               The Lord also said to Moses: Arise early, and stand before Pharao: for he will go forth to the waters: and thou shalt say to him: Thus saith the Lord: Let my people go to sacrifice to me.
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "Sciniphs"
+               </u>
+               : Or Cinifs, Hebrew Chinnim, small flying insects, very troublesome both to men and beast.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               But if thou wilt not let them go, behold I will send in upon thee, and upon thy servants, and upon thy houses all kind of flies: and the houses of the Egyptians shall be filled with flies of divers kinds, and the whole land wherein they shall be.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               And I will make the land of Gessen wherein my people is, wonderful in that lay, so that flies shall not be there: and thou shalt know that I am the Lord in the midst of the earth.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               And I will put a division between my people and thy people: tomorrow shall this sign be.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               And the Lord did so. And there came a very grievous swarm of flies into he houses of Pharao and of his servants, and into all the land of Egypt: and the land was corrupted by this kind of flies.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               And Pharao called Moses and Aaron, and said to them: Go, and sacrifice to your God in this land.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               And Moses said: It cannot be so: for we shall sacrifice
+               <u>
+                the abominations
+               </u>
+               of the Egyptians to the Lord our God: now if we kill those things which the Egyptians worship, in their presence, they will stone us.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=27-#x">
+                [27]
+               </a>
+               We will go three days' journey into the wilderness: and we will sacrifice to the Lord our God, as he hath commanded us.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=28-#x">
+                [28]
+               </a>
+               And Pharao said: I will let you go to sacrifice to the Lord your God in the wilderness: but go no farther: pray for me.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=29-#x">
+                [29]
+               </a>
+               And Moses said: I will go out from thee, and will pray to the Lord: and the flies shall depart from Pharao, and from his servants, and from his people tomorrow: but do not deceive any more, in not letting the people go to sacrifice to the Lord.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=30-#x">
+                [30]
+               </a>
+               So Moses went out from Pharao, and prayed to the Lord.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "The abominations"
+               </u>
+               : That is, the things they worship for Gods: oxen, rams, etc. It is the usual style of the scriptures to call all idols and false gods, abominations, to signify how much the people of God ought to detest and abhor them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=31-#x">
+                [31]
+               </a>
+               And he did according to his word: and he took away the flies from Pharao, and from his servants, and from his people: there was not left so much as one.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=8&amp;l=32-#x">
+                [32]
+               </a>
+               And Pharao's heart was hardened, so that neither this time would he let the people go.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="02009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

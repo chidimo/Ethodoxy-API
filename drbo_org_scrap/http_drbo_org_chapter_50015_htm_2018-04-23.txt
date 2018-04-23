@@ -1,0 +1,492 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 15
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50015.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50015.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50014.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 15
+           </td>
+           <td class="next">
+            <a href="50016.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             15
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               A continuation of Christ's discourse to his disciples.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=1-#x">
+                [1]
+               </a>
+               I am the true vine; and my Father is the husbandman.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=2-#x">
+                [2]
+               </a>
+               Every branch in me, that beareth not fruit, he will take away: and every one that beareth fruit, he will purge it, that it may bring forth more fruit.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=3-#x">
+                [3]
+               </a>
+               Now you are clean by reason of the word, which I have spoken to you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=4-#x">
+                [4]
+               </a>
+               Abide in me, and I in you. As the branch cannot bear fruit of itself, unless it abide in the vine, so neither can you, unless you abide in me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=5-#x">
+                [5]
+               </a>
+               I am the vine: you the branches: he that abideth in me, and I in him, the same beareth much fruit: for without me you can do nothing.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=6-#x">
+                [6]
+               </a>
+               If any one abide not in me, he shall be cast forth as a branch, and shall wither, and they shall gather him up, and cast him into the fire, and he burneth.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=7-#x">
+                [7]
+               </a>
+               If you abide in me, and my words abide in you, you shall ask whatever you will, and it shall be done unto you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=8-#x">
+                [8]
+               </a>
+               In this is my Father glorified; that you bring forth very much fruit, and become my disciples.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=9-#x">
+                [9]
+               </a>
+               As the Father hath loved me, I also have loved you. Abide in my love.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=10-#x">
+                [10]
+               </a>
+               If you keep my commandments, you shall abide in my love; as I also have kept my Father's commandments, and do abide in his love.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=11-#x">
+                [11]
+               </a>
+               These things I have spoken to you, that my joy may be in you, and your joy may be filled.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=12-#x">
+                [12]
+               </a>
+               This is my commandment, that you love one another, as I have loved you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=13-#x">
+                [13]
+               </a>
+               Greater love than this no man hath, that a man lay down his life for his friends.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=14-#x">
+                [14]
+               </a>
+               You are my friends, if you do the things that I command you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=15-#x">
+                [15]
+               </a>
+               I will not now call you servants: for the servant knoweth not what his lord doth. But I have called you friends: because all things whatsoever I have heard of my Father, I have made known to you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=16-#x">
+                [16]
+               </a>
+               You have not chosen me: but I have chosen you; and have appointed you, that you should go, and should bring forth fruit; and your fruit should remain: that whatsoever you shall ask of the Father in my name, he may give it you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=17-#x">
+                [17]
+               </a>
+               These things I command you, that you love one another.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=18-#x">
+                [18]
+               </a>
+               If the world hate you, know ye, that it hath hated me before you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=19-#x">
+                [19]
+               </a>
+               If you had been of the world, the world would love its own: but because you are not of the world, but I have chosen you out of the world, therefore the world hateth you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=20-#x">
+                [20]
+               </a>
+               Remember my word that I said to you: The servant is not greater than his master. If they have persecuted me, they will also persecute you: if they have kept my word, they will keep yours also.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=21-#x">
+                [21]
+               </a>
+               But all these things they will do to you for my name's sake: because they know not him who sent me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=22-#x">
+                [22]
+               </a>
+               If I had not come, and spoken to them, they would not have sin; but now they have no excuse for their sin.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=23-#x">
+                [23]
+               </a>
+               He that hateth me, hateth my Father also.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=24-#x">
+                [24]
+               </a>
+               If I had not done among them the works that no other man hath done, they would not have sin; but now they have both seen and hated both me and my Father.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=25-#x">
+                [25]
+               </a>
+               But that the word may be fulfilled which is written in their law: They hated me without cause.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=26-#x">
+                [26]
+               </a>
+               But when the Paraclete cometh,
+               <u>
+                whom I will send
+               </u>
+               you from the Father, the Spirit of truth, who proceedeth from the Father, he shall give testimony of me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=15&amp;l=27-#x">
+                [27]
+               </a>
+               And you shall give testimony, because you are with me from the beginning.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "Whom I will send"
+               </u>
+               : This proves, against the modern Greeks, that the Holy Ghost proceedeth from the Son, as well as from the Father: otherwise he could not be sent by the Son.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50014.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 15
+              </td>
+              <td class="next">
+               <a href="50016.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

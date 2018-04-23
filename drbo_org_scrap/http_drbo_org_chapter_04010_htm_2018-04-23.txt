@@ -1,0 +1,594 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 10
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04010.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04010.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04009.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 10
+           </td>
+           <td class="next">
+            <a href="04011.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             10
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The silver trumpets and their use. They march from Sinai.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=2-#x">
+                [2]
+               </a>
+               Make thee two trumpets of beaten silver, wherewith thou mayest call together the multitude when the camp is to be removed.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=3-#x">
+                [3]
+               </a>
+               And when thou shalt sound the trumpets, all the multitude shall gather unto thee to the door of the tabernacle of the covenant.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=4-#x">
+                [4]
+               </a>
+               If thou sound but once, the princes and the heads of the multitude of Israel shall come to thee.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=5-#x">
+                [5]
+               </a>
+               But if the sound of the trumpets be longer, and with interruptions, they that are on the east side, shall first go forward.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=6-#x">
+                [6]
+               </a>
+               And at the second sounding and like noise of the trumpet, they who lie on the south side shall take up their tents. And after this manner shall the rest do, when the trumpets shall sound for a march.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=7-#x">
+                [7]
+               </a>
+               But when the people is to be gathered together, the sound of the trumpets shall be plain, and they shall not make a broken sound.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=8-#x">
+                [8]
+               </a>
+               And the sons of Aaron the priest shall sound the trumpets: and this shall be an ordinance for ever in your generations.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=9-#x">
+                [9]
+               </a>
+               If you go forth to war out of your land against the enemies that fight against you, you shall sound aloud with the trumpets, and there shall be a remembrance of you before the Lord your God, that you may be delivered out of the hands of your enemies.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=10-#x">
+                [10]
+               </a>
+               If at any time you shall have a banquet, and on your festival days, and on the first days of your months, you shall sound the trumpets over the holocausts, and the sacrifices of peace offerings, that they may be to you for a remembrance of your God. I am the Lord your God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=11-#x">
+                [11]
+               </a>
+               The second year, in the second month, the twentieth day of the month, the cloud was taken up from the tabernacle of the covenant.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=12-#x">
+                [12]
+               </a>
+               And the children of Israel marched by their troops from the desert of Sinai, and the cloud rested in the wilderness of Pharan.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=13-#x">
+                [13]
+               </a>
+               And the first went forward according to the commandment of the Lord by the hand of Moses.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=14-#x">
+                [14]
+               </a>
+               The sons of Juda by their troops: whose prince was Nahasson the son of Aminadab.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=15-#x">
+                [15]
+               </a>
+               In the tribe of the sons of Issachar, the prince was Nathanael the son of Suar.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=16-#x">
+                [16]
+               </a>
+               In the tribe of Zabulon, the prince was Eliab the son of Helon.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=17-#x">
+                [17]
+               </a>
+               And the tabernacle was taken down, and the sons of Gerson and Merari set forward, bearing it.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=18-#x">
+                [18]
+               </a>
+               And the sons of Ruben also marched, by their troops and ranks, whose prince was Helisur the son of Sedeur.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=19-#x">
+                [19]
+               </a>
+               And in the tribe of Simeon, the prince was Salamiel the son of Surisaddai.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=20-#x">
+                [20]
+               </a>
+               And in the tribe of Cad, the prince was Eliasaph the son of Duel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=21-#x">
+                [21]
+               </a>
+               Then the Caathites also marched carrying the sanctuary. So long was the tabernacle carried, till they came to the place of setting it up.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=22-#x">
+                [22]
+               </a>
+               The sons of Ephraim also moved their camp by their troops, in whose army the prince was Elisama the son of Ammiud.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=23-#x">
+                [23]
+               </a>
+               And in the tribe of the sons of Manasses, the prince was Gamaliel the son of Phadassur.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=24-#x">
+                [24]
+               </a>
+               And in the tribe of Benjamin, the prince was Abidan the son of Gedeon.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=25-#x">
+                [25]
+               </a>
+               The last of all the camp marched the sons of Dan by their troops, in whose army the prince was Ahiezer the son of Ammisaddai.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=26-#x">
+                [26]
+               </a>
+               And in the tribe of the sons of Aser, the prince was Phegiel the son of Ochran.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=27-#x">
+                [27]
+               </a>
+               And in the tribe of the sons of Nephtali, the prince was Ahira the son of Enan.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=28-#x">
+                [28]
+               </a>
+               This was the order of the camps, and marches of the children of Israel by their troops, when they set forward.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=29-#x">
+                [29]
+               </a>
+               And Moses said to Hobab the son of Raguel the Madianite, his kinsman: We are going towards the place which the Lord will give us: come with us, that we may do thee good: for the Lord hath promised good things to Israel.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=30-#x">
+                [30]
+               </a>
+               But he answered him: I will not go with thee, but I will return to my country, wherein I was born.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=31-#x">
+                [31]
+               </a>
+               And he said: Do not leave us: for thou knowest in what places we should encamp in the wilderness, and thou shalt be our guide.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=32-#x">
+                [32]
+               </a>
+               And if thou comest with us, we will give thee what is the best of the riches which the Lord shall deliver to us.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=33-#x">
+                [33]
+               </a>
+               So they marched from the mount of the Lord three days' journey, and the ark of the covenant of the Lord went before them, for three days providing a place for the camp.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=34-#x">
+                [34]
+               </a>
+               The cloud also of the Lord was over them by day when they marched.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=35-#x">
+                [35]
+               </a>
+               And when the ark was lifted up, Moses said: Arise, O Lord, and let thy enemies be scattered, and let them that hate thee, flee from before thy face.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=10&amp;l=36-#x">
+                [36]
+               </a>
+               And when it was set down, he said: Return, O Lord, to the multitude of the host of Israel.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04009.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 10
+              </td>
+              <td class="next">
+               <a href="04011.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,521 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Esdras (Nehemiah) Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/16009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/16009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Esdras (Nehemiah)
+           </td>
+           <td class="next">
+            <a href="17001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="16008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="16010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="16001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="16002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="16003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="16004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="16005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="16006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="16007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="16008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="16010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="16011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="16012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="16013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The people repent with fasting and sackcloth. The Levites confess God's benefits, and the people's ingratitude: they pray for them, and make a covenant with God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And in the four and twentieth day of the month the children of Israel came together with fasting and with sackcloth, and earth upon them.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               And the seed of the children of Israel separated themselves from every stranger: and they stood, and confessed their sins, and the iniquities of their fathers.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               And they rose up to stand: and they read in the book of the law of the Lord their God, four times in the day, and four times they confessed, and adored the Lord their God.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               And there stood up upon the seep of the Levites, Josue, and Bani, and Cedmihel, Sabania, Bonni, Sarebias, Bani, and Chanani: and they cried with a loud voice to the Lord their God.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               And the Levites Josue and Cedmihel, Bonni, Hasebnia, Serebia, Oduia, Sebnia, and Phathahia, said: Arise, bless the Lord your God from eternity to eternity: and blessed be the high name of thy glory with all blessing and praise.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               Thou thyself, O Lord alone, thou hast made heaven, and the heaven of heavens, and all the host thereof: the earth and all things that are in it: the seas and all that are therein: and thou givest life to all these things, and the host of heaven adoreth thee.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               Thou, O Lord God, art he who chosest Abram, and broughtest him forth out of
+               <u>
+                the fire of the Chaldeans
+               </u>
+               , and gavest him the name of Abraham.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               And thou didst find his heart faithful before thee: and thou madest a covenant with him, to give him the land of the Chanaanite, of the Hethite, and of the Amorrhite, and of the Pherezite, and of the Jebusite, and of the Gergezite, to give it to his seed: and thou hast fulfilled thy words, because thou art just.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               And thou sawest the affliction of our fathers in Egypt: and thou didst hear their cry by the Red Sea.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And thou shewedst signs and wonders upon Pharao, and upon all his servants, and upon the people of his land: for thou knewest that they dealt proudly against them: and thou madest thyself a name, as it is at this day.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "The fire of the Chaldeans"
+               </u>
+               : The city of Ur in Chaldea, the name of which signifies fire. Or out of the fire of the tribulations and temptations, to which he was there exposed.-- The ancient Rabbins understood this literally, affirming that Abram was cast into the fire by the idolaters, and brought out by a miracle without any hurt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               And thou didst divide the sea before them, and they passed through the midst of the sea on dry land: but their persecutors thou threwest into the depth, as a stone into mighty waters.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               And in a pillar of a cloud thou wast their leader by day, and in a pillar of fire by night, that they might see the way by which they went.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               Thou camest down also to mount Sinai, and didst speak with them from heaven, and thou gavest them right judgments, and the law of truth, ceremonies, and good precepts.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               Thou madest known to them thy holy sabbath, and didst prescribe to them commandments, and ceremonies, and the law by the hand of Moses thy servant.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               And thou gavest them bread from heaven in their hunger, and broughtest forth water for them out of the rock in their thirst, and thou saidst to them that they should go in, and possess the land, upon which thou hadst lifted up thy hand to give it them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               But they and our fathers dealt proudly, and hardened their necks and hearkened not to thy commandments.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               And they would not hear, and they remembered not thy wonders which thou hadst done for them. And they hardened their necks,
+               <u>
+                and gave the head
+               </u>
+               to return to their bondage, as it were by contention. But thou, a forgiving God, gracious, and merciful, longsuffering, and full of compassion, didst not forsake them.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               Yea when they had made also to themselves a molten calf, and had said: This is thy God, that brought thee out of Egypt: and hail committed great blasphemies:
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               Yet thou, in thy many mercies, didst not leave them in the desert: the pillar of the cloud departed not from them by day to lead them in the way, and the pillar of fire by night to shew them the way by which they should go.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               And thou gavest them thy good Spirit to teach them, and thy manna thou didst not withhold from their mouth, and thou gavest them water for their thirst.
+              </p>
+              <p class="note">
+               [17]
+               <u>
+                "And gave the head"
+               </u>
+               : That is, they set their head, or were bent to return to Egypt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               Forty years didst thou feed them in the desert, and nothing was wanting to them: their garments did not grow old, and their feet were not worn.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               And thou gavest them kingdoms, and nations, and didst divide lots for them: and they possessed the land of Sehon, and the land of the king of Hesebon, and the land of Og king of Basan.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               And thou didst multiply their children as the stars of heaven, and broughtest them to the land concerning which thou hadst said to their fathers, that they should go in and possess it.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               And the children came and possessed the land, and thou didst humble before them the inhabitants of the land, the Chanaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as it pleased them.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               And they took strong cities and a fat land, and possessed houses full of all goods: cisterns made by others, vineyards, and oliveyards, and fruit trees in abundance: and they ate, and were filled, and became fat, and abounded with delight in thy great goodness.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               But they provoked thee to wrath, and departed from thee, and threw thy law behind their backs: and they killed thy prophets, who admonished them earnestly to return to thee: and they were guilty of great blasphemies.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               And thou gavest them into the hands of their enemies, and they afflicted them. And in the time of their tribulation they cried to thee, and thou heardest from heaven, and according to the multitude of thy tender mercies thou gavest them saviours, to save them from the hands of their enemies.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               But after they had rest, they returned to do evil in thy sight: and thou leftest them in the hand of their enemies, and they had dominion over them. Then they returned, and cried to thee: and thou heardest from heaven, and deliveredst them many times in thy mercies.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               And thou didst admonish them to return to thy law. But they dealt proudly, and hearkened not to thy commandments, but sinned against thy judgments, which if a man do, he shall live in them: and they withdrew the shoulder, and hardened their neck, and would not hear.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=30-#x">
+                [30]
+               </a>
+               And thou didst forbear with them for many years, and didst testify against them by thy spirit by the hand of thy prophets: and they heard not, and thou didst deliver them into the hand of the people of the lands.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=31-#x">
+                [31]
+               </a>
+               Yet in thy very many mercies thou didst not utterly consume them, nor forsake them: because thou art a merciful and gracious God.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=32-#x">
+                [32]
+               </a>
+               Now therefore our God, great, strong and terrible, who keepest covenant and mercy, turn not away from thy face all the labour which hath come upon us, upon our kings, and our princes, and our priests, and our prophets, and our fathers, and all the people from the days of the king of Assur, until this day.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=33-#x">
+                [33]
+               </a>
+               And thou art just in all things that have come upon us: because thou hast done truth, but we have done wickedly.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=34-#x">
+                [34]
+               </a>
+               Our kings, our princes, our priests, and our fathers have not kept thy law, and have not minded thy commandments, and thy testimonies which thou hast testified among them.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=35-#x">
+                [35]
+               </a>
+               And they have not served thee in their kingdoms, and in thy manifold goodness, which thou gavest them, and in the large and fat land, which thou deliveredst before them, nor did they return from their most wicked devices.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=36-#x">
+                [36]
+               </a>
+               Behold we ourselves this day are bondmen: and the land, which thou gavest our fathers, to eat the bread thereof, and the good things thereof, and we ourselves are servants in it.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=37-#x">
+                [37]
+               </a>
+               And the fruits thereof grow up for the kings, whom thou hast set over us for our sins, and they have dominion over our bodies, and over our beasts, according to their will, and we are in great tribulation.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=9&amp;l=38-#x">
+                [38]
+               </a>
+               And because of all this we ourselves make a covenant, and write it, and our princes, our Levites, and our priests sign it.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Esdras (Nehemiah)
+              </td>
+              <td class="next">
+               <a href="17001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="16008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="16010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

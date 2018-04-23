@@ -1,0 +1,512 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Mark Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/48008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/48008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Mark
+           </td>
+           <td class="next">
+            <a href="49001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="48009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="48001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="48002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="48003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="48004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="48005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="48006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="48007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="48009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="48010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="48011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="48012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="48013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="48014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="48015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="48016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ feeds four thousand. He gives sight to a blind man. He foretells his passion.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               In those days again, when there was a great multitude, and had nothing to eat; calling his disciples together, he saith to them:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               I have compassion on the multitude, for behold they have now been with me three days, and have nothing to eat.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And if I shall send them away fasting to their home, they will faint in the way; for some of them came from afar off.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               And his disciples answered him: From whence can any one fill them here with bread in the wilderness?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               And he asked them: How many loaves have ye? Who said: Seven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               And taking the seven loaves, giving thanks, he broke, and gave to his disciples for to set before them; and they set them before the people.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               And they had a few little fishes; and he blessed them, and commanded them to be set before them.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               And they did eat and were filled; and they took up that which was left of the fragments, seven baskets.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               And they that had eaten were about four thousand; and he sent them away.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               And immediately going up into a ship with his disciples, he came into the parts of Dalmanutha.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And the Pharisees came forth, and began to question with him, asking him a sign from heaven, tempting him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               And sighing deeply in spirit, he saith: Why doth this generation seek a sign? Amen, I say to you, a sign shall not be given to this generation.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               And leaving them, he went up again into the ship, and passed to the other side of the water.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               And they forgot to take bread; and they had but one loaf with them in the ship.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               And he charged them, saying: Take heed and beware of the leaven of the Pharisees, and of the leaven of Herod.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               And they reasoned among themselves, saying: Because we have no bread.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               Which Jesus knowing, saith to them: Why do you reason, because you have no bread? do you not yet know nor understand? have you still your heart blinded?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               Having eyes, see you not? and having ears, hear you not? neither do you remember.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               When I broke the five loaves among five thousand, how many baskets full of fragments took you up? They say to him, Twelve.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               When also the seven loaves among four thousand, how many baskets of fragments took you up? And they say to him, Seven.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               And he said to them: How do you not yet understand?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               And they came to Bethsaida; and they bring to him a blind man, and they besought him that he would touch him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               And taking the blind man by the hand, he led him out of the town; and spitting upon his eyes, laying his hands on him, he asked him if he saw any thing.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               And looking up, he said: I see men as it were trees, walking.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               After that again he laid his hands upon his eyes, and he began to see, and was restored, so that he saw all things clearly.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               And he sent him into his house, saying: Go into thy house, and if thou enter into the town, tell nobody.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=27-#x">
+                [27]
+               </a>
+               And Jesus went out, and his disciples, into the towns of Caesarea Philippi. And in the way, he asked his disciples, saying to them: Whom do men say that I am?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=28-#x">
+                [28]
+               </a>
+               Who answered him, saying: John the Baptist; but some Elias, and others as one of the prophets.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=29-#x">
+                [29]
+               </a>
+               Then he saith to them: But whom do you say that I am? Peter answering said to him: Thou art the Christ.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=30-#x">
+                [30]
+               </a>
+               And he strictly charged them that they should not tell any man of him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=31-#x">
+                [31]
+               </a>
+               And he began to teach them, that the Son of man must suffer many things, and be rejected by the ancients and by the high priests, and the scribes, and be killed: and after three days rise again.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=32-#x">
+                [32]
+               </a>
+               And he spoke the word openly. And Peter taking him, began to rebuke him.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=33-#x">
+                [33]
+               </a>
+               Who turning about and seeing his disciples, threatened Peter, saying: Go behind me, Satan, because thou savorest not the things that are of God, but that are of men.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=34-#x">
+                [34]
+               </a>
+               And calling the multitude together with his disciples, he said to them: If any man will follow me, let him deny himself, and take up his cross, and follow me.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=35-#x">
+                [35]
+               </a>
+               For whosoever will save his life, shall lose it: and whosoever shall lose his life for my sake and the gospel, shall save it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=36-#x">
+                [36]
+               </a>
+               For what shall it profit a man, if he gain the whole world, and suffer the loss of his soul?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=37-#x">
+                [37]
+               </a>
+               Or what shall a man give in exchange for his soul?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=38-#x">
+                [38]
+               </a>
+               For he that shall be ashamed of me, and of my words, in this adulterous and sinful generation: the Son of man also will be ashamed of him, when he shall come in the glory of his Father with the holy angels.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=8&amp;l=39-#x">
+                [39]
+               </a>
+               And he said to them: Amen I say to you, that there are some of them that stand here, who shall not taste death, till they see the kingdom of God coming in power.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Mark
+              </td>
+              <td class="next">
+               <a href="49001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="48009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

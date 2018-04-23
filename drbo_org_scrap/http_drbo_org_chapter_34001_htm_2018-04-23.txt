@@ -1,0 +1,367 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Joel Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/34001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/34001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="33001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Prophecy Of Joel
+         </td>
+         <td class="next">
+          <a href="35001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="34002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="34002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="34003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The prophet describes the judgments that shall fall upon the people, and invites them to fasting and prayer.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The word of the Lord that came to Joel the son of Phatuel.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Hear this, ye old men, and give ear, all ye inhabitants of the land: did this ever happen in your days, or in the days of your fathers?
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             Tell ye of this to your children, and let your children tell their children, and their children to another generation.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             <u>
+              That which the palmerworm hath left
+             </u>
+             , the locust hath eaten: and that which the locust hath left, the bruchus hath eaten: and that which the bruchus hath left, the mildew hath destroyed.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             Awake, ye that are drunk, and weep, and mourn all ye that take delight in drinking sweet wine: for it is cut off from your mouth.
+            </p>
+            <p class="note">
+             [4]
+             <u>
+              "That which the palmerworm hath left"
+             </u>
+             : Some understand this literally of the desolation of the land by these insects: others understand it of the different invasions of the Chaldeans, or other enemies.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             For a nation is come up upon my land, strong and without number: his teeth are like the teeth of a lion: and his cheek teeth as of a lion's whelp.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             He hath laid my vineyard waste, and hath pilled off the bark of my fig tree: he hath stripped it bare, and cast it away; the branches thereof are made white.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             Lament like a virgin girded with sackcloth for the husband of her youth.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             Sacrifice and libation is cut off from the house of the Lord: the priests, the Lord's ministers, have mourned:
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             The country is destroyed, the ground hath mourned: for the corn is wasted, the wine is confounded, the oil hath languished.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             The husbandmen are ashamed, the vinedressers have howled for the wheat, and for the barley, because the harvest of the field is perished.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             The vineyard is confounded, and the fig tree hath languished: the pomegranate tree, and the palm tree, and the apple tree, and all the trees of the field are withered: because joy is withdrawn from the children of men.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             Gird yourselves, and lament, O ye priests, howl, ye ministers of the altars: go in, lie in sackcloth, ye ministers of my God: because sacrifice and libation is cut off from the house of your God.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             Sanctify ye a fast, call an assembly; gather together the ancients, all the inhabitants of the land into the house of your God: and cry ye to the Lord:
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             Ah, ah, ah, for the day: because the day of the Lord is at hand, and it shall come like destruction from the mighty.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             Is not your food cut off before your eyes, joy and gladness from the house of our God?
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             The beasts have rotted in their dung, the barns are destroyed, the storehouses are broken down: because the corn is confounded.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             Why did the beast groan, why did the herds of cattle low? because there is no pasture for them: yea, and the flocks of sheep are perished.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             To thee, O Lord, will I cry: because fire hath devoured the beautiful places of the wilderness, and the flame hath burnt all the trees of the country.
+             <a href="/x/d?b=drb&amp;bk=34&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             Yea and the beasts of the field have looked up to thee, as a garden bed that thirsteth after rain, for the springs of waters are dried up, and fire hath devoured the beautiful places of the wilderness.
+            </p>
+           </td>
+          </tr>
+         </table>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
+<center>
+ <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+  <tr>
+   <td class="prev">
+    &lt;
+    <a href="33001.htm">
+     previous
+    </a>
+   </td>
+   <td class="bookname">
+    Prophecy Of Joel
+   </td>
+   <td class="next">
+    <a href="35001.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+  <tr>
+   <td class="prev">
+    &lt; previous
+   </td>
+   <td class="chapname">
+    Chapter 1
+   </td>
+   <td class="next">
+    <a href="34002.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+ </table>
+</center>
+<td class="adcol" valign="top">
+ <script>
+  side_ads ("../")
+ </script>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+ <tr>
+  <td class="botcenter">
+  </td>
+ </tr>
+</table>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+ var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+ <div class="statcounter">
+  <a href="http://statcounter.com/" target="_blank" title="web stats">
+   <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+  </a>
+ </div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

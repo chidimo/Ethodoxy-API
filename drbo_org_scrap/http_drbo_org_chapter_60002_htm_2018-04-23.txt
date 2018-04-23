@@ -1,0 +1,428 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Thessalonians Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/60002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/60002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="59001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Epistle Of Saint Paul To The Thessalonians
+           </td>
+           <td class="next">
+            <a href="61001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="60001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="60003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="60001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="60003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The day of the Lord is not to come till the man of sin be revealed. The apostle's traditions are to be observed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               And we beseech you, brethren, by the coming of our Lord Jesus Christ, and of our gathering together unto him:
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               That you be not easily moved from your sense, nor be terrified, neither by spirit, nor by word, nor by epistle, as sent from us, as if the day of the Lord were at hand.
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               Let no man deceive you by any means, for unless there come
+               <u>
+                a revolt
+               </u>
+               first, and
+               <u>
+                the man of sin
+               </u>
+               be revealed, the son of perdition,
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               Who opposeth, and is lifted up above all that is called God, or that is worshipped, so that he sitteth
+               <u>
+                in the temple
+               </u>
+               of God, shewing himself as if he were God.
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               Remember you not, that when I was yet with you, I told you these things?
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "A revolt"
+               </u>
+               : This revolt, or falling off, is generally understood, by the ancient fathers, of a revolt from the Roman empire, which was first to be destroyed, before the coming of Antichrist. It may, perhaps, be understood also of a revolt of many nations from the Catholic Church; which has, in part, happened already, by means of Mahomet, Luther, &amp;c., and it may be supposed, will be more general in the days of the Antichrist.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "The man of sin"
+               </u>
+               : Here must be meant some particular man, as is evident from the frequent repetition of the Greek article: 'the man of sin, 'the son of perdition, 'the adversary or opposer. It agrees to the wicked and great Antichrist, who will come before the end of the world.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "In the temple"
+               </u>
+               : Either that of Jerusalem which some think he will rebuild; or in some Christian church, which he will pervert to his own worship: as Mahomet has done by the churches of the east.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               And now you know what withholdeth, that he may be revealed in his time.
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               For the mystery of iniquity already worketh; only that he who now holdeth, do hold, until he be taken out of the way.
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               And then that wicked one shall be revealed whom the Lord Jesus shall kill with the spirit of his mouth; and shall destroy with the brightness of his coming, him,
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               Whose coming is according to the working of Satan, in all power, and signs, and lying wonders,
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And in all seduction of iniquity to them that perish; because they receive not the love of the truth, that they might be saved. Therefore
+               <u>
+                God shall send
+               </u>
+               them the operation of error, to believe lying:
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "God shall send"
+               </u>
+               : That is God shall suffer them to be deceived by lying wonders, and false miracles, in punishment of their not entertaining the love of truth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               That all may be judged who have not believed the truth, but have consented to iniquity.
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               But we ought to give thanks to God always for you, brethren, beloved of God, for that God hath chosen you firstfruits unto salvation, in sanctification of the spirit, and faith of the truth:
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               Whereunto also he hath called you by our gospel, unto the purchasing of the glory of our Lord Jesus Christ.
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               Therefore, brethren, stand fast; and hold the
+               <u>
+                traditions
+               </u>
+               which you have learned, whether by word, or by our epistle.
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Now our Lord Jesus Christ himself, and God and our Father, who hath loved us, and hath given us everlasting consolation, and good hope in grace,
+              </p>
+              <p class="note">
+               [14]
+               <u>
+                "Traditions"
+               </u>
+               : See here that the unwritten traditions are no less to be received than their epistles.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=60&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               Exhort your hearts, and confirm you in every good work and word.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="59001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Epistle Of Saint Paul To The Thessalonians
+              </td>
+              <td class="next">
+               <a href="61001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="60001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="60003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

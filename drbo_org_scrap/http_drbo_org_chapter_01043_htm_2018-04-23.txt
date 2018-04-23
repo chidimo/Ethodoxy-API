@@ -1,0 +1,661 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 43
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01043.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01043.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01042.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 43
+           </td>
+           <td class="next">
+            <a href="01044.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="01003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             43
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The sons of Jacob go again into Egypt with Benjamin. They are entertained by Joseph.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=1-#x">
+                [1]
+               </a>
+               In the mean time the famine was heavy upon all the land.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=2-#x">
+                [2]
+               </a>
+               And when they had eaten up all the corn, which they had brought out of Egypt, Jacob said to his sons: Go again and buy us a little food.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=3-#x">
+                [3]
+               </a>
+               Juda answered: The man declared unto us with the attestation of an oath, saying: You shall not see my face, unless you bring your youngest brother with you.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=4-#x">
+                [4]
+               </a>
+               If therefore thou wilt send him with us, we will set out together, and will buy necessaries for thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=5-#x">
+                [5]
+               </a>
+               But if thou wilt not, we will not go: for the man, as we have often said, declared unto us, saying: You shall not see my face without your youngest brother.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=6-#x">
+                [6]
+               </a>
+               Israel said to them: You have done this for my misery in that you told him you had also another brother.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=7-#x">
+                [7]
+               </a>
+               But they answered: The man asked us in order concerning our kindred: if our father lived: if we had a brother: and we answered him regularly, according to what he demanded: could we know that he would say: Bring hither your brother with you?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=8-#x">
+                [8]
+               </a>
+               And Juda said to his father: Send the boy with me, that we may set forward, and may live: lest both we and our children perish.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=9-#x">
+                [9]
+               </a>
+               I take the boy upon me, require him at my hand: unless I bring him again, and restore him to thee, I will be guilty of sin against thee for ever.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=10-#x">
+                [10]
+               </a>
+               If delay had not been made, we had been here again the second time.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=11-#x">
+                [11]
+               </a>
+               Then Israel said to them: If it must needs be so, do what you will: take of the best fruits of the land in your vessels, and carry down presents to the man, a little
+               <u>
+                balm
+               </u>
+               , and honey, and storax, myrrh, turpentine, and almonds.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=12-#x">
+                [12]
+               </a>
+               And take with you double money, and carry back what you found in your sacks, lest perhaps it was done by mistake.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=13-#x">
+                [13]
+               </a>
+               And take also your brother, and go to the man.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=14-#x">
+                [14]
+               </a>
+               And may my almighty God make him favourable to you; and send back with you your brother, whom he keepeth, and this Benjamin: and as for me I shall be desolate without children.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=15-#x">
+                [15]
+               </a>
+               So the men took the presents, and double money, and Benjamin: and went down into Egypt, and stood before Joseph.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "Balm"
+               </u>
+               : Literally rosin, resinae; but here by that name is meant balm.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=16-#x">
+                [16]
+               </a>
+               And when he had seen them, and Benjamin with them, he commanded the steward of his house, saying: Bring in the men into the house, and kill victims, and prepare a feast: because they shall eat with me at noon.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=17-#x">
+                [17]
+               </a>
+               He did as he was commanded, and brought the men into the house.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=18-#x">
+                [18]
+               </a>
+               And they being much afraid, said there one to another: Because of the money, which we carried back the first time in our sacks, we are brought in: that he may bring upon us a false accusation, and by violence make slaves of us and our asses.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=19-#x">
+                [19]
+               </a>
+               Wherefore going up to the steward of the house, at the door,
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=20-#x">
+                [20]
+               </a>
+               They said: Sir, we desire thee to hear us: We came down once before to buy food:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=21-#x">
+                [21]
+               </a>
+               And when we had bought, and come to the inn, we opened our sacks, and found our money in the mouths of the sacks: which we have now brought again in the same weight.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=22-#x">
+                [22]
+               </a>
+               And we have brought other money besides, to buy what we want: we cannot tell who put it in our bags.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=23-#x">
+                [23]
+               </a>
+               But he answered: Peace be with you, fear not: your God, and the God of your father hath given you treasure in your sacks. For the money, which you gave me, I have for good. And he brought Simeon out to them.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=24-#x">
+                [24]
+               </a>
+               And having brought them into the house, he fetched water, and they washed their feet, and he gave provender to their asses.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=25-#x">
+                [25]
+               </a>
+               But they made ready the presents, against Joseph came at noon: for they had heard that they should eat bread there.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=26-#x">
+                [26]
+               </a>
+               Then Joseph came into his house, and they offered him the presents holding them in their hands, and they bowed down with their face to the ground.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=27-#x">
+                [27]
+               </a>
+               But he, courteously saluting them again, asked them, saying: Is the old man your father in health, of whom you told me? Is he yet living?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=28-#x">
+                [28]
+               </a>
+               And they answered: Thy servant our father is in health, he is yet living. And bowing themselves they made obeisance to him.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=29-#x">
+                [29]
+               </a>
+               And Joseph lifting up his eyes, saw Benjamin his brother, by the same mother, and said: Is this your young brother, of whom you told me? And he said: God be gracious to thee, my son.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=30-#x">
+                [30]
+               </a>
+               And he made haste because his heart was moved upon his brother, and tears gushed out: and going into his chamber he wept.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=31-#x">
+                [31]
+               </a>
+               And when he had washed his face, coming out again, he refrained himself, and said: Set bread on the table.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=32-#x">
+                [32]
+               </a>
+               And when it was set on, for Joseph apart, and for his brethren apart, for the Egyptians also that ate with him, apart, (for it is unlawful for the Egyptians to eat with the Hebrews, and they think such a feast profane):
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=33-#x">
+                [33]
+               </a>
+               They sat before him, the firstborn according to his birthright, and the youngest according to his age. And they wondered very much:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=43&amp;l=34-#x">
+                [34]
+               </a>
+               Taking the messes which they received of him: and the greater mess came to Benjamin, so that it exceeded by five parts. And they drank, and were merry with him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01042.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 43
+              </td>
+              <td class="next">
+               <a href="01044.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

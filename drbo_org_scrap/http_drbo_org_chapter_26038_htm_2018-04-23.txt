@@ -1,0 +1,694 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Ecclesiasticus Chapter 38
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/26038.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/26038.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="25001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Ecclesiasticus
+           </td>
+           <td class="next">
+            <a href="27001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="26037.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 38
+           </td>
+           <td class="next">
+            <a href="26039.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="26001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="26002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="26003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="26004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="26005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="26006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="26007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="26008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="26009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="26010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="26011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="26012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="26013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="26014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="26015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="26016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="26017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="26018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="26019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="26020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="26021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="26022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="26023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="26024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="26025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="26026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="26027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="26028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="26029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="26030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="26031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="26032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="26033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="26034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="26035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="26036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="26037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             38
+            </td>
+            <td width="30">
+             <a href="26039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="26040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="26041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="26042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="26043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="26044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="26045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="26046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="26047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="26048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="26049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="26050.htm">
+              50
+             </a>
+            </td>
+            <td width="30">
+             <a href="26051.htm">
+              51
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Of physicians and medicines: what is to be done in sickness, and how we are to mourn for the dead. Of the employments of labourers and artificers.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=1-#x">
+                [1]
+               </a>
+               Honour the physician for the need thou hast of him: for the most High hath created him.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=2-#x">
+                [2]
+               </a>
+               For all healing is from God, and he shall receive gifts of the king.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=3-#x">
+                [3]
+               </a>
+               The skill of the physician shall lift up his head, and in the sight of great men he shall be praised.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=4-#x">
+                [4]
+               </a>
+               The most High hath created medicines out of the earth, and a wise man will not abhor them.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=5-#x">
+                [5]
+               </a>
+               Was not bitter water made sweet with wood?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=6-#x">
+                [6]
+               </a>
+               The virtue of these things is come to the knowledge of men, and the meet High hath given knowledge to men, that he may be honoured in his wonders.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=7-#x">
+                [7]
+               </a>
+               By these he shall cure and shall allay their pains, and of these the apothecary shall make sweet confections, and shall make up ointments of health, and of his works there shall be no end.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=8-#x">
+                [8]
+               </a>
+               For the peace of God is over all the face of the earth.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=9-#x">
+                [9]
+               </a>
+               My son, in thy sickness neglect not thyself, but pray to the Lord, and he shall heal thee.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=10-#x">
+                [10]
+               </a>
+               Turn away from sin and order thy hands aright, and cleanse thy heart from all offence.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=11-#x">
+                [11]
+               </a>
+               Give a sweet savour, and a memorial of fine flour, and make a fat offering, and then give place to the physician.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=12-#x">
+                [12]
+               </a>
+               For the Lord created him: and let him not depart from thee, for his works are necessary.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=13-#x">
+                [13]
+               </a>
+               For there is a time when thou must fall into their hands:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=14-#x">
+                [14]
+               </a>
+               And they shall beseech the Lord, that he would prosper what they give for ease and remedy, for their conversation.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=15-#x">
+                [15]
+               </a>
+               He that sinneth in the sight of his Maker, shall fall into the hands of the physician.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=16-#x">
+                [16]
+               </a>
+               My son, shed tears over the dead, and begin to lament as if thou hadst suffered some great harm, and according to judgment cover his body, and neglect not his burial.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=17-#x">
+                [17]
+               </a>
+               And for fear of being ill spoken of weep bitterly for a, day, and then comfort thyself in thy sadness.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=18-#x">
+                [18]
+               </a>
+               And make mourning for him according to his merit for a day, or two, for fear of detraction.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=19-#x">
+                [19]
+               </a>
+               For of sadness cometh death, and it overwhelmeth the strength, and the sorrow of the heart boweth down the neck.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=20-#x">
+                [20]
+               </a>
+               In withdrawing aside sorrow remaineth: and the substance of the poor is according to his heart.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=21-#x">
+                [21]
+               </a>
+               Give not up thy heart to sadness, but drive it from thee: and remember the latter end.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=22-#x">
+                [22]
+               </a>
+               Forget it not: for there is no returning, and thou shalt do him no good, and shalt hurt thyself.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=23-#x">
+                [23]
+               </a>
+               Remember my judgment: for also shall be so: yesterday for me, and today for thee.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=24-#x">
+                [24]
+               </a>
+               When the dead is at rest, let his remembrance rest, and comfort him in the departing of his spirit.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=25-#x">
+                [25]
+               </a>
+               The wisdom of
+               <u>
+                a scribe
+               </u>
+               cometh by his time of leisure: and he that is less in action, shall receive wisdom.
+              </p>
+              <p class="note">
+               [25]
+               <u>
+                "A scribe"
+               </u>
+               : That is, a doctor of the law, or, a learned man.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=26-#x">
+                [26]
+               </a>
+               With what wisdom shall he be furnished that holdeth the plough, and that glorieth in the goad, that driveth the oxen therewith, and is occupied in their labours, and his whole talk is about the offspring of bulls?
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=27-#x">
+                [27]
+               </a>
+               He shall give his mind to turn up furrows, and his care is to give the kine fodder.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=28-#x">
+                [28]
+               </a>
+               So every craftsman and workmaster that laboureth night and day, he who maketh graven seals, and by his continual diligence varieth the figure: he shall give his mind to the resemblance of the picture, and by his watching shall finish the work.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=29-#x">
+                [29]
+               </a>
+               So doth the smith sitting by the anvil and considering the iron work. The vapour of the fire wasteth his flesh, and he fighteth with the heat of the furnace.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=30-#x">
+                [30]
+               </a>
+               The noise of the hammer is always in his ears, and his eye is upon the pattern of the vessel he maketh.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=31-#x">
+                [31]
+               </a>
+               He setteth his mind to finish his work, and his watching to polish them, to perfection.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=32-#x">
+                [32]
+               </a>
+               So doth the potter sitting at his work, turning the wheel about with his feet, who is always carefully set to his work, and maketh all his work by number:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=33-#x">
+                [33]
+               </a>
+               He fashioneth the clay with his arm, and boweth down his strength before his feet:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=34-#x">
+                [34]
+               </a>
+               He shall give his mind to finish the glazing, and his watching to make clean the furnace.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=35-#x">
+                [35]
+               </a>
+               All these trust to their hands, and every one is wise in his own art.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=36-#x">
+                [36]
+               </a>
+               Without these a city is not built.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=37-#x">
+                [37]
+               </a>
+               And they shall not dwell, nor walk about therein, and they shall not go up into the assembly.
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=38-#x">
+                [38]
+               </a>
+               Upon the judges' seat they shall not sit, and the ordinance of judgment they shall not understand, neither shall they declare discipline and judgment, and they shall not be found where parables are spoken:
+               <a href="/x/d?b=drb&amp;bk=26&amp;ch=38&amp;l=39-#x">
+                [39]
+               </a>
+               But they shall strengthen the state of the world, and their prayer shall be in the work of their craft, applying their soul, and searching in the law of the most High.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="25001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Ecclesiasticus
+              </td>
+              <td class="next">
+               <a href="27001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="26037.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 38
+              </td>
+              <td class="next">
+               <a href="26039.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

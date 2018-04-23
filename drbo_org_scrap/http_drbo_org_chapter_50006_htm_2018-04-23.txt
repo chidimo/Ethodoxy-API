@@ -1,0 +1,731 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="50007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ feeds five thousand with five loaves. He walks upon the sea and discourses of the bread of life.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               After these things Jesus went over the sea of Galilee, which is that of Tiberias.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               And a great multitude followed him, because they saw the miracles which he did on them that were diseased.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               Jesus therefore went up into a mountain, and there he sat with his disciples.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               Now the pasch, the festival day of the Jews, was near at hand.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               When Jesus therefore had lifted up his eyes, and seen that a very great multitude cometh to him, he said to Philip: Whence shall we buy bread, that these may eat?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               And this he said to try him; for he himself knew what he would do.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               Philip answered him: Two hundred pennyworth of bread is not sufficient for them, that every one may take a little.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               One of his disciples, Andrew, the brother of Simon Peter, saith to him:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               There is a boy here that hath five barley loaves, and two fishes; but what are these among so many?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               Then Jesus said: Make the men sit down. Now there was much grass in the place. The men therefore sat down, in number about five thousand.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               And Jesus took the loaves: and when he had given thanks, he distributed to them that were set down. In like manner also of the fishes, as much as they would.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               And when they were filled, he said to his disciples: Gather up the fragments that remain, lest they be lost.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               They gathered up therefore, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above to them that had eaten.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               Now those men, when they had seen what a miracle Jesus had done, said: This is of a truth the prophet, that is to come into the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               Jesus therefore, when he knew that they would come to take him by force, and make him king, fled again into the mountain himself alone.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               And when evening was come, his disciples went down to the sea.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               And when they had gone up into a ship, they went over the sea to Capharnaum; and it was now dark, and Jesus was not come unto them.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               And the sea arose, by reason of a great wind that blew.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               When they had rowed therefore about five and twenty or thirty furlongs, they see Jesus walking upon the sea, and drawing nigh to the ship, and they were afraid.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               But he saith to them: It is I; be not afraid.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               They were willing therefore to take him into the ship; and presently the ship was at the land to which they were going.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               The next day, the multitude that stood on the other side of the sea, saw that there was no other ship there but one, and that Jesus had not entered into the ship with his disciples, but that his disciples were gone away alone.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=23-#x">
+                [23]
+               </a>
+               But other ships came in from Tiberias; nigh unto the place where they had eaten the bread, the Lord giving thanks.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=24-#x">
+                [24]
+               </a>
+               When therefore the multitude saw that Jesus was not there, nor his disciples, they took shipping, and came to Capharnaum, seeking for Jesus.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=25-#x">
+                [25]
+               </a>
+               And when they had found him on the other side of the sea, they said to him: Rabbi, when camest thou hither?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=26-#x">
+                [26]
+               </a>
+               Jesus answered them, and said: Amen, amen I say to you, you seek me, not because you have seen miracles, but because you did eat of the loaves, and were filled.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=27-#x">
+                [27]
+               </a>
+               Labour not for the meat which perisheth, but for that which endureth unto life everlasting, which the Son of man will give you. For him hath God, the Father, sealed.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=28-#x">
+                [28]
+               </a>
+               They said therefore unto him: What shall we do, that we may work the works of God?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=29-#x">
+                [29]
+               </a>
+               Jesus answered, and said to them: This is the work of God, that you believe in him whom he hath sent.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=30-#x">
+                [30]
+               </a>
+               They said therefore to him: What sign therefore dost thou shew, that we may see, and may believe thee? What dost thou work?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=31-#x">
+                [31]
+               </a>
+               Our fathers did eat manna in the desert, as it is written: He gave them bread from heaven to eat.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=32-#x">
+                [32]
+               </a>
+               Then Jesus said to them: Amen, amen I say to you; Moses gave you not bread from heaven, but my Father giveth you the true bread from heaven.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=33-#x">
+                [33]
+               </a>
+               For the bread of God is that which cometh down from heaven, and giveth life to the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=34-#x">
+                [34]
+               </a>
+               They said therefore unto him: Lord, give us always this bread.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=35-#x">
+                [35]
+               </a>
+               And Jesus said to them: I am the bread of life: he that cometh to me shall not hunger: and he that believeth in me shall never thirst.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=36-#x">
+                [36]
+               </a>
+               But I said unto you, that you also have seen me, and you believe not.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=37-#x">
+                [37]
+               </a>
+               All that the Father giveth to me shall come to me; and him that cometh to me, I will not cast out.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=38-#x">
+                [38]
+               </a>
+               Because I came down from heaven, not to do my own will, but the will of him that sent me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=39-#x">
+                [39]
+               </a>
+               Now this is the will of the Father who sent me: that of all that he hath given me, I should lose nothing; but should raise it up again in the last day.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=40-#x">
+                [40]
+               </a>
+               And this is the will of my Father that sent me: that every one who seeth the Son, and believeth in him, may have life everlasting, and I will raise him up in the last day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=41-#x">
+                [41]
+               </a>
+               The Jews therefore murmured at him, because he had said: I am the living bread which came down from heaven.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=42-#x">
+                [42]
+               </a>
+               And they said: Is not this Jesus, the son of Joseph, whose father and mother we know? How then saith he, I came down from heaven?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=43-#x">
+                [43]
+               </a>
+               Jesus therefore answered, and said to them: Murmur not among yourselves.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=44-#x">
+                [44]
+               </a>
+               No man can come to me, except the Father, who hath sent me,
+               <u>
+                draw him
+               </u>
+               ; and I will raise him up in the last day.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=45-#x">
+                [45]
+               </a>
+               It is written in the prophets: And they shall all be taught of God. Every one that hath heard of the Father, and hath learned, cometh to me.
+              </p>
+              <p class="note">
+               [44]
+               <u>
+                "Draw him"
+               </u>
+               : Not by compulsion, nor by laying the free will under any necessity, but by the strong and sweet motions of his heavenly grace.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=46-#x">
+                [46]
+               </a>
+               Not that any man hath seen the Father; but he who is of God, he hath seen the Father.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=47-#x">
+                [47]
+               </a>
+               Amen, amen I say unto you: He that believeth in me, hath everlasting life.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=48-#x">
+                [48]
+               </a>
+               I am the bread of life.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=49-#x">
+                [49]
+               </a>
+               Your fathers did eat manna in the desert, and are dead.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=50-#x">
+                [50]
+               </a>
+               This is the bread which cometh down from heaven; that if any man eat of it, he may not die.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=51-#x">
+                [51]
+               </a>
+               I am the living bread which came down from heaven.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=52-#x">
+                [52]
+               </a>
+               If any man eat of this bread, he shall live for ever; and the bread that I will give, is my flesh, for the life of the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=53-#x">
+                [53]
+               </a>
+               The Jews therefore strove among themselves, saying: How can this man give us his flesh to eat?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=54-#x">
+                [54]
+               </a>
+               Then Jesus said to them: Amen, amen I say unto you: Except you
+               <u>
+                eat the flesh of the Son of man, and drink his blood
+               </u>
+               , you shall not have life in you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=55-#x">
+                [55]
+               </a>
+               He that eateth my flesh, and drinketh my blood, hath everlasting life: and I will raise him up in the last day.
+              </p>
+              <p class="note">
+               [54]
+               <u>
+                "Eat the flesh of the Son of man and drink his blood"
+               </u>
+               : To receive the body and blood of Christ, is a divine precept, insinuated in this text; which the faithful fulfil, though they receive but in one kind; because in one kind they receive both body and blood, which cannot be separated from each other. Hence, life eternal is here promised to the worthy receiving, though but in one kind. Ver. 52. If any man eat of this bread, he shall live for ever; and the bread that I will give, is my flesh for the life of the world. Ver. 58. He that eateth me, the same also shall live by me. Ver. 59. He that eateth this bread, shall live for ever.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=56-#x">
+                [56]
+               </a>
+               For my flesh is meat indeed: and my blood is drink indeed.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=57-#x">
+                [57]
+               </a>
+               He that eateth my flesh, and drinketh my blood, abideth in me, and I in him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=58-#x">
+                [58]
+               </a>
+               As the living Father hath sent me, and I live by the Father; so he that eateth me, the same also shall live by me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=59-#x">
+                [59]
+               </a>
+               This is the bread that came down from heaven. Not as your fathers did eat manna, and are dead. He that eateth this bread, shall live for ever.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=60-#x">
+                [60]
+               </a>
+               These things he said, teaching in the synagogue, in Capharnaum.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=61-#x">
+                [61]
+               </a>
+               Many therefore of his disciples, hearing it, said: This saying is hard, and who can hear it?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=62-#x">
+                [62]
+               </a>
+               But Jesus, knowing in himself, that his disciples murmured at this, said to them: Doth this scandalize you?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=63-#x">
+                [63]
+               </a>
+               <u>
+                If then you shall see
+               </u>
+               the Son of man ascend up where he was before?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=64-#x">
+                [64]
+               </a>
+               It is the spirit that quickeneth:
+               <u>
+                the flesh profiteth nothing
+               </u>
+               . The words that I have spoken to you,
+               <u>
+                are spirit and life
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=65-#x">
+                [65]
+               </a>
+               But there are some of you that believe not. For Jesus knew from the beginning, who they were that did not believe, and who he was, that would betray him.
+              </p>
+              <p class="note">
+               [63]
+               <u>
+                "If then you shall see"
+               </u>
+               : Christ by mentioning his ascension, by this instance of his power and divinity, would confirm the truth of what he had before asserted; and at the same time correct their gross apprehension of eating his flesh, and drinking his blood, in a vulgar and carnal manner, by letting them know he should take his whole body living with him to heaven; and consequently not suffer it to be as they supposed, divided, mangled, and consumed upon earth.
+              </p>
+              <p class="note">
+               [64]
+               <u>
+                "The flesh profiteth nothing"
+               </u>
+               : Dead flesh separated from the spirit, in the gross manner they supposed they were to eat his flesh, would profit nothing. Neither doth man's flesh, that is to say, man's natural and carnal apprehension, (which refuses to be subject to the spirit, and words of Christ,) profit any thing. But it would be the height of blasphemy, to say the living flesh of Christ (which we receive in the blessed sacrament, with his spirit, that is, with his soul and divinity) profiteth nothing. For if Christ's flesh had profited us nothing, he would never have taken flesh for us, nor died in the flesh for us.
+              </p>
+              <p class="note">
+               [64]
+               <u>
+                "Are spirit and life"
+               </u>
+               : By proposing to you a heavenly sacrament, in which you shall receive, in a wonderful manner, spirit, grace, and life, in its very fountain.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=66-#x">
+                [66]
+               </a>
+               And he said: Therefore did I say to you, that no man can come to me, unless it be given him by my Father.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=67-#x">
+                [67]
+               </a>
+               After this many of his disciples went back; and walked no more with him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=68-#x">
+                [68]
+               </a>
+               Then Jesus said to the twelve: Will you also go away?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=69-#x">
+                [69]
+               </a>
+               And Simon Peter answered him: Lord, to whom shall we go? thou hast the words of eternal life.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=70-#x">
+                [70]
+               </a>
+               And we have believed and have known, that thou art the Christ, the Son of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=71-#x">
+                [71]
+               </a>
+               Jesus answered them: Have not I chosen you twelve; and one of you is a devil?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=6&amp;l=72-#x">
+                [72]
+               </a>
+               Now he meant Judas Iscariot, the son of Simon: for this same was about to betray him, whereas he was one of the twelve.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="50007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

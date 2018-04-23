@@ -1,0 +1,677 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Machabees Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/45011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/45011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="44001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="46001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="45012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="45001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="45002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="45003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="45004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="45005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="45006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="45007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="45008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="45009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="45010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="45012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="45013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="45014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="45015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="45016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Ptolemee invades the kingdom of Alexander: the latter is slain: and the former dies soon after. Demetrius honours Jonathan, and is rescued by the Jews from his own subjects in Antioch. Antiochus the younger favours Jonathan. His exploits in divers places.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               And the king of Egypt gathered together an army, like the sand that lieth upon the sea shore, and many ships: and he sought to get the kingdom of Alexander by deceit, and join it to his own kingdom.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               And he went out into Syria with peaceable words, and they opened to him the cities, and met him: for king Alexander had ordered them to go forth to meet him, because he was his father in law.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               Now when Ptolemee entered into the cities, he put garrisons of soldiers in every city.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               And when he came near to Azotus, they shewed him the temple of Dagon that was burnt with fire, and Azotus, and the suburbs thereof that were destroyed, and the bodies that were cast abroad, and the graves of them that were slain in the battle, which they had made near the way.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               And they told the king that Jonathan had done these things, to make him odious: but the king held his peace.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               And Jonathan came to meet the king at Joppe with glory, and they saluted one another, and they lodged there.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               And Jonathan went with the king as far as the river, called Eleutherus: and he returned into Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               And king Ptolemee got the dominion of the cities by the sea side, even to Seleucia, and he devised evil designs against Alexander.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               And he sent ambassadors to Demetrius, saying: Come, let us make a league between us, and I will give thee my daughter whom Alexander hath, and thou shalt reign in the kingdom of thy father.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               For I repent that I have given him my daughter: for he hath sought to kill me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=11-#x">
+                [11]
+               </a>
+               And he slandered him, because he coveted his kingdom.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=12-#x">
+                [12]
+               </a>
+               And he took away his daughter, and gave her to Demetrius, and alienated himself from Alexander, and his enmities were made manifest.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=13-#x">
+                [13]
+               </a>
+               And Ptolemee entered into Antioch, and set two crowns upon his head, that of Egypt, and that of Asia.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=14-#x">
+                [14]
+               </a>
+               Now king Alexander was in Cilicia at that time: because they that were in those places had rebelled.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=15-#x">
+                [15]
+               </a>
+               And when Alexander heard of it, he came to give him battle, and king Ptolemee brought forth his army, and met him with a strong power, and put him to flight.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=16-#x">
+                [16]
+               </a>
+               And Alexander fled into Arabia, there to be protected: and king Ptolemee was exalted.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=17-#x">
+                [17]
+               </a>
+               And Zabdiel the Arabian took off Alexander's head, and sent it to Ptolemee.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=18-#x">
+                [18]
+               </a>
+               And king Ptolemee died the third day after: and they that were in the strong holds were destroyed by them that were within the camp.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=19-#x">
+                [19]
+               </a>
+               And Demetrius reigned in the hundred and sixty-seventh year.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=20-#x">
+                [20]
+               </a>
+               In those days Jonathan gathered together them that were in Judea, to take the castle that was in Jerusalem: and they made many engines of war against it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=21-#x">
+                [21]
+               </a>
+               Then some wicked men that hated their own nation, went away to king Demetrius, and told him that Jonathan was besieging the castle.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=22-#x">
+                [22]
+               </a>
+               And when he heard it, he was angry: and forthwith he came to Ptolemais, and wrote to Jonathan, that he should not besiege the castle, but should come to him in haste, and speak to him.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=23-#x">
+                [23]
+               </a>
+               But when Jonathan heard this, he bade them besiege it still: and he chose some of the ancients of Israel, and of the priests, and put himself in danger.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=24-#x">
+                [24]
+               </a>
+               And he took gold, and silver, and raiment, and many other presents, and went to the king to Ptolemais, and he found favour in his sight.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=25-#x">
+                [25]
+               </a>
+               And certain wicked men of his nation made complaints against him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=26-#x">
+                [26]
+               </a>
+               And the king treated him as his predecessor had done before: and he exalted him in the sight of all his friends.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=27-#x">
+                [27]
+               </a>
+               And he confirmed him in the high priesthood, and all the honours he had before, and he made him the chief of his friends.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=28-#x">
+                [28]
+               </a>
+               And Jonathan requested of the king that he would make Judea free from tribute, and the three governments, and Samaria, and the confines thereof: and he promised him three hundred talents.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=29-#x">
+                [29]
+               </a>
+               And the king consented: and he wrote letters to Jonathan of all these things to this effect.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=30-#x">
+                [30]
+               </a>
+               King Demetrius to his brother Jonathan, and to the nation of the Jews, greeting.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=31-#x">
+                [31]
+               </a>
+               We send you here a copy of the letter, which we have written to Lasthenes our parent concerning you, that you might know it.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=32-#x">
+                [32]
+               </a>
+               King Demetrius to Lasthenes his parent, greeting.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=33-#x">
+                [33]
+               </a>
+               We have determined to do good to the nation of the Jews who are our friends, and keep the things that are just with us, for their good will which they bear towards us.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=34-#x">
+                [34]
+               </a>
+               We have ratified therefore unto them all the borders of Judea, and the three cities,
+               <u>
+                Apherema
+               </u>
+               , Lydda, and Ramatha, which are added to Judea, out of Samaria, and all their confines, to be set apart to all them that sacrifice in Jerusalem, instead of the payments which the king received of them every year, and for the fruits of the land, and of the trees.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=35-#x">
+                [35]
+               </a>
+               And as for other things that belonged to us of the tithes, and of the tributes, from this time we discharge them of them: the saltpans also, and the crowns that were presented to us.
+              </p>
+              <p class="note">
+               [34]
+               <u>
+                "Apherema"
+               </u>
+               : is found only in the Greek version.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=36-#x">
+                [36]
+               </a>
+               We give all to them, and nothing hereof shall be revoked from this time forth and for ever.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=37-#x">
+                [37]
+               </a>
+               Now therefore see that thou make a copy of these things, and let it be given to Jonathan, and set upon the holy mountain, in a conspicuous place.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=38-#x">
+                [38]
+               </a>
+               And king Demetrius seeing that the land was quiet before him, and nothing resisted him, sent away all his forces, every man to his own place, except the foreign army, which he had drawn together from the islands of the nations: so all the troops of his fathers hated him.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=39-#x">
+                [39]
+               </a>
+               Now there was one Tryphon who had been of Alexander's party before: who seeing that all the army murmured against Demetrius, went to Emalchuel the Arabian, who brought up Antiochus the son of Alexander.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=40-#x">
+                [40]
+               </a>
+               And he pressed him much to deliver him to him, that he might be king in his father's place: and he told him all that Demetrius had done, and how his soldiers hated him. And he remained there many days.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=41-#x">
+                [41]
+               </a>
+               And Jonathan sent to king Demetrius, desiring that he would cast out them that were in the castle in Jerusalem, and those that were in the strong holds: because they fought against Israel.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=42-#x">
+                [42]
+               </a>
+               And Demetrius sent to Jonathan, saying: I will not only do this for thee, and for thy people, but I will greatly honour thee, and thy nation, when opportunity shall serve.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=43-#x">
+                [43]
+               </a>
+               Now therefore thou shalt do well if thou send me men to help me: for all my army is gone from me.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=44-#x">
+                [44]
+               </a>
+               And Jonathan sent him three thousand valiant men to Antioch: and they came to the king, and the king was very glad of their coming.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=45-#x">
+                [45]
+               </a>
+               And they that were of the city assembled themselves together, to the number of a hundred and twenty thousand men, and would have killed the king.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=46-#x">
+                [46]
+               </a>
+               And the king fled into the palace, and they of the city kept the passages of the city, and began to fight.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=47-#x">
+                [47]
+               </a>
+               And the king called the Jews to his assistance: and they came to him all at once, and they all dispersed themselves through the city.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=48-#x">
+                [48]
+               </a>
+               And they slew in that day a hundred thousand men, and they set fire to the city, and got many spoils that day, and delivered the king.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=49-#x">
+                [49]
+               </a>
+               And they that were of the city saw that the Jews had got the city as they would: and they were discouraged in their minds, and cried to the king, making supplication, and saying:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=50-#x">
+                [50]
+               </a>
+               Grant us peace, and let the Jews cease from assaulting us, and the city.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=51-#x">
+                [51]
+               </a>
+               And they threw down their arms, and made peace, and the Jews were glorified in the sight of the king, and in the sight of all that were in his realm, and were renowned throughout the kingdom, and returned to Jerusalem with many spoils.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=52-#x">
+                [52]
+               </a>
+               So king Demetrius sat in the throne of his kingdom: and the land was quiet before him.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=53-#x">
+                [53]
+               </a>
+               And he falsified all whatsoever he had said, and alienated himself from Jonathan, and did not reward him according to the benefits he had received from him, but gave him great trouble.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=54-#x">
+                [54]
+               </a>
+               And after this Tryphon returned, and with him Antiochus the young boy, who was made king, and put on the diadem.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=55-#x">
+                [55]
+               </a>
+               And there assembled unto him all the hands which Demetrius had sent away, and they fought against Demetrius, who turned his back and fled.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=56-#x">
+                [56]
+               </a>
+               And Tryphon took the elephants, and made himself master of Antioch.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=57-#x">
+                [57]
+               </a>
+               And young Antiochus wrote to Jonathan, saying: I confirm thee in the high priesthood, and I appoint thee ruler over the four cities, and to be one of the king's friends.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=58-#x">
+                [58]
+               </a>
+               And he sent him vessels of gold for his service, and he gave him leave to drink in gold, and to be clothed in purple, and to wear a golden buckle:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=59-#x">
+                [59]
+               </a>
+               And he made his brother Simon governor from the borders of Tyre even to the confines of Egypt.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=60-#x">
+                [60]
+               </a>
+               Then Jonathan went forth and passed through the cities beyond the river: and all the forces of Syria gathered themselves to him to help him, and he came to Ascalon, and they met him honourably out of the city.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=61-#x">
+                [61]
+               </a>
+               And he went from thence to Gaza: and they that were in Gaza shut him out: and he besieged it, and burnt all the suburbs round about, and took the spoils.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=62-#x">
+                [62]
+               </a>
+               And the men of Gaza made supplication to Jonathan, and he gave them the right hand: and he took their sons for hostages, and sent them to Jerusalem: and he went through the country as far as Damascus.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=63-#x">
+                [63]
+               </a>
+               And Jonathan heard that the generals of Demetrius were come treacherously to Cades, which is in Galilee, with a great army, purposing to remove him from the affairs of the kingdom:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=64-#x">
+                [64]
+               </a>
+               And he went against them: but left his brother Simon in the country.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=65-#x">
+                [65]
+               </a>
+               And Simon encamped against Bethsura, and assaulted it many days, and shut them up.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=66-#x">
+                [66]
+               </a>
+               And they desired him to make peace, and he granted it them: and he cast them out from thence, and took the city, and placed a garrison in it.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=67-#x">
+                [67]
+               </a>
+               And Jonathan, and his army encamped by the water of Genesar, and before it was light they were ready in the plain of Asor.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=68-#x">
+                [68]
+               </a>
+               And behold the army of the strangers met him in the plain, and they laid an ambush for him in the mountains: but he went out against them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=69-#x">
+                [69]
+               </a>
+               And they that lay in ambush arose out of their places, and joined battle.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=70-#x">
+                [70]
+               </a>
+               And all that were on Jonathan's side fled, and none was left of them, but Mathathias the son of Absalom, and Judas the son of Calphi, chief captain of the army.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=71-#x">
+                [71]
+               </a>
+               And Jonathan rent his garments, and cast earth upon his head, and prayed.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=72-#x">
+                [72]
+               </a>
+               And Jonathan turned again to them to battle, and he put them to flight, and they fought.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=73-#x">
+                [73]
+               </a>
+               And they of his part that fled saw this, and they turned again to him, and they all with him pursued the enemies even to Cades to their own camp, and they came even thither.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=11&amp;l=74-#x">
+                [74]
+               </a>
+               And there fell of the aliens in that day three thousand men: and Jonathan returned to Jerusalem.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="44001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="46001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="45012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

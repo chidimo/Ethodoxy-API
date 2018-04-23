@@ -1,0 +1,597 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Machabees Chapter 12
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/46012.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/46012.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="47001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46011.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 12
+           </td>
+           <td class="next">
+            <a href="46013.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="46001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="46002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="46003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="46004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="46005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="46006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="46007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="46008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="46009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="46010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="46011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             12
+            </td>
+            <td width="30">
+             <a href="46013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="46014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="46015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Jews are still molested by their neighbours. Judas gains divers victories over them. He orders sacrifice and prayers for the dead.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=1-#x">
+                [1]
+               </a>
+               When these covenants were made, Lysias went to the king, and the Jews gave themselves to husbandry.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=2-#x">
+                [2]
+               </a>
+               But they that were behind, namely, Timotheus and Apollonius the son of Genneus, also Hieronymus, and Demophon, and besides them Nicanor the governor of Cyprus, would not suffer them to live in peace, and to be quiet.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=3-#x">
+                [3]
+               </a>
+               The men of Joppe also were guilty of this kind of wickedness: they desired the Jews who dwelt among them to go with their wives and children into the boats, which they had prepared, as though they had no enmity to them.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=4-#x">
+                [4]
+               </a>
+               Which when they had consented to, according to the common decree of the city, suspecting nothing, because of the peace: when they were gone forth into the deep, they drowned no fewer than two hundred of them.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=5-#x">
+                [5]
+               </a>
+               But as soon as Judas heard of this cruelty done to his countrymen, he commanded the men that were with him: and after having called upon God the just judge,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=6-#x">
+                [6]
+               </a>
+               He came against those murderers of his brethren, and set the haven on fire in the night, burnt the boats, and slew with the sword them that escaped from the fire.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=7-#x">
+                [7]
+               </a>
+               And when he had done these things in this manner, he departed as if he would return again, and root out all the Joppites.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=8-#x">
+                [8]
+               </a>
+               But when he understood that the men of Jamnia also designed to do in like manner to the Jews that dwelt among them,
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=9-#x">
+                [9]
+               </a>
+               He came upon the Jamnites also by night, and set the haven on fire with the ships, so that the light of the fire was seen at Jerusalem two hundred and forty furlongs off.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=10-#x">
+                [10]
+               </a>
+               And when they were now gone from thence nine furlongs, and were marching towards Timotheus, five thousand footmen and five hundred horsemen of the Arabians set upon them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=11-#x">
+                [11]
+               </a>
+               And after a hard fight, in which by the help of God they got the victory, the rest of the Arabians being overcome, besought Judas for peace, promising to give him pastures, and to assist him in other things.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=12-#x">
+                [12]
+               </a>
+               And Judas thinking that they might be profitable indeed in many things, promised them peace, and after having joined hands, they departed to their tents.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=13-#x">
+                [13]
+               </a>
+               He also laid siege to a certain strong city, encompassed with bridges and walls, and inhabited by multitudes of different nations, the name of which is Casphin.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=14-#x">
+                [14]
+               </a>
+               But they that were within it, trusting in the strength of the walls, and the provision of victuals, behaved in a more negligent manner, and provoked Judas with railing and blaspheming, and uttering such words as were not to be spoken.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=15-#x">
+                [15]
+               </a>
+               But Machabeus calling upon the great Lord of the world, who without any
+               <u>
+                rams
+               </u>
+               or engines of war threw down the walls of Jericho in the time of Josue, fiercely assaulted the walls.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "Rams"
+               </u>
+               : That is, engines for battering walls, etc., which were used in sieges in those times.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=16-#x">
+                [16]
+               </a>
+               And having taken the city by the will of the Lord, he made an unspeakable slaughter, so that a pool adjoining of two furlongs broad seemed to run with the blood of the slain.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=17-#x">
+                [17]
+               </a>
+               From thence they departed seven hundred and fifty furlongs, and came to Characa to the Jews that are called Tubianites.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=18-#x">
+                [18]
+               </a>
+               But as for Timotheus, they found him not in those places, for before he had dispatched any thing he went back, having left a very strong garrison in a certain hold:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=19-#x">
+                [19]
+               </a>
+               But Dositheus, and Sosipater, who were captains with Machabeus, slew them that were left by Timotheus in the hold, to the number of ten thousand men.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=20-#x">
+                [20]
+               </a>
+               And Machabeus having set in order about him six thousand men, and divided them by bands, went forth against Timotheus, who had with him a hundred and twenty thousand footmen, and two thousand five hundred horsemen.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=21-#x">
+                [21]
+               </a>
+               Now when Timotheus had knowledge of the coming of Judas, he sent the women and children, and the other baggage before him into a fortress, called Carnion: for it was impregnable and hard to come at, by reason of the straitness of the places.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=22-#x">
+                [22]
+               </a>
+               But when the first band of Judas came in sight, the enemies were struck with fear, by the presence of God, who seeth all things, and they were put to flight one from another, so that they were often thrown down by their own companions, and wounded with the strokes of their own swords.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=23-#x">
+                [23]
+               </a>
+               But Judas was vehemently earnest in punishing the profane, of whom he slew thirty thousand men.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=24-#x">
+                [24]
+               </a>
+               And Timotheus himself fell into the hands of the band of Dositheus and Sosipater, and with many prayers he besought them to let him go with his life, because he had the parents and brethren of many of the Jews, who, by his death, might happen to be deceived.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=25-#x">
+                [25]
+               </a>
+               And when he had given his faith that he would restore them according to the agreement, they let him go without hurt, for the saving of their brethren.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=26-#x">
+                [26]
+               </a>
+               Then Judas went away to Carnion, where he slew five and twenty thousand persons.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=27-#x">
+                [27]
+               </a>
+               And after he had put to flight and destroyed these, he removed his army to Ephron, a strong city, wherein there dwelt a multitude of divers nations: and stout young men standing upon the walls made a vigorous resistance: and in this place there were many engines of war, and a provision of darts.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=28-#x">
+                [28]
+               </a>
+               But when they had invocated the Almighty, who with his power breaketh the strength of the enemies, they took the city; and slew five and twenty thousand of them that were within.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=29-#x">
+                [29]
+               </a>
+               From thence they departed to
+               <u>
+                Scythopolis
+               </u>
+               , which lieth six hundred furlongs from Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=30-#x">
+                [30]
+               </a>
+               But the Jews that were among the Scythopolitans testifying that they were used kindly by them, and that even in the times of their adversity they had treated them with humanity:
+              </p>
+              <p class="note">
+               [29]
+               <u>
+                "Scythopolis"
+               </u>
+               : Formerly called Bethsan.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=31-#x">
+                [31]
+               </a>
+               They gave them thanks exhorting them to be still friendly to their nation, and so they came to Jerusalem, the feast of the weeks being at hand.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=32-#x">
+                [32]
+               </a>
+               And after Pentecost they marched against Gorgias the governor of Idumea.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=33-#x">
+                [33]
+               </a>
+               And he came out with three thousand footmen, and four hundred horsemen.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=34-#x">
+                [34]
+               </a>
+               And when they had joined battle, it happened that a few of the Jews were slain.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=35-#x">
+                [35]
+               </a>
+               But Dositheus, a horseman, one of Bacenor's band, a valiant man, took hold of Gorgias: and when he would have taken him alive, a certain horseman of the Thracians came upon him, and cut off his shoulder: and so Gorgias escaped to Maresa.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=36-#x">
+                [36]
+               </a>
+               But when they that were with Esdrin had fought long, and were weary, Judas called upon the Lord to be their helper, and leader of the battle:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=37-#x">
+                [37]
+               </a>
+               Then beginning in his own language, and singing hymns with a loud voice, he put Gorgias' soldiers to flight.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=38-#x">
+                [38]
+               </a>
+               So Judas having gathered together his army, came into the city Odollam: and when the seventh day came, they purified themselves according to the custom, and kept the sabbath in the place.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=39-#x">
+                [39]
+               </a>
+               And the day following Judas came with his company, to take away the bodies of them that were slain, and to bury them with their kinsmen, in the sepulchres of their fathers.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=40-#x">
+                [40]
+               </a>
+               And they found under the coats of the slain some
+               <u>
+                of the donaries
+               </u>
+               of the idols of Jamnia, which the law forbiddeth to the Jews: so that all plainly saw, that for this cause they were slain.
+              </p>
+              <p class="note">
+               [40]
+               <u>
+                "Of the donaries"
+               </u>
+               : That is, of the votive offerings, which had been hung up in the temples of the idols, which they had taken away when they burnt the port of Jamnia, ver. 9., contrary to the prohibition of the law, Deut. 7. 25.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=41-#x">
+                [41]
+               </a>
+               Then they all blessed the just judgment of the Lord, who had discovered the things that were hidden.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=42-#x">
+                [42]
+               </a>
+               And so betaking themselves to prayers, they besought him, that the sin which had been committed might be forgotten. But the most valiant Judas exhorted the people to keep themselves from sin, forasmuch as they saw before their eyes what had happened, because of the sins of those that were slain.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=43-#x">
+                [43]
+               </a>
+               And making a gathering, he sent twelve thousand drachms of silver to Jerusalem for sacrifice to be offered for the sins of the dead, thinking well and religiously concerning the resurrection,
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=44-#x">
+                [44]
+               </a>
+               (For if he had not hoped that they that were slain should rise again, it would have seemed superfluous and vain to pray for the dead,)
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=45-#x">
+                [45]
+               </a>
+               And because he considered that they who had fallen asleep
+               <u>
+                with godliness
+               </u>
+               , had great grace laid up for them.
+              </p>
+              <p class="note">
+               [45]
+               <u>
+                "With godliness"
+               </u>
+               : Judas hoped that these men who died fighting for the cause of God and religion, might find mercy: either because they might be excused from mortal sin by ignorance; or might have repented of their sin, at least at their death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=12&amp;l=46-#x">
+                [46]
+               </a>
+               <u>
+                It is therefore a holy and wholesome thought to pray for the dead
+               </u>
+               , that they may be loosed from sins.
+              </p>
+              <p class="note">
+               [46]
+               <u>
+                "It is therefore a holy and wholesome thought to pray for the dead"
+               </u>
+               : Here is an evident and undeniable proof of the practice of praying for the dead under the old law, which was then strictly observed by the Jews, and consequently could not be introduced at that time by Judas, their chief and high priest, if it had not been always their custom.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="47001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46011.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 12
+              </td>
+              <td class="next">
+               <a href="46013.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

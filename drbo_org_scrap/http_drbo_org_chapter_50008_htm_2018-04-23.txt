@@ -1,0 +1,619 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="50009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="50007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The woman taken in adultery. Christ justifies his doctrine.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               And Jesus went unto mount Olivet.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               And early in the morning he came again into the temple, and all the people came to him, and sitting down he taught them.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               And the scribes and the Pharisees bring unto him a woman taken in adultery: and they set her in the midst,
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               And said to him: Master, this woman was even now taken in adultery.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               Now Moses in the law commanded us to stone such a one. But what sayest thou?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               And this they said tempting him, that they might accuse him. But Jesus bowing himself down, wrote with his finger on the ground.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               When therefore they continued asking him, he lifted up himself, and said to them: He that is without sin among you, let him first cast a stone at her.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               And again stooping down, he wrote on the ground.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               But they hearing this, went out one by one, beginning at the eldest. And Jesus alone remained, and the woman standing in the midst.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               Then Jesus lifting up himself, said to her: Woman, where are they that accused thee? Hath no man condemned thee?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               Who said: No man, Lord. And Jesus said: Neither will I condemn thee. Go, and now sin no more.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               Again therefore, Jesus spoke to them, saying: I am the light of the world: he that followeth me, walketh not in darkness, but shall have the light of life.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               The Pharisees therefore said to him: Thou givest testimony of thyself: thy testimony is not true.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               Jesus answered, and said to them: Although I give testimony of myself, my testimony is true: for I know whence I came, and whither I go: but you know not whence I come, or whither I go.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               You judge according to the flesh: I judge not any man.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               And if I do judge, my judgment is true: because I am not alone, but I and the Father that sent me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               And in your law it is written, that the testimony of two men is true.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               I am one that give testimony of myself: and the Father that sent me giveth testimony of me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               They said therefore to him: Where is thy Father? Jesus answered: Neither me do you know, nor my Father: if you did know me, perhaps you would know my Father also.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               These words Jesus spoke in the treasury, teaching in the temple: and no man laid hands on him, because his hour was not yet come.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               Again therefore Jesus said to them: I go, and you shall seek me, and you shall die in your sin. Whither I go, you cannot come.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               The Jews therefore said: Will he kill himself, because he said: Whither I go, you cannot come?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               And he said to them: You are from beneath, I am from above. You are of this world, I am not of this world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               Therefore I said to you, that you shall die in your sins. For if you believe not that I am he, you shall die in your sin.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               They said therefore to him: Who art thou? Jesus said to them: The beginning, who also speak unto you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               Many things I have to speak and to judge of you. But he that sent me, is true: and the things I have heard of him, these same I speak in the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=27-#x">
+                [27]
+               </a>
+               And they understood not, that he called God his Father.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=28-#x">
+                [28]
+               </a>
+               Jesus therefore said to them: When you shall have lifted up the Son of man, then shall you know, that I am he, and that I do nothing of myself, but as the Father hath taught me, these things I speak:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=29-#x">
+                [29]
+               </a>
+               And he that sent me, is with me, and he hath not left me alone: for I do always the things that please him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=30-#x">
+                [30]
+               </a>
+               When he spoke these things, many believed in him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=31-#x">
+                [31]
+               </a>
+               Then Jesus said to those Jews, who believed him: If you continue in my word, you shall be my disciples indeed.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=32-#x">
+                [32]
+               </a>
+               And you shall know the truth, and the truth shall make you free.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=33-#x">
+                [33]
+               </a>
+               They answered him: We are the seed of Abraham, and we have never been slaves to any man: how sayest thou: you shall be free?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=34-#x">
+                [34]
+               </a>
+               Jesus answered them: Amen, amen I say unto you: that whosoever committeth sin, is the servant of sin.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=35-#x">
+                [35]
+               </a>
+               Now the servant abideth not in the house for ever; but the son abideth for ever.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=36-#x">
+                [36]
+               </a>
+               If therefore the son shall make you free, you shall be free indeed.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=37-#x">
+                [37]
+               </a>
+               I know that you are the children of Abraham: but you seek to kill me, because my word hath no place in you.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=38-#x">
+                [38]
+               </a>
+               I speak that which I have seen with my Father: and you do the things that you have seen with your father.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=39-#x">
+                [39]
+               </a>
+               They answered, and said to him: Abraham is our father. Jesus saith to them: If you be the children of Abraham, do the works of Abraham.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=40-#x">
+                [40]
+               </a>
+               But now you seek to kill me, a man who have spoken the truth to you, which I have heard of God. This Abraham did not.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=41-#x">
+                [41]
+               </a>
+               You do the works of your father. They said therefore to him: We are not born of fornication: we have one Father, even God.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=42-#x">
+                [42]
+               </a>
+               Jesus therefore said to them: If God were your Father, you would indeed love me. For from God I proceeded, and came; for I came not of myself, but he sent me:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=43-#x">
+                [43]
+               </a>
+               Why do you not know my speech? Because you cannot hear my word.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=44-#x">
+                [44]
+               </a>
+               You are of your father the devil, and the desires of your father you will do. He was a murderer from the beginning, and he stood not in the truth; because truth is not in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father thereof.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=45-#x">
+                [45]
+               </a>
+               But if I say the truth, you believe me not.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=46-#x">
+                [46]
+               </a>
+               Which of you shall convict me of sin? If I say the truth to you, why do you not believe me?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=47-#x">
+                [47]
+               </a>
+               He that is of God, heareth the words of God. Therefore you hear them not, because you are not of God.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=48-#x">
+                [48]
+               </a>
+               The Jews therefore answered, and said to him: Do not we say well that thou art a Samaritan, and hast a devil?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=49-#x">
+                [49]
+               </a>
+               Jesus answered: I have not a devil: but I honour my Father, and you have dishonoured me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=50-#x">
+                [50]
+               </a>
+               But I seek not my own glory: there is one that seeketh and judgeth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=51-#x">
+                [51]
+               </a>
+               Amen, amen I say to you: If any man keep my word, he shall not see death for ever.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=52-#x">
+                [52]
+               </a>
+               The Jews therefore said: Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest: If any man keep my word, he shall not taste death for ever.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=53-#x">
+                [53]
+               </a>
+               Art thou greater than our father Abraham, who is dead? and the prophets are dead. Whom dost thou make thyself?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=54-#x">
+                [54]
+               </a>
+               Jesus answered: If I glorify myself, my glory is nothing. It is my Father that glorifieth me, of whom you say that he is your God.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=55-#x">
+                [55]
+               </a>
+               And you have not known him, but I know him. And if I shall say that I know him not, I shall be like to you, a liar. But I do know him, and do keep his word.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=56-#x">
+                [56]
+               </a>
+               Abraham your father rejoiced that he might see my day: he saw it, and was glad.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=57-#x">
+                [57]
+               </a>
+               The Jews therefore said to him: Thou art not yet fifty years old, and hast thou seen Abraham?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=58-#x">
+                [58]
+               </a>
+               Jesus said to them: Amen, amen I say to you, before Abraham was made, I am.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=8&amp;l=59-#x">
+                [59]
+               </a>
+               They took up stones therefore to cast at him. But Jesus hid himself, and went out of the temple.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="50009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

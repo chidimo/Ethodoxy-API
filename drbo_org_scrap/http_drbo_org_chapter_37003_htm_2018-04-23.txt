@@ -1,0 +1,361 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Jonas (Jonah) Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/37003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/37003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="36001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Jonas (Jonah)
+           </td>
+           <td class="next">
+            <a href="38001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="37002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="37004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="37001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="37002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="37004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Jonas is sent again to preach in Ninive. Upon their fasting and repentance, God recalleth the sentence by which they were to be destroyed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               And the word of the Lord came to Jonas the second time, saying:
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               Arise, and go to Ninive the great city: and preach in it the preaching that I bid thee.
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               And Jonas arose, and went to Ninive, according to the word of the Lord: now Ninive was a great city
+               <u>
+                of three days' journey
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               And Jonas began to enter into the city one day's journey: and he cried, and said: Yet forty days, and Ninive shall be destroyed.
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               And the men of Ninive believed in God: and they proclaimed a fast, and put on sackcloth from the greatest to the least.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Of three days' journey"
+               </u>
+               : By the computation of some ancient historians, Ninive was about fifty miles round: so that to go through all the chief streets and public places was three days' journey.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And the word came to the king of Ninive; and he rose up out of his throne, and cast away his robe from him, and was clothed with sackcloth, and sat in ashes.
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               And he caused it to be proclaimed and published in Ninive from the mouth of the king and of his princes, saying: Let neither men nor beasts, oxen nor sheep, taste any thing: let them not feed, nor drink water.
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And let men and beasts be covered with sackcloth, and cry to the Lord with all their strength, and let them turn every one from his evil way, and from the iniquity that is in their hands.
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Who can tell if God will turn, and forgive: and will turn away from his fierce anger, and we shall not perish?
+               <a href="/x/d?b=drb&amp;bk=37&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And God saw their works, that they were turned from their evil way: and God had mercy with regard to the evil which he had said that he would do to them, and he did it not.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="36001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Jonas (Jonah)
+              </td>
+              <td class="next">
+               <a href="38001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="37002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="37004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

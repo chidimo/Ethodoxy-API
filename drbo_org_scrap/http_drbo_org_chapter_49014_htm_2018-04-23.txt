@@ -1,0 +1,541 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Luke Chapter 14
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/49014.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/49014.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Luke
+           </td>
+           <td class="next">
+            <a href="50001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49013.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 14
+           </td>
+           <td class="next">
+            <a href="49015.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="49001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="49002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="49003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="49004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="49005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="49006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="49007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="49008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="49009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="49010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="49011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="49012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="49013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             14
+            </td>
+            <td width="30">
+             <a href="49015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="49016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="49017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="49018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="49019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="49020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="49021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="49022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="49023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="49024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ heals the dropsical man. The parable of the supper. The necessity of renouncing all to follow Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=1-#x">
+                [1]
+               </a>
+               And it came to pass, when Jesus went into the house of one of the chief of the Pharisees, on the sabbath day, to eat bread, that they watched him.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=2-#x">
+                [2]
+               </a>
+               And behold, there was a certain man before him that had the dropsy.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=3-#x">
+                [3]
+               </a>
+               And Jesus answering, spoke to the lawyers and Pharisees, saying: Is it lawful to heal on the sabbath day?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=4-#x">
+                [4]
+               </a>
+               But they held their peace. But he taking him, healed him, and sent him away.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=5-#x">
+                [5]
+               </a>
+               And answering them, he said: Which of you shall have an ass or an ox fall into a pit, and will not immediately draw him out, on the sabbath day?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=6-#x">
+                [6]
+               </a>
+               And they could not answer him to these things.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=7-#x">
+                [7]
+               </a>
+               And he spoke a parable also to them that were invited, marking how they chose the first seats at the table, saying to them:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=8-#x">
+                [8]
+               </a>
+               When thou art invited to a wedding, sit not down in the first place, lest perhaps one more honourable than thou be invited by him:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=9-#x">
+                [9]
+               </a>
+               And he that invited thee and him, come and say to thee, Give this man place: and then thou begin with shame to take the lowest place.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=10-#x">
+                [10]
+               </a>
+               But when thou art invited, go, sit down in the lowest place; that when he who invited thee, cometh, he may say to thee: Friend, go up higher. Then shalt thou have glory before them that sit at table with thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=11-#x">
+                [11]
+               </a>
+               Because every one that exalteth himself, shall be humbled; and he that humbleth himself, shall be exalted.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=12-#x">
+                [12]
+               </a>
+               And he said to him also that had invited him: When thou makest a dinner or a supper, call not thy friends, nor thy brethren, nor thy kinsmen, nor thy neighbours who are rich; lest perhaps they also invite thee again, and a recompense be made to thee.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=13-#x">
+                [13]
+               </a>
+               But when thou makest a feast, call the poor, the maimed, the lame, and the blind;
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=14-#x">
+                [14]
+               </a>
+               And thou shalt be blessed, because they have not wherewith to make thee recompense: for recompense shall be made thee at the resurrection of the just.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=15-#x">
+                [15]
+               </a>
+               When one of them that sat at table with him, had heard these things, he said to him: Blessed is he that shall eat bread in the kingdom of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=16-#x">
+                [16]
+               </a>
+               But he said to him: A certain man made a great supper, and invited many.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=17-#x">
+                [17]
+               </a>
+               And he sent his servant at the hour of supper to say to them that were invited, that they should come, for now all things are ready.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=18-#x">
+                [18]
+               </a>
+               And they began all at once to make excuse. The first said to him: I have bought a farm, and I must needs go out and see it: I pray thee, hold me excused.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=19-#x">
+                [19]
+               </a>
+               And another said: I have bought five yoke of oxen, and I go to try them: I pray thee, hold me excused.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=20-#x">
+                [20]
+               </a>
+               And another said: I have married a wife, and therefore I cannot come.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=21-#x">
+                [21]
+               </a>
+               And the servant returning, told these things to his lord. Then the master of the house, being angry, said to his servant: Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the feeble, and the blind, and the lame.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=22-#x">
+                [22]
+               </a>
+               And the servant said: Lord, it is done as thou hast commanded, and yet there is room.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=23-#x">
+                [23]
+               </a>
+               And the Lord said to the servant: Go out into the highways and hedges, and compel them to come in, that my house may be filled.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=24-#x">
+                [24]
+               </a>
+               But I say unto you, that none of those men that were invited, shall taste of my supper.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=25-#x">
+                [25]
+               </a>
+               And there went great multitudes with him. And turning, he said to them:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=26-#x">
+                [26]
+               </a>
+               If any man come to me, and
+               <u>
+                hate not
+               </u>
+               his father, and mother, and wife, and children, and brethren, and sisters, yea and his own life also, he cannot be my disciple.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=27-#x">
+                [27]
+               </a>
+               And whosoever doth not carry his cross and come after me, cannot be my disciple.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=28-#x">
+                [28]
+               </a>
+               For which of you having a mind to build a tower, doth not first sit down, and reckon the charges that are necessary, whether he have wherewithal to finish it:
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=29-#x">
+                [29]
+               </a>
+               Lest, after he hath laid the foundation, and is not able to finish it, all that see it begin to mock him,
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=30-#x">
+                [30]
+               </a>
+               Saying: This man began to build, and was not able to finish.
+              </p>
+              <p class="note">
+               [26]
+               <u>
+                "Hate not"
+               </u>
+               : The law of Christ does not allow us to hate even our enemies, much less our parents: but the meaning of the text is, that we must be in that disposition of soul, as to be willing to renounce, and part with every thing, how near or dear soever it may be to us, that would keep us from following Christ.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=31-#x">
+                [31]
+               </a>
+               Or what king, about to go to make war against another king, doth not first sit down, and think whether he be able, with ten thousand, to meet him that, with twenty thousand, cometh against him?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=32-#x">
+                [32]
+               </a>
+               Or else, whilst the other is yet afar off, sending an embassy, he desireth conditions of peace.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=33-#x">
+                [33]
+               </a>
+               So likewise every one of you that doth not renounce all that he possesseth, cannot be my disciple.
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=34-#x">
+                [34]
+               </a>
+               Salt is good. But if the salt shall lose its savour, wherewith shall it be seasoned?
+               <a href="/x/d?b=drb&amp;bk=49&amp;ch=14&amp;l=35-#x">
+                [35]
+               </a>
+               It is neither profitable for the land nor for the dunghill, but shall be cast out. He that hath ears to hear, let him hear.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Luke
+              </td>
+              <td class="next">
+               <a href="50001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49013.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 14
+              </td>
+              <td class="next">
+               <a href="49015.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

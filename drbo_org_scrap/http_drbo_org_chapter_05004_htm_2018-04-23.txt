@@ -1,0 +1,640 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Deuteronomy Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/05004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/05004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Deuteronomy
+           </td>
+           <td class="next">
+            <a href="06001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="05003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="05005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="05001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="05002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="05003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="05005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="05006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="05007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="05008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="05009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="05010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="05011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="05012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="05013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="05014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="05015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="05016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="05017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="05018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="05019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="05020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="05021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="05022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="05023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="05024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="05025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="05026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="05027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="05028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="05029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="05030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="05031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="05032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="05033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="05034.htm">
+              34
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Moses exhorteth the people to keep God's commandments: particularly to fly idolatry. Appointeth three cities of refuge, on that side of the Jordan.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               And now, O Israel, hear the commandments and judgments which I teach thee: that doing them, thou mayst live, and entering in mayst possess the land which the Lord the God of your fathers will give you.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               You shall not add to the word that I speak to you, neither shall you take away from it: keep the commandments of the Lord your God which I command you.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               Your eyes have seen all that the Lord hath done against Beelphegor, how he hath destroyed all his worshippers from among you.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               But you that adhere to the Lord your God, are all alive until this present day.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               You know that I have taught you statutes and justices, as the Lord my God hath commanded me: so shall you do them in the land which you shall possess:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And you shall observe, and fulfill them in practice. For this is your wisdom, and understanding in the sight of nations, that hearing all these precepts, they may say: Behold a wise and understanding people, a great nation.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               Neither is there any other nation so great, that hath gods so nigh them, as our God is present to all our petitions.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               For what other nation is there so renowned that hath ceremonies, and just judgments, and all the law, which I will set forth this day before your eyes?
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               Keep thyself therefore, and thy soul carefully. Forget not the words that thy eyes have seen, and let them not go out of thy heart all the days of thy life. Thou shalt teach them to thy sons and to thy grandsons,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               From the day in which thou didst stand before the Lord thy God in Horeb, when the Lord spoke to me, saying: Call together the people unto me, that they may hear my words, and may learn to fear me all the time that they live on the earth, and may teach their children.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               And you came to the foot of the mount, which burned even unto heaven: and there was darkness, and a cloud and obscurity in it.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               And the Lord spoke to you from the midst of the fire. You heard the voice of his words, but you saw not any form at all.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               And he shewed you his covenant, which he commanded you to do, and the ten words that he wrote in two tables of stone.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               And he commanded me at that time that I should teach you the ceremonies and judgments which you shall do in the land, that you shall possess.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               Keep therefore your souls carefully. You saw not any similitude in the day that the Lord God spoke to you in Horeb from the midst of the fire:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               Lest perhaps being deceived you might make you a graven similitude, or image of male or female,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               The similitude of any beasts, that are upon the earth, or of birds, that fly under heaven,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               Or of creeping things, that move on the earth, or of fishes, that abide in the waters under the earth:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               Lest perhaps lifting up thy eyes to heaven, thou see the sun and the moon, and all the stars of heaven, and being deceived by error thou adore and serve them, which the Lord thy God created for the service of all the nations, that are under heaven.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               But the Lord hath taken you and brought you out of the iron furnace of Egypt, to make you his people of inheritance, as it is this present day.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               And the Lord was angry with me for your words, and he swore that I should not pass over the Jordan, nor enter into the excellent land, which he will give you.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               Behold I die in this land, I shall not pass over the Jordan: you shall pass, and possess the goodly land.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               Beware lest thou ever forget the covenant of the Lord thy God, which he hath made with thee: and make to thyself a graven likeness of those things which the Lord hath forbid to be made:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               Because the Lord thy God is a consuming fire, a jealous God.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               If you shall beget sons and grandsons, and abide in the land, and being deceived, make to yourselves any similitude, committing evil before the Lord your God, to provoke him to wrath:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               I call this day heaven and earth to witness, that you shall quickly perish out of the land, which, when you have passed over the Jordan, you shall possess. You shall not dwell therein long, but the Lord will destroy you,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=27-#x">
+                [27]
+               </a>
+               And scatter you among all nations, and you shall remain a few among the nations, to which the Lord shall lead you.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=28-#x">
+                [28]
+               </a>
+               And there you shall serve gods, that were framed with men's hands: wood and stone, that neither see, nor hear, nor eat, nor smell.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=29-#x">
+                [29]
+               </a>
+               And when thou shalt seek there the Lord thy God, thou shalt find him: yet so, if thou seek him with all thy heart, and all the affliction of thy soul.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=30-#x">
+                [30]
+               </a>
+               After all the things aforesaid shall and thee, in the latter time thou shalt return to the Lord thy God, and shalt hear his voice.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=31-#x">
+                [31]
+               </a>
+               Because the Lord thy God is a merciful God: he will not leave thee, nor altogether destroy thee, nor forget the covenant, by which he swore to thy fathers.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=32-#x">
+                [32]
+               </a>
+               Ask of the days of old, that have been before thy time from the day that God created man upon the earth, from one end of heaven to the other end thereof, if ever there was done the like thing, or it hath been known at any time,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=33-#x">
+                [33]
+               </a>
+               That a people should hear the voice of God speaking out of the midst of fire, as thou hast heard, and lived:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=34-#x">
+                [34]
+               </a>
+               If God ever did so as to go, and take to himself a nation out of the midst of nations by temptations, signs, and wonders, by fight, and a strong hand, and stretched out arm, and horrible visions according to all the things that the Lord your God did for you in Egypt, before thy eyes.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=35-#x">
+                [35]
+               </a>
+               That thou mightest know that the Lord he is God, and there is no other besides him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=36-#x">
+                [36]
+               </a>
+               From heaven he made thee to hear his voice, that he might teach thee. And upon earth he shewed thee his exceeding great fire, and thou didst hear his words out of the midst of the fire,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=37-#x">
+                [37]
+               </a>
+               Because he loved thy fathers, and chose their seed after them. And he brought thee out of Egypt, going before thee with his great power,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=38-#x">
+                [38]
+               </a>
+               To destroy at thy coming very great nations, and stronger than thou art, and to bring thee in, and give thee their land for a possession, as thou seest at this present day.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=39-#x">
+                [39]
+               </a>
+               Know therefore this day, and think in thy heart that the Lord he is God in heaven above, and in the earth beneath, and there is no other.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=40-#x">
+                [40]
+               </a>
+               Keep his precepts and commandments, which I command thee: that it may be well with thee, and thy children after thee, and thou mayst remain a long time upon the land, which the Lord thy God will give thee.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=41-#x">
+                [41]
+               </a>
+               Then Moses set aside three cities beyond the Jordan at the east side,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=42-#x">
+                [42]
+               </a>
+               That any one might flee to them who should kill his neighbour unwillingly, and was not his enemy a day or two before, and that he might escape to some one of these cities:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=43-#x">
+                [43]
+               </a>
+               Bosor in the wilderness, which is situate in the plains of the tribe of Ruben: and Ramoth in Galaad, which is in the tribe of Gad: and Golan in Basan, which is in the tribe of Manasses.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=44-#x">
+                [44]
+               </a>
+               This is the law, that Moses set before the children of Israel,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=45-#x">
+                [45]
+               </a>
+               And these are the testimonies and ceremonies and judgments, which he spoke to the children of Israel, when they came out of Egypt,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=46-#x">
+                [46]
+               </a>
+               Beyond the Jordan in the valley over against the temple of Phogor, in the land of Sehon king of the Amorrhites, that dwelt in Hesebon, whom Moses slew. And the children of Israel coming out of Egypt,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=47-#x">
+                [47]
+               </a>
+               Possessed his land, and the land of Og king of Basan, of the two kings of the Amorrhites, who were beyond the Jordan towards the rising of the sun:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=48-#x">
+                [48]
+               </a>
+               From Aroer, which is situate upon the bank of the torrent Amen, unto mount Sion, which is also called Hermon,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=4&amp;l=49-#x">
+                [49]
+               </a>
+               All the plain beyond the Jordan at the east side, unto the see of the wilderness, and unto the foot of mount Phasga.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Deuteronomy
+              </td>
+              <td class="next">
+               <a href="06001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="05003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="05005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

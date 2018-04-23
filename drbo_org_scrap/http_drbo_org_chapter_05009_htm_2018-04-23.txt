@@ -1,0 +1,552 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Deuteronomy Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/05009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/05009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Deuteronomy
+           </td>
+           <td class="next">
+            <a href="06001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="05008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="05010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="05001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="05002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="05003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="05004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="05005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="05006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="05007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="05008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="05010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="05011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="05012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="05013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="05014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="05015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="05016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="05017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="05018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="05019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="05020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="05021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="05022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="05023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="05024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="05025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="05026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="05027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="05028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="05029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="05030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="05031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="05032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="05033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="05034.htm">
+              34
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Lest they should impute their victories to their own merits, they are put in mind of their manifold rebellions and other sins, for which they should have been destroyed, but God spared them for his promise made to Abraham, Isaac, and Jacob.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               Hear, O Israel: Thou shalt go over the Jordan this day; to possess nations very great, and stronger than thyself, cities great, and walled up to the sky,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               A People great and tall, the sons of the Enacims, whom thou hast seen, and heard of, against whom no man is able to stand.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               Thou shalt know therefore this day that the Lord thy God himself will pass over before thee, a devouring and consuming fire, to destroy and extirpate and bring them to nothing before thy face quickly, as he hath spoken to thee.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               Say not in thy heart, when the Lord thy God shall have destroyed them in thy sight: For my justice hath the Lord brought me in to possess this land, whereas these nations are destroyed for their wickedness.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               For it is not for thy justices, and the uprightness of thy heart that thou shalt go in to possess their lands: but because they have done wickedly, they are destroyed at thy coming in: and that the Lord might accomplish his word, which he promised by oath to thy fathers Abraham, Isaac, and Jacob.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               Know therefore that the Lord thy God giveth thee not this excellent land in possession for thy justices, for thou art a very stiffnecked people.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               Remember, and forget not how then provokedst the Lord thy God to wrath in the wilderness. From the day that thou camest out of Egypt unto this place, thou hast always strove against the Lord.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               For in Horeb also thou didst provoke him, and he was angry, and would have destroyed thee,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               When I went up into the mount to receive the tables of stone, the tables of the covenant which the Lord made with you: and I continued in the mount forty days and nights, neither eating bread, nor drinking water.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And the Lord gave me two tables of stone written with the finger of God, and containing all the words that he spoke to you in the mount from the midst of the fire, when the people were assembled together.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               And when forty days were passed, and as many nights, the Lord gave me the two tables of stone, the tables of the covenant,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               And said to me: Arise, and go down from hence quickly: for thy people, which thou hast brought out of Egypt, have quickly forsaken the way that thou hast shewn them, and have made to themselves a molten idol.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               And again the Lord said to me: I see that this people is stiffnecked:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               Let me alone that I may destroy them, and abolish their name from under heaven, and set thee over a nation, that is greater and stronger than this.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               And when I came down from the burning mount, and held the two tables of the covenant with both hands,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               And saw that you had sinned against the Lord your God, and had made to yourselves a molten calf, and had quickly forsaken his way, which he had shewn you:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               I cast the tables out of my hands, and broke them in your sight.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               And I fell down before the Lord as before, forty days and nights neither eating bread, nor drinking water, for all your sins, which you had committed against the Lord, and had provoked him to wrath:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               For I feared his indignation and anger, wherewith being moved against you, he would have destroyed you. And the Lord heard me this time also.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=20-#x">
+                [20]
+               </a>
+               And he was exceeding angry against Aaron also, and would have destroyed him, and I prayed in like manner for him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=21-#x">
+                [21]
+               </a>
+               And your sin that you had committed, that is, the calf, I took, and burned it with fire, and breaking it into pieces, until it was as small as dust, I threw it into the torrent, which cometh down from the mountain.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=22-#x">
+                [22]
+               </a>
+               At the burning also, and at the place of temptation, and at the graves of lust you provoked the Lord:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=23-#x">
+                [23]
+               </a>
+               And when he sent you from Cadesbarne, saying: Go up, and possess the land that I have given you, and you slighted the commandment of the Lord your God, and did not believe him, neither would you hearken to his voice:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=24-#x">
+                [24]
+               </a>
+               But were always rebellious from the day that I began to know you.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=25-#x">
+                [25]
+               </a>
+               And I lay prostrate before the Lord forty days and nights, in which I humbly besought him, that he would not destroy you as he had threatened:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=26-#x">
+                [26]
+               </a>
+               And praying, I said: O Lord God, destroy not thy people, and thy inheritance, which thou hast redeemed in thy greatness, whom thou hast brought out of Egypt with a strong hand.
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=27-#x">
+                [27]
+               </a>
+               Remember thy servants Abraham, Isaac, and Jacob: look not on the stubbornness of this people, nor on their wickedness and sin:
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=28-#x">
+                [28]
+               </a>
+               Lest perhaps the inhabitants of the land, out of which thou hast brought us, say: The Lord could not bring them into the land that he promised them, and he hated them: therefore he brought them out, that he might kill them in the wilderness,
+               <a href="/x/d?b=drb&amp;bk=5&amp;ch=9&amp;l=29-#x">
+                [29]
+               </a>
+               Who are thy people and thy inheritance, whom thou hast brought out by thy great strength, and in thy stretched out arm.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Deuteronomy
+              </td>
+              <td class="next">
+               <a href="06001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="05008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="05010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

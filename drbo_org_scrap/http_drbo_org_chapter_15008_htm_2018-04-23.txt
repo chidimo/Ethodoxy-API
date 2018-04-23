@@ -1,0 +1,493 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Esdras (Ezra) Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/15008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/15008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Esdras (Ezra)
+           </td>
+           <td class="next">
+            <a href="16001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="15009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="15001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="15002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="15003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="15004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="15005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="15006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="15007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="15009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="15010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The companions of Esdras. The fast which he appointed. They bring the holy vessels into the temple.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               Now these are the chiefs of families, and the genealogy of them, who came up with me from Babylon in the reign of Artaxerxes the king.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               Of the sons of Phinees, Gersom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattus.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               Of the sons of Sechenias, the son of Pharos, Zacharias, and with him were numbered a hundred and fifty men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               Of the sons of Phahath Moab, Eleoenai the son of Zareha, and with him two hundred men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               Of the sons of Sechenias, the son of Ezechiel, and with him three hundred men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               Of the sons of Adan, Abed the son of Jonathan, and with him fifty men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               Of the sons of Alam, Isaias the son of Athalias, and with him seventy men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               Of the sons of Saphatia: Zebodia the son of Michael, and with him eighty men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               Of the sons of Joab, Obedia the son of Jahiel, and with him two hundred and eighteen men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               Of the sons of Selomith, the son of Josphia, and with him a hundred and sixty men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               Of the sons of Bebai, Zacharias the son of Bebai: and with him eight and twenty men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               Of the sons of Azgad, Joanan the son of Eccetan, and with him a hundred and ten men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               Of the sons of Adonicam, who were the last: and these are their names: Eliphelet, and Jehiel, and Samaias, and with them sixty men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=14-#x">
+                [14]
+               </a>
+               Of the sons of Begui, Uthai and Zachur, and with them seventy men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=15-#x">
+                [15]
+               </a>
+               And I gathered them together to the river, which runneth down to Ahava, and we stayed there three days: and I sought among the people and among the priests for the sons of Levi, and found none there.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=16-#x">
+                [16]
+               </a>
+               So I sent Eliezer, and Ariel, and Semeias, and Elnathan, and Jarib, and another Elnathan, and Nathan, and Zacharias, and Mosollam, chief men: and Joiarib, and Elnathan, wise men.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=17-#x">
+                [17]
+               </a>
+               And I sent them to Eddo, who is chief in the place of Chasphia, and I put in their mouth the words that they should speak to Eddo, and his brethren the Nathinites in the place of Chasphia, that they should bring us ministers of the house of our God.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=18-#x">
+                [18]
+               </a>
+               And by the good hand of our God upon us, they brought us a most learned man of the sons of Moholi the son of Levi the son of Israel, and Sarabias and his sons, and his brethren eighteen,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=19-#x">
+                [19]
+               </a>
+               And Hasabias, and with him Isaias of the sons of Merari, and his brethren, and his sons twenty.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=20-#x">
+                [20]
+               </a>
+               And of the Nathinites, whom David, and the princes gave for the service of the Levites, Nathinites two hundred and twenty: all these were called by their names.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=21-#x">
+                [21]
+               </a>
+               And
+               <u>
+                I proclaimed there a fast
+               </u>
+               by the river Ahava, that we might afflict ourselves before the Lord our God, and might ask of him a right way for us and for our children, and for all our substance.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=22-#x">
+                [22]
+               </a>
+               For I was ashamed to ask the king for aid and for horsemen, to defend us from the enemy in the way: because we had said to the king: The hand of our God is upon all them that seek him in goodness: and his power and strength, and wrath upon all them that forsake him.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=23-#x">
+                [23]
+               </a>
+               And we fasted, and besought our God for this: and it fell out prosperously unto us.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=24-#x">
+                [24]
+               </a>
+               And I separated twelve of the chief of the priests, Sarabias, and Hasabias, and with them ten of their brethren,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=25-#x">
+                [25]
+               </a>
+               And I weighed unto them the silver and gold, and the vessels consecrated for the house of our God, which the king and his counsellors, and his princes, and all Israel, that were found had offered.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "I proclaimed there a fast"
+               </u>
+               : It is not enough to part from Babylon, that is, figuratively from sin, but we must also do works of penance; and therefore Esdras here proclaimed an extraordinary fast to those that were come from captivity. This shews that fasting was commanded and practised from the earliest times.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=26-#x">
+                [26]
+               </a>
+               And I weighed to their hands six hundred and fifty talents of silver, and a hundred vessels of silver, and a hundred talents of gold,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=27-#x">
+                [27]
+               </a>
+               And twenty cups of gold, of a thousand solids, and two vessels of the best shining brass, beautiful as gold.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=28-#x">
+                [28]
+               </a>
+               And I said to them: You are the holy ones of the Lord, and the vessels are holy, and the silver and gold, that is freely offered to the Lord the God of our fathers.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=29-#x">
+                [29]
+               </a>
+               Watch ye and keep them, till you deliver them by weight before the chief of the priests, and of the Levites, and the heads of the families of Israel in Jerusalem, into the treasure of the house of the Lord.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=30-#x">
+                [30]
+               </a>
+               And the priests and the Levites received the weight of the silver and gold, and the vessels, to carry them to Jerusalem to the house of our God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=31-#x">
+                [31]
+               </a>
+               Then we set forward from the river Ahava on the twelfth day of the first month to go to Jerusalem: and the hand of our God was upon us, and delivered us from the hand of the enemy, and of such as lay in wait by the way.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=32-#x">
+                [32]
+               </a>
+               And we came to Jerusalem, and we stayed there three days.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=33-#x">
+                [33]
+               </a>
+               And on the fourth day the silver and the gold, and the vessels were weighed in the house of our God by the hand of Meremoth the son of Urias the priest, and with him was Eleazar the son of Phinees, and with them Jozabad the son of Josue, and Noadaia the son of Benoi, Levites.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=34-#x">
+                [34]
+               </a>
+               According to the number and weight of every thing: and all the weight was written at that time.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=35-#x">
+                [35]
+               </a>
+               Moreover the children of them that had been carried away that were come out of the captivity, offered holocausts to the God of Israel, twelve calves for all the people of Israel, ninety-six rams, seventy-seven lambs, and twelve he goats for sin: all for a holocaust to the Lord.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=8&amp;l=36-#x">
+                [36]
+               </a>
+               And they gave the king's edicts to the lords that were from the king's court, and the governors beyond the river, and they furthered the people and the house of God.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Esdras (Ezra)
+              </td>
+              <td class="next">
+               <a href="16001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="15009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

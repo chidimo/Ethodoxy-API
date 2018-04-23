@@ -1,0 +1,570 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Machabees Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/46004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/46004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="47001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="46005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="46001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="46002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="46003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="46005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="46006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="46007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="46008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="46009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="46010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="46011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="46012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="46013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="46014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="46015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Onias has recourse to the king. The ambition and wickedness of Jason and Menelaus. Onias is treacherously murdered.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               But Simon, of whom we spoke before, and of his country, spoke ill of Onias, as though he had incited Heliodorus to do these things, and had been the promoter of evils:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               And he presumed to call him a traitor to the kingdom, who provided for the city, and defended his nation, and was zealous for the law of God.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               But when the enmities proceeded so far, that murders also were committed by some of Simon's friends:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               Onias considering the danger of this contention, and that Apollonius, who was the governor of Celesyria and Phenicia, was outrageous, which increased the malice of Simon, went to the king,
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               Not to be an accuser of his countrymen, but with a view to the common good of all the people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               For he saw that, except the king took care, it was impossible that matters should be settled in peace, or that Simon would cease from his folly.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               But after the death of Seleucus, when Antiochus, who was called the Illustrious, had taken possession of the kingdom, Jason the brother of Onias ambitiously sought the high priesthood:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               And went to the king, promising him three hundred and sixty talents of silver, and out of other revenues fourscore talents.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               Besides this he promised also a hundred and fifty more, if he might have license to set him up a place for exercise, and a place for youth, and to entitle them, that were at Jerusalem, Antiochians.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               Which when the king had granted, and he had gotten the rule into his hands, forthwith he began to bring over his countrymen to the fashion of the heathens.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               And abolishing those things, which had been decreed of special favour by the kings in behalf of the Jews, by the means of John the father of that Eupolemus, who went ambassador to Rome to make amity and alliance, he disannulled the lawful ordinances of the citizens, and brought in fashions that were perverse.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               For he had the boldness to set up, under the very castle, a place of exercise, and to put all the choicest youths in brothel houses.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               Now this was not the beginning, but an increase, and progress of heathenish and foreign manners, through the abominable and unheard of wickedness of Jason, that impious wretch and no priest.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               Insomuch that the priests were not now occupied about the offices of the altar, but despising the temple and neglecting the sacrifices, hastened to be partakers of the games, and of the unlawful allowance thereof, and of the exercise of the discus.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And setting nought by the honours of their fathers, they esteemed the Grecian glories for the best:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               For the sake of which they incurred a dangerous contention, and followed earnestly their ordinances, and in all things they coveted to be like them, who were their enemies and murderers.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               For acting wickedly against the laws of God doth not pass unpunished: but this the time following will declare.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=18-#x">
+                [18]
+               </a>
+               Now when the game that was used every fifth year was kept at Tyre, the king being present,
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=19-#x">
+                [19]
+               </a>
+               The wicked Jason sent from Jerusalem sinful men to carry three hundred didrachmas of silver for the sacrifice of Hercules; but the bearers thereof desired it might not be bestowed on the sacrifices, because it was not necessary, but might be deputed for other charges.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=20-#x">
+                [20]
+               </a>
+               So the money was appointed by him that sent it to the sacrifice of Hercules: but because of them that carried it was employed for the making of galleys.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=21-#x">
+                [21]
+               </a>
+               Now when Apollonius the son of Mnestheus was sent into Egypt to treat with the nobles of king Philometor, and Antiochus understood that he was wholly excluded from the affairs of the kingdom, consulting his own interest, he departed thence and came to Joppe, and from thence to Jerusalem:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=22-#x">
+                [22]
+               </a>
+               Where he was received in a, magnificent manner by Jason, and the city, and came in with torch lights, and with praises, and from thence he returned with his army into Phenicia.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=23-#x">
+                [23]
+               </a>
+               Three years afterwards Jason sent Menelaus, brother of the aforesaid Simon, to carry money to the king, and to bring answers from him concerning certain necessary affairs.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=24-#x">
+                [24]
+               </a>
+               But he being recommended to the king, when he had magnified the appearance of his power, got the high priesthood for himself, by offering more than Jason by three hundred talents of silver.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=25-#x">
+                [25]
+               </a>
+               So having received the king's mandate, he returned bringing nothing worthy of the high priesthood: but having the mind of a cruel tyrant, and the rage of a savage beast.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=26-#x">
+                [26]
+               </a>
+               Then Jason, who had undermined his own brother, being himself undermined, was driven out a fugitive into the country of the Ammonites.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=27-#x">
+                [27]
+               </a>
+               So Menelaus got the principality: but as for the money he had promised to the king he took no care, when Sostratus the governor of the castle called for it.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=28-#x">
+                [28]
+               </a>
+               For to him appertained the gathering of the taxes: wherefore they were both called before the king.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=29-#x">
+                [29]
+               </a>
+               And Menelaus was removed from the priesthood, Lysimachus his brother succeeding: and Sostratus was made governor of the Cyprians.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=30-#x">
+                [30]
+               </a>
+               When these things were in doing, it fell out that they of Tharsus and Mallos raised a sedition, because they were given for a gift to Antiochis, the king's concubine.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=31-#x">
+                [31]
+               </a>
+               The king therefore went in all haste to appease them, leaving Andronicus, one of his nobles, for his deputy.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=32-#x">
+                [32]
+               </a>
+               Then Menelaus supposing that he had found a convenient time, having stolen certain vessels of gold out of the temple, gave them to Andronicus, and others he had sold at Tyre, and in the neighbouring cities.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=33-#x">
+                [33]
+               </a>
+               Which when Onias understood most certainly, he reproved him, keeping himself in a safe place at Antioch beside Daphne.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=34-#x">
+                [34]
+               </a>
+               Whereupon Menelaus coming to Andronicus, desired him to kill Onias. And he went to Onias, and gave him his right hand with an oath, and (though he were suspected by him) persuaded him to come forth out of the sanctuary, and immediately slew him, without any regard to justice.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=35-#x">
+                [35]
+               </a>
+               For which cause not only the Jews, but also the other nations, conceived indignation, and were much grieved for the unjust murder of so great a man.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=36-#x">
+                [36]
+               </a>
+               And when the king was come back from the places of Cilicia, the Jews that were at Antioch, and also the Greeks went to him: complaining of the unjust murder of Onias.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=37-#x">
+                [37]
+               </a>
+               Antiochus therefore was grieved in his mind for Onias, and being moved to pity, shed tears, remembering the sobriety and modesty of the deceased.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=38-#x">
+                [38]
+               </a>
+               And being inflamed to anger, he commanded Andronicus to be stripped of his purple, and to be led about through all the city: and that in the same place wherein he had committed the impiety against Onias, the sacrilegious wretch should be put to death, the Lord repaying him his deserved punishment.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=39-#x">
+                [39]
+               </a>
+               Now when many sacrileges had been committed by Lysimachus in the temple by the counsel of Menelaus, and the rumour of it was spread abroad, the multitude gathered themselves together against Lysimachus, a great quantity of gold being already carried away.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=40-#x">
+                [40]
+               </a>
+               Wherefore the multitude making an insurrection, and their minds being filled with anger, Lysimachus armed about three thousand men, and began to use violence, one Tyrannus being captain, a man far gone both in age, and in madness.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=41-#x">
+                [41]
+               </a>
+               But when they perceived the attempt of Lysimachus, some caught up stones, some strong clubs: and some threw ashes upon Lysimachus,
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=42-#x">
+                [42]
+               </a>
+               And many of them were wounded, and some struck down to the ground, but all were put to flight: and as for the sacrilegious fellow himself, they slew him beside the treasury.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=43-#x">
+                [43]
+               </a>
+               Now concerning these matters, an accusation was laid against Menelaus.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=44-#x">
+                [44]
+               </a>
+               And when the king was come to Tyre, three men were sent from the ancients to plead the cause before him.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=45-#x">
+                [45]
+               </a>
+               But Menelaus being convicted, promised
+               <u>
+                Ptolemee
+               </u>
+               to give him much money to persuade the king to favour him.
+              </p>
+              <p class="note">
+               [45]
+               <u>
+                "Ptolemee"
+               </u>
+               : The son of Dorymenus, a favourite of the king.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=46-#x">
+                [46]
+               </a>
+               So Ptolemee went to the king in a certain court where he was, as it were to cool himself, and brought him to be of another mind:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=47-#x">
+                [47]
+               </a>
+               So Menelaus who was guilty of all the evil, was acquitted by him of the accusations: and those poor men, who, if they had pleaded their cause even before Scythians, should have been judged innocent, were condemned to death.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=48-#x">
+                [48]
+               </a>
+               Thus they that prosecuted the cause for the city, and for the people, and the sacred vessels, did soon suffer unjust punishment.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=49-#x">
+                [49]
+               </a>
+               Wherefore even the Tyrians being moved with indignation, were liberal towards their burial.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=4&amp;l=50-#x">
+                [50]
+               </a>
+               And so through the covetousness of them that were in power, Menelaus continued in authority, increasing in malice to the betraying of the citizens.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="47001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="46005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

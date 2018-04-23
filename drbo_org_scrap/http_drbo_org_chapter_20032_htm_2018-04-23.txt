@@ -1,0 +1,577 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Job Chapter 32
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/20032.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/20032.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Job
+           </td>
+           <td class="next">
+            <a href="21001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="20031.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 32
+           </td>
+           <td class="next">
+            <a href="20033.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="20001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="20002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="20003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="20004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="20005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="20006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="20007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="20008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="20009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="20010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="20011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="20012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="20013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="20014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="20015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="20016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="20017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="20018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="20019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="20020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="20021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="20022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="20023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="20024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="20025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="20026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="20027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="20028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="20029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="20030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="20031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             32
+            </td>
+            <td width="30">
+             <a href="20033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="20034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="20035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="20036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="20037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="20038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="20039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="20040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="20041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="20042.htm">
+              42
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Eliu is angry with Job and his friends. He boasts of himself.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=1-#x">
+                [1]
+               </a>
+               So these three men ceased to answer Job, because he seemed just to himself.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=2-#x">
+                [2]
+               </a>
+               And Eliu the son of Barachel the Buzite, of the kindred of Ram, was angry and was moved to indignation: now he was angry against Job, because he said he was just before God.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=3-#x">
+                [3]
+               </a>
+               And he was angry with his friends because they had not found a reasonable answer, but only had condemned Job.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=4-#x">
+                [4]
+               </a>
+               So Eliu waited while Job was speaking, because they were his elders that were speaking.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=5-#x">
+                [5]
+               </a>
+               But when he saw that the three were not able to answer, he was exceedingly angry.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=6-#x">
+                [6]
+               </a>
+               Then Eliu the son of Barachel the Buzite answered and said: I am younger in days, and you are more ancient; therefore hanging down my head, I was afraid to shew you my opinion.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=7-#x">
+                [7]
+               </a>
+               For I hoped that greater age would speak, and that a multitude of years would teach wisdom.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=8-#x">
+                [8]
+               </a>
+               But, as I see, there is a spirit in men, and the inspiration of the Almighty giveth understanding.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=9-#x">
+                [9]
+               </a>
+               They that are aged are not the wise men, neither do the ancients understand judgment.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=10-#x">
+                [10]
+               </a>
+               Therefore I will speak: Hearken to me, I also will shew you my wisdom.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=11-#x">
+                [11]
+               </a>
+               For I have waited for your words, I have given ear to your wisdom, as long as you were disputing in words.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=12-#x">
+                [12]
+               </a>
+               And as long as I thought you said some thing, I considered: but, as I see, there is none of you that can convince Job, and answer his words.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=13-#x">
+                [13]
+               </a>
+               Lest you should say: We have found wisdom, God hath cast him down, not man.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=14-#x">
+                [14]
+               </a>
+               He hath spoken nothing to me, and I will not answer him according to your words.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=15-#x">
+                [15]
+               </a>
+               They were afraid, and answered no more, and they left off speaking.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=16-#x">
+                [16]
+               </a>
+               Therefore because I have waited, and they have not spoken: they stood, and answered no more:
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=17-#x">
+                [17]
+               </a>
+               I also will answer my part, and will shew my knowledge.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=18-#x">
+                [18]
+               </a>
+               For I am full of matter to speak of, and the spirit of my bowels straiteneth me.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=19-#x">
+                [19]
+               </a>
+               Behold, my belly is as new wine which wanteth vent, which bursteth the new vessels.
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=20-#x">
+                [20]
+               </a>
+               I will speak and take breath a little: I will open my lips, and will answer.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=21-#x">
+                [21]
+               </a>
+               I will not accept the person of man, and
+               <u>
+                I will not level God with man
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=20&amp;ch=32&amp;l=22-#x">
+                [22]
+               </a>
+               For I know not how long I shall continue, and whether after a while my Maker may take me away.
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "I will not level God with man"
+               </u>
+               : Here Eliu considers that Job hath put himself on a level with God, by the manner he assumed to justify his own life in speaking to God as if he spoke to an equal: Eliu expresses in the following ver. 22 his fear of punishment hereafter for such an attempt.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Job
+              </td>
+              <td class="next">
+               <a href="21001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="20031.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 32
+              </td>
+              <td class="next">
+               <a href="20033.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

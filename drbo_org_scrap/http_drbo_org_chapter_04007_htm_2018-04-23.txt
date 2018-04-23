@@ -1,0 +1,826 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 7
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04007.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04007.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04006.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 7
+           </td>
+           <td class="next">
+            <a href="04008.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             07
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="04011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The offerings of the princes at the dedication of the tabernacle. God speaketh to Moses from the propitiatory.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=1-#x">
+                [1]
+               </a>
+               And it came to pass in the day that Moses had finished the tabernacle, and set it up, and had anointed and sanctified it with all its vessels, the altar likewise and all the vessels thereof,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=2-#x">
+                [2]
+               </a>
+               The princes of Israel and the heads of the families, in every tribe, who were the rulers of them who had been numbered, offered
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=3-#x">
+                [3]
+               </a>
+               Their gifts before the Lord, six wagons covered, and twelve oxen. Two princes offered one wagon, and each one an ox, and they offered them before the tabernacle.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=4-#x">
+                [4]
+               </a>
+               And the Lord said to Moses:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=5-#x">
+                [5]
+               </a>
+               Receive them from them to serve in the ministry of the tabernacle, and thou shalt deliver them to the Levites according to the order of their ministry.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=6-#x">
+                [6]
+               </a>
+               Moses therefore receiving the wagons and the oxen, delivered them to the Levites.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=7-#x">
+                [7]
+               </a>
+               Two wagons and four oxen he gave to the sons of Gerson, according to their necessity.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=8-#x">
+                [8]
+               </a>
+               The other four wagons, and eight oxen he gave to the sons of Merari, according to their offices and service, under the hand of Ithamar the son of Aaron the priest.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=9-#x">
+                [9]
+               </a>
+               But to the sons of Caath he gave no wagons or oxen: because they serve in the sanctuary and carry their burdens upon their own shoulders.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=10-#x">
+                [10]
+               </a>
+               And the princes offered for the dedication of the altar on the day when it was anointed, their oblation before the altar.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=11-#x">
+                [11]
+               </a>
+               And the Lord said to Moses: Let each of the princes one day after another offer their gifts for the dedication of the altar.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=12-#x">
+                [12]
+               </a>
+               The first day Nahasson the son of Aminadab of the tribe of Juda offered his offering:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=13-#x">
+                [13]
+               </a>
+               And his offering was a silver dish weighing one hundred and thirty sicles, a silver bowl of seventy sicles according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=14-#x">
+                [14]
+               </a>
+               A little mortar of ten sides of gold full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=15-#x">
+                [15]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=16-#x">
+                [16]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=17-#x">
+                [17]
+               </a>
+               And for the sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of a year old. This was the offering of Nahasson the son of Aminadab.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=18-#x">
+                [18]
+               </a>
+               The second day Nathanael the son of Suar, prince of the tribe of Issachar, made his offering,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=19-#x">
+                [19]
+               </a>
+               A silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=20-#x">
+                [20]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=21-#x">
+                [21]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=22-#x">
+                [22]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=23-#x">
+                [23]
+               </a>
+               And for the sacrifice of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Nathanael the son of Suar.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=24-#x">
+                [24]
+               </a>
+               The third day the prince of the sons of Zabulon, Eliab the son of Helon,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=25-#x">
+                [25]
+               </a>
+               Offered a silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides by the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=26-#x">
+                [26]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=27-#x">
+                [27]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=28-#x">
+                [28]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=29-#x">
+                [29]
+               </a>
+               And for the sacrifice of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This is the oblation of Eliab the son of Helon.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=30-#x">
+                [30]
+               </a>
+               The fourth day the prince of the sons of Ruben, Elisur the son of Sedeur,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=31-#x">
+                [31]
+               </a>
+               Offered a silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=32-#x">
+                [32]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=33-#x">
+                [33]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old, for a holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=34-#x">
+                [34]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=35-#x">
+                [35]
+               </a>
+               And for victims of peace offerings two oxen, five rams, five buck goats. five lambs of a year old. This was the offering of Elisur the son of Sedeur.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=36-#x">
+                [36]
+               </a>
+               The fifth day the prince of the sons of Simeon, Salamiel the son of Surisaddai,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=37-#x">
+                [37]
+               </a>
+               Offered a silver dish weighing one hundred and thirty sides, a silver bowl of seventy sides after the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=38-#x">
+                [38]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=39-#x">
+                [39]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=40-#x">
+                [40]
+               </a>
+               And a buck goat for sin:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=41-#x">
+                [41]
+               </a>
+               And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Salamiel the son of Surisaddai.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=42-#x">
+                [42]
+               </a>
+               The sixth day the prince of the sons of Gad, Eliasaph the son of Duel,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=43-#x">
+                [43]
+               </a>
+               Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides by the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=44-#x">
+                [44]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=45-#x">
+                [45]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=46-#x">
+                [46]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=47-#x">
+                [47]
+               </a>
+               And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Eliasaph the son of Duel.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=48-#x">
+                [48]
+               </a>
+               The seventh day the prince of the sons of Ephraim, Elisama the son Ammiud,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=49-#x">
+                [49]
+               </a>
+               Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides according to the weight of the sanctuary, both full of hour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=50-#x">
+                [50]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=51-#x">
+                [51]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=52-#x">
+                [52]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=53-#x">
+                [53]
+               </a>
+               And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Elisama the son of Ammiud.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=54-#x">
+                [54]
+               </a>
+               The eighth day the prince of the sons of Manasses, Gamaliel the son of Phadassur,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=55-#x">
+                [55]
+               </a>
+               Offered a silver dish weighing a hundred and thirty sicles, a silver bowl of seventy sicles, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=56-#x">
+                [56]
+               </a>
+               A little mortar of gold weighing ten sicles full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=57-#x">
+                [57]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=58-#x">
+                [58]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=59-#x">
+                [59]
+               </a>
+               And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Gamaliel the son of Phadassur.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=60-#x">
+                [60]
+               </a>
+               The ninth day the prince of the sons of Benjamin, Abidan the son of Gedeon,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=61-#x">
+                [61]
+               </a>
+               Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides by the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=62-#x">
+                [62]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=63-#x">
+                [63]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a, holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=64-#x">
+                [64]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=65-#x">
+                [65]
+               </a>
+               And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Abidan the son of Gedeon.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=66-#x">
+                [66]
+               </a>
+               The tenth day the prince of the sons of Dan, Ahiezer the son of Ammisaddai,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=67-#x">
+                [67]
+               </a>
+               Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=68-#x">
+                [68]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=69-#x">
+                [69]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=70-#x">
+                [70]
+               </a>
+               And a buck goat for sin:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=71-#x">
+                [71]
+               </a>
+               And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Ahiezer the son of Ammisaddai.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=72-#x">
+                [72]
+               </a>
+               The eleventh day the prince of the sons of Aser, Phegiel the son of Ochran,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=73-#x">
+                [73]
+               </a>
+               Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=74-#x">
+                [74]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=75-#x">
+                [75]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=76-#x">
+                [76]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=77-#x">
+                [77]
+               </a>
+               And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Phegiel the son of Ochran.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=78-#x">
+                [78]
+               </a>
+               The twelfth day the prince of the sons of Nephtali, Ahira the son of Enan,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=79-#x">
+                [79]
+               </a>
+               Offered a silver dish weighing a hundred and thirty sides, a silver bowl of seventy sides, according to the weight of the sanctuary, both full of flour tempered with oil for a sacrifice:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=80-#x">
+                [80]
+               </a>
+               A little mortar of gold weighing ten sides full of incense:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=81-#x">
+                [81]
+               </a>
+               An ox of the herd, and a ram, and a lamb of a year old for a holocaust:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=82-#x">
+                [82]
+               </a>
+               And a buck goat for sin:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=83-#x">
+                [83]
+               </a>
+               And for sacrifices of peace offerings, two oxen, five rams, five buck goats, five lambs of a year old. This was the offering of Ahira the son of Enan.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=84-#x">
+                [84]
+               </a>
+               These were the offerings made by the princes of Israel in the dedication of the altar, in the day wherein it was consecrated. Twelve dishes of silver: twelve silver bowls: twelve little mortars of gold:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=85-#x">
+                [85]
+               </a>
+               Each dish weighing a hundred and thirty sides of silver, and each bowl seventy sides: that is, putting all the vessels of silver together, two thousand four hundred sides, by the weight of the sanctuary.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=86-#x">
+                [86]
+               </a>
+               Twelve little mortars of gold full of incense, weighing ten sides apiece, by the weight of the sanctuary: that is, in all a hundred and twenty sides of gold.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=87-#x">
+                [87]
+               </a>
+               Twelve oxen out of the herd for a holocaust, twelve rams, twelve lambs of a year old, and their libations: twelve buck goats for sin.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=88-#x">
+                [88]
+               </a>
+               And for sacrifices of peace offerings, oxen twenty-four, rams sixty, buck goats sixty, lambs of a year old sixty. These things were offered in the dedication of the altar, when it was anointed.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=7&amp;l=89-#x">
+                [89]
+               </a>
+               And when Moses entered into the tabernacle of the covenant, to consult the oracle, he heard the voice of one speaking to him from the propitiatory, that was over the ark between the two cherubims, and from this place he spoke to him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04006.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 7
+              </td>
+              <td class="next">
+               <a href="04008.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

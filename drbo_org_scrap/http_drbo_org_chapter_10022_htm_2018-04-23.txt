@@ -1,0 +1,600 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Kings (2 Samuel) Chapter 22
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/10022.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/10022.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="09001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Kings (2 Samuel)
+           </td>
+           <td class="next">
+            <a href="11001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="10021.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 22
+           </td>
+           <td class="next">
+            <a href="10023.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="10001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="10002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="10003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="10004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="10005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="10006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="10007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="10008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="10009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="10010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="10011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="10012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="10013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="10014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="10015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="10016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="10017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="10018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="10019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="10020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="10021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             22
+            </td>
+            <td width="30">
+             <a href="10023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="10024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               King David's psalm of thanksgiving for his deliverance from all his enemies.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=1-#x">
+                [1]
+               </a>
+               And David spoke to the Lord the words of this canticle, in the day that the Lord delivered him out of the hand of all his enemies, and out of the hand of Saul,
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=2-#x">
+                [2]
+               </a>
+               And he said: The Lord is my rock, and my strength, and my saviour.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=3-#x">
+                [3]
+               </a>
+               God is my strong one, in him will I trust: my shield, and the horn of my salvation: he lifteth me up, and is my refuge: my saviour, thou wilt deliver me from iniquity.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=4-#x">
+                [4]
+               </a>
+               I will call on the Lord who is worthy to be praised: and I shall be saved from my enemies.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=5-#x">
+                [5]
+               </a>
+               For the pangs of death have surrounded me: the floods of Belial have made me afraid.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=6-#x">
+                [6]
+               </a>
+               The cords of hell compassed me: the snares of death prevented me.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=7-#x">
+                [7]
+               </a>
+               In my distress I will call upon the Lord, and I will cry to my God: and he will hear my voice out of his temple, and my cry shall come to his ears.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=8-#x">
+                [8]
+               </a>
+               The earth shook and trembled, the foundations of the mountains were moved, and shaken, because he was angry with them.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=9-#x">
+                [9]
+               </a>
+               A smoke went up from his nostrils, and a devouring fire out of his mouth: coals were kindled by it.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=10-#x">
+                [10]
+               </a>
+               He bowed the heavens, and came down: and darkness was under his feet.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=11-#x">
+                [11]
+               </a>
+               And he rode upon the cherubims, and flew: and slid upon the wings of the wind.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=12-#x">
+                [12]
+               </a>
+               He made darkness a covering round about him: dropping waters out of the clouds of the heavens.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=13-#x">
+                [13]
+               </a>
+               By the brightness before him, the coals of fire were kindled.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=14-#x">
+                [14]
+               </a>
+               The Lord shall thunder from heaven: and the most high shall give forth his voice.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=15-#x">
+                [15]
+               </a>
+               He shot arrows and scattered them: lightning, and consumed them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=16-#x">
+                [16]
+               </a>
+               And the overflowings of the sea appeared, and the foundations of the world were laid open at the rebuke of the Lord, at the blast of the spirit of his wrath.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=17-#x">
+                [17]
+               </a>
+               He sent from on high, and took me, and drew me out of many waters.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=18-#x">
+                [18]
+               </a>
+               He delivered me from my most mighty enemy, and from them that hated me: for they were too strong for me.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=19-#x">
+                [19]
+               </a>
+               He prevented me in the day of my affliction, and the Lord became my stay.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=20-#x">
+                [20]
+               </a>
+               And he brought me forth into a large place, he delivered me, because I pleased him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=21-#x">
+                [21]
+               </a>
+               The Lord will reward me according to my justice: and according to the cleanness of my hands he will render to me.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=22-#x">
+                [22]
+               </a>
+               Because I have kept the ways of the Lord, and have not wickedly departed from my God.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=23-#x">
+                [23]
+               </a>
+               For all his judgments are in my sight: and his precepts I have not removed from me.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=24-#x">
+                [24]
+               </a>
+               And I shall be perfect with him: and shall keep myself from my iniquity.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=25-#x">
+                [25]
+               </a>
+               And the Lord will recompense me according to my justice: and according to the cleanness of my hands in the sight of his eyes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=26-#x">
+                [26]
+               </a>
+               With the holy one thou wilt be holy: and with the valiant perfect.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=27-#x">
+                [27]
+               </a>
+               With the elect thou wilt be elect: and with the perverse thou wilt be perverted.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=28-#x">
+                [28]
+               </a>
+               And the poor people thou wilt save: and with thy eyes thou wilt humble the haughty.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=29-#x">
+                [29]
+               </a>
+               For thou art my lamp, O Lord: and thou, O Lord, wilt enlighten my darkness.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=30-#x">
+                [30]
+               </a>
+               For in thee I will run girded: in my God I will leap over the wall.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=31-#x">
+                [31]
+               </a>
+               God, his way is immaculate, the word of the Lord is tried by fire: he is the shield of all that trust in him.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=32-#x">
+                [32]
+               </a>
+               Who is God but the Lord: and who is strong but our God?
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=33-#x">
+                [33]
+               </a>
+               God who hath girded me with strength, and made my way perfect.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=34-#x">
+                [34]
+               </a>
+               Making my feet like the feet of harts, and setting me upon my high places.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=35-#x">
+                [35]
+               </a>
+               He teacheth my bands to war: and maketh my arms like a bow of brass.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=36-#x">
+                [36]
+               </a>
+               Thou hast given me the shield of my salvation: and thy mildness hath multiplied me.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=37-#x">
+                [37]
+               </a>
+               Thou shalt enlarge my steps under me: and my ankles shall not fail.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=38-#x">
+                [38]
+               </a>
+               I will pursue after my enemies, and crush them: and will not return again till I consume them.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=39-#x">
+                [39]
+               </a>
+               I will consume them and break them in pieces, so that they shall not rise: they shall fall under my feet.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=40-#x">
+                [40]
+               </a>
+               Thou hast girded me with strength to battle: thou hast made them that resisted me to bow under me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=41-#x">
+                [41]
+               </a>
+               My enemies thou hast made to turn their back to me: them that hated me, and I shall destroy them.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=42-#x">
+                [42]
+               </a>
+               They shall cry, and there shall be none to save: to the Lord, and he shall not hear them.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=43-#x">
+                [43]
+               </a>
+               I shall beat them as small as the dust of the earth: I shall crush them and spread them abroad like the mire of the streets.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=44-#x">
+                [44]
+               </a>
+               Thou wilt save me from the contradictions of my people: thou wilt keep me to be the head of the Gentiles: the people which I know not, shall serve me,
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=45-#x">
+                [45]
+               </a>
+               The sons of the stranger will resist me, at the hearing of the ear they will obey me.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=46-#x">
+                [46]
+               </a>
+               The strangers are melted away, and shall be straitened in their distresses.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=47-#x">
+                [47]
+               </a>
+               The Lord liveth, and my God is blessed: and the strong God of my salvation shall be exalted:
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=48-#x">
+                [48]
+               </a>
+               God who giveth me revenge, and bringest down people under me,
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=49-#x">
+                [49]
+               </a>
+               Who bringest me forth from my enemies, and liftest me up from them that resist me: from the wicked man thou shalt deliver me.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=50-#x">
+                [50]
+               </a>
+               Therefore will I give thanks to thee. O Lord, among the Gentiles, and will sing to thy name.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=22&amp;l=51-#x">
+                [51]
+               </a>
+               Giving great salvation to his king, and shewing mercy to David his anointed, and to his seed for ever.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="09001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Kings (2 Samuel)
+              </td>
+              <td class="next">
+               <a href="11001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="10021.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 22
+              </td>
+              <td class="next">
+               <a href="10023.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,415 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Esdras (Nehemiah) Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/16005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/16005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Esdras (Nehemiah)
+           </td>
+           <td class="next">
+            <a href="17001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="16004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="16006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="16001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="16002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="16003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="16004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="16006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="16007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="16008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="16009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="16010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="16011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="16012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="16013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Nehemias blameth the rich, for their oppressing the poor. His exhortation, and bounty to his countrymen.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               Now there was a great cry of the people, and of their wives against their brethren the Jews.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               And there were some that said: Our sons and our daughters are very many: Yet us take up corn for the price of them, and let us eat and live.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               And there were some that said: Let us mortgage our lands, and our vineyards, and our houses, and let us take corn because of the famine.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               And others said: Let us borrow money for the king's tribute, and let us give up our fields and vineyards:
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               And now our flesh is as the flesh of our brethren: and our children as their children. Behold we bring into bondage our sons and our daughters, and some of our daughters are bondwomen already, neither have we wherewith to redeem them, and our fields and our vineyards other men possess.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               And I was exceedingly angry when I heard their cry according to these words.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               And my heart thought with myself: and I rebuked the nobles and magistrates, and said to them: Do you every one exact usury of your brethren? And I gathered together a great assembly against them,
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               And I said to them: We, as you know, have redeemed according to our ability our brethren the Jews, that were sold to the Gentiles: and will you then sell your brethren, for us to redeem them? And they held their peace, and found not what to answer.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               And I said to them: The thing you do is not good: why walk you not in the fear of our God, that we be not exposed to the reproaches of the Gentiles our enemies?
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               Both I and my brethren, and my servants, have lent money and corn to many: let us all agree not to call for it again; let us forgive the debt that is owing to us.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               Restore ye to them this day their fields, and their vineyards, and their oliveyards, and their houses: and the hundredth part of the money, and of the corn, the wine, and the oil, which you mere wont to exact of them, give it rather for them.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               And they said: We will restore, and we will require nothing of them: and we will do as thou sayest. And I called the priests and took an oath of them, to do according to what I had said.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               Moreover I shook my lap, and said: So may God shake every man that shall not accomplish this word, out of his house, and out of his labours, thus may he be shaken out, and become empty. And all the multitude said: Amen. And they praised God. And the people did according to what was said.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               And from the day, in which the king commanded me to be governor in the land of Juda, from the twentieth year even to the two and thirtieth year of Artaxerxes the king, for twelve years, I and my brethren did not eat the yearly allowance that was due to the governors.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               But the former governors that had been before me, were chargeable to the people, and took of them in bread, and wine, and in money every day forty sides: and their officers also oppressed the people. But I did not so for the fear of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=16-#x">
+                [16]
+               </a>
+               Moreover I built in the work of the wall, and I bought no land, and all my servants were gathered together to the work.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=17-#x">
+                [17]
+               </a>
+               The Jews also and the magistrates to the number of one hundred and fifty men, were at my table, besides them that came to us from among the nations that were round about us.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=18-#x">
+                [18]
+               </a>
+               And there was prepared for me day by day one ox, and six choice rams, besides fowls, and once in ten days I gave store of divers wines, and many other things: yet I did not require my yearly allowance as governor: for the people were very much impoverished.
+               <a href="/x/d?b=drb&amp;bk=16&amp;ch=5&amp;l=19-#x">
+                [19]
+               </a>
+               Remember me, O my God, for good according to all that I have done for this people.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Esdras (Nehemiah)
+              </td>
+              <td class="next">
+               <a href="17001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="16004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="16006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

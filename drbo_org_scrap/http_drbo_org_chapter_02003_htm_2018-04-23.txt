@@ -1,0 +1,587 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Exodus Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/02003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/02003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Exodus
+           </td>
+           <td class="next">
+            <a href="03001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="02004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="02001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="02002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="02004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="02005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="02006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="02007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="02008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="02009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="02010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="02011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="02012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="02013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="02014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="02015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="02016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="02017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="02018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="02019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="02020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="02021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="02022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="02023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="02024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="02025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="02026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="02027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="02028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="02029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="02030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="02031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="02032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="02033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="02034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="02035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="02036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="02037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="02038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="02039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="02040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               God appeareth to Moses in a bush, and sendeth him to deliver Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Now Moses fed the sheep of Jethro his father in law, the priest of Madian: and he drove the flock to the inner parts of the desert, and came to the mountain of God, Horeb.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               And
+               <u>
+                the Lord appeared
+               </u>
+               to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire and was not burnt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               And Moses said: I will go and see this great sight, why the bush is not burnt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               And when the Lord saw that he went forward to see, he called to him out of the midst of the bush, and said: Moses, Moses. And he answered: Here I am.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               And he said: Come not nigh hither, put off the shoes from thy feet: for the place whereon thou standest is holy ground.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "The Lord appeared"
+               </u>
+               : That is, an angel representing God, and speaking in his name.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And he said: I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. Moses hid his face: for he durst not look at God.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               And the Lord said to him: I have seen the affliction of my people in Egypt, and I have heard their cry because of the rigour of them that are over the works:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And knowing their sorrow, I am come down to deliver them out of the hands of the Egyptians, and to bring them out of that land into a good and spacious land, into a land that floweth with milk and honey, to the places of the Chanaanite, and Hethite, and Amorrhite, and Pherezite, and Hevite, and Jebusite.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               For the cry of the children of Israel is come unto me: and I have seen their affliction, wherewith they are oppressed by the Egyptians.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               But come, and I will send thee to Pharao, that thou mayst bring forth my people, the children of Israel out of Egypt.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               And Moses said to God: Who am I that I should go to Pharao, and should bring forth the children of Israel out of Egypt?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               And he said to him: I will be with thee: and this thou shalt have for a sign, that I have sent thee: When thou shalt have brought my people out of Egypt, thou shalt offer sacrifice to God upon this mountain.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Moses said to God: Lo, I shall go to the children of Israel, and say to them: The God of your fathers hath sent me to you. If they should say to me: What is his name? what shall I say to them?
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               God said to Moses:
+               <u>
+                I AM WHO AM
+               </u>
+               . He said: Thus shalt thou say to the children of Israel: HE WHO IS, hath sent me to you.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               And God said again to Moses: Thus shalt thou say to the children of Israel: The Lord God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me to you: This is my name for ever, and this is my memorial unto all generations.
+              </p>
+              <p class="note">
+               [14]
+               <u>
+                "I am who am"
+               </u>
+               : That is, I am being itself, eternal, self-existent, independent, infinite; without beginning, end, or change; and the source of all other beings.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               Go, gather together the ancients of Israel, and thou shalt say to them: The Lord God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared to me, saying: Visiting I have visited you: and I have seen all that hath befallen you in Egypt.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               And I have said the word to bring you forth out of the affliction of Egypt, into the land of the Chanaanite, the Hethite, and the Amorrhite, and Pherezite, and Hevite, and Jebusite, to a land that floweth with milk and honey.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               And they shall hear thy voice: and thou shalt go in, thou and the ancients of Israel, to the king of Egypt, and thou shalt say to him: The Lord God of the Hebrews hath called us: we will go three days' journey into the wilderness, to sacrifice unto the Lord our God.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               But I know that the king of Egypt will not let you go, but by a mighty hand.
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               For I will stretch forth my hand and will strike Egypt with all my wonders which I will do in the midst of them: after these he will let you go.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               And I will give favour to this people, in the sight of the Egyptians: and when you go forth, you shall not depart empty:
+               <a href="/x/d?b=drb&amp;bk=2&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               But every woman shall ask of her neighbour, and of her that is in her house, vessels of silver and of gold, and raiment: and you shall put them on your sons and daughters, and
+               <u>
+                shall spoil
+               </u>
+               Egypt.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Shall spoil"
+               </u>
+               : That is, you shall strip, and take away the goods of the Egyptians. This was not authorizing theft or injustice; but was a just disposal made by Him, who is the great lord and master of all things, in order to pay the children of Israel some part of what was due to them from the Egyptians for their labours.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Exodus
+              </td>
+              <td class="next">
+               <a href="03001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="02004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

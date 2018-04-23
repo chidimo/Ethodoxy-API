@@ -1,0 +1,435 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judith Chapter 9
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/18009.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/18009.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="17001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judith
+           </td>
+           <td class="next">
+            <a href="19001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="18008.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 9
+           </td>
+           <td class="next">
+            <a href="18010.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="18001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="18002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="18003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="18004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="18005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="18006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="18007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="18008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             09
+            </td>
+            <td width="30">
+             <a href="18010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="18011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="18012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="18013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="18014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="18015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="18016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Judith's prayer, to beg of God to fortify her in her undertaking.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=1-#x">
+                [1]
+               </a>
+               And when they were gone, Judith went into her oratory: and putting on haircloth, laid ashes on her head: and falling down prostrate before the Lord, she cried to the Lord, saying:
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=2-#x">
+                [2]
+               </a>
+               O Lord God of my father Simeon, who
+               <u>
+                gavest him a sword
+               </u>
+               to execute vengeance against strangers, who had defiled by their uncleanness, and uncovered the virgin unto confusion:
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=3-#x">
+                [3]
+               </a>
+               And who gavest their wives to be made a prey, and their daughters into captivity: and all their spoils to be divided to thy servants, who were zealous with thy zeal: assist, I beseech thee, O Lord God, me a widow.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=4-#x">
+                [4]
+               </a>
+               For thou hast done the things of old, and hast devised one thing after another: and what thou hast designed hath been done.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=5-#x">
+                [5]
+               </a>
+               For all thy ways are prepared, and in thy providence thou hast placed thy judgments.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Gavest him a sword"
+               </u>
+               : The justice of God is here praised, in punishing by the sword of Simeon the crime of the Sichemites: and not the act of Simeon, which was justly condemned by his father, Gen. 49. 5. Though even with regard to this act, we may distinguish between his zeal against the crime committed by the ravishers of his sister, which zeal may be considered just: and the manner of his punishing that crime, which was irregular and excessive.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=6-#x">
+                [6]
+               </a>
+               Look upon the camp of the Assyrians now, as thou wast pleased to look upon the camp of the Egyptians, when they pursued armed after thy servants, trusting in their chariots, and in their horsemen, and in a multitude of warriors.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=7-#x">
+                [7]
+               </a>
+               But thou lookedst over their camp, and darkness wearied them.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=8-#x">
+                [8]
+               </a>
+               The deep held their feet, and the waters overwhelmed them.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=9-#x">
+                [9]
+               </a>
+               So may it be with these also, O Lord, who trust in their multitude, and in their chariots, and in their pikes, and in their shields, and in their arrows, and glory in their spears,
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=10-#x">
+                [10]
+               </a>
+               And know not that thou art our God, who destroyest wars from the beginning, and the Lord is thy name.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=11-#x">
+                [11]
+               </a>
+               Lift up thy arm as from the beginning, and crush their power with thy power: let their power fall in their wrath, who promise themselves to violate thy sanctuary, and defile the dwelling place of thy name, and to beat down with their sword the horn of thy altar.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=12-#x">
+                [12]
+               </a>
+               Bring to pass, O Lord, that his pride may be cut off with his own sword.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=13-#x">
+                [13]
+               </a>
+               Let him be caught in the net of his own eyes in my regard, and do thou strike him by the graces of the words of my lips.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=14-#x">
+                [14]
+               </a>
+               Give me constancy in my mind, that I may despise him: and fortitude that I may overthrow him.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=15-#x">
+                [15]
+               </a>
+               For this will be a glorious monument for thy name, when he shall fall by the hand of a woman.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=16-#x">
+                [16]
+               </a>
+               For thy power, O Lord, is not in a multitude, nor is thy pleasure in the strength of horses, nor from the beginning have the proud been acceptable to thee: but the prayer of the humble and the meek hath always pleased thee.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=17-#x">
+                [17]
+               </a>
+               O God of the heavens, creator of the waters, and Lord of the whole creation, hear me a poor wretch, making supplication to thee, and presuming of thy mercy.
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=18-#x">
+                [18]
+               </a>
+               Remember, O Lord, thy covenant, and put thou words in my mouth, and strengthen the resolution in my heart, that thy house may continue in thy holiness:
+               <a href="/x/d?b=drb&amp;bk=18&amp;ch=9&amp;l=19-#x">
+                [19]
+               </a>
+               And all nations may acknowledge that thou art God, and there is no other besides thee.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="17001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judith
+              </td>
+              <td class="next">
+               <a href="19001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="18008.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 9
+              </td>
+              <td class="next">
+               <a href="18010.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

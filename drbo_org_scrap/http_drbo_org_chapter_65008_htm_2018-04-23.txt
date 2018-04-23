@@ -1,0 +1,444 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Hebrews Chapter 8
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/65008.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/65008.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="64001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Hebrews
+           </td>
+           <td class="next">
+            <a href="66001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="65007.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 8
+           </td>
+           <td class="next">
+            <a href="65009.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="65001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="65002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="65003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="65004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="65005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="65006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="65007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             08
+            </td>
+            <td width="30">
+             <a href="65009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="65010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="65011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="65012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="65013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               More of the excellence of the priesthood of Christ and of the New Testament.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=1-#x">
+                [1]
+               </a>
+               Now of the things which we have spoken, this is the sum: We have such an high priest, who is set on the right hand of the throne of majesty in the heavens,
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=2-#x">
+                [2]
+               </a>
+               A minister of
+               <u>
+                the holies
+               </u>
+               , and of the true tabernacle, which the Lord hath pitched, and not man.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=3-#x">
+                [3]
+               </a>
+               For every high priest is appointed to offer gifts and sacrifices: wherefore it is necessary that he also should have some thing to offer.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=4-#x">
+                [4]
+               </a>
+               <u>
+                If then he were on earth
+               </u>
+               , he would not be a priest: seeing that there would be others to offer gifts according to the law,
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=5-#x">
+                [5]
+               </a>
+               <u>
+                Who serve unto
+               </u>
+               the example and shadow of heavenly things. As it was answered to Moses, when he was to finish the tabernacle: See (saith he) that thou make all things according to the pattern which was shewn thee on the mount.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "The holies"
+               </u>
+               : That is, the sanctuary.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "If then he were on earth"
+               </u>
+               : That is, if he were not of a higher condition than the Levitical order of earthly priests, and had not another kind of sacrifice to offer, he should be excluded by them from the priesthood, and its functions, which by the law were appropriated to their tribe.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "Who serve unto"
+               </u>
+               : The priesthood of the law and its functions were a kind of an example and shadow of what is done by Christ in his church militant and triumphant, of which the tabernacle was a pattern.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=6-#x">
+                [6]
+               </a>
+               But now he hath obtained a better ministry, by how much also he is a mediator of a better testament, which is established on better promises.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=7-#x">
+                [7]
+               </a>
+               For if that former had been faultless, there should not indeed a place have been sought for a second.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=8-#x">
+                [8]
+               </a>
+               For finding fault with them, he saith: Behold, the days shall come, saith the Lord: and I will perfect unto the house of Israel, and unto the house of Juda, a new testament:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=9-#x">
+                [9]
+               </a>
+               Not according to the testament which I made to their fathers, on the day when I took them by the hand to lead them out of the land of Egypt: because they continued not in my testament: and I regarded them not, saith the Lord.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=10-#x">
+                [10]
+               </a>
+               For this is the testament which I will make to the house of Israel after those days, saith the Lord: I will give my laws into their mind, and in their heart will I write them: and I will be their God, and they shall be my people:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=11-#x">
+                [11]
+               </a>
+               And
+               <u>
+                they shall not teach
+               </u>
+               every man his neighbour and every man his brother, saying, Know the Lord: for all shall know me from the least to the greatest of them:
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=12-#x">
+                [12]
+               </a>
+               Because I will be merciful to their iniquities, and their sins I will remember no more.
+               <a href="/x/d?b=drb&amp;bk=65&amp;ch=8&amp;l=13-#x">
+                [13]
+               </a>
+               Now in saying
+               <u>
+                a new
+               </u>
+               , he hath made the former old. And that which decayeth and groweth old, is near its end.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "They shall not teach"
+               </u>
+               : So great shall be light and grace of the new testament, that it shall not be necessary to inculcate to the faithful the belief and knowledge of the true God, for they shall all know him.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "A new"
+               </u>
+               : Supply 'covenant.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="64001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Hebrews
+              </td>
+              <td class="next">
+               <a href="66001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="65007.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 8
+              </td>
+              <td class="next">
+               <a href="65009.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

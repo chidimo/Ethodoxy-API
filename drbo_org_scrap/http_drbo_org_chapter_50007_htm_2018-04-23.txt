@@ -1,0 +1,593 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, John Chapter 7
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/50007.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/50007.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="49001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint John
+           </td>
+           <td class="next">
+            <a href="51001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="50006.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 7
+           </td>
+           <td class="next">
+            <a href="50008.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="50001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="50002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="50003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="50004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="50005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="50006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             07
+            </td>
+            <td width="30">
+             <a href="50008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="50009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="50010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="50011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="50012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="50013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="50014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="50015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="50016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="50017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="50018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="50019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="50020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="50021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ goes up to the feast of the tabernacles. He teaches in the temple.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=1-#x">
+                [1]
+               </a>
+               After these things Jesus walked in Galilee; for he would not walk in Judea, because the Jews sought to kill him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=2-#x">
+                [2]
+               </a>
+               Now the Jews' feast of tabernacles was at hand.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=3-#x">
+                [3]
+               </a>
+               And his brethren said to him: Pass from hence, and go into Judea; that thy disciples also may see thy works which thou dost.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=4-#x">
+                [4]
+               </a>
+               For there is no man that doth any thing in secret, and he himself seeketh to be known openly. If thou do these things, manifest thyself to the world.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=5-#x">
+                [5]
+               </a>
+               For neither did his brethren believe in him.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=6-#x">
+                [6]
+               </a>
+               Then Jesus said to them: My time is not yet come; but your time is always ready.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=7-#x">
+                [7]
+               </a>
+               The world cannot hate you; but me it hateth: because I give testimony of it, that the works thereof are evil.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=8-#x">
+                [8]
+               </a>
+               Go you up to this festival day, but I go not up to this festival day: because my time is not accomplished.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=9-#x">
+                [9]
+               </a>
+               When he had said these things, he himself stayed in Galilee.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=10-#x">
+                [10]
+               </a>
+               But after his brethren were gone up, then he also went up to the feast, not openly, but, as it were, in secret.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=11-#x">
+                [11]
+               </a>
+               The Jews therefore sought him on the festival day, and said: Where is he?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=12-#x">
+                [12]
+               </a>
+               And there was much murmuring among the multitude concerning him. For some said: He is a good man. And others said: No, but he seduceth the people.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=13-#x">
+                [13]
+               </a>
+               Yet no man spoke openly of him, for fear of the Jews.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=14-#x">
+                [14]
+               </a>
+               Now about the midst of the feast, Jesus went up into the temple, and taught.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=15-#x">
+                [15]
+               </a>
+               And the Jews wondered, saying: How doth this man know letters, having never learned?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=16-#x">
+                [16]
+               </a>
+               Jesus answered them, and said: My doctrine is not mine, but his that sent me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=17-#x">
+                [17]
+               </a>
+               If any man do the will of him; he shall know of the doctrine, whether it be of God, or whether I speak of myself.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=18-#x">
+                [18]
+               </a>
+               He that speaketh of himself, seeketh his own glory: but he that seeketh the glory of him that sent him, he is true, and there is no injustice in him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=19-#x">
+                [19]
+               </a>
+               Did Moses not give you the law, and yet none of you keepeth the law?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=20-#x">
+                [20]
+               </a>
+               Why seek you to kill me? The multitude answered, and said: Thou hast a devil; who seeketh to kill thee?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=21-#x">
+                [21]
+               </a>
+               Jesus answered, and said to them: One work I have done; and you all wonder:
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=22-#x">
+                [22]
+               </a>
+               Therefore, Moses gave you circumcision (not because it is of Moses, but of the fathers;) and on the sabbath day you circumcise a man.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=23-#x">
+                [23]
+               </a>
+               If a man receive circumcision on the sabbath day, that the law of Moses may not be broken; are you angry at me because I have healed the whole man on the sabbath day?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=24-#x">
+                [24]
+               </a>
+               Judge not according to the appearance, but judge just judgment.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=25-#x">
+                [25]
+               </a>
+               Some therefore of Jerusalem said: Is not this he whom they seek to kill?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=26-#x">
+                [26]
+               </a>
+               And behold, he speaketh openly, and they say nothing to him. Have the rulers known for a truth, that this is the Christ?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=27-#x">
+                [27]
+               </a>
+               But we know this man, whence he is: but when the Christ cometh, no man knoweth whence he is.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=28-#x">
+                [28]
+               </a>
+               Jesus therefore cried out in the temple, teaching, and saying: You both know me, and you know whence I am: and I am not come of myself; but he that sent me, is true, whom you know not.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=29-#x">
+                [29]
+               </a>
+               I know him, because I am from him, and he hath sent me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=30-#x">
+                [30]
+               </a>
+               They sought therefore to apprehend him: and no man laid hands on him, because his hour was not yet come.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=31-#x">
+                [31]
+               </a>
+               But of the people many believed in him, and said: When the Christ cometh, shall he do more miracles, than these which this man doth?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=32-#x">
+                [32]
+               </a>
+               The Pharisees heard the people murmuring these things concerning him: and the rulers and Pharisees sent ministers to apprehend him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=33-#x">
+                [33]
+               </a>
+               Jesus therefore said to them: Yet a little while I am with you: and then I go to him that sent me.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=34-#x">
+                [34]
+               </a>
+               You shall seek me, and shall not find me: and where I am, thither you cannot come.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=35-#x">
+                [35]
+               </a>
+               The Jews therefore said among themselves: Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=36-#x">
+                [36]
+               </a>
+               What is this saying that he hath said: You shall seek me, and shall not find me; and where I am, you cannot come?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=37-#x">
+                [37]
+               </a>
+               And on the last, and great day of the festivity, Jesus stood and cried, saying: If any man thirst, let him come to me, and drink.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=38-#x">
+                [38]
+               </a>
+               He that believeth in me, as the scripture saith, Out of his belly shall flow rivers of living water.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=39-#x">
+                [39]
+               </a>
+               Now this he said of the Spirit which they should receive, who believed in him: for as yet the Spirit was not given, because Jesus was not yet glorified.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=40-#x">
+                [40]
+               </a>
+               Of that multitude therefore, when they had heard these words of his, some said: This is the prophet indeed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=41-#x">
+                [41]
+               </a>
+               Others said: This is the Christ. But some said: Doth the Christ come out of Galilee?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=42-#x">
+                [42]
+               </a>
+               Doth not the scripture say: That Christ cometh of the seed of David, and from Bethlehem the town where David was?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=43-#x">
+                [43]
+               </a>
+               So there arose a dissension among the people because of him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=44-#x">
+                [44]
+               </a>
+               And some of them would have apprehended him: but no man laid hands on him.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=45-#x">
+                [45]
+               </a>
+               The ministers therefore came to the chief priests and the Pharisees. And they said to them: Why have you not brought him?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=46-#x">
+                [46]
+               </a>
+               The ministers answered: Never did man speak like this man.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=47-#x">
+                [47]
+               </a>
+               The Pharisees therefore answered them: Are you also seduced?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=48-#x">
+                [48]
+               </a>
+               Hath any one of the rulers believed in him, or of the Pharisees?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=49-#x">
+                [49]
+               </a>
+               But this multitude, that knoweth not the law, are accursed.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=50-#x">
+                [50]
+               </a>
+               Nicodemus said to them, (he that came to him by night, who was one of them:)
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=51-#x">
+                [51]
+               </a>
+               Doth our law judge any man, unless it first hear him, and know what he doth?
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=52-#x">
+                [52]
+               </a>
+               They answered, and said to him: Art thou also a Galilean? Search the scriptures, and see, that out of Galilee a prophet riseth not.
+               <a href="/x/d?b=drb&amp;bk=50&amp;ch=7&amp;l=53-#x">
+                [53]
+               </a>
+               And every man returned to his own house.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="49001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint John
+              </td>
+              <td class="next">
+               <a href="51001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="50006.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 7
+              </td>
+              <td class="next">
+               <a href="50008.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

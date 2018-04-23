@@ -1,0 +1,472 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Romans Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/52001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/52001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="51001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Epistle Of Saint Paul To The Romans
+         </td>
+         <td class="next">
+          <a href="53001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="52002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="52002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="52003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="52004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="52005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="52006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="52007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="52008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="52009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="52010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="52011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="52012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="52013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="52014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="52015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="52016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+          <td width="30">
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             He commends the faith of the Romans, whom he longs to see. The philosophy of the heathens, being void of faith and humility, betrayed them into shameful sins.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Which he had promised before, by his prophets, in the holy scriptures,
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             Concerning his Son, who was made to him of the seed of David, according to the flesh,
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             Who was
+             <u>
+              predestinated
+             </u>
+             the Son of God in power, according to the spirit of sanctification, by the resurrection of our Lord Jesus Christ from the dead;
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             By whom we have received grace and apostleship for obedience to the faith, in all nations, for his name;
+            </p>
+            <p class="note">
+             [4]
+             <u>
+              "Predestinated"
+             </u>
+             : Christ as man, was predestinated to be the Son of God: and declared to be so (as the apostle here signifies) first, by power, that is, by his working stupendous miracles; secondly, by the spirit of sanctification, that is, by his infinite sanctity; thirdly, by his resurection, or raising himself from the dead.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             Among whom are you also the called of Jesus Christ:
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             To all that are at Rome, the beloved of God, called to be saints. Grace to you, and peace from God our Father, and from the Lord Jesus Christ.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             First I give thanks to my God, through Jesus Christ, for you all, because your faith is spoken of in the whole world.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             For God is my witness, whom I serve in my spirit in the gospel of his Son, that without ceasing I make a commemoration of you;
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             Always in my prayers making request, if by any means now at length I may have a prosperous journey, by the will of God, to come unto you.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             For I long to see you, that I may impart unto you some spiritual grace, to strengthen you:
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             That is to say, that I may be comforted together in you, by that which is common to us both, your faith and mine.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And I would not have you ignorant, brethren, that I have often purposed to come unto you, (and have been hindered hitherto,) that I might have some fruit among you also, even as among other Gentiles.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             To the Greeks and to the barbarians, to the wise and to the unwise, I am a debtor;
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             So (as much as is in me) I am ready to preach the gospel to you also that are at Rome.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             For I am not ashamed of the gospel. For it is the power of God unto salvation to every one that believeth, to the Jew first, and to the Greek.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             For the justice of God is revealed therein, from faith unto faith, as it is written: The just man liveth by faith.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             For the wrath of God is revealed from heaven against all ungodliness and injustice of those men that detain the truth of God in injustice:
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             Because that which is known of God is manifest in them. For God hath manifested it unto them.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             For the invisible things of him, from the creation of the world, are clearly seen, being understood by the things that are made; his eternal power also, and divinity: so that they are inexcusable.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             Because that, when they knew God, they have not glorified him as God, or given thanks; but became vain in their thoughts, and their foolish heart was darkened.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             For professing themselves to be wise, they became fools.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             And they changed the glory of the incorruptible God into the likeness of the image of a corruptible man, and of birds, and of fourfooted beasts, and of creeping things.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             Wherefore God gave them up to the desires of their heart, unto uncleanness, to dishonour their own bodies among themselves.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             Who changed the truth of God into a lie; and worshipped and served the creature rather than the Creator, who is blessed for ever. Amen.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=26-#x">
+              [26]
+             </a>
+             For this cause
+             <u>
+              God delivered them up
+             </u>
+             to shameful affections. For their women have changed the natural use into that use which is against nature.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=27-#x">
+              [27]
+             </a>
+             And, in like manner, the men also, leaving the natural use of the women, have burned in their lusts one towards another, men with men working that which is filthy, and receiving in themselves the recompense which was due to their error.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=28-#x">
+              [28]
+             </a>
+             And as they liked not to have God in their knowledge, God delivered them up to a reprobate sense, to do those things which are not convenient;
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=29-#x">
+              [29]
+             </a>
+             Being filled with all iniquity, malice, fornication, avarice, wickedness, full of envy, murder, contention, deceit, malignity, whisperers,
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=30-#x">
+              [30]
+             </a>
+             Detractors, hateful to God, contumelious, proud, haughty, inventors of evil things, disobedient to parents,
+            </p>
+            <p class="note">
+             [26]
+             <u>
+              "God delivered them up"
+             </u>
+             : Not by being author of their sins, but by withdrawing his grace, and so permitting them, in punishment of their pride, to fall into those shameful sins.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=31-#x">
+              [31]
+             </a>
+             Foolish, dissolute, without affection, without fidelity, without mercy.
+             <a href="/x/d?b=drb&amp;bk=52&amp;ch=1&amp;l=32-#x">
+              [32]
+             </a>
+             Who, having known the justice of God, did not understand that they who do such things, are worthy of death; and not only they that do them, but they also that consent to them that do them.
+            </p>
+           </td>
+          </tr>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+           <tr>
+            <td class="prev">
+             &lt;
+             <a href="51001.htm">
+              previous
+             </a>
+            </td>
+            <td class="bookname">
+             Epistle Of Saint Paul To The Romans
+            </td>
+            <td class="next">
+             <a href="53001.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+           <tr>
+            <td class="prev">
+             &lt; previous
+            </td>
+            <td class="chapname">
+             Chapter 1
+            </td>
+            <td class="next">
+             <a href="52002.htm">
+              next
+             </a>
+             &gt;
+            </td>
+           </tr>
+          </table>
+         </center>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+    <td class="adcol" valign="top">
+     <script>
+      side_ads ("../")
+     </script>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="botcenter">
+    </td>
+   </tr>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

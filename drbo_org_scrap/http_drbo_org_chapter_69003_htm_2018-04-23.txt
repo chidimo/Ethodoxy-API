@@ -1,0 +1,446 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 John Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/69003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/69003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="68001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint John
+           </td>
+           <td class="next">
+            <a href="70001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="69002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="69004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="69001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="69002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="69004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="69005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Of the love of God to us. How we may distinguish the children of God and those of the devil. Of loving one another and of purity of conscience.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Behold what manner of charity the Father hath bestowed upon us, that we should be called, and should be the sons of God. Therefore the world knoweth not us, because it knew not him.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               Dearly beloved, we are now the sons of God; and it hath not yet appeared what we shall be. We know, that, when he shall appear, we shall be like to him: because we shall see him as he is.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               And every one that hath this hope in him, sanctifieth himself, as he also is holy.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               Whosoever committeth sin committeth also
+               <u>
+                iniquity
+               </u>
+               ; and sin is iniquity.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               And you know that he appeared to take away our sins, and in him there is no sin.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "Iniquity"
+               </u>
+               : transgression of the law.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               Whosoever abideth in him,
+               <u>
+                sinneth not
+               </u>
+               ; and whosoever sinneth, hath not seen him, nor known him.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Little children, let no man deceive you. He that doth justice is just, even as he is just.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               He that committeth sin is of the devil: for the devil sinneth from the beginning. For this purpose, the Son of God appeared, that he might destroy the works of the devil.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Whosoever is born of God,
+               <u>
+                committeth not sin
+               </u>
+               : for his seed abideth in him, and he can not sin, because he is born of God.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               In this the children of God are manifest, and the children of the devil. Whosoever is not just, is not of God, nor he that loveth not his brother.
+              </p>
+              <p class="note">
+               [6]
+               <u>
+                "Sinneth not"
+               </u>
+               : viz., mortally. See chap. 1. 8.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "Committeth not sin"
+               </u>
+               : That is, as long as he keepeth in himself this seed of grace, and this divine generation, by which he is born of God. But then he may fall from this happy state, by the abuse of his free will, as appears from Rom. 11. 20-22; Cor. 9. 27; and 10. 12; Phil. 2. 12; Apoc. 3. 11.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               For this is the declaration, which you have heard from the beginning, that you should love one another.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               Not as Cain, who was of the wicked one, and killed his brother. And wherefore did he kill him? Because his own works were wicked: and his brother's just.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Wonder not, brethren, if the world hate you.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               Whosoever hateth his brother is a murderer. And you know that no murderer hath eternal life abiding in himself.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               In this we have known the charity of God, because he hath laid down his life for us: and we ought to lay down our lives for the brethren.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               He that hath the substance of this world, and shall see his brother in need, and shall shut up his bowels from him: how doth the charity of God abide in him?
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               My little children, let us not love in word, nor in tongue, but in deed, and in truth.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               In this we know that we are of the truth: and in his sight shall persuade our hearts.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               For if our heart reprehend us, God is greater than our heart, and knoweth all things.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               Dearly beloved, if our heart do not reprehend us, we have confidence towards God:
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               And whatsoever we shall ask, we shall receive of him: because we keep his commandments, and do those things which are pleasing in his sight.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               And this is his commandment, that we should believe in the name of his Son Jesus Christ: and love one another, as he hath given commandment unto us.
+               <a href="/x/d?b=drb&amp;bk=69&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               And he that keepeth his commandments, abideth in him, and he in him. And in this we know that he abideth in us, by the Spirit which he hath given us.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="68001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint John
+              </td>
+              <td class="next">
+               <a href="70001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="69002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="69004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,554 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Paralipomenon (2 Chronicles) Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/14013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/14013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            2 Paralipomenon (2 Chronicles)
+           </td>
+           <td class="next">
+            <a href="15001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="14014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="14001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="14002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="14003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="14004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="14005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="14006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="14007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="14008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="14009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="14010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="14011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="14012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="14014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="14015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="14016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="14017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="14018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="14019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="14020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="14021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="14022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="14023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="14024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="14025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="14026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="14027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="14028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="14029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="14030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="14031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="14032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="14033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="14034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="14035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="14036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Abia's reign: his victory over Jeroboam.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               In the eighteenth year of king Jeroboam, Abia reigned over Juda.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               Three years he reigned in Jerusalem, and his mother's name was
+               <u>
+                Michaia
+               </u>
+               , the daughter of Uriel of Gabaa: and there was war between Abia and Jeroboam.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               And when Abia had begun battle, and had with him four hundred thousand most valiant and chosen men, Jeroboam put his army in array against him, eight hundred thousand men, who were also chosen and most valiant for war.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               And Abia stood upon mount Semeron, which was in Ephraim, and said: Hear me, O Jeroboam, and all Israel:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               Do you not know that the Lord God of Israel gave to David the kingdom over Israel for ever, to him and to his sons by
+               <u>
+                a covenant of salt
+               </u>
+               ?
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Michaia"
+               </u>
+               : Alias Maacha. Her father had also two names, viz., Absalom, or Abessalom, and Uriel.
+              </p>
+              <p class="note">
+               [5]
+               <u>
+                "A covenant of salt"
+               </u>
+               : That is, a firm and perpetual covenant. See Num. 18. 19.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               And Jeroboam the son of Nabat, the servant of Solomon the son of David, rose up: and rebelled against his lord.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               And there were gathered to him vain men, and children of Belial: and they prevailed against Roboam the son of Solomon: for Roboam was unexperienced, and of a fearful heart, and could not resist them.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               And now you say that you are able to withstand the kingdom of the Lord, which he possesseth by the sons of David, and you have a great multitude of people, and golden calves, which Jeroboam hath made you for gods.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               And you have cast out the priests of the Lord, the sons of Aaron, and the Levites: and you have made you priests, like all the nations of the earth: whosoever cometh and consecrateth his hand with a bullock of the herd, and with seven rams, is made a priest of those who are no gods.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               But the Lord is our God, whom we forsake not, and the priests who minister to the Lord are the sons of Aaron, and the Levites are in their order.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               And they offer holocausts to the Lord, every day, morning and evening, and incense made according to the ordinance of the law, and the leaves are set forth on a most clean table, and there is with us the golden candlestick, and the lamps thereof, to be lighted always in the evening: for we keep the precepts of the Lord our God, whom you have forsaken.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               Therefore God is the leader in our army, and his priests who sound with trumpets, and resound against you: O children of Israel, fight not against the Lord the God of your fathers, for it is not good for you.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               While he spoke these things, Jeroboam caused an ambushment to come about behind him. And while he stood facing the enemies, he encompassed Juda. who perceived it not, with his army.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               And when Juda looked back, they saw the battle coming upon them both before and behind, and they cried to the Lord: and the priests began to sound with the trumpets.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               And all the men of Juda shouted: and behold when they shouted, God terrified Jeroboam, and all Israel that stood against Abia and Juda.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               And the children of Israel fled before Juda, and the Lord delivered them into their hand.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               And Abia and his people slew them with a great slaughter, and there fell wounded of Israel five hundred thousand valiant men.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               And the children of Israel were brought down, at that time, and the children of Juda were exceedingly strengthened, because they had trusted in the Lord the God of their fathers.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=19-#x">
+                [19]
+               </a>
+               And Abia pursued after Jeroboam, and took cities from him, Bethel and her daughters, and Jesana with her daughters, Ephron also and her daughters.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=20-#x">
+                [20]
+               </a>
+               And Jeroboam was not able to resist any more, in the days of Abia: and the Lord struck him, and he died.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=21-#x">
+                [21]
+               </a>
+               But Abia, being strengthened in his kingdom, took fourteen wives: and begot two and twenty sons, and sixteen daughters.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=13&amp;l=22-#x">
+                [22]
+               </a>
+               And the rest of the acts of Abia, and of his ways and works, are written diligently in the book of Addo the prophet.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               2 Paralipomenon (2 Chronicles)
+              </td>
+              <td class="next">
+               <a href="15001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="14014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

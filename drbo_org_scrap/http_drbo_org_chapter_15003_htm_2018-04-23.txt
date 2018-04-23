@@ -1,0 +1,391 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Esdras (Ezra) Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/15003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/15003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Esdras (Ezra)
+           </td>
+           <td class="next">
+            <a href="16001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="15004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="15001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="15002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="15004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="15005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="15006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="15007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="15008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="15009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="15010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               An altar is built for sacrifice, the feast of tabernacles is solemnly celebrated, and the foundations of the temple are laid.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               And now the seventh month was come, and the children of Israel were in their cities: and the people gathered themselves together as one man to Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               And
+               <u>
+                Josue
+               </u>
+               the son of Josedec rose up, and his brethren the priests, and Zorobabel the son of Salathiel, and his brethren, and they built the altar of the God of Israel that they might offer holocausts upon it, as it is written in the law of Moses the man of God.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               And they set the altar of God upon its bases, while the people of the lands round about put them in fear, and they offered upon it a holocaust to the Lord morning and evening.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               And they kept the feast of tabernacles, as it is written, and offered the holocaust every day orderly according to the commandment, the duty of the day in its day.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               And afterwards the continual holocaust, both on the new moons, and on all the solemnities of the Lord, that were consecrated, and on all in which a free-will offering was made to the Lord.
+              </p>
+              <p class="note">
+               [2]
+               <u>
+                "Josue"
+               </u>
+               : or Jesus (Jeshua) the son of Josedec; he was the high priest, at that time.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               From the first day of the seventh month they began to offer holocausts to the Lord: but the temple of God was not yet founded.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               And they gave money to hewers of stones and to masons: and meat and drink, and oil to the Sidonians and Tyrians, to bring cedar trees from Libanus to the sea of Joppe, according to the orders which Cyrus king of the Persians had given them.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And in the second year of their coming to the temple of God in Jerusalem, the second month, Zorobabel the son of Salathiel, and Josue the son of Josedec, and the rest of their brethren the priests, and the Levites, and all that were come from the captivity to Jerusalem began, and they appointed Levites from twenty years old and upward, to hasten forward the work of the Lord.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Then Josue and his sons and his brethren, Cedmihel, and his sons, and the children of Juda, as one man, stood to hasten them that did the work in the temple of God: the sons of Henadad, and their sons, and their brethren the Levites.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And when the masons laid the foundations of the temple of the Lord, the priests stood in their ornaments with trumpets: and the Levites the sons of Asaph with cymbals, to praise God by the hands of David king of Israel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               And they sung together hymns, and praise to the Lord: because he is good, for his mercy endureth for ever towards Israel. And all the people shouted with a great shout, praising the Lord, because the foundations of the temple of the Lord were laid.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               But many of the priests and the Levites, and the chief of the fathers and the ancients that had seen the former temple; when they had the foundation of this temple before their eyes, wept with a loud voice: and many shouting for joy, lifted up their voice.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               So that one could not distinguish the voice of the shout of joy, from the noise of the weeping of the people: for one with another the people shouted with a loud shout, and the voice was heard afar off.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Esdras (Ezra)
+              </td>
+              <td class="next">
+               <a href="16001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="15004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

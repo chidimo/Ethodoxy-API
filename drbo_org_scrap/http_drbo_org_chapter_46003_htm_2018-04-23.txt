@@ -1,0 +1,526 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Machabees Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/46003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/46003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="47001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="46004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="46001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="46002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="46004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="46005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="46006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="46007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="46008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="46009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="46010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="46011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="46012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="46013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="46014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="46015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Heliodorus is sent by king Seleucus to take away the treasures deposited in the temple. He is struck by God, and healed by the prayers of the high priest.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Therefore when the holy city was inhabited with all peace, and the laws as yet were very well kept, because of the godliness of Onias the high priest, and the hatred his soul had of evil,
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               It came to pass that even the kings themselves, and the princes esteemed the place worthy of the highest honour, and glorified the temple with very great gifts:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               So that
+               <u>
+                Seleucus
+               </u>
+               king of Asia allowed out of his revenues all the charges belonging to the ministry of the sacrifices.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               But one Simon of the tribe of Benjamin, who was appointed overseer of the temple, strove in opposition to the high priest, to bring about some unjust thing in the city.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               And when he could not overcome Onias he went to Apollonius the son of Tharseas, who at that time was governor of Celesyria and Phenicia:
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "Seleucus"
+               </u>
+               : Son of Antiochus the Great, and elder brother of Antiochus Epiphanes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And told him, that the treasury in Jerusalem was full of immense sums of money, and the common store was infinite, which did not belong to the account of the sacrifices: and that it was possible to bring all into the king's hands.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Now when Apollonius had given the king notice concerning the money that he was told of, he called for Heliodorus, who had the charge over his affairs, and sent him with commission to bring him the foresaid money.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               So Heliodorus forthwith began his journey, under a colour of visiting the cities of Celesyria and Phenicia, but indeed to fulfill the king's purpose.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               And when he was come to Jerusalem, and had been courteously received in the city by the high priest, he told him what information had been given concerning the money: and declared the cause for which he was come: and asked if these things were so indeed.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               Then the high priest told him that these were sums deposited, and provisions for the subsistence of the widows and the fatherless.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               And that some part of that which wicked Simon had given intelligence of, belonged to Hircanus son of Tobias, a man of great dignity: and that the whole was four hundred talents of silver, and two hundred of gold:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               But that to deceive them who had trusted to the place and temple which is honoured throughout the whole world, for the reverence and holiness of it, was a thing which could not by any means be done.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               But he, by reason of the orders he had received from the king, said that by all means the money must be carried to the king.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               So on the day he had appointed, Heliodorus entered in to order this matter. But there was no small terror throughout the whole city.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               And the priests prostrated themselves before the altar in their priests' vestments, and called upon him from heaven, who made the law concerning things given to be kept, that he would preserve them safe, for them that had deposited them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               Now whosoever saw the countenance of the high priest, was wounded in heart: for his face, and the changing of his colour declared the inward sorrow of his mind.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               For the man was so compassed with sadness and horror of the body, that it was manifest to them that beheld him, what sorrow he had in his heart.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               Others also came flocking together out of their houses, praying and making public supplication, because the place was like to come into contempt.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               And the women, girded with haircloth about their breasts, came together in the streets. And the virgins also that were shut up, came forth, some to Onias, and some to the walls, and others looked out of the windows.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               And all holding up their hands towards heaven, made supplication.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               For the expectation of the mixed multitude, and of the high priest who was in an agony, would have moved any one to pity.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               And these indeed called upon almighty God, to preserve the things that had been committed to them, safe and sure for those that had committed them.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               But Heliodorus executed that which he had resolved on, himself being present in the same place with his guard about the treasury.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               But the spirit of the almighty God gave a great evidence of his presence, so that all that had presumed to obey him, falling down by the power of God, were struck with fainting and dread.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=25-#x">
+                [25]
+               </a>
+               For there appeared to them a horse with a terrible rider upon him, adorned with a very rich covering: and he ran fiercely and struck Heliodorus with his fore feet, and he that sat upon him seemed to have armour of gold.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=26-#x">
+                [26]
+               </a>
+               Moreover there appeared two other young men beautiful and strong, bright and glorious, and in comely apparel: who stood by him, on either side, and scourged him without ceasing with many stripes.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=27-#x">
+                [27]
+               </a>
+               And Heliodorus suddenly fell to the ground, and they took him up covered with great darkness, and having put him into a litter they carried him out.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=28-#x">
+                [28]
+               </a>
+               So he that came with many servants, and all his guard into the aforesaid treasury, was carried out, no one being able to help him, the manifest power of God being known.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=29-#x">
+                [29]
+               </a>
+               And he indeed by the power of God lay speechless, and without all hope of recovery.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=30-#x">
+                [30]
+               </a>
+               But they praised the Lord because he had glorified his place: and the temple, that a little before was full of fear and trouble, when the almighty Lord appeared, was filled with joy and gladness.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=31-#x">
+                [31]
+               </a>
+               Then some of the friends of Heliodorus forthwith begged of Onias, that he would call upon the most High to grant him his life, who was ready to give up the ghost.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=32-#x">
+                [32]
+               </a>
+               So the high priest considering that the king might perhaps suspect that some mischief had been done to Heliodorus by the Jews, offered a sacrifice of health for the recovery of the man.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=33-#x">
+                [33]
+               </a>
+               And when the high priest was praying, the same young men in the same clothing stood by Heliodorus, and said to him: Give thanks to Onias the priest: because for his sake the Lord hath granted thee life.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=34-#x">
+                [34]
+               </a>
+               And thou having been scourged by God, declare unto all men the great works and the power of God. And having spoken thus, they appeared no more.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=35-#x">
+                [35]
+               </a>
+               So Heliodorus after he had offered a sacrifice to God, and made great vows to him, that had granted him life, and given thanks to Onias, taking his troops with him, returned to the king.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=36-#x">
+                [36]
+               </a>
+               And he testified to all men the works of the great God, which he had seen with his own eyes.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=37-#x">
+                [37]
+               </a>
+               And when the king asked Heliodorus, who might be a fit man to be sent yet once more to Jerusalem, he said:
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=38-#x">
+                [38]
+               </a>
+               If thou hast any enemy or traitor to thy kingdom, send him thither, and thou shalt receive him again scourged, if so be he escape: for there is undoubtedly in that place a certain power of God.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=39-#x">
+                [39]
+               </a>
+               For he that hath his dwelling in the heavens, is the visitor, and protector of that place, and he striketh and destroyeth them that come to do evil to it.
+               <a href="/x/d?b=drb&amp;bk=46&amp;ch=3&amp;l=40-#x">
+                [40]
+               </a>
+               And the things concerning Heliodorus, and the keeping of the treasury fell out in this manner.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="47001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="46004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

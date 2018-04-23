@@ -1,0 +1,435 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Osee (Hosea) Chapter 5
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/33005.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/33005.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="32001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Osee (Hosea)
+           </td>
+           <td class="next">
+            <a href="34001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="33004.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 5
+           </td>
+           <td class="next">
+            <a href="33006.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="33001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="33002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="33003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="33004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             05
+            </td>
+            <td width="30">
+             <a href="33006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="33007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="33008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="33009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="33010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="33011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="33012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="33013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="33014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               God's threats against the priests, the people, and princes of Israel, for their idolatry.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=1-#x">
+                [1]
+               </a>
+               Hear ye this,
+               <u>
+                O priests
+               </u>
+               , and hearken, O ye house of Israel, and give ear, O house of the king: for there is a judgment against you, because you have been a snare to them whom you should have watched over, and a net spread upon Thabor.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=2-#x">
+                [2]
+               </a>
+               And you have turned aside victims into the depth: and I am, the teacher of them all.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=3-#x">
+                [3]
+               </a>
+               I know Ephraim, and Israel is not hid from me: for now Ephraim hath committed fornication, Israel is defiled.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=4-#x">
+                [4]
+               </a>
+               They will not set their thoughts to return to their God: for the spirit of fornication is in the midst of them, and they have not known the Lord.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=5-#x">
+                [5]
+               </a>
+               And the pride of Israel shall answer in his face: and Israel and Ephraim shall fall in their iniquity, Juda also shall fall with them.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "O priests"
+               </u>
+               : What is said of priests in this prophecy is chiefly understood of the priests of the kingdom of Israel; who were not true priests of the race of Aaron; but served the calves at Bethel and Dan.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=6-#x">
+                [6]
+               </a>
+               With their flocks, and with their herds, they shall go to seek the Lord, and shall not find him: he is withdrawn from them.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=7-#x">
+                [7]
+               </a>
+               They have transgressed against the Lord, for they have begotten
+               <u>
+                children that are strangers
+               </u>
+               : now shall a month devour them with their portions.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=8-#x">
+                [8]
+               </a>
+               Blow ye the cornet in Gabaa, the trumpet in Rama: howl ye in Bethaven, behind thy back, O Benjamin.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=9-#x">
+                [9]
+               </a>
+               Ephraim shall be in desolation in the day of rebuke: among the tribes of Israel I have shewn that which shall surely be.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=10-#x">
+                [10]
+               </a>
+               The princes of Juda are become
+               <u>
+                as they that take up the bound
+               </u>
+               : I will pour out my wrath upon them like water.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Children that are strangers"
+               </u>
+               : That is, aliens from God: and therefore they are threatened with speedy destruction.
+              </p>
+              <p class="note">
+               [10]
+               <u>
+                "As they that take up the bound"
+               </u>
+               : That is, they that remove the boundary, encroaching on the property of their neighbours: figuratively: going beyond the boundary of the laws of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=11-#x">
+                [11]
+               </a>
+               Ephraim is under oppression, and broken in judgment: because he began to go after filthiness.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=12-#x">
+                [12]
+               </a>
+               And I will be like a moth to Ephraim: and like rottenness to the house of Juda.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=13-#x">
+                [13]
+               </a>
+               And Ephraim saw his sickness, and Juda his band: and Ephraim went to the Assyrian, and sent to the avenging king: and he shall not be able to heal you, neither shall he be able to take off the band from you.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=14-#x">
+                [14]
+               </a>
+               For I will be like a lioness to Ephraim, and like a lion's whelp to the house of Juda: I, I will catch, and go: I will take away, and there is none that can rescue.
+               <a href="/x/d?b=drb&amp;bk=33&amp;ch=5&amp;l=15-#x">
+                [15]
+               </a>
+               I will go and return to my place: until you are consumed, and seek my face.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="32001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Osee (Hosea)
+              </td>
+              <td class="next">
+               <a href="34001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="33004.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 5
+              </td>
+              <td class="next">
+               <a href="33006.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

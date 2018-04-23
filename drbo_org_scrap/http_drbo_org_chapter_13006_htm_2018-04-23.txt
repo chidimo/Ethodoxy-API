@@ -1,0 +1,757 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Paralipomenon (1 Chronicles) Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/13006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/13006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="12001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            1 Paralipomenon (1 Chronicles)
+           </td>
+           <td class="next">
+            <a href="14001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="13007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="13001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="13002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="13003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="13004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="13005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="13007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="13008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="13009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="13010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="13011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="13012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="13013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="13014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="13015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="13016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="13017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="13018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="13019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="13020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="13021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="13022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="13023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="13024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="13025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="13026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="13027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="13028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="13029.htm">
+              29
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The genealogies of Levi, and of Aaron: the cities of the Levites.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               The sons of Levi were Gerson, Caath, and Merari.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               The sons of Caath: Amram, Isaar, Hebron, and Oziel.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               The children of Amram: Aaron, Moses, and Mary. The sons of Aaron: Nadab and Abiu, Eleazar and Ithamar.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               Eleazar beget Phinees, and Phinees beget Abisue,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               And Abisue beget Bocci, and Bocci begot Ozi.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               Ozi beget Zaraias, and Zaraias beget Maraioth.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               And Maraioth beget Amarias, and Amarias beget Achitob.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               Achitob beget Sadoc, and Sadoc begot Achimaas.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               Achimaas beget Azarias, Azarias begot Johanan,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               Johanan beget Azarias. This is he that executed the priestly office in the house which Solomon built in Jerusalem.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               And Azarias beget Amarias, and Amarias beget Achitob.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               And Achitob beget Sadoc, and Sadoc beget Sellum,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               Sellum beget Helcias, and Helcias beget Azarias,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               Azarias beget Saraias, and Saraias beget Josedec.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               Now Josedec went out, when the Lord carried away Juda, and Jerusalem, by the hands of Nabuchodonosor.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               So the sons of Levi were Gerson, Caath, and Merari.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               And these are the names of the sons of Gerson: Lobni and Semei.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               The sons of Caath: Amram, and Isaar, and Hebron, and Oziel.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               The sons of Merari: Moholi and Musi. And these are the kindreds of Levi according to their families.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               Of Gerson: Lobni his son, Jahath his son, Zamma his son,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               Joah his son, Addo his son, Zara his son, Jethrai his son.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               The sons of Caath, Aminadab his son, Core his son, Asir his son,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=23-#x">
+                [23]
+               </a>
+               Elcana his son, Abiasaph his son, Asir his son,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=24-#x">
+                [24]
+               </a>
+               Thahath his son, Uriel his son, Ozias his son, Saul his son.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=25-#x">
+                [25]
+               </a>
+               The sons of Elcana: Amasai, and Achimoth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=26-#x">
+                [26]
+               </a>
+               And Elcana. The sons of Elcana: Sophai his son, Nahath his son,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=27-#x">
+                [27]
+               </a>
+               Eliab his son, Jeroham his son, Elcana his son.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=28-#x">
+                [28]
+               </a>
+               The sons of Samuel: the firstborn Vasseni, and Abia.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=29-#x">
+                [29]
+               </a>
+               And the sons of Merari, Moholi: Lobni his son, Semei his son, Oza his son,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=30-#x">
+                [30]
+               </a>
+               Sammaa his son, Haggia his son, Asaia his son.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=31-#x">
+                [31]
+               </a>
+               These are they, whom David set over the singing men of the house of the Lord, after that the ark was placed:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=32-#x">
+                [32]
+               </a>
+               And they ministered before the tabernacle of the testimony, with singing, until Solomon built the house of the Lord in Jerusalem, and they stood according to their order in the ministry.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=33-#x">
+                [33]
+               </a>
+               And these are they that stood with their sons, of the sons of Caath, Hemam a singer, the son of Joel, the son of Sammuel,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=34-#x">
+                [34]
+               </a>
+               The son of Elcana, the son of Jeroham, the son of Eliel, the son of Thohu,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=35-#x">
+                [35]
+               </a>
+               The son of Suph, the son of Elcana, the son of Mahath, the son of Amasai,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=36-#x">
+                [36]
+               </a>
+               The son of Elcana, the son of Johel, the son of Azarias, the son of Sophonias,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=37-#x">
+                [37]
+               </a>
+               The son of Thahath, the son of Asir, the son or Abiasaph, the son of Core,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=38-#x">
+                [38]
+               </a>
+               The son of Isaar, the son of Caath, the son of Levi, the son of Israel.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=39-#x">
+                [39]
+               </a>
+               And his brother Asaph, who stood on his right hand, Asaph the son of Barachias, the son of Samaa.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=40-#x">
+                [40]
+               </a>
+               The son of Michael, the son of Basaia, the son of Melchia.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=41-#x">
+                [41]
+               </a>
+               The son of Athanai, the son of Zara, the son of Adaia.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=42-#x">
+                [42]
+               </a>
+               The son of Ethan, the son of Zamma, the son of Semei.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=43-#x">
+                [43]
+               </a>
+               The son of Jeth, the son of Gerson, the son of Levi.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=44-#x">
+                [44]
+               </a>
+               And the sons of Merari their brethren, on the left hand, Ethan the son of Cusi, the son of Abdi, the son of Meloch,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=45-#x">
+                [45]
+               </a>
+               The son of Hasabia, the son of Amasai, the son of Helcias,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=46-#x">
+                [46]
+               </a>
+               The son of Amasai, the son of Boni, the son of Somer,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=47-#x">
+                [47]
+               </a>
+               The son of Moholi, the son of Mud, the son of Merari, the son of Levi.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=48-#x">
+                [48]
+               </a>
+               Their brethren also the Levites, who were appointed for all the ministry of the tabernacle of the house of the Lord.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=49-#x">
+                [49]
+               </a>
+               But Aaron and his sons offered burnt offerings upon the altar of holocausts, and upon the altar of incense, for very work of the holy of holies: and to pray for Israel according to all that Moses the servant of God had commanded.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=50-#x">
+                [50]
+               </a>
+               And these are the sons of Aaron: Eleazar his son, Phinees his son, Abisue his son,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=51-#x">
+                [51]
+               </a>
+               Bocci his son, Ozi his son, Zarahia his son,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=52-#x">
+                [52]
+               </a>
+               Meraioth his son, Amarias his son, Achitob his son,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=53-#x">
+                [53]
+               </a>
+               Sadoc his son, Achimaas his son.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=54-#x">
+                [54]
+               </a>
+               And these are their dwelling places by the towns and confines, to wit, of the sons of Aaron, of the families of the Caathites: for they fell to them by lot.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=55-#x">
+                [55]
+               </a>
+               And they gave them Hebron in the land of Juda, and the suburbs thereof round about:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=56-#x">
+                [56]
+               </a>
+               But the fields of the city, and the villages to Caleb son of Jephone.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=57-#x">
+                [57]
+               </a>
+               And to the sons of Aaron they gave the cities for refuge Hebron, and Lobna, and the suburbs thereof,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=58-#x">
+                [58]
+               </a>
+               And Jether and Esthemo, with their suburbs, and Helon, and Dabir with their suburbs:
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=59-#x">
+                [59]
+               </a>
+               Asan also, and Bethsames, with their suburbs.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=60-#x">
+                [60]
+               </a>
+               And out of the tribe of Benjamin: Gabee and its suburbs, Almath with its suburbs, Anathoth also with its suburbs: all their cities throughout their families were thirteen.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=61-#x">
+                [61]
+               </a>
+               And to the sons of Caath that remained of their kindred they gave out of the half tribe of Manasses ten cities in possession.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=62-#x">
+                [62]
+               </a>
+               And to the sons of Gerson by their families out of the tribe of Issachar, and out of the tribe of Aser, and out of the tribe of Nephtali, and out of the tribe of Manasses in Basan, thirteen cities.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=63-#x">
+                [63]
+               </a>
+               And to the sons of Merari by their families out of the tribe of Ruben, and out of the tribe of Gad, and out of the tribe of Zabulon, they gave by lot twelve cities.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=64-#x">
+                [64]
+               </a>
+               And the children of Israel gave to the Levites the cities, and their suburbs.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=65-#x">
+                [65]
+               </a>
+               And they gave them by lot, out of the tribe of the sons of Juda, and out of the tribe of the sons of Simeon, and out of the tribe of the sons of Benjamin, these cities which they called by their names.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=66-#x">
+                [66]
+               </a>
+               And to them that were of the kindred of the sons of Caath, and the cities in their borders were of the tribe of Ephraim.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=67-#x">
+                [67]
+               </a>
+               And they gave the cities of refuge Sichem with its suburbs in mount Ephraim, and Gazer with its suburbs,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=68-#x">
+                [68]
+               </a>
+               Jecmaan also with its suburbs, and Beth-horon in like manner,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=69-#x">
+                [69]
+               </a>
+               Helon also with its suburbs, and Gethremmon in like manner,
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=70-#x">
+                [70]
+               </a>
+               And out of the half tribe of Manasses, Aner and its suburbs, Baalam and its suburbs: to wit, to them that were left of the family of the sons of Caath.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=71-#x">
+                [71]
+               </a>
+               And to the sons of Gersom, out of the kindred of the half tribe of Manasses, Gaulon, in Basan, and its suburbs, and Astharoth with its suburbs.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=72-#x">
+                [72]
+               </a>
+               Out of the tribe of Issachar, Cedes and its suburbs, and Dabereth with its suburbs;
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=73-#x">
+                [73]
+               </a>
+               Ramoth also and its suburbs, and Anem with its suburbs.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=74-#x">
+                [74]
+               </a>
+               And out of the tribe of Aser: Masal with its suburbs, and Abdon in like manner;
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=75-#x">
+                [75]
+               </a>
+               Hucac also and its suburbs, and Rohol with its suburbs.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=76-#x">
+                [76]
+               </a>
+               And out of the tribe of Nephtali, Cedes in Galilee and its suburbs, Hamon with its suburbs, and Cariathaim, and its suburbs.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=77-#x">
+                [77]
+               </a>
+               And to the sons of Merari that remained: out of the tribe of Zabulon, Remmono and its suburbs, and Thabor with its suburbs.
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=78-#x">
+                [78]
+               </a>
+               Beyond the Jordan also over against Jericho, on the east side of the Jordan, out of the tribe of Ruben, Bosor in the wilderness with its suburbs, and Jassa with its suburbs;
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=79-#x">
+                [79]
+               </a>
+               Cademoth also and its suburbs, and Mephaath with its suburbs;
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=80-#x">
+                [80]
+               </a>
+               Moreover also out of the tribe of Gad, Ramoth in Galaad and its suburbs, and Manaim with its suburbs;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=13&amp;ch=6&amp;l=81-#x">
+                [81]
+               </a>
+               Hesebon also with its suburbs, and Jazer with its suburbs.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="12001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               1 Paralipomenon (1 Chronicles)
+              </td>
+              <td class="next">
+               <a href="14001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="13007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

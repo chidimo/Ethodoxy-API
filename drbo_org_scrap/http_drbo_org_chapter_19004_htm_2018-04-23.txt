@@ -1,0 +1,416 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Esther Chapter 4
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/19004.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/19004.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="18001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Esther
+           </td>
+           <td class="next">
+            <a href="20001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="19003.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 4
+           </td>
+           <td class="next">
+            <a href="19005.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="19001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="19002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="19003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             04
+            </td>
+            <td width="30">
+             <a href="19005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="19006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="19007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="19008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="19009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="19010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="19011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="19012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="19013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="19014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="19015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="19016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Mardochai desireth Esther to petition the king for the Jews. They join in fasting and prayer.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=1-#x">
+                [1]
+               </a>
+               Now when Mardochai had heard these things, he rent his garments, and put on sackcloth, strewing ashes on his head: and he cried with a loud voice in the street in the midst of the city, shewing the anguish of his mind.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=2-#x">
+                [2]
+               </a>
+               And he came lamenting in this manner even to the gate of the palace: for no one clothed with sackcloth might enter the king's court.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=3-#x">
+                [3]
+               </a>
+               And in all provinces, towns, and places, to which the king's cruel edict was come, there was great mourning among the Jews, with fasting, wailing, and weeping, many using sackcloth and ashes for their bed.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=4-#x">
+                [4]
+               </a>
+               Then Esther's maids and her eunuchs went in, and told her. And when she heard it she was in a consternation: and she sent a garment, to clothe him, and to take away the sackcloth: but he would not receive it.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=5-#x">
+                [5]
+               </a>
+               And she called for Athach the eunuch, whom the king had appointed to attend upon her, and she commanded him to go to Mardochai, and learn of him why he did this.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=6-#x">
+                [6]
+               </a>
+               And Athach going out went to Mardochai, who was standing in the street of the city, before the palace gate:
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=7-#x">
+                [7]
+               </a>
+               And Mardochai told him all that had happened, how Aman had promised to pay money into the king's treasures, to have the Jews destroyed.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=8-#x">
+                [8]
+               </a>
+               He gave him also a copy of the edict which was hanging up in Susan, that he should shew it to the queen, and admonish her to go in to the king, and to entreat him for her people.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=9-#x">
+                [9]
+               </a>
+               And Athach went back and told Esther all that Mardochai had said.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=10-#x">
+                [10]
+               </a>
+               She answered him, and bade him say to Mardochai:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=11-#x">
+                [11]
+               </a>
+               All the king's servants, and all the provinces that are under his dominion, know, that whosoever, whether man or woman, cometh into the king's inner court, who is not called for, is immediately to be put to death without any delay: except the king shall hold out the golden sceptre to him, in token of clemency, that so he may live. How then can I go in to the king, who for these thirty days now have not been called unto him?
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=12-#x">
+                [12]
+               </a>
+               And when Mardochai had heard this,
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=13-#x">
+                [13]
+               </a>
+               He sent word to Esther again, saying: Think not that thou mayst save thy life only, because thou art in the king's house, more than all the Jews:
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=14-#x">
+                [14]
+               </a>
+               For if thou wilt now hold thy peace, the Jews shall be delivered by some other occasion: and thou, and thy father's house shall perish. And who knoweth whether thou art not therefore come to the kingdom, that thou mightest be ready in such a time as this?
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=15-#x">
+                [15]
+               </a>
+               And again Esther sent to Mardochai in these words:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=16-#x">
+                [16]
+               </a>
+               Go, and gather together all the Jews whom thou shalt find in Susan, and pray ye for me. Neither eat nor drink for three days and three nights: and I with my handmaids will fast in like manner, and then I will go in to the king, against the law, not being called, and expose myself to death and to danger.
+               <a href="/x/d?b=drb&amp;bk=19&amp;ch=4&amp;l=17-#x">
+                [17]
+               </a>
+               So Mardochai went, and did all that Esther had commanded him.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="18001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Esther
+              </td>
+              <td class="next">
+               <a href="20001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="19003.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 4
+              </td>
+              <td class="next">
+               <a href="19005.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

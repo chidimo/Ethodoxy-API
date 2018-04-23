@@ -1,0 +1,682 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Machabees Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/45002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/45002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="44001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Machabees
+           </td>
+           <td class="next">
+            <a href="46001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="45001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="45003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="45001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="45003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="45004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="45005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="45006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="45007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="45008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="45009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="45010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="45011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="45012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="45013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="45014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="45015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="45016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The zeal and success of Mathathias. His exhortation to his sons at his death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               In those days arose Mathathias the son of John, the son of Simeon, a priest of the sons of Joarib, from Jerusalem, and he abode in the mountain of Modin.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And he had five sons: John who was surnamed Gaddis:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And Simon, who was surnamed Thasi:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               And Judas, who was called Machabeus:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               And Eleazar, who was surnamed Abaron: and Jonathan, who was surnamed Apphus.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               These saw the evils that were done in the people of Juda, and in Jerusalem.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               And Mathathias said: Woe is me, wherefore was I born to see the ruin of my people, and the ruin of the holy city, and to dwell there, when it is given into the hands of the enemies?
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               The holy places are come into the hands of strangers: her temple is become as a man without honour.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               The vessels of her glory are carried away captive: her old men are murdered in the streets, and her young men are fallen by the sword of the enemies.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               What nation hath not inherited her kingdom, and gotten of her spoils?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               All her ornaments are taken away. She that was free is made a slave.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               And behold our sanctuary, and our beauty, and our glory is laid waste, and the Gentiles have defiled them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               To what end then should we live any longer?
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               And Mathathias and his sons rent their garments, and they covered themselves with haircloth, and made great lamentation.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               And they that were sent from king Antiochus came thither, to compel them that were fled into the city of Modin, to sacrifice, and to burn incense, and to depart from the law of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               And many of the people of Israel consented, and came to them: but Mathathias and his sons stood firm.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               And they that were sent from Antiochus, answering, said to Mathathias: Thou art a ruler, and an honourable, and great man in this city, and adorned with sons, and brethren.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               Therefore come thou first, and obey the king's commandment, as all nations have done, and the men of Juda, and they that remain in Jerusalem: and thou, and thy sons, shall be in the number of the king's friends, and enriched with gold, and silver, and many presents.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               Then Mathathias answered, and said with a loud voice: Although all nations obey king Antiochus, so as to depart every man from the service of the law of his fathers, and consent to his commandments:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               I and my sons, and my brethren will obey the law of our fathers.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               God be merciful unto us: it is not profitable for us to forsake the law, and the justices of God:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               We will not hearken to the words of king Antiochus, neither will we sacrifice, and transgress the commandments of our law, to go another way.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=23-#x">
+                [23]
+               </a>
+               Now as he left off speaking these words, there came a certain Jew in the sight of all to sacrifice to the idols upon the altar in the city of Modin, according to the king's commandment.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=24-#x">
+                [24]
+               </a>
+               And Mathathias saw and was grieved, and his reins trembled, and his wrath was kindled according to the judgment of the law, and running upon him he slew him upon the altar:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=25-#x">
+                [25]
+               </a>
+               Moreover the man whom king Antiochus had sent, who compelled them to sacrifice, he slew at the same time, and pulled down the altar.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=26-#x">
+                [26]
+               </a>
+               And shewed zeal for the law, as Phinees did by Zamri the son of Salomi.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=27-#x">
+                [27]
+               </a>
+               And Mathathias cried out in the city with a loud voice, saying: Every one that hath zeal for the law, and maintaineth the testament, let him follow me.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=28-#x">
+                [28]
+               </a>
+               So he, and his sons fled into the mountains, and left all that they had in the city.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=29-#x">
+                [29]
+               </a>
+               Then many that sought after judgment, and justice, went down into the desert:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=30-#x">
+                [30]
+               </a>
+               And they abode there, they and their children, and their wives, and their cattle: because afflictions increased upon them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=31-#x">
+                [31]
+               </a>
+               And it was told to the king's men, and to the army that was in Jerusalem in the city of David, that certain men who had broken the king's commandment, were gone away into the secret places in the wilderness, and that many were gone after them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=32-#x">
+                [32]
+               </a>
+               And forthwith they went out towards them, and made war against them on the sabbath day,
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=33-#x">
+                [33]
+               </a>
+               And they said to them: Do you still resist? come forth, and do according to the edict of king Antiochus, and you shall live.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=34-#x">
+                [34]
+               </a>
+               And they said: We will not come forth, neither will we obey the king's edict, to profane the sabbath day.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=35-#x">
+                [35]
+               </a>
+               And they made haste to give them battle.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=36-#x">
+                [36]
+               </a>
+               But they answered them not, neither did they cast a stone at them, nor stopped up the secret places,
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=37-#x">
+                [37]
+               </a>
+               Saying: Let us all die in our innocency: and heaven and earth shall be witnesses for us, that you put us to death wrongfully.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=38-#x">
+                [38]
+               </a>
+               So they gave them battle on the sabbath: and they were slain with their wives, and their children, and their cattle, to the number of a thousand persons.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=39-#x">
+                [39]
+               </a>
+               And Mathathias and his friends heard of it, and they mourned for them exceedingly.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=40-#x">
+                [40]
+               </a>
+               And every man said to his neighbour: If we shall all do as our brethren have done, and not fight against the heathens for our lives, and our justifications: they will now quickly root us out of the earth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=41-#x">
+                [41]
+               </a>
+               And they determined in that day, saying: Whosoever shall come up against us to fight on the sabbath day, we will fight against him: and we will not all die, as our brethren that were slain in the secret places.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=42-#x">
+                [42]
+               </a>
+               Then was assembled to them the congregation of
+               <u>
+                the Assideans
+               </u>
+               , the stoutest of Israel, every one that had a good will for the law.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=43-#x">
+                [43]
+               </a>
+               And all they that fled from the evils, joined themselves to them, and were a support to them.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=44-#x">
+                [44]
+               </a>
+               And they gathered an army, and slew the sinners in their wrath, and the wicked men in their indignation: and the rest fled to the nations for safety.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=45-#x">
+                [45]
+               </a>
+               And Mathathias and his friends went round about, and they threw down the altars:
+              </p>
+              <p class="note">
+               [42]
+               <u>
+                "The Assideans"
+               </u>
+               : A set of men that led a religious life; and were zealous for the law and worship of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=46-#x">
+                [46]
+               </a>
+               And they circumcised all the children whom they found in the confines of Israel that were uncircumcised: and they did valiantly.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=47-#x">
+                [47]
+               </a>
+               And they pursued after the children of pride, and the work prospered in their hands:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=48-#x">
+                [48]
+               </a>
+               And they recovered the law out of the hands of the nations, and out of the hands of the kings: and
+               <u>
+                they yielded not the horn
+               </u>
+               to the sinner.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=49-#x">
+                [49]
+               </a>
+               Now the days drew near that Mathathias should die, and he said to his sons: Now hath pride and chastisement gotten strength, and the time of destruction, and the wrath of indignation:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=50-#x">
+                [50]
+               </a>
+               Now therefore, O my sons, be ye zealous for the law, and give your lives for the covenant of your fathers.
+              </p>
+              <p class="note">
+               [48]
+               <u>
+                "They yielded not the horn"
+               </u>
+               : That is, they suffered not the power of Antiochus, that man of sin, to abolish the law and religion of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=51-#x">
+                [51]
+               </a>
+               And call to remembrance the works of the fathers, which they have done in their generations: and you shall receive great glory, and an everlasting name.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=52-#x">
+                [52]
+               </a>
+               Was not Abraham found faithful in temptation, and it was reputed to him unto justice?
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=53-#x">
+                [53]
+               </a>
+               Joseph in the time of his distress kept the commandment, and he was made lord of Egypt.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=54-#x">
+                [54]
+               </a>
+               Phinees our father, by being fervent in the zeal of God, received the covenant of an everlasting priesthood.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=55-#x">
+                [55]
+               </a>
+               <u>
+                Jesus
+               </u>
+               , whilst he fulfilled the word, was made ruler in Israel.
+              </p>
+              <p class="note">
+               [55]
+               <u>
+                "Jesus"
+               </u>
+               : That is, Josue.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=56-#x">
+                [56]
+               </a>
+               Caleb, for bearing witness before the congregation, received an inheritance.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=57-#x">
+                [57]
+               </a>
+               David by his mercy obtained the throne of an everlasting kingdom.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=58-#x">
+                [58]
+               </a>
+               Elias, while he was full of zeal for the law, was taken up into heaven.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=59-#x">
+                [59]
+               </a>
+               Ananias and Azarias and Misael by believing, were delivered out of the flame.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=60-#x">
+                [60]
+               </a>
+               Daniel in his innocency was delivered out of the mouth of the lions.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=61-#x">
+                [61]
+               </a>
+               And thus consider through all generations: that none that trust in him fail in strength.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=62-#x">
+                [62]
+               </a>
+               And fear not the words of a sinful man, for his glory is dung, and worms:
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=63-#x">
+                [63]
+               </a>
+               Today he is lifted up, and tomorrow he shall not be found, because he is returned into his earth; and his thought is come to nothing.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=64-#x">
+                [64]
+               </a>
+               You therefore, my sons, take courage, and behave manfully in the law: for by it you shall be glorious.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=65-#x">
+                [65]
+               </a>
+               And behold, I know that your brother Simon is a man of counsel: give ear to him always, and he shall be a father to you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=66-#x">
+                [66]
+               </a>
+               And Judas Machabeus who is valiant and strong from his youth up, let him be the leader of your army, and he shall manage the war of the people.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=67-#x">
+                [67]
+               </a>
+               And you shall take to you all that observe the law: and revenge ye the wrong of your people.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=68-#x">
+                [68]
+               </a>
+               Render to the Gentiles their reward, and take heed to the precepts of the law.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=69-#x">
+                [69]
+               </a>
+               And he blessed them, and was joined to his fathers.
+               <a href="/x/d?b=drb&amp;bk=45&amp;ch=2&amp;l=70-#x">
+                [70]
+               </a>
+               And he died in the hundred and forty-sixth year: and he was buried by his sons in the sepulchres of his fathers in Modin, and all Israel mourned for him with great mourning.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="44001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Machabees
+              </td>
+              <td class="next">
+               <a href="46001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="45001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="45003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

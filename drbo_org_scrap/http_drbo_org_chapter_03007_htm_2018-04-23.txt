@@ -1,0 +1,568 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Leviticus Chapter 7
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/03007.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/03007.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="02001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Leviticus
+           </td>
+           <td class="next">
+            <a href="04001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03006.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 7
+           </td>
+           <td class="next">
+            <a href="03008.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="03001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="03002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="03003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="03004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="03005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="03006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             07
+            </td>
+            <td width="30">
+             <a href="03008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="03009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="03010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="03011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="03012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="03013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="03014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="03015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="03016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="03017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="03018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="03019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="03020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="03021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="03022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="03023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="03024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="03025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="03026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="03027.htm">
+              27
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Of sacrifices for trespasses and thanks offerings. No fat nor blood is to be eaten.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=1-#x">
+                [1]
+               </a>
+               This also is the law of the sacrifice for a
+               <u>
+                trespass
+               </u>
+               , it is most holy:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=2-#x">
+                [2]
+               </a>
+               Therefore where the holocaust is immolated, the victim also for a trespass shall be slain: the blood thereof shall be poured round about the altar.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=3-#x">
+                [3]
+               </a>
+               They shall offer thereof the rump and the fat that covereth the entrails:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=4-#x">
+                [4]
+               </a>
+               The two little kidneys, and the fat which is by the flanks, and the caul of the liver with the little kidneys.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=5-#x">
+                [5]
+               </a>
+               And the priest shall burn them upon the altar: it is the burnt sacrifice of the Lord for a trespass.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Trespass"
+               </u>
+               : Trespasses, for which these offerings were to be made, were lesser offences than those for which the sin offerings were appointed.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=6-#x">
+                [6]
+               </a>
+               Every male of the priestly race, shall eat this flesh in a holy place, because it is most holy.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=7-#x">
+                [7]
+               </a>
+               As the sacrifice for sin is offered, so is also that for a trespass: the same shall be the law of both these sacrifices: it shall belong to the priest that offereth it.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=8-#x">
+                [8]
+               </a>
+               The priest that offereth the victim of holocaust, shall have the skin thereof.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=9-#x">
+                [9]
+               </a>
+               And every sacrifice of flour that is baked in the oven, and whatsoever is dressed on the gridiron, or in the fryingpan, shall be the priest's that offereth it:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=10-#x">
+                [10]
+               </a>
+               Whether they be tempered with oil, or dry, all the sons of Aaron shall have one as much as another.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=11-#x">
+                [11]
+               </a>
+               This is the law of the sacrifice of peace offerings that is offered to the Lord.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=12-#x">
+                [12]
+               </a>
+               If the oblation be for thanksgiving, they shall offer loaves without leaven tempered with oil, and unleavened wafers anointed with oil, and fine flour fried, and cakes tempered and mingled with oil:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=13-#x">
+                [13]
+               </a>
+               Moreover leaves of leavened bread with the sacrifice of thanks, which is offered for peace offerings:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=14-#x">
+                [14]
+               </a>
+               Of which one shall be offered to the Lord for firstfruits, and shall be the priest's that shall pour out the blood of the victim.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=15-#x">
+                [15]
+               </a>
+               And the flesh of it shall be eaten the same day, neither shall any of it remain until the morning.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=16-#x">
+                [16]
+               </a>
+               If any man by vow, or of his own accord offer a sacrifice, it shall in like manner be eaten the same day: and if any of it remain until the morrow, it is lawful to eat it:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=17-#x">
+                [17]
+               </a>
+               But whatsoever shall be found on the third day shall be consumed with fire.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=18-#x">
+                [18]
+               </a>
+               If any man eat of the flesh of the victim of peace offerings on the third day, the oblation shall be of no effect, neither shall it profit the offerer: yea rather whatsoever soul shall defile itself with such meat, shall be guilty of transgression.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=19-#x">
+                [19]
+               </a>
+               The flesh that hath touched any unclean thing, shall not be eaten, but shall be burnt with fire: he that is clean shall eat of it.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=20-#x">
+                [20]
+               </a>
+               If any one that is defiled shall eat of the flesh of the sacrifice of peace offerings, which is offered to the Lord, he shall be cut off from his people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=21-#x">
+                [21]
+               </a>
+               And he that hath touched the uncleanness of man, or of beast, or of any thing that can defile, and shall eat of such kind of flesh, shall be cut off from his people.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=22-#x">
+                [22]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=23-#x">
+                [23]
+               </a>
+               Say to the children of Israel: The fat of a sheep, and of an ox, and of a goat you shall not eat.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=24-#x">
+                [24]
+               </a>
+               The fat of a carcass that hath died of itself, and of a beast that was caught by another beast, you shall have for divers uses.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=25-#x">
+                [25]
+               </a>
+               If any man eat the fat that should be offered for the burnt sacrifice of the Lord, he shall perish out of his people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=26-#x">
+                [26]
+               </a>
+               Moreover you shall not eat the blood of any creature whatsoever, whether of birds or beasts.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=27-#x">
+                [27]
+               </a>
+               Every one that eateth blood, shall perish from among the people.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=28-#x">
+                [28]
+               </a>
+               And the Lord spoke to Moses, saying:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=29-#x">
+                [29]
+               </a>
+               Speak to the children of Israel, saying: He that offereth a victim of peace offerings to the Lord, let him offer therewith a sacrifice also, that is, the libations thereof.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=30-#x">
+                [30]
+               </a>
+               He shall hold in his hands the fat of the victim, and the breast: and when he hath offered and consecrated both to the Lord, he shall deliver them to the priest,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=31-#x">
+                [31]
+               </a>
+               Who shall burn the fat upon the altar, but the breast shall be Aaron's and his sons'.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=32-#x">
+                [32]
+               </a>
+               The right shoulder also of the victims of peace offerings shall fall to the priest for firstfruits.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=33-#x">
+                [33]
+               </a>
+               He among the sons of Aaron, that offereth the blood, and the fat, he shall have the right shoulder also for his portion.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=34-#x">
+                [34]
+               </a>
+               For the breast that is elevated and the shoulder that is separated I have taken of the children of Israel, from off their victims of peace offerings, and have given them to Aaron the priest, and to his sons, by a law for ever, from all the people of Israel.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=35-#x">
+                [35]
+               </a>
+               This is the anointing of Aaron and his sons, in the ceremonies of the Lord, in the day when Moses offered them, that they might do the office of priesthood,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=36-#x">
+                [36]
+               </a>
+               And the things that the Lord commanded to be given them by the children of Israel, by a perpetual observance in their generations.
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=37-#x">
+                [37]
+               </a>
+               This is the law of holocaust, and of the sacrifice for sin, and for trespass, and for consecration, and the victims of peace offerings:
+               <a href="/x/d?b=drb&amp;bk=3&amp;ch=7&amp;l=38-#x">
+                [38]
+               </a>
+               Which the Lord appointed to Moses in mount Sinai, when he commanded the children of Israel, that they should offer their oblations to the Lord in the desert of Sinai.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="02001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Leviticus
+              </td>
+              <td class="next">
+               <a href="04001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03006.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 7
+              </td>
+              <td class="next">
+               <a href="03008.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

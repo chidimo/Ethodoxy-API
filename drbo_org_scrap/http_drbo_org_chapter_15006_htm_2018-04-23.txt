@@ -1,0 +1,420 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Esdras (Ezra) Chapter 6
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/15006.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/15006.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Book Of Esdras (Ezra)
+           </td>
+           <td class="next">
+            <a href="16001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="15005.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 6
+           </td>
+           <td class="next">
+            <a href="15007.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="15001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="15002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="15003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="15004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="15005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             06
+            </td>
+            <td width="30">
+             <a href="15007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="15008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="15009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="15010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               King Darius favoureth the building and contributeth to it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=1-#x">
+                [1]
+               </a>
+               Then king Darius gave orders, and they searched in the library of the books that were laid up in Babylon,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=2-#x">
+                [2]
+               </a>
+               And there was found in Ecbatana, which is a castle in the province of Media, a book in which this record was written.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=3-#x">
+                [3]
+               </a>
+               In the first year of Cyrus the king: Cyrus the king decreed, that the house of God should be built, which is in Jerusalem, in the place where they may offer sacrifices, and that they lay the foundations that may support the height of threescore cubits, and the breadth of threescore cubits,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=4-#x">
+                [4]
+               </a>
+               Three rows of unpolished stones, and so rows of new timber: and the charges shall be given out of the king's house.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=5-#x">
+                [5]
+               </a>
+               And also let the golden and silver vessels of the temple of God, which Nabuchodonosor took out of the temple of Jerusalem, and brought to Babylon, be restored, and carried back to the temple of Jerusalem to their place, which also were placed in the temple of God.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=6-#x">
+                [6]
+               </a>
+               Now therefore Thathanai, governor of the country beyond the river, Stharbuzanai, and your counsellors the Apharsachites, who are beyond the river, depart far from them,
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=7-#x">
+                [7]
+               </a>
+               And let that temple of God be built by the governor of the Jews, and by their ancients, that they may build that house of God in its place.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=8-#x">
+                [8]
+               </a>
+               I also have commanded what must be done by those ancients of the Jews, that the house of God may be built, to wit, that of the king's chest, that is, of the tribute that is paid out of the country beyond the river, the charges be diligently given to those men, lest the work be hindered.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=9-#x">
+                [9]
+               </a>
+               And if it shall be necessary, let calves also, and lambs, and kids, for holocausts to the God of heaven, wheat, salt, wine, and oil, according to the custom of the priests that are in Jerusalem, be given them day by day, that there be no complaint in any thing.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=10-#x">
+                [10]
+               </a>
+               And let them offer oblations to the God of heaven, and pray for the life of the king, and of his children.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=11-#x">
+                [11]
+               </a>
+               And I have made a decree: That if any whosoever, shall alter this commandment, a beam be taken from his house. and set up, and he be nailed upon it, and his house be confiscated.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=12-#x">
+                [12]
+               </a>
+               And may the God, that hath caused his name to dwell there, destroy all kingdoms, and the people that shall put out their hand to resist, and to destroy the house of God, that is in Jerusalem. I Darius have made the decree, which I will have diligently complied with.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=13-#x">
+                [13]
+               </a>
+               So then Thathanai, governor of the country beyond the river, and Stharbuzanai, and his counsellors diligently executed what Darius the king had commanded.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=14-#x">
+                [14]
+               </a>
+               And the ancients of the Jews built and prospered according to the prophecy of Aggeus the prophet, and of Zacharias the son of Addo: and they built and finished, by the commandment of the God of Israel, and by the commandment of Cyrus, and Darius, and Artaxerxes kings of the Persians.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=15-#x">
+                [15]
+               </a>
+               And they were finishing this house of God, until the third day of the month of Adar, which was in the sixth year of the reign of king Darius.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=16-#x">
+                [16]
+               </a>
+               And the children of Israel, the priests and the Levites, and the rest of the children of the captivity kept the dedication of the house of God with joy.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=17-#x">
+                [17]
+               </a>
+               And they offered at the dedication of the house of God, a, hundred calves, two hundred rams, four hundred lambs, and for a sin offering for all Israel twelve he goats, according to the number of the tribes of Israel.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=18-#x">
+                [18]
+               </a>
+               And they set the priests in their divisions, and the Levites in their courses over the works of God in Jerusalem, as it is written in the book of Moses.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=19-#x">
+                [19]
+               </a>
+               And the children of Israel of the captivity kept the phase, on the fourteenth day of the first month.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=20-#x">
+                [20]
+               </a>
+               For all the priests and the Levites were purified as one man: all were clear to kill the phase for all the children of the captivity, and for their brethren the priests, and themselves.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=21-#x">
+                [21]
+               </a>
+               And the children of Israel that were returned from captivity, and all that had separated themselves from the filthiness of the nations of the earth to them, to seek the Lord the God of Israel, did eat.
+               <a href="/x/d?b=drb&amp;bk=15&amp;ch=6&amp;l=22-#x">
+                [22]
+               </a>
+               And they kept the feast of unleavened bread seven days with joy, for the Lord had made them joyful, and had turned the heart of the king of Assyria to them, that he should help their hands in the work of the house of the Lord the God of Israel.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Book Of Esdras (Ezra)
+              </td>
+              <td class="next">
+               <a href="16001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="15005.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 6
+              </td>
+              <td class="next">
+               <a href="15007.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

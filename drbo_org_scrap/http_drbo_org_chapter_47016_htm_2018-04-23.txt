@@ -1,0 +1,572 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 16
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/47016.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/47016.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="46001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Matthew
+           </td>
+           <td class="next">
+            <a href="48001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47015.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 16
+           </td>
+           <td class="next">
+            <a href="47017.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="47001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="47002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="47003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="47004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="47005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="47006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="47007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="47008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="47009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="47010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="47011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="47012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="47013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="47014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="47015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             16
+            </td>
+            <td width="30">
+             <a href="47017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="47018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="47019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="47020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="47021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="47022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="47023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="47024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="47025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="47026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="47027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="47028.htm">
+              28
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ refuses to shew the Pharisees a sign from heaven. Peter's confession is rewarded. He is rebuked for opposing Christ's passion. All his followers must deny themselves.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=1-#x">
+                [1]
+               </a>
+               And there came to him the Pharisees and Sadducees tempting: and they asked him to shew them a sign from heaven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=2-#x">
+                [2]
+               </a>
+               But he answered and said to them: When it is evening, you say, It will be fair weather, for the sky is red.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=3-#x">
+                [3]
+               </a>
+               And in the morning: Today there will be a storm, for the sky is red and lowering. You know then how to discern the face of the sky: and can you not know the signs of the times?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=4-#x">
+                [4]
+               </a>
+               A wicked and adulterous generation seeketh after a sign: and a sign shall not be given it, but the sign of Jonas the prophet. And he left them, and went away.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=5-#x">
+                [5]
+               </a>
+               And when his disciples were come over the water, they had forgotten to take bread.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=6-#x">
+                [6]
+               </a>
+               Who said to them: Take heed and beware of the leaven of the Pharisees and Sadducees.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=7-#x">
+                [7]
+               </a>
+               But they thought within themselves, saying: Because we have taken no bread.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=8-#x">
+                [8]
+               </a>
+               And Jesus knowing it, said: Why do you think within yourselves, O ye of little faith, for that you have no bread?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=9-#x">
+                [9]
+               </a>
+               Do you not yet understand, neither do you remember the five loaves among five thousand men, and how many baskets you took up?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=10-#x">
+                [10]
+               </a>
+               Nor the seven loaves among four thousand men, and how many baskets you took up?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=11-#x">
+                [11]
+               </a>
+               Why do you not understand that it was not concerning the bread I said to you: Beware of the leaven of the Pharisees and Sadducees?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=12-#x">
+                [12]
+               </a>
+               Then they understood that he said not that they should beware of the leaven of bread, but of the doctrine of the Pharisees and Sadducees.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=13-#x">
+                [13]
+               </a>
+               And Jesus came into the quarters of Caesarea Philippi: and he asked his disciples, saying: Whom do men say that the Son of man is?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=14-#x">
+                [14]
+               </a>
+               But they said: Some John the Baptist, and other some Elias, and others Jeremias, or one of the prophets.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=15-#x">
+                [15]
+               </a>
+               Jesus saith to them: But whom do you say that I am?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=16-#x">
+                [16]
+               </a>
+               Simon Peter answered and said: Thou art Christ, the Son of the living God.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=17-#x">
+                [17]
+               </a>
+               And Jesus answering, said to him: Blessed art thou, Simon Bar-Jona: because flesh and blood hath not revealed it to thee, but my Father who is in heaven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=18-#x">
+                [18]
+               </a>
+               And I say to thee: That
+               <u>
+                thou art Peter
+               </u>
+               ; and
+               <u>
+                upon this rock
+               </u>
+               I will build my church, and
+               <u>
+                the gates of hell
+               </u>
+               shall not prevail against it.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=19-#x">
+                [19]
+               </a>
+               And I will give to thee the keys of the kingdom of heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in heaven: and whatsoever thou shalt
+               <u>
+                loose upon earth
+               </u>
+               , it shall be loosed also in heaven.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=20-#x">
+                [20]
+               </a>
+               Then he commanded his disciples, that they should tell no one that he was Jesus the Christ.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "Thou art Peter"
+               </u>
+               : As St. Peter, by divine revelation, here made a solemn profession of his faith of the divinity of Christ; so in recompense of this faith and profession, our Lord here declares to him the dignity to which he is pleased to raise him: viz., that he to whom he had already given the name of Peter, signifying a rock, St. John 1. 42, should be a rock indeed, of invincible strength, for the support of the building of the church; in which building he should be, next to Christ himself, the chief foundation stone, in quality of chief pastor, ruler, and governor; and should have accordingly all fulness of ecclesiastical power, signified by the keys of the kingdom of heaven.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "Upon this rock"
+               </u>
+               : The words of Christ to Peter, spoken in the vulgar language of the Jews which our Lord made use of, were the same as if he had said in English, Thou art a Rock, and upon this rock I will build my church. So that, by the plain course of the words, Peter is here declared to be the rock, upon which the church was to be built: Christ himself being both the principal foundation and founder of the same. Where also note, that Christ, by building his house, that is, his church, upon a rock, has thereby secured it against all storms and floods, like the wise builder, St. Matt. 7. 24, 25.
+              </p>
+              <p class="note">
+               [18]
+               <u>
+                "The gates of hell"
+               </u>
+               : That is, the powers of darkness, and whatever Satan can do, either by himself, or his agents. For as the church is here likened to a house, or fortress, built on a rock; so the adverse powers are likened to a contrary house or fortress, the gates of which, that is, the whole strength, and all the efforts it can make, will never be able to prevail over the city or church of Christ. By this promise we are fully assured, that neither idolatry, heresy, nor any pernicious error whatsoever shall at any time prevail over the church of Christ.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "Loose upon earth"
+               </u>
+               : The loosing the bands of temporal punishments due to sins, is called an indulgence; the power of which is here granted.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=21-#x">
+                [21]
+               </a>
+               From that time Jesus began to shew to his disciples, that he must go to Jerusalem, and suffer many things from the ancients and scribes and chief priests, and be put to death, and the third day rise again.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=22-#x">
+                [22]
+               </a>
+               <u>
+                And Peter taking him
+               </u>
+               , began to rebuke him, saying: Lord, be it far from thee, this shall not be unto thee.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=23-#x">
+                [23]
+               </a>
+               Who turning, said to Peter: Go behind me, Satan, thou art a scandal unto me: because thou savourest not the things that are of God, but the things that are of men.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=24-#x">
+                [24]
+               </a>
+               Then Jesus said to his disciples: If any man will come after me, let him deny himself, and take up his cross, and follow me.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=25-#x">
+                [25]
+               </a>
+               For he that will save his life, shall lose it: and he that shall lose his life for my sake, shall find it.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "And Peter taking him"
+               </u>
+               : That is, taking him aside, out of a tender love, respect and zeal for his Lord and Master's honour, began to expostulate with him, as it were to rebuke him, saying, Lord, far be it from thee to suffer death; but the Lord said to Peter, ver. 23, Go behind me, Satan. These words may signify, Begone from me; but the holy Fathers expound them otherwise, that is, come after me, or follow me; and by these words the Lord would have Peter to follow him in his suffering, and not to oppose the divine will by contradiction; for the word satan means in Hebrew an adversary, or one that opposes.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=26-#x">
+                [26]
+               </a>
+               For what doth it profit a man, if he gain the whole world, and suffer the loss of his own soul? Or what exchange shall a man give for his soul?
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=27-#x">
+                [27]
+               </a>
+               For the Son of man shall come in the glory of his Father with his angels: and then will he render to every man according to his works.
+               <a href="/x/d?b=drb&amp;bk=47&amp;ch=16&amp;l=28-#x">
+                [28]
+               </a>
+               Amen I say to you, there are some of them that stand here, that shall not taste death, till they see the Son of man coming in his kingdom.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="46001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Matthew
+              </td>
+              <td class="next">
+               <a href="48001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47015.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 16
+              </td>
+              <td class="next">
+               <a href="47017.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

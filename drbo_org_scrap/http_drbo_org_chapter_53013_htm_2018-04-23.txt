@@ -1,0 +1,398 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 1 Corinthians Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/53013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/53013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="52001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            First Epistle Of Saint Paul To The Corinthians
+           </td>
+           <td class="next">
+            <a href="54001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="53012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="53014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="53001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="53002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="53003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="53004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="53005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="53006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="53007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="53008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="53009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="53010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="53011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="53012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="53014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="53015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="53016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Charity is to be preferred before all gifts.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               If I speak with the tongues of men, and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               And if I should have prophecy and should know all mysteries, and all knowledge, and if I should have all faith, so that I could remove mountains, and have not charity, I am nothing.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               And if I should distribute all my goods to feed the poor, and if I should deliver my body to be burned, and have not charity, it profiteth me nothing.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               Charity is patient, is kind: charity envieth not, dealeth not perversely; is not puffed up;
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               Is not ambitious, seeketh not her own, is not provoked to anger, thinketh no evil;
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               Rejoiceth not in iniquity, but rejoiceth with the truth;
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               Beareth all things, believeth all things, hopeth all things, endureth all things.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               Charity never falleth away: whether prophecies shall be made void, or tongues shall cease, or knowledge shall be destroyed.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               For we know in part, and we prophesy in part.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               But when that which is perfect is come, that which is in part shall be done away.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               When I was a child, I spoke as a child, I understood as a child, I thought as a child. But, when I became a man, I put away the things of a child.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               We see now through a glass in a dark manner; but then face to face. Now I know in part; but then I shall know even as I am known.
+               <a href="/x/d?b=drb&amp;bk=53&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               And now there remain faith, hope, and charity, these three: but the greatest of these is charity.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="52001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               First Epistle Of Saint Paul To The Corinthians
+              </td>
+              <td class="next">
+               <a href="54001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="53012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="53014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

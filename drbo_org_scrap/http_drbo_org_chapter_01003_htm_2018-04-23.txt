@@ -1,0 +1,640 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Genesis Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/01003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/01003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt; previous
+           </td>
+           <td class="bookname">
+            Book Of Genesis
+           </td>
+           <td class="next">
+            <a href="02001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="01002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="01004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="01001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="01002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="01004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="01005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="01006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="01007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="01008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="01009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="01010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="01011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="01012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="01013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="01014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="01015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="01016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="01017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="01018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="01019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="01020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="01022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="01023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="01024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="01025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="01026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="01027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="01028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="01029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="01030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="01031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="01032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="01033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="01034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="01035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="01036.htm">
+              36
+             </a>
+            </td>
+            <td width="30">
+             <a href="01037.htm">
+              37
+             </a>
+            </td>
+            <td width="30">
+             <a href="01038.htm">
+              38
+             </a>
+            </td>
+            <td width="30">
+             <a href="01039.htm">
+              39
+             </a>
+            </td>
+            <td width="30">
+             <a href="01040.htm">
+              40
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="01041.htm">
+              41
+             </a>
+            </td>
+            <td width="30">
+             <a href="01042.htm">
+              42
+             </a>
+            </td>
+            <td width="30">
+             <a href="01043.htm">
+              43
+             </a>
+            </td>
+            <td width="30">
+             <a href="01044.htm">
+              44
+             </a>
+            </td>
+            <td width="30">
+             <a href="01045.htm">
+              45
+             </a>
+            </td>
+            <td width="30">
+             <a href="01046.htm">
+              46
+             </a>
+            </td>
+            <td width="30">
+             <a href="01047.htm">
+              47
+             </a>
+            </td>
+            <td width="30">
+             <a href="01048.htm">
+              48
+             </a>
+            </td>
+            <td width="30">
+             <a href="01049.htm">
+              49
+             </a>
+            </td>
+            <td width="30">
+             <a href="01050.htm">
+              50
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The serpent's craft. The fall of our first parents. Their punishment. The promise of a Redeemer.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               Now the serpent was more subtle than any of the beasts of the earth which the Lord God had made. And he said to the woman: Why hath God commanded you, that you should not eat of every tree of paradise?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               And the woman answered him, saying: Of the fruit of the trees that are in paradise we do eat:
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               But of the fruit of the tree which is in the midst of paradise, God hath commanded us that we should not eat; and that we should not touch it, lest perhaps we die.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               And the serpent said to the woman: No, you shall not die the death.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               For God doth know that in what day soever you shall eat thereof, your eyes shall be opened: and you shall be as Gods, knowing good and evil.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               And the woman saw that the tree was good to eat, and fair to the eyes, and delightful to behold: and she took of the fruit thereof, and did eat, and gave to her husband who did eat.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               <u>
+                And the eyes
+               </u>
+               of them both were opened: and when they perceived themselves to be naked, they sewed together fig leaves, and made themselves aprons.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And when they heard the voice of the Lord God walking in paradise at the afternoon air, Adam and his wife hid themselves from the face of the Lord God, amidst the trees of paradise.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               And the Lord God called Adam, and said to him: Where art thou?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               And he said: I heard thy voice in paradise; and I was afraid, because I was naked, and I hid myself.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "And the eyes"
+               </u>
+               : Not that they were blind before, (for the woman saw that the tree was fair to the eyes, ver. 6.) nor yet that their eyes were opened to any more perfect knowledge of good; but only to the unhappy experience of having lost the good of original grace and innocence, and incurred the dreadful evil of sin. From whence followed a shame of their being naked; which they minded not before; because being now stript of original grace, they quickly began to be subject to the shameful rebellions of the flesh.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               And he said to him: And who hath told thee that thou wast naked, but that thou hast eaten of the tree whereof I commanded thee that thou shouldst not eat?
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               And Adam said: The woman, whom thou gavest me to be my companion, gave me of the tree, and I did eat.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               And the Lord God said to the woman: Why hast thou done this? And she answered: The serpent deceived me, and I did eat.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               And the Lord God said to the serpent: Because thou hast done this thing, thou art cursed among all cattle, and beasts of the earth: upon thy breast shalt thou go, and earth shalt thou eat all the days of thy life.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               I will put enmities between thee and the woman, and thy seed and her seed:
+               <u>
+                she shall crush
+               </u>
+               thy head, and thou shalt lie in wait for her heel.
+              </p>
+              <p class="note">
+               [15]
+               <u>
+                "She shall crush"
+               </u>
+               : Ipsa, the woman; so divers of the fathers read this place, conformably to the Latin: others read it ipsum, viz., the seed. The sense is the same: for it is by her seed, Jesus Christ, that the woman crushes the serpent's head.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               To the woman also he said: I will multiply thy sorrows, and thy conceptions: in sorrow shalt thou bring forth children, and thou shalt be under thy husband's power, and he shall have dominion over thee.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               And to Adam he said: Because thou hast hearkened to the voice of thy wife, and hast eaten of the tree, whereof I commanded thee that thou shouldst not eat, cursed is the earth in thy work; with labour and toil shalt thou eat thereof all the days of thy life.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               Thorns and thistles shall it bring forth to thee; and thou shalt eat the herbs of the earth.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               In the sweat of thy face shalt thou eat bread till thou return to the earth, out of which thou wast taken: for dust thou art, and into dust thou shalt return.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               And Adam called the name of his wife Eve: because she was the mother of all the living.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               And the Lord God made for Adam and his wife, garments of skins, and clothed them.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               And he said:
+               <u>
+                Behold Adam
+               </u>
+               is become as one of us, knowing good and evil: now, therefore, lest perhaps he put forth his hand, and take also of the tree of life, and eat, and live for ever.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken.
+               <a href="/x/d?b=drb&amp;bk=1&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               And he cast out Adam; and placed before the paradise of pleasure Cherubims, and a flaming sword, turning every way, to keep the way of the tree of life.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Behold Adam"
+               </u>
+               : This was spoken by way of reproaching him with his pride, in affecting a knowledge that might make him like to God.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt; previous
+              </td>
+              <td class="bookname">
+               Book Of Genesis
+              </td>
+              <td class="next">
+               <a href="02001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="01002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="01004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

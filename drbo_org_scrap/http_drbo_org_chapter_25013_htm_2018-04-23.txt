@@ -1,0 +1,433 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Wisdom Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/25013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/25013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="24001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Wisdom
+           </td>
+           <td class="next">
+            <a href="26001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="25012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="25014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="25001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="25002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="25003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="25004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="25005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="25006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="25007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="25008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="25009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="25010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="25011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="25012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="25014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="25015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="25016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="25017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="25018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="25019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Idolaters are inexcusable: and those most of all that worship for gods the works of the hands of men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               But all men are vain, in whom there is not the knowledge of God: and who by these good things that are seen, could not understand him that is, neither by attending to the works have acknowledged who was the workman:
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               But have imagined either the fire, or the wind, or the swift air, or the circle of the stars, or the great water, or the sun and moon, to be the gods that rule the world.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               With whose beauty, if they, being delighted, took them to be gods: let them know how much the Lord of them is more beautiful than they: for the first author of beauty made all those things.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               Or if they admired their power and their effects, let them understand by them, that he that made them, is mightier than they:
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               For by the greatness of the beauty, and of the creature, the creator of them may be seen, so as to be known thereby.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               But yet as to these they are less to be blamed. For they perhaps err, seeking God, and desirous to find him.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               For being conversant among his works, they search: and they are persuaded that the things are good which are seen.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               But then again they are not to be pardoned.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               For if they were able to know so much as to make a judgment of the world: how did they not more easily find out the Lord thereof?
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               But unhappy are they, and their hope is among the dead, who have called gods the works of the hands of men, gold and silver, the inventions of art, and the resemblances of beasts, or an unprofitable stone the work of an ancient hand.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               Or if an artist, a carpenter, hath cut down a tree proper for his use in the wood, and skillfully taken off all the bark thereof, and with his art, diligently formeth a vessel profitable for the common uses of life,
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               And useth the chips of his work to dress his meat:
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               And taking what was left thereof, which is good for nothing, being a crooked piece of wood, and full of knots, carveth it diligently when he hath nothing else to do, and by the skill of his art fashioneth it and maketh it like the image of a man:
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               Or the resemblance of some beast, laying it over with vermilion, and painting it red, and covering every spot that is in it:
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               And maketh a convenient dwelling place for it, and setting it in a wall, and fastening it with iron,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               Providing for it, lest it should fall, knowing that it is unable to help itself: for it is an image, and hath need of help.
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               And then maketh prayer to it, inquiring concerning his substance, and his children, or his marriage. And he is not ashamed to speak to that which hath no life:
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               And for health he maketh supplication to the weak, and for life prayeth to that which is dead, and for help calleth upon that which is unprofitable:
+               <a href="/x/d?b=drb&amp;bk=25&amp;ch=13&amp;l=19-#x">
+                [19]
+               </a>
+               And for a good journey he petitioneth him that cannot walk: and for getting, and for working, and for the event of all things he asketh him that is unable to do any thing.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="24001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Wisdom
+              </td>
+              <td class="next">
+               <a href="26001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="25012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="25014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

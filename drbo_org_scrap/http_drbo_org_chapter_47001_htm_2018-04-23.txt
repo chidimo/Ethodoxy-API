@@ -1,0 +1,494 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Matthew Chapter 1
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="topcenter">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="drbobox1">
+        <font class="toplink">
+         <a href="../index.htm">
+          DRBO.ORG
+         </a>
+        </font>
+        <font class="toplink">
+         <a href="http://summa-theologica.org">
+          Summa-Theologica.ORG
+         </a>
+        </font>
+       </td>
+      </tr>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+      <tr>
+       <td>
+        <a href="../index.htm">
+         <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+        </a>
+       </td>
+      </tr>
+     </table>
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+      <tr>
+       <td class="topmenubox">
+        <font class="topmenu">
+         Douay-Rheims
+        </font>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../drl/chapter/47001.htm">
+         DR + LV
+        </a>
+       </td>
+       <td class="topmenubox">
+        <a class="topmenu" href="../lvb/chapter/47001.htm">
+         Latin Vulgate
+        </a>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tr>
+    <td class="maincol">
+     <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+      <tr>
+       <td class="titlebox">
+        <font class="title">
+         Douay-Rheims Bible + Challoner Notes
+        </font>
+       </td>
+      </tr>
+     </table>
+     <center>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+       <tr>
+        <td valign="top">
+         <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+          <table border="0" cellpadding="0" cellspacing="0">
+           <tr>
+            <td class="searchbox">
+             <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+             <input class="button" type="submit" value="Search"/>
+             <input name="b" type="hidden" value="drb"/>
+            </td>
+           </tr>
+          </table>
+         </form>
+        </td>
+       </tr>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+        <tr>
+         <td class="prev">
+          &lt;
+          <a href="46001.htm">
+           previous
+          </a>
+         </td>
+         <td class="bookname">
+          Gospel According to Saint Matthew
+         </td>
+         <td class="next">
+          <a href="48001.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+        <tr>
+         <td class="prev">
+          &lt; previous
+         </td>
+         <td class="chapname">
+          Chapter 1
+         </td>
+         <td class="next">
+          <a href="47002.htm">
+           next
+          </a>
+          &gt;
+         </td>
+        </tr>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+         <tr height="25">
+          <td width="30">
+           01
+          </td>
+          <td width="30">
+           <a href="47002.htm">
+            02
+           </a>
+          </td>
+          <td width="30">
+           <a href="47003.htm">
+            03
+           </a>
+          </td>
+          <td width="30">
+           <a href="47004.htm">
+            04
+           </a>
+          </td>
+          <td width="30">
+           <a href="47005.htm">
+            05
+           </a>
+          </td>
+          <td width="30">
+           <a href="47006.htm">
+            06
+           </a>
+          </td>
+          <td width="30">
+           <a href="47007.htm">
+            07
+           </a>
+          </td>
+          <td width="30">
+           <a href="47008.htm">
+            08
+           </a>
+          </td>
+          <td width="30">
+           <a href="47009.htm">
+            09
+           </a>
+          </td>
+          <td width="30">
+           <a href="47010.htm">
+            10
+           </a>
+          </td>
+          <td width="30">
+           <a href="47011.htm">
+            11
+           </a>
+          </td>
+          <td width="30">
+           <a href="47012.htm">
+            12
+           </a>
+          </td>
+          <td width="30">
+           <a href="47013.htm">
+            13
+           </a>
+          </td>
+          <td width="30">
+           <a href="47014.htm">
+            14
+           </a>
+          </td>
+          <td width="30">
+           <a href="47015.htm">
+            15
+           </a>
+          </td>
+          <td width="30">
+           <a href="47016.htm">
+            16
+           </a>
+          </td>
+          <td width="30">
+           <a href="47017.htm">
+            17
+           </a>
+          </td>
+          <td width="30">
+           <a href="47018.htm">
+            18
+           </a>
+          </td>
+          <td width="30">
+           <a href="47019.htm">
+            19
+           </a>
+          </td>
+          <td width="30">
+           <a href="47020.htm">
+            20
+           </a>
+          </td>
+         </tr>
+         <tr height="25">
+          <td width="30">
+           <a href="47021.htm">
+            21
+           </a>
+          </td>
+          <td width="30">
+           <a href="47022.htm">
+            22
+           </a>
+          </td>
+          <td width="30">
+           <a href="47023.htm">
+            23
+           </a>
+          </td>
+          <td width="30">
+           <a href="47024.htm">
+            24
+           </a>
+          </td>
+          <td width="30">
+           <a href="47025.htm">
+            25
+           </a>
+          </td>
+          <td width="30">
+           <a href="47026.htm">
+            26
+           </a>
+          </td>
+          <td width="30">
+           <a href="47027.htm">
+            27
+           </a>
+          </td>
+          <td width="30">
+           <a href="47028.htm">
+            28
+           </a>
+          </td>
+         </tr>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+          <tr>
+           <td class="textarea" valign="top">
+            <p class="desc">
+             The genealogy of Christ: he is conceived and born of a virgin.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=1-#x">
+              [1]
+             </a>
+             The book of the generation of Jesus Christ, the son of David, the son of Abraham:
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=2-#x">
+              [2]
+             </a>
+             Abraham begot Isaac. And Isaac begot Jacob. And Jacob begot Judas and his brethren.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=3-#x">
+              [3]
+             </a>
+             And Judas begot Phares and Zara of Thamar. And Phares begot Esron. And Esron begot Aram.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=4-#x">
+              [4]
+             </a>
+             And Aram begot Aminadab. And Aminadab begot Naasson. And Naasson begot Salmon.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=5-#x">
+              [5]
+             </a>
+             And Salmon begot Booz of Rahab. And Booz begot Obed of Ruth. And Obed begot Jesse.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=6-#x">
+              [6]
+             </a>
+             And Jesse begot David the king. And David the king begot Solomon, of her that had been the wife of Urias.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=7-#x">
+              [7]
+             </a>
+             And Solomon begot Roboam. And Roboam begot Abia. And Abia begot Asa.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=8-#x">
+              [8]
+             </a>
+             And Asa begot Josaphat. And Josaphat begot Joram. And Joram begot Ozias.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=9-#x">
+              [9]
+             </a>
+             And Ozias begot Joatham. And Joatham begot Achaz. And Achaz begot Ezechias.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=10-#x">
+              [10]
+             </a>
+             And Ezechias begot Manasses. And Manasses begot Amon. And Amon begot Josias.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=11-#x">
+              [11]
+             </a>
+             And Josias begot Jechonias and his brethren in the transmigration of Babylon.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=12-#x">
+              [12]
+             </a>
+             And after the transmigration of Babylon, Jechonias begot Salathiel. And Salathiel begot Zorobabel.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=13-#x">
+              [13]
+             </a>
+             And Zorobabel begot Abiud. And Abiud begot Eliacim. And Eliacim begot Azor.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=14-#x">
+              [14]
+             </a>
+             And Azor begot Sadoc. And Sadoc begot Achim. And Achim begot Eliud.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=15-#x">
+              [15]
+             </a>
+             And Eliud begot Eleazar. And Eleazar begot Mathan. And Mathan begot Jacob.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=16-#x">
+              [16]
+             </a>
+             And Jacob begot Joseph
+             <u>
+              the husband of Mary
+             </u>
+             , of whom was born Jesus, who is called Christ.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=17-#x">
+              [17]
+             </a>
+             So all the generations, from Abraham to David, are fourteen generations. And from David to the transmigration of Babylon, are fourteen generations: and from the transmigration of Babylon to Christ are fourteen generations.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=18-#x">
+              [18]
+             </a>
+             Now the generation of Christ was in this wise. When as his mother Mary was espoused to Joseph, before they came together, she was found with child, of the Holy Ghost.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=19-#x">
+              [19]
+             </a>
+             Whereupon Joseph her husband, being a just man, and not willing publicly to expose her, was minded to put her away privately.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=20-#x">
+              [20]
+             </a>
+             But while he thought on these things, behold the angel of the Lord appeared to him in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.
+            </p>
+            <p class="note">
+             [16]
+             <u>
+              "The husband of Mary"
+             </u>
+             : The Evangelist gives us rather the pedigree of St. Joseph, than that of the blessed Virgin, to conform to the custom of the Hebrews, who in their genealogies took no notice of women; but as they were near akin, the pedigree of the one sheweth that of the other.
+            </p>
+            <p>
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=21-#x">
+              [21]
+             </a>
+             And she shall bring forth a son: and thou shalt call his name JESUS. For he shall save his people from their sins.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=22-#x">
+              [22]
+             </a>
+             Now all this was done that it might be fulfilled which the Lord spoke by the prophet, saying:
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=23-#x">
+              [23]
+             </a>
+             Behold a virgin shall be with child, and bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=24-#x">
+              [24]
+             </a>
+             And Joseph rising up from sleep, did as the angel of the Lord had commanded him, and took unto him his wife.
+             <a href="/x/d?b=drb&amp;bk=47&amp;ch=1&amp;l=25-#x">
+              [25]
+             </a>
+             And he knew her not
+             <u>
+              till she brought forth her firstborn son
+             </u>
+             : and he called his name JESUS.
+            </p>
+            <p class="note">
+             [25]
+             <u>
+              "Till she brought forth her firstborn son"
+             </u>
+             : From these words Helvidius and other heretics most impiously inferred that the blessed Virgin Mary had other children besides Christ; but St. Jerome shews, by divers examples, that this expression of the Evangelist was a manner of speaking usual among the Hebrews, to denote by the word until, only what is done, without any regard to the future. Thus it is said, Genesis 8. 6 and 7, that Noe sent forth a raven, which went forth, and did not return till the waters were dried up on the earth. That is, did not return any more. Also Isaias 46. 4, God says: I am till you grow old. Who dare infer that God should then cease to be: Also in the first book of Machabees 5. 54, And they went up to mount Sion with joy and gladness, and offered holocausts, because not one of them was slain till they had returned in peace. That is, not one was slain before or after they had returned. God saith to his divine Son: Sit on my right hand till I make thy enemies thy footstool. Shall he sit no longer after his enemies are subdued? Yea and for all eternity. St. Jerome also proves by Scripture examples, that an only begotten son, was also called firstborn, or first begotten: because according to the law, the firstborn males were to be consecrated to God; Sanctify unto me, saith the Lord, every firstborn that openeth the womb among the children of Israel, etc. Ex. 13. 2.
+            </p>
+           </td>
+          </tr>
+         </table>
+        </center>
+       </center>
+      </center>
+     </center>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>
+<center>
+ <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+  <tr>
+   <td class="prev">
+    &lt;
+    <a href="46001.htm">
+     previous
+    </a>
+   </td>
+   <td class="bookname">
+    Gospel According to Saint Matthew
+   </td>
+   <td class="next">
+    <a href="48001.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+  <tr>
+   <td class="prev">
+    &lt; previous
+   </td>
+   <td class="chapname">
+    Chapter 1
+   </td>
+   <td class="next">
+    <a href="47002.htm">
+     next
+    </a>
+    &gt;
+   </td>
+  </tr>
+ </table>
+</center>
+<td class="adcol" valign="top">
+ <script>
+  side_ads ("../")
+ </script>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+ <tr>
+  <td class="botcenter">
+  </td>
+ </tr>
+</table>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+ var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+ <div class="statcounter">
+  <a href="http://statcounter.com/" target="_blank" title="web stats">
+   <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+  </a>
+ </div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

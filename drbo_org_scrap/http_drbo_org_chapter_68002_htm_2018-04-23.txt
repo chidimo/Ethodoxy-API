@@ -1,0 +1,432 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Peter Chapter 2
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/68002.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/68002.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="67001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Epistle Of Saint Peter
+           </td>
+           <td class="next">
+            <a href="69001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="68001.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 2
+           </td>
+           <td class="next">
+            <a href="68003.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="68001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             02
+            </td>
+            <td width="30">
+             <a href="68003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               He warns them against false teachers and foretells their punishment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=1-#x">
+                [1]
+               </a>
+               But there were also false prophets among the people, even as there shall be among you lying teachers, who shall bring in
+               <u>
+                sects of perdition
+               </u>
+               , and deny the Lord who bought them: bringing upon themselves swift destruction.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=2-#x">
+                [2]
+               </a>
+               And many shall follow their riotousnesses, through whom the way of truth shall be evil spoken of.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=3-#x">
+                [3]
+               </a>
+               And through covetousness shall they with feigned words make merchandise of you. Whose judgment now of a long time lingereth not, and their perdition slumbereth not.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=4-#x">
+                [4]
+               </a>
+               For if God spared not the angels that sinned, but delivered them, drawn down by infernal ropes to the lower hell, unto torments, to be reserved unto judgment:
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=5-#x">
+                [5]
+               </a>
+               And spared not the original world, but preserved Noe, the eighth person, the preacher of justice, bringing in the flood upon the world of the ungodly.
+              </p>
+              <p class="note">
+               [1]
+               <u>
+                "Sects of perdition"
+               </u>
+               : That is, heresies destructive of salvation.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=6-#x">
+                [6]
+               </a>
+               And reducing the cities of the Sodomites, and of the Gomorrhites, into ashes, condemned them to be overthrown, making them an example to those that should after act wickedly.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=7-#x">
+                [7]
+               </a>
+               And delivered just Lot, oppressed by the injustice and lewd conversation of the wicked.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=8-#x">
+                [8]
+               </a>
+               For in sight and hearing he was just: dwelling among them, who from day to day vexed the just soul with unjust works.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=9-#x">
+                [9]
+               </a>
+               The Lord knoweth how to deliver the godly from temptation, but to reserve the unjust unto the day of judgment to be tormented.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=10-#x">
+                [10]
+               </a>
+               And especially them who walk after the flesh in the lust of uncleanness, and despise government, audacious, self willed, they fear not to bring in sects, blaspheming.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=11-#x">
+                [11]
+               </a>
+               Whereas angels who are greater in strength and power, bring not against themselves
+               <u>
+                a railing judgment
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=12-#x">
+                [12]
+               </a>
+               But these men, as irrational beasts, naturally tending to the snare and to destruction, blaspheming those things which they know not, shall perish in their corruption,
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=13-#x">
+                [13]
+               </a>
+               Receiving the reward of their injustice, counting for a pleasure
+               <u>
+                the delights of a day
+               </u>
+               : stains and spots, sporting themselves to excess, rioting in their feasts with you:
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=14-#x">
+                [14]
+               </a>
+               Having eyes full of adultery and of sin that ceaseth not: alluring unstable souls, having their heart exercised with covetousness, children of malediction:
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=15-#x">
+                [15]
+               </a>
+               Leaving the right way they have gone astray, having followed the way of Balaam of Bosor, who loved the wages of iniquity,
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "A railing judgment"
+               </u>
+               : That is, they use no railing, nor cursing sentence; not even in their conflicts with the evil angels. See St. Jude, ver. 9.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "The delights of a day"
+               </u>
+               : that is, the short delights of this world, in which they place all their happiness.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=16-#x">
+                [16]
+               </a>
+               But had a check of his madness, the dumb beast used to the yoke, which speaking with man's voice, forbade the folly of the prophet.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=17-#x">
+                [17]
+               </a>
+               These are fountains without water, and clouds tossed with whirlwinds, to whom the mist of darkness is reserved.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=18-#x">
+                [18]
+               </a>
+               For, speaking proud words of vanity, they allure by the desires of fleshly riotousness, those who for a little while escape, such as converse in error:
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=19-#x">
+                [19]
+               </a>
+               Promising them liberty, whereas they themselves are the slaves of corruption. For by whom a man is overcome, of the same also he is the slave.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=20-#x">
+                [20]
+               </a>
+               For if, flying from the pollutions of the world, through the knowledge of our Lord and Saviour Jesus Christ, they be again entangled in them and overcome: their latter state is become unto them worse than the former.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=21-#x">
+                [21]
+               </a>
+               For it had been better for them not to have known the way of justice, than after they have known it, to turn back from that holy commandment which was delivered to them.
+               <a href="/x/d?b=drb&amp;bk=68&amp;ch=2&amp;l=22-#x">
+                [22]
+               </a>
+               For, that of the true proverb has happened to them: The dog is returned to his vomit: and, The sow that was washed, to her wallowing in the mire.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="67001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Epistle Of Saint Peter
+              </td>
+              <td class="next">
+               <a href="69001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="68001.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 2
+              </td>
+              <td class="next">
+               <a href="68003.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

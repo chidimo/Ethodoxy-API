@@ -1,0 +1,641 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Numbers Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/04011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/04011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="03001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Numbers
+           </td>
+           <td class="next">
+            <a href="05001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="04010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="04012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="04001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="04002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="04003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="04004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="04005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="04006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="04007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="04008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="04009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="04010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="04012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="04013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="04014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="04015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="04016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="04017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="04018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="04019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="04020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="04021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="04022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="04023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="04024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="04025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="04026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="04027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="04028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="04029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="04030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="04031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="04032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="04033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="04034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="04035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="04036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The people murmur and are punished with fire. God appointeth seventy ancients for assistants to Moses. They prophesy. The people have their fill of flesh, but forthwith many die of the plague.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               In the mean time there arose a murmuring of the people against the Lord, as it were repining at their fatigue. And when the Lord heard it he was angry. And the fire of the Lord being kindled against them, devoured them that were at the uttermost part of the camp.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               And when the people cried to Moses, Moses prayed to the Lord, and the fire was swallowed up.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               And he called the name of that place,
+               <u>
+                The burning
+               </u>
+               : for that the fire of the Lord had been kindled against them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               For
+               <u>
+                a mixt multitude
+               </u>
+               of people, that came up with them, burned with desire, sitting and weeping, the children of Israel also being joined with them, and said: Who shall give us flesh to eat?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               We remember the Ash that we ate in Egypt free cost: the cucumbers come into our mind, and the melons, and the leeks, and the onions, and the garlic.
+              </p>
+              <p class="note">
+               [3]
+               <u>
+                "The burning"
+               </u>
+               : Hebrew, Taberah.
+              </p>
+              <p class="note">
+               [4]
+               <u>
+                "A mixt multitude"
+               </u>
+               : These were people that came with them out of Egypt, who were not of the race of Israel; who, by their murmuring, drew also the children of Israel to murmur: this should teach us the danger of associating ourselves with the children of Egypt, that is, with the lovers and admirers of this wicked world.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               Our soul is dry, our eyes behold nothing else but manna.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               A Now the manna was like coriander seed, of the colour of
+               <u>
+                bdellium
+               </u>
+               .
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               And the people went about, and gathering it, ground it in a mill, or beat it in a mortar, and boiled it in a pot, and made cakes thereof of the taste of bread tempered with oil.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               And when the dew fell in the night upon the camp, the manna also fell with it.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               Now Moses heard the people weeping by their families, every one at the door of his tent. And the wrath of the Lord was exceedingly enkindled: to Moses also the thing seemed insupportable.
+              </p>
+              <p class="note">
+               [7]
+               <u>
+                "Bdellium"
+               </u>
+               : Bdellium, according to Pliny, 1. 21, c. 9. was of the colour of a man's nail, white and bright.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=11-#x">
+                [11]
+               </a>
+               And he said to the Lord: Why hast thou afflicted thy servant? wherefore do I not find favour before thee? and why hast thou laid the weight of all this people upon me?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=12-#x">
+                [12]
+               </a>
+               Have I conceived all this multitude, or begotten them, that thou shouldst say to me: Carry them in thy bosom as the nurse is wont to carry the little infant, and bear them into the land, for which thou hast sworn to their fathers?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=13-#x">
+                [13]
+               </a>
+               Whence should I have flesh to give to so great a multitude? they weep against me, saying: Give us flesh that we may eat.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=14-#x">
+                [14]
+               </a>
+               I am not able alone to bear all this people, because it is too heavy for me.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=15-#x">
+                [15]
+               </a>
+               But if it seem unto thee otherwise, I beseech thee to kill me, and let me find grace in thy eyes, that I be not afflicted with so great evils.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=16-#x">
+                [16]
+               </a>
+               And the Lord said to Moses: Gather unto me
+               <u>
+                seventy men
+               </u>
+               of the ancients of Israel, whom thou knowest to be ancients and masters of the people: and thou shalt bring them to the door of the tabernacle of the covenant, and shalt make them stand there with thee,
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=17-#x">
+                [17]
+               </a>
+               That I may come down and speak with thee: and I will take of thy spirit, and will give to them, that they may bear with thee the burden of the people, and thou mayest not be burthened alone.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=18-#x">
+                [18]
+               </a>
+               And thou shalt say to the people: Be ye sanctified: tomorrow you shall eat flesh: for I have heard you say: Who will give us flesh to eat? it was well with us in Egypt. That the Lord may give you flesh, and you may eat:
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=19-#x">
+                [19]
+               </a>
+               Not for one day, nor two, nor five, nor ten, no nor for twenty.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=20-#x">
+                [20]
+               </a>
+               But even for a month of days, till it come out at your nostrils, and become loathsome to you, because you have cast off the Lord, who is in the midst of you, and have wept before him, saying: Why came we out of Egypt?
+              </p>
+              <p class="note">
+               [16]
+               <u>
+                "Seventy men"
+               </u>
+               : This was the first institution of the council or senate, called the Sanhedrin, consisting of seventy or seventy-two senators or counsellors.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=21-#x">
+                [21]
+               </a>
+               And Moses said: There are six hundred thousand footmen of this people, and sayest thou: I will give them flesh to eat a whole month?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=22-#x">
+                [22]
+               </a>
+               Shall then a multitude of sheep and oxen be killed, that it may suffice for their food? or shall the fishes of the sea be gathered together to fill them?
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=23-#x">
+                [23]
+               </a>
+               And the Lord answered him: Is the hand of the Lord unable? Thou shalt presently see whether my word shall come to pass or no.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=24-#x">
+                [24]
+               </a>
+               Moses therefore came, and told the people the words of the Lord, and assembled seventy men of the ancients of Israel, and made them to stand about the tabernacle.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=25-#x">
+                [25]
+               </a>
+               And the Lord came down in a cloud, and spoke to him, taking away of the spirit that was in Moses, and giving to the seventy men. And when the spirit had rested on them they prophesied, nor did they cease afterwards.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=26-#x">
+                [26]
+               </a>
+               Now there remained in the camp two of the men, of whom one was called Eldad, and the other Medad, upon whom the spirit rested; for they also had been enrolled, but were not gone forth to the tabernacle.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=27-#x">
+                [27]
+               </a>
+               And when they prophesied in the camp, there ran a young man, and told Moses, saying: Eldad and Medad prophesy in the camp.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=28-#x">
+                [28]
+               </a>
+               Forthwith Josue the son of Nun, the minister of Moses, and chosen out of many, said: My lord Moses forbid them.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=29-#x">
+                [29]
+               </a>
+               But he said: Why hast thou emulation for me? O that all the people might prophesy, and that the Lord would give them his spirit!
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=30-#x">
+                [30]
+               </a>
+               And Moses returned, with the ancients of Israel, into the camp.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=31-#x">
+                [31]
+               </a>
+               And a wind going out from the Lord, taking quails up beyond the sea brought them, and cast them into the camp for the space of one day's journey, on every side of the camp round about, and they flew in the air two cubits high above the ground.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=32-#x">
+                [32]
+               </a>
+               The people therefore rising up all that day, and night, and the next day, gathered together of quails, he that did least, ten cores: and they dried them round about the camp.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=33-#x">
+                [33]
+               </a>
+               As yet the flesh was between their teeth, neither had that kind of meat failed: when behold the wrath of the Lord being provoked against the people, struck them with an exceeding great plague.
+               <a href="/x/d?b=drb&amp;bk=4&amp;ch=11&amp;l=34-#x">
+                [34]
+               </a>
+               And that place was called,
+               <u>
+                The graves of lust
+               </u>
+               : for there they buried the people that had lusted. And departing from the graves of lust, they came unto Haseroth, and abode there.
+              </p>
+              <p class="note">
+               [34]
+               <u>
+                "The graves of lust"
+               </u>
+               : Or, the sepulchres of concupiscence: so called from their irregular desire of flesh. In Hebrew, Kibroth. Hattaavah.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="03001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Numbers
+              </td>
+              <td class="next">
+               <a href="05001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="04010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="04012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

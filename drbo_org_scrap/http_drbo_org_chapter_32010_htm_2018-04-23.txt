@@ -1,0 +1,452 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Daniel Chapter 10
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/32010.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/32010.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="31001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Prophecy Of Daniel
+           </td>
+           <td class="next">
+            <a href="33001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="32009.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 10
+           </td>
+           <td class="next">
+            <a href="32011.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="32001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="32002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="32003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="32004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="32005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="32006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="32007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="32008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="32009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             10
+            </td>
+            <td width="30">
+             <a href="32011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="32012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="32013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="32014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Daniel having humbled himself by fasting and penance seeth a vision, with which he is much terrified; but he is comforted by an angel.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=1-#x">
+                [1]
+               </a>
+               In the third year of Cyrus king of the Persians, a word was revealed to Daniel surnamed Baltassar, and a true word, and great strength: and he understood the word: for there is need of understanding in a vision.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=2-#x">
+                [2]
+               </a>
+               In those days I Daniel mourned the days of three weeks.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=3-#x">
+                [3]
+               </a>
+               I ate no desirable bread, and neither flesh, nor wine entered into my mouth, neither was I anointed with ointment: till the days of three weeks were accomplished.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=4-#x">
+                [4]
+               </a>
+               And in the four and twentieth day of the first month I was by the great river which is the Tigris.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=5-#x">
+                [5]
+               </a>
+               And I lifted up my eyes, and I saw: and behold a man clothed in linen, and his loins were girded with the finest gold:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=6-#x">
+                [6]
+               </a>
+               And his body was like the chrysolite, and his face as the appearance of lightning, and his eyes as a burning lamp: and his arms, and all downward even to the feet, like in appearance to glittering brass: and the voice of his word like the voice of a multitude.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=7-#x">
+                [7]
+               </a>
+               And I Daniel alone saw the vision: for the men that were with me saw it not: but an exceeding great terror fell upon them, and they fled away, and hid themselves.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=8-#x">
+                [8]
+               </a>
+               And I being left alone saw this great vision: and there remained no strength in me, and the appearance of my countenance was changed in me, and I fainted away, and retained no strength.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=9-#x">
+                [9]
+               </a>
+               And I heard the voice of his words: and when I heard, I lay in a consternation, upon my face, and my face was close to the ground.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=10-#x">
+                [10]
+               </a>
+               And behold a hand touched me, and lifted me up upon my knees, and upon the joints of my hands.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=11-#x">
+                [11]
+               </a>
+               And he said to me: Daniel, thou man of desires, understand the words that I speak to thee, and stand upright: for I am sent now to thee. And when he had said this word to me, I stood trembling.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=12-#x">
+                [12]
+               </a>
+               And he said to me: Fear not, Daniel: for from the first day that thou didst set thy heart to understand, to afflict thyself in the sight of thy God, thy words have been heard: and I am come for thy words.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=13-#x">
+                [13]
+               </a>
+               But
+               <u>
+                the prince
+               </u>
+               of the kingdom of the Persians resisted me one and twenty days: and behold Michael, one of the chief princes, came to help me, and I remained there by the king of the Persians.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=14-#x">
+                [14]
+               </a>
+               But I am come to teach thee what things shall befall thy people in the latter days, for as yet the vision is for days.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=15-#x">
+                [15]
+               </a>
+               And when he was speaking such words to me, I cast down my countenance to the ground, and held my peace.
+              </p>
+              <p class="note">
+               [13]
+               <u>
+                "The prince"
+               </u>
+               : That is, the angel guardian of Persia: who according to his office, seeking the spiritual good of the Persians was desirous that many of the Jews should remain among them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=16-#x">
+                [16]
+               </a>
+               And behold, as it were the likeness of a son of man touched my lips: then I opened my mouth, and spoke, and said to him that stood before me: O my Lord, at the sight of thee my joints are loosed, and no strength hath remained in me.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=17-#x">
+                [17]
+               </a>
+               And how can the servant of my lord speak with my lord? for no strength remaineth in me, moreover my breath is stopped.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=18-#x">
+                [18]
+               </a>
+               Therefore he that looked like a man touched me again, and strengthened me.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=19-#x">
+                [19]
+               </a>
+               And he said: Fear not, O man of desires, peace be to thee: take courage and be strong. And when he spoke to me, I grew strong: and I said: Speak, O my lord, for thou hast strengthened me.
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=20-#x">
+                [20]
+               </a>
+               And he said: Dost thou know wherefore I am come to thee? and now I will return, to fight against the prince of the Persians. When I went forth, there appeared the prince of the Greeks coming.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=32&amp;ch=10&amp;l=21-#x">
+                [21]
+               </a>
+               But I will tell thee what is set down in the scripture of truth: and none is my helper in all these things, but
+               <u>
+                Michael your prince
+               </u>
+               .
+              </p>
+              <p class="note">
+               [21]
+               <u>
+                "Michael your prince"
+               </u>
+               : The guardian general of the church of God.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="31001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Prophecy Of Daniel
+              </td>
+              <td class="next">
+               <a href="33001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="32009.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 10
+              </td>
+              <td class="next">
+               <a href="32011.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

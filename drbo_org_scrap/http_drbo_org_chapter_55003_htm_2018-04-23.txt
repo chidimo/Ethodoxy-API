@@ -1,0 +1,495 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Galatians Chapter 3
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/55003.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/55003.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="54001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Epistle Of Saint Paul To The Galatians
+           </td>
+           <td class="next">
+            <a href="56001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="55002.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 3
+           </td>
+           <td class="next">
+            <a href="55004.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="55001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="55002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             03
+            </td>
+            <td width="30">
+             <a href="55004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="55005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="55006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Spirit, and the blessing promised to Abraham cometh not by the law, but by faith.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=1-#x">
+                [1]
+               </a>
+               O senseless Galatians, who hath bewitched you that you should not obey the truth, before whose eyes Jesus Christ hath been set forth, crucified among you?
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=2-#x">
+                [2]
+               </a>
+               This only would I learn of you: Did you receive the Spirit by the works of the law, or by the hearing of faith?
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=3-#x">
+                [3]
+               </a>
+               Are you so foolish, that, whereas you began in the Spirit, you would now be made perfect by the flesh?
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=4-#x">
+                [4]
+               </a>
+               Have you suffered so great things in vain? If it be yet in vain.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=5-#x">
+                [5]
+               </a>
+               He therefore who giveth to you the Spirit, and worketh miracles among you; doth he do it by the works of the law, or by the hearing of the faith?
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=6-#x">
+                [6]
+               </a>
+               As it is written: Abraham believed God, and it was reputed to him unto justice.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=7-#x">
+                [7]
+               </a>
+               Know ye therefore, that they who are of faith, the same are the children of Abraham.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=8-#x">
+                [8]
+               </a>
+               And the scripture, foreseeing, that God justifieth the Gentiles by faith, told unto Abraham before: In thee shall all nations be blessed.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=9-#x">
+                [9]
+               </a>
+               Therefore they that are of faith, shall be blessed with faithful Abraham.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=10-#x">
+                [10]
+               </a>
+               For as many as are of the works of the law, are under a curse. For it is written: Cursed is every one, that abideth not in all things, which are written in the book of the law to do them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=11-#x">
+                [11]
+               </a>
+               But that in the law no man is justified with God, it is manifest: because the just man liveth by faith.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=12-#x">
+                [12]
+               </a>
+               But the law is not of faith: but, He that doth those things, shall live in them.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=13-#x">
+                [13]
+               </a>
+               Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written: Cursed is every one that hangeth on a tree:
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=14-#x">
+                [14]
+               </a>
+               That the blessing of Abraham might come on the Gentiles through Christ Jesus: that we may receive the promise of the Spirit by faith.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=15-#x">
+                [15]
+               </a>
+               Brethren (I speak after the manner of man,) yet a man's testament, if it be confirmed, no man despiseth, nor addeth to it.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=16-#x">
+                [16]
+               </a>
+               To Abraham were the promises made and to his seed. He saith not, And to his seeds, as of many: but as of one, And to thy seed, which is Christ.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=17-#x">
+                [17]
+               </a>
+               Now this I say, that the testament which was confirmed by God, the law which was made after four hundred and thirty years, doth not disannul, to make the promise of no effect.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=18-#x">
+                [18]
+               </a>
+               For if the inheritance be of the law, it is no more of promise. But God gave it to Abraham by promise.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=19-#x">
+                [19]
+               </a>
+               Why then was the law? It was set
+               <u>
+                because of transgressions
+               </u>
+               , until the seed should come, to whom he made the promise, being
+               <u>
+                ordained by angels
+               </u>
+               in the hand of a mediator.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=20-#x">
+                [20]
+               </a>
+               Now a mediator is not of one: but God is one.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "Because of transgressions"
+               </u>
+               : To restrain them from sin, by fear and threats.
+              </p>
+              <p class="note">
+               [19]
+               <u>
+                "Ordained by angels"
+               </u>
+               : The law was delivered by angels, speaking in the name and person of God to Moses, who was the mediator, on this occasion, between God and the people.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=21-#x">
+                [21]
+               </a>
+               Was the law then against the promises of God? God forbid. For if there had been a law given which could give life, verily justice should have been by the law.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=22-#x">
+                [22]
+               </a>
+               But the scripture
+               <u>
+                hath concluded all under sin
+               </u>
+               , that the promise, by the faith of Jesus Christ, might be given to them that believe.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=23-#x">
+                [23]
+               </a>
+               But before the faith came, we were kept under the law shut up, unto that faith which was to be revealed.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=24-#x">
+                [24]
+               </a>
+               Wherefore the law was our
+               <u>
+                pedagogue
+               </u>
+               in Christ, that we might be justified by faith.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=25-#x">
+                [25]
+               </a>
+               But after the faith is come, we are no longer under a pedagogue.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Hath concluded all under sin"
+               </u>
+               : that is, hath declared all to be under sin, from which they could not be delivered but by faith in Jesus Christ, the promised seed.
+              </p>
+              <p class="note">
+               [24]
+               <u>
+                "Pedagogue"
+               </u>
+               : That is, schoolmaster, conductor, or instructor.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=26-#x">
+                [26]
+               </a>
+               For you are all the children of God by faith, in Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=27-#x">
+                [27]
+               </a>
+               For as many of you as have been baptized in Christ, have put on Christ.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=28-#x">
+                [28]
+               </a>
+               There is
+               <u>
+                neither Jew
+               </u>
+               nor Greek: there is neither bond nor free: there is neither male nor female. For you are all one in Christ Jesus.
+               <a href="/x/d?b=drb&amp;bk=55&amp;ch=3&amp;l=29-#x">
+                [29]
+               </a>
+               And if you be Christ's, then are you the seed of Abraham, heirs according to the promise.
+              </p>
+              <p class="note">
+               [28]
+               <u>
+                "Neither Jew"
+               </u>
+               : That is, no distinction of Jew, etc.
+              </p>
+              <p>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="54001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Epistle Of Saint Paul To The Galatians
+              </td>
+              <td class="next">
+               <a href="56001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="55002.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 3
+              </td>
+              <td class="next">
+               <a href="55004.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

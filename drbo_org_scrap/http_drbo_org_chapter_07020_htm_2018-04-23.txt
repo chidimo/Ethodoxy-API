@@ -1,0 +1,582 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Judges Chapter 20
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/07020.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/07020.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="06001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Book Of Judges
+           </td>
+           <td class="next">
+            <a href="08001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="07019.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 20
+           </td>
+           <td class="next">
+            <a href="07021.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="07001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="07002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="07003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="07004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="07005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="07006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="07007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="07008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="07009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="07010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="07011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="07012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="07013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="07014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="07015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="07016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="07017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="07018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="07019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             20
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="07021.htm">
+              21
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               The Israelites warring against Benjamin are twice defeated; but in the third battle the Benjamites are all slain, saving six hundred men.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=1-#x">
+                [1]
+               </a>
+               Then all the children of Israel went out and gathered together as one man from Dan to Bersabee, with the land of Galaad, to the Lord in Maspha:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=2-#x">
+                [2]
+               </a>
+               And all the chiefs of the people, and all the tribes of Israel met together in the assembly of the people of God, four hundred thousand footmen fit for war.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=3-#x">
+                [3]
+               </a>
+               (Nor were the children of Benjamin ignorant that the children of Israel were come up to Maspha.) And the Levite the husband of the woman that was killed, being asked, how so great a wickedness had been committed,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=4-#x">
+                [4]
+               </a>
+               Answered: I came into Gabaa of Benjamin with my wife, and there I lodged:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=5-#x">
+                [5]
+               </a>
+               And behold the men of that city in the night beset the house wherein I was, intending to kill me, and abused my wife with an incredible fury of lust, so that at last she died.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=6-#x">
+                [6]
+               </a>
+               And I took her and cut her in pieces, and sent the, parts into all the borders of your possession: because there never was so heinous a crime, and so great an abomination committed in Israel.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=7-#x">
+                [7]
+               </a>
+               You are all here, O children of Israel, determine what you ought to do.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=8-#x">
+                [8]
+               </a>
+               And all the people standing, answered as by the voice of one man: We will not return to our tents, neither shall any one of us go into his own house:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=9-#x">
+                [9]
+               </a>
+               But this we will do in common against Gabaa:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=10-#x">
+                [10]
+               </a>
+               We will take ten men of a hundred out of all the tribes of Israel, and a hundred out of a thousand, and a thousand out of ten thousand, to bring victuals for the army, that we might fight against Gabaa of Benjamin, and render to it for its wickedness, what it deserveth.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=11-#x">
+                [11]
+               </a>
+               And all Israel were gathered together against the city, as one man, with one mind, and one counsel:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=12-#x">
+                [12]
+               </a>
+               And they sent messengers to all the tribe of Benjamin to say to them: Why hath so great an abomination been found among you?
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=13-#x">
+                [13]
+               </a>
+               Deliver up the men of Gabaa, that have committed this heinous crime, that they may die, and the evil may be taken away out of Israel. But they would not hearken to the proposition of their brethren the children of Israel:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=14-#x">
+                [14]
+               </a>
+               But out of all the cities which were of their lot, they gathered themselves together into Gabaa, to aid them, and to fight against the whole people of Israel.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=15-#x">
+                [15]
+               </a>
+               And there were found of Benjamin five and twenty thousand men that drew the sword, besides the inhabitants of Gabaa,
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=16-#x">
+                [16]
+               </a>
+               Who were seven hundred most valiant men, fighting with the left hand as well as with the right: and slinging stones so sure that they could hit even a hair, and not miss by the stone's going on either side.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=17-#x">
+                [17]
+               </a>
+               Of the men of Israel also, beside the children of Benjamin, were found four hundred thousand that drew swords, and were prepared to fight.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=18-#x">
+                [18]
+               </a>
+               And they arose and came to the house of God, that is, to Silo: and they consulted God, and said: Who shall be in our army the first to go to the battle against the children of Benjamin? And the Lord answered them: Let Juda be your leader.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=19-#x">
+                [19]
+               </a>
+               And forthwith the children of Israel rising in the morning, camped by Gabaa:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=20-#x">
+                [20]
+               </a>
+               And going out from thence to fight against Benjamin, began to assault the city.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=21-#x">
+                [21]
+               </a>
+               And the children of Benjamin coming out of Gabaa, slew of the children of Israel that day two and twenty thousand men.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=22-#x">
+                [22]
+               </a>
+               Again Israel
+               <u>
+                trusting in their strength
+               </u>
+               and their number, set their army in array in the same place, where they had fought before:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=23-#x">
+                [23]
+               </a>
+               Yet so that they first went up and wept before the Lord until night: and consulted him, and said: Shall I go out any more to fight against the children of Benjamin my brethren, or not? And he answered them: Go up against them, and join battle.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=24-#x">
+                [24]
+               </a>
+               And when the children of Israel went out the next day to fight against the children of Benjamin,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=25-#x">
+                [25]
+               </a>
+               The children of Benjamin sallied forth out of the gates of Gabaa: and meeting them made so great a slaughter of them, as to kill eighteen thousand men that drew the sword.
+              </p>
+              <p class="note">
+               [22]
+               <u>
+                "Trusting in their strength"
+               </u>
+               : The Lord suffered them to be overthrown and many of them to be slain, though their cause was just; partly in punishment of the idolatry which they exercised or tolerated in the tribe of Dan, and elsewhere; and partly because they trusted in their own strength; and therefore, though he bid them fight, he would not give them the victory, till they were thoroughly humbled and had learned to trust in him alone.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=26-#x">
+                [26]
+               </a>
+               Wherefore all the children of Israel came to the house of God, and sat and wept before the Lord: and they fasted that day till the evening, and offered to him holocausts, and victims of peace offerings,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=27-#x">
+                [27]
+               </a>
+               And inquired of him concerning their state. At that time the ark of the covenant of the Lord was there,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=28-#x">
+                [28]
+               </a>
+               And Phinees the son of Eleazar the son of Aaron was over the house. So they consulted the Lord and said: Shall we go out any more to fight against the children of Benjamin our brethren, or shall we cease? And the Lord said to them: Go up, for tomorrow I will deliver them into your hands.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=29-#x">
+                [29]
+               </a>
+               And the children of Israel set ambushes round about the city of Gabaa:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=30-#x">
+                [30]
+               </a>
+               And they drew up their army against Benjamin the third time, as they had done the first and second.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=31-#x">
+                [31]
+               </a>
+               And the children of Benjamin boldly issued out of the city, and seeing their enemies flee, pursued them a long way, so as to wound and kill some of them, as they had done the first and second day, whilst they fled by two highways, whereof one goeth up to Bethel, and the other to Gabaa, and they slew about thirty men:
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=32-#x">
+                [32]
+               </a>
+               For they thought to cut them off, as they did before. But they artfully feigning a flight, designed to draw them away from the city, and by their seeming to flee to bring them to the highways aforesaid.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=33-#x">
+                [33]
+               </a>
+               Then all the children of Israel rising up out of the places where they were, set their army in battle array, in the place which is called Baalthamar. The ambushes also which were about the city, began by little and little to come forth,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=34-#x">
+                [34]
+               </a>
+               And to march from the west side of the city. And other ten thousand men chosen out of all Israel attacked the inhabitants of the city. And the battle grew hot against the children of Benjamin: and they understood not that present death threatened them on every side.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=35-#x">
+                [35]
+               </a>
+               And the Lord defeated them before the children of Israel, and they slew of them in that day five and twenty thousand, and one hundred, all fighting men and that drew the sword.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=36-#x">
+                [36]
+               </a>
+               But the children of Benjamin when they saw themselves to be too weak, began to flee. Which the children of Israel seeing, gave them place to flee, that they might come to the ambushes that were prepared, which they had set near the city.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=37-#x">
+                [37]
+               </a>
+               And they that were in ambush arose on a sudden out of their coverts, and whilst Benjamin turned their backs to the slayers, went into the city, and smote it with the edge of the sword.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=38-#x">
+                [38]
+               </a>
+               Now the children of Israel had given a sign to them, whom they had laid in ambushes, that after they had taken the city, they should make a fire: that by the smoke rising on high, they might shew that the city was taken.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=39-#x">
+                [39]
+               </a>
+               And when the children of Israel saw this in the battle (for the children of Benjamin thought they fled and pursued them vigorously, killing thirty men of their army)
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=40-#x">
+                [40]
+               </a>
+               And perceived as it were a pillar of smoke rise up from the city; and Benjamin looking back, saw that the city was taken, and that the flames ascended on high:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=41-#x">
+                [41]
+               </a>
+               They that before had made as if they fled, turning their faces stood bravely against them; which the children of Benjamin seeing, turned their backs,
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=42-#x">
+                [42]
+               </a>
+               And began to go towards the way of the desert, the enemy pursuing them thither also. And they that fired the city came also out to meet them.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=43-#x">
+                [43]
+               </a>
+               And so it was, that they were slain on both sides by the enemies, and there was no rest of their men dying. They fell and were beaten down on the east side of the city Gabaa.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=44-#x">
+                [44]
+               </a>
+               And they that were slain in the same place were eighteen thousand men, all most valiant soldiers.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=45-#x">
+                [45]
+               </a>
+               And when they that remained of Benjamin saw this, they fled into the wilderness and made towards the rock that is called Remmon. In that flight, also as they were straggling and going different ways, they slew of them five thousand men. And as they went farther, they still pursued them, and slew also other two thousand.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=46-#x">
+                [46]
+               </a>
+               And so it came to pass, that all that were slain of Benjamin in divers places, were five and twenty thousand fighting men, most valiant for war.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=47-#x">
+                [47]
+               </a>
+               And there remained of all the number of Benjamin only six hundred men that were able to escape, and flee to the wilderness: and they abode in the rock Remmon four months.
+               <a href="/x/d?b=drb&amp;bk=7&amp;ch=20&amp;l=48-#x">
+                [48]
+               </a>
+               But the children of Israel returning, put all the remains of the city to the sword, both men and beasts, and all the cities and villages of Benjamin were consumed with devouring flames.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="06001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Book Of Judges
+              </td>
+              <td class="next">
+               <a href="08001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="07019.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 20
+              </td>
+              <td class="next">
+               <a href="07021.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

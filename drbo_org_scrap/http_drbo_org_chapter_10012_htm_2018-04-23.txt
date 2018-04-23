@@ -1,0 +1,545 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Kings (2 Samuel) Chapter 12
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/10012.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/10012.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="09001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Book Of Kings (2 Samuel)
+           </td>
+           <td class="next">
+            <a href="11001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="10011.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 12
+           </td>
+           <td class="next">
+            <a href="10013.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="10001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="10002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="10003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="10004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="10005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="10006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="10007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="10008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="10009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="10010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="10011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             12
+            </td>
+            <td width="30">
+             <a href="10013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="10014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="10015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="10016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="10017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="10018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="10019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="10020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="10021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="10022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="10023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="10024.htm">
+              24
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Nathan's parable. David confesseth his sin, and is forgiven: yet so as to be sentenced to most severe temporal punishments. The death of the child. The birth of Solomon. The taking of Rabbath.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=1-#x">
+                [1]
+               </a>
+               And the Lord sent Nathan to David: and when he was come to him, he said to him: There were two men in one city, the one rich, and the other poor.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=2-#x">
+                [2]
+               </a>
+               The rich man had exceeding many sheep and oxen.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=3-#x">
+                [3]
+               </a>
+               But the poor man had nothing at all but one little ewe lamb, which he had bought and nourished up, and which had grown up in his house together with his children, eating of his bread, and drinking of his cup, and sleeping in his bosom: and it was unto him as a daughter.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=4-#x">
+                [4]
+               </a>
+               And when a certain stranger was come to the rich man, he spared to take of his own sheep and oxen, to make a feast for that stranger, who was come to him, but took the poor man's ewe, and dressed it for the man that was come to him.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=5-#x">
+                [5]
+               </a>
+               And David's anger being exceedingly kindled against that man, he said to Nathan: As the Lord liveth, the man that hath done this is a child of death.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=6-#x">
+                [6]
+               </a>
+               He shall restore the ewe fourfold, because he did this thing, and had no pity.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=7-#x">
+                [7]
+               </a>
+               And Nathan said to David: Thou art the man. Thus saith the Lord the God of Israel: I anointed thee king over Israel, and I delivered thee from the hand of Saul,
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=8-#x">
+                [8]
+               </a>
+               And gave thee thy master's house and thy master's wives into thy bosom, and gave thee the house of Israel and Juda: and if these things be little, I shall add far greater things unto thee.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=9-#x">
+                [9]
+               </a>
+               Why therefore hast thou despised the word of the Lord, to do evil in my sight? Thou hast killed Urias the Hethite with the sword, and hast taken his wife to be thy wife, and hast slain him with the sword of the children of Ammon.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=10-#x">
+                [10]
+               </a>
+               Therefore the sword shall never depart from thy house, because thou hast despised me, and hast taken the wife of Urias the Hethite to be thy wife.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=11-#x">
+                [11]
+               </a>
+               Thus saith the Lord: Behold,
+               <u>
+                I will raise
+               </u>
+               up evil against thee out of thy own house, and I will take thy wives before thy eyes I and give them to thy neighhour, and he shall lie with thy wives in the sight of this sun.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=12-#x">
+                [12]
+               </a>
+               For thou didst it secretly: but I will do this thing in the sight of all Israel, and in the sight of the sun.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=13-#x">
+                [13]
+               </a>
+               And David said to Nathan: I have sinned against the Lord. And Nathan said to David: The Lord also hath taken away thy sin: thou shalt not die.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=14-#x">
+                [14]
+               </a>
+               Nevertheless, because thou hast given occasion to the enemies of the Lord to blaspheme, for this thing, the child that is born to thee, shall surely die.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=15-#x">
+                [15]
+               </a>
+               And Nathan returned to his house. The Lord also struck the child which the wife of Urias had borne to David, and his life was despaired of.
+              </p>
+              <p class="note">
+               [11]
+               <u>
+                "I will raise"
+               </u>
+               : All these evils, inasmuch as they were punishments, came upon David by a just judgment of God, for his sin, and therefore God says, I will raise, etc.; but inasmuch as they were sins, on the part of Absalom and his associates, God was not the author of them, but only permitted them.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=16-#x">
+                [16]
+               </a>
+               And David besought the Lord for the child: and David kept a fast, and going in by himself lay upon the ground.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=17-#x">
+                [17]
+               </a>
+               And the ancients of his house came, to make him rise from the ground: but he would not, neither did he eat meat with them.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=18-#x">
+                [18]
+               </a>
+               And it came to pass on the seventh day that the child died: and the servants of David feared to tell him, that the child was dead. For they said: Behold when the child was yet alive, we spoke to him, and he would not hearken to our voice: how much more will he afflict himself if we tell him that the child is dead?
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=19-#x">
+                [19]
+               </a>
+               But when David saw his servants whispering, he understood that the child was dead: and he said to his servants: Is the child dead? They answered him: He is dead.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=20-#x">
+                [20]
+               </a>
+               Then David arose from the ground, and washed and anointed himself: and when he had changed his apparel, he went into the house of the Lord: and worshipped, and then he came into his own house, and he called for bread, and ate.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=21-#x">
+                [21]
+               </a>
+               And his servants said to him: What thing is this that thou hast done? thou didst fast and weep for the child, while it was alive, but when the child was dead, thou didst rise up, and eat bread.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=22-#x">
+                [22]
+               </a>
+               And he said: While the child was yet alive, I fasted and wept for him: for I said: Who knoweth whether the Lord may not give him to me, and the child may live?
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=23-#x">
+                [23]
+               </a>
+               But now that he is dead, why should I fast? Shall I be able to bring him back any more? I shall go to him rather: but he shall not return to me.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=24-#x">
+                [24]
+               </a>
+               And David comforted Bethsabee his wife, and went in unto her, and slept with her: and she bore a son, and he called his name Solomon, and the Lord loved him.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=25-#x">
+                [25]
+               </a>
+               And he sent by the hand of Nathan the prophet, and called his name,
+               <u>
+                Amiable to the Lord
+               </u>
+               , because the Lord loved him.
+              </p>
+              <p class="note">
+               [25]
+               <u>
+                "Amiable to the Lord"
+               </u>
+               : Or, beloved of the Lord. In Hebrew, Jedidiah.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=26-#x">
+                [26]
+               </a>
+               And Joab fought against Rabbath of the children of Ammon, and laid close siege to the royal city.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=27-#x">
+                [27]
+               </a>
+               And Joab sent messengers to David, saying: I have fought against Rabbath, and
+               <u>
+                the city of waters
+               </u>
+               is about to be taken.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=28-#x">
+                [28]
+               </a>
+               Now therefore gather thou the rest of the people together, and besiege the city and take it: lest when the city shall be wasted by me, the victory be ascribed to my name.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=29-#x">
+                [29]
+               </a>
+               Then David gathered all the people together, and went out against Rabbath: and after fighting, he took it.
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=30-#x">
+                [30]
+               </a>
+               And he took the crown of their king from his head, the weight of which was a talent of gold, set with most precious stones, and it was put upon David's head, and the spoils of the city which were very great he carried away.
+              </p>
+              <p class="note">
+               [27]
+               <u>
+                "The city of waters"
+               </u>
+               : Rabbath the royal city of the Ammonites, was called the city of waters, from being encompassed with waters.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=10&amp;ch=12&amp;l=31-#x">
+                [31]
+               </a>
+               And bringing forth the people thereof he sawed them, and drove over them chariots armed with iron: and divided them with knives, and made them pass through brickkilns: so did he to all the cities of the children of Ammon: and David returned, with all the army to Jerusalem.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="09001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Book Of Kings (2 Samuel)
+              </td>
+              <td class="next">
+               <a href="11001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="10011.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 12
+              </td>
+              <td class="next">
+               <a href="10013.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

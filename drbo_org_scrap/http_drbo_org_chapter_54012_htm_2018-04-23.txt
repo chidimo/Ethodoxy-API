@@ -1,0 +1,436 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Corinthians Chapter 12
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/54012.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/54012.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="53001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Second Epistle Of Saint Paul To The Corinthians
+           </td>
+           <td class="next">
+            <a href="55001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="54011.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 12
+           </td>
+           <td class="next">
+            <a href="54013.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="54001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="54002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="54003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="54004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="54005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="54006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="54007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="54008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="54009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="54010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="54011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             12
+            </td>
+            <td width="30">
+             <a href="54013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               His raptures and revelations, His being buffeted by Satan. His fear for the Corinthians.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=1-#x">
+                [1]
+               </a>
+               If I must glory (it is not expedient indeed), but I will come to visions and revelations of the Lord.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=2-#x">
+                [2]
+               </a>
+               I know a man in Christ above fourteen years ago (whether in the body, I know not, or out of the body, I know not; God knoweth), such a one caught up to the third heaven.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=3-#x">
+                [3]
+               </a>
+               And I know such a man (whether in the body, or out of the body, I know not: God knoweth),
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=4-#x">
+                [4]
+               </a>
+               That he was caught up into paradise, and heard secret words, which it is not granted to man to utter.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=5-#x">
+                [5]
+               </a>
+               For such an one I will glory; but for myself I will glory nothing, but in my infirmities.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=6-#x">
+                [6]
+               </a>
+               For though I should have a mind to glory, I shall not be foolish; for I will say the truth. But I forbear, lest any man should think of me above that which he seeth in me, or any thing he heareth from me.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=7-#x">
+                [7]
+               </a>
+               And lest the greatness of the revelations should exalt me, there was given me a sting of my flesh, an angel of Satan, to buffet me.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=8-#x">
+                [8]
+               </a>
+               For which thing thrice I besought the Lord, that it might depart from me.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=9-#x">
+                [9]
+               </a>
+               And he said to me: My grace is sufficient for thee; for
+               <u>
+                power is made perfect
+               </u>
+               in infirmity. Gladly therefore will I glory in my infirmities, that the power of Christ may dwell in me.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=10-#x">
+                [10]
+               </a>
+               For which cause I please myself in my infirmities, in reproaches, in necessities, in persecutions, in distresses, for Christ. For when I am weak, then am I powerful.
+              </p>
+              <p class="note">
+               [9]
+               <u>
+                "Power is made perfect"
+               </u>
+               : The strength and power of God more perfectly shines forth in our weakness and infirmity; as the more weak we are of ourselves, the more illustrious is his grace in supporting us, and giving us the victory under all trials and conflicts.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=11-#x">
+                [11]
+               </a>
+               I am become foolish: you have compelled me. For I ought to have been commended by you: for I have no way come short of them that are above measure apostles, although I be nothing.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=12-#x">
+                [12]
+               </a>
+               Yet the signs of my apostleship have been wrought on you, in all patience, in signs, and wonders, and mighty deeds.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=13-#x">
+                [13]
+               </a>
+               For what is there that you have had less than the other churches, but that I myself was not burthensome to you? Pardon me this injury.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=14-#x">
+                [14]
+               </a>
+               Behold now the third time I am ready to come to you; and I will not be burthensome unto you. For I seek not the things that are yours, but you. For neither ought the children to lay up for the parents, but the parents for the children.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=15-#x">
+                [15]
+               </a>
+               But I most gladly will spend and be spent myself for your souls; although loving you more, I be loved less.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=16-#x">
+                [16]
+               </a>
+               But be it so: I did not burthen you: but being crafty, I caught you by guile.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=17-#x">
+                [17]
+               </a>
+               Did I overreach you by any of them whom I sent to you?
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=18-#x">
+                [18]
+               </a>
+               I desired Titus, and I sent with him a brother. Did Titus overreach you? Did we not walk with the same spirit? did we not in the same steps?
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=19-#x">
+                [19]
+               </a>
+               Of old, think you that we excuse ourselves to you? We speak before God in Christ; but all things, my dearly beloved, for your edification.
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=20-#x">
+                [20]
+               </a>
+               For I fear lest perhaps when I come I shall not find you such as I would, and that I shall be found by you such as you would not. Lest perhaps contentions, envyings, animosities, dissensions, detractions, whisperings, swellings, seditions, be among you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=54&amp;ch=12&amp;l=21-#x">
+                [21]
+               </a>
+               Lest again, when I come, God humble me among you: and I mourn many of them that sinned before, and have not done penance for the uncleanness, and fornication, and lasciviousness, that they have committed.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="53001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Second Epistle Of Saint Paul To The Corinthians
+              </td>
+              <td class="next">
+               <a href="55001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="54011.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 12
+              </td>
+              <td class="next">
+               <a href="54013.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

@@ -1,0 +1,536 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, 2 Paralipomenon (2 Chronicles) Chapter 11
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/14011.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/14011.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="13001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            2 Paralipomenon (2 Chronicles)
+           </td>
+           <td class="next">
+            <a href="15001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="14010.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 11
+           </td>
+           <td class="next">
+            <a href="14012.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="14001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="14002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="14003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="14004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="14005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="14006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="14007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="14008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="14009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="14010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             11
+            </td>
+            <td width="30">
+             <a href="14012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             <a href="14013.htm">
+              13
+             </a>
+            </td>
+            <td width="30">
+             <a href="14014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="14015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="14016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+             <a href="14017.htm">
+              17
+             </a>
+            </td>
+            <td width="30">
+             <a href="14018.htm">
+              18
+             </a>
+            </td>
+            <td width="30">
+             <a href="14019.htm">
+              19
+             </a>
+            </td>
+            <td width="30">
+             <a href="14020.htm">
+              20
+             </a>
+            </td>
+           </tr>
+           <tr height="25">
+            <td width="30">
+             <a href="14021.htm">
+              21
+             </a>
+            </td>
+            <td width="30">
+             <a href="14022.htm">
+              22
+             </a>
+            </td>
+            <td width="30">
+             <a href="14023.htm">
+              23
+             </a>
+            </td>
+            <td width="30">
+             <a href="14024.htm">
+              24
+             </a>
+            </td>
+            <td width="30">
+             <a href="14025.htm">
+              25
+             </a>
+            </td>
+            <td width="30">
+             <a href="14026.htm">
+              26
+             </a>
+            </td>
+            <td width="30">
+             <a href="14027.htm">
+              27
+             </a>
+            </td>
+            <td width="30">
+             <a href="14028.htm">
+              28
+             </a>
+            </td>
+            <td width="30">
+             <a href="14029.htm">
+              29
+             </a>
+            </td>
+            <td width="30">
+             <a href="14030.htm">
+              30
+             </a>
+            </td>
+            <td width="30">
+             <a href="14031.htm">
+              31
+             </a>
+            </td>
+            <td width="30">
+             <a href="14032.htm">
+              32
+             </a>
+            </td>
+            <td width="30">
+             <a href="14033.htm">
+              33
+             </a>
+            </td>
+            <td width="30">
+             <a href="14034.htm">
+              34
+             </a>
+            </td>
+            <td width="30">
+             <a href="14035.htm">
+              35
+             </a>
+            </td>
+            <td width="30">
+             <a href="14036.htm">
+              36
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Roboam's reign. His kingdom is strengthened.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=1-#x">
+                [1]
+               </a>
+               And Roboam came to Jerusalem, and called together all the house of Juda and of Benjamin, a hundred and fourscore thousand chosen men and warriors, to fight against Israel, and to bring back his kingdom to him.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=2-#x">
+                [2]
+               </a>
+               And the word of the Lord came to Semeias the man of God, saying:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=3-#x">
+                [3]
+               </a>
+               Speak to Roboam the son of Solomon the king of Juda, and to all Israel, in Juda and Benjamin:
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=4-#x">
+                [4]
+               </a>
+               Thus saith the Lord: You shall not go up, nor fight against your brethren: let every man return to his own house, for by my will this thing has been done. And when they heard the word of the Lord, they returned, and did not go against Jeroboam,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=5-#x">
+                [5]
+               </a>
+               And Roboam dwelt in Jerusalem, and built walled cities in Juda.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=6-#x">
+                [6]
+               </a>
+               And he built Bethlehem, and Etam, and Thecue,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=7-#x">
+                [7]
+               </a>
+               And Bethsur, and Socho, and Odollam,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=8-#x">
+                [8]
+               </a>
+               And Geth, and Maresa, and Ziph,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=9-#x">
+                [9]
+               </a>
+               And Aduram, and Lachis, and Azecha,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=10-#x">
+                [10]
+               </a>
+               Saraa also, and Aialon, and Hebron, which are in Juda and Benjamin, well fenced cities.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=11-#x">
+                [11]
+               </a>
+               And when he had enclosed them with walls, he put in them governors and storehouses of provisions, that is, of oil and of wine.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=12-#x">
+                [12]
+               </a>
+               Moreover in every city he made an armoury of shields and spears, and he fortified them with great diligence, and he reigned over Juda, and Benjamin,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=13-#x">
+                [13]
+               </a>
+               And the priests and Levites, that were in all Israel, came to him out of all their seats,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=14-#x">
+                [14]
+               </a>
+               Leaving their suburbs, and their possessions, and passing over to Juda, and Jerusalem, because Jeroboam and his sons had cast them off, from executing the priestly office to the Lord.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=15-#x">
+                [15]
+               </a>
+               And he made to himself priests for the high places, and for the devils, and for the calves which he had made.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=16-#x">
+                [16]
+               </a>
+               Moreover out of all the tribes of Israel, whosoever gave their heart to seek the Lord the God of Israel, came into Jerusalem to sacrifice their victims before the Lord the God of their fathers.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=17-#x">
+                [17]
+               </a>
+               And they strengthened the kingdom of Juda, and established Roboam the son of Solomon for three years: for they walked in the ways of David and of Solomon, only three years.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=18-#x">
+                [18]
+               </a>
+               And Roboam took to wife Mahalath, the daughter of Jerimoth the son of David: and Abihail the daughter of Eliab the son of Isai.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=19-#x">
+                [19]
+               </a>
+               And they bore him sons Jehus, and Somorias, and Zoom.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=20-#x">
+                [20]
+               </a>
+               And after her he married Maacha the daughter of Absalom, who bore him Abia and Ethai, and Ziza, and Salomith.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=21-#x">
+                [21]
+               </a>
+               And Roboam loved Maacha the daughter of Absalom above all his wives, and concubines: for he had married eighteen wives, and threescore concubines: and he beget eight and twenty sons, and threescore daughters.
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=22-#x">
+                [22]
+               </a>
+               But he put at the head of them Abia the son of Maacha to be the chief ruler over all his brethren: for he meant to make him king,
+               <a href="/x/d?b=drb&amp;bk=14&amp;ch=11&amp;l=23-#x">
+                [23]
+               </a>
+               Because he was wiser and mightier than all his sons, and in all the countries of Juda, and of Benjamin, and in all the walled cities: and he gave them provisions in abundance, and he sought many wives.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="13001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               2 Paralipomenon (2 Chronicles)
+              </td>
+              <td class="next">
+               <a href="15001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="14010.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 11
+              </td>
+              <td class="next">
+               <a href="14012.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

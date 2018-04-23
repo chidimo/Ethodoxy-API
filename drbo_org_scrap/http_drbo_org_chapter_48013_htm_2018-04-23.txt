@@ -1,0 +1,515 @@
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->
+<html>
+ <head>
+  <title>
+   Douay-Rheims Catholic Bible, Mark Chapter 13
+  </title>
+  <meta content="Catholic Bible Study Online, Douay-Rheims Version. 
+ Complete text, index, search, Bible verse, 
+ bible story, scripture, book, prophesy, christian ..." name="description"/>
+  <meta content="bible, study, online, verse, holy, gateway, search, 
+ commentary, quote, code, story, catholic, 
+ scripture, book, prophesy, software, douay, rheims, version, 
+ christian, word, God, Jesus Christ, mother Mary, church." name="keywords"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="14 days" name="revisit-after"/>
+  <link href="../style.css" rel="stylesheet" type="text/css"/>
+  <script src="../code.js">
+  </script>
+ </head>
+ <body class="background" leftmargin="0" rightmargin="0" topmargin="0">
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="topcenter">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="drbobox1">
+          <font class="toplink">
+           <a href="../index.htm">
+            DRBO.ORG
+           </a>
+          </font>
+          <font class="toplink">
+           <a href="http://summa-theologica.org">
+            Summa-Theologica.ORG
+           </a>
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="topphoto">
+       <tbody>
+        <tr>
+         <td>
+          <a href="../index.htm">
+           <img border="0" class="imglink" src="../img/DRBO.ORG.jpg" title="book list"/>
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toplinks">
+       <tbody>
+        <tr>
+         <td class="topmenubox">
+          <font class="topmenu">
+           Douay-Rheims
+          </font>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../drl/chapter/48013.htm">
+           DR + LV
+          </a>
+         </td>
+         <td class="topmenubox">
+          <a class="topmenu" href="../lvb/chapter/48013.htm">
+           Latin Vulgate
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="maincol">
+      <table align="left" border="0" cellpadding="0" cellspacing="0" class="toptable">
+       <tbody>
+        <tr>
+         <td class="titlebox">
+          <font class="title">
+           Douay-Rheims Bible + Challoner Notes
+          </font>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <center>
+       <table align="left" border="0" cellpadding="0" cellspacing="0" class="searchtable">
+        <tbody>
+         <tr>
+          <td valign="top">
+           <form action="/cgi-bin/s" border="0" class="search" method="get" name="sf">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td class="searchbox">
+                <input class="query" maxlength="120" name="q" size="70" type="text" value=""/>
+                <input class="button" type="submit" value="Search"/>
+                <input name="b" type="hidden" value="drb"/>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </form>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <center>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+         <tbody>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="47001.htm">
+             previous
+            </a>
+           </td>
+           <td class="bookname">
+            Gospel According to Saint Mark
+           </td>
+           <td class="next">
+            <a href="49001.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+          <tr>
+           <td class="prev">
+            &lt;
+            <a href="48012.htm">
+             previous
+            </a>
+           </td>
+           <td class="chapname">
+            Chapter 13
+           </td>
+           <td class="next">
+            <a href="48014.htm">
+             next
+            </a>
+            &gt;
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <center>
+         <table align="left" border="0" cellpadding="0" cellspacing="0" class="chapnumtable">
+          <tbody>
+           <tr height="25">
+            <td width="30">
+             <a href="48001.htm">
+              01
+             </a>
+            </td>
+            <td width="30">
+             <a href="48002.htm">
+              02
+             </a>
+            </td>
+            <td width="30">
+             <a href="48003.htm">
+              03
+             </a>
+            </td>
+            <td width="30">
+             <a href="48004.htm">
+              04
+             </a>
+            </td>
+            <td width="30">
+             <a href="48005.htm">
+              05
+             </a>
+            </td>
+            <td width="30">
+             <a href="48006.htm">
+              06
+             </a>
+            </td>
+            <td width="30">
+             <a href="48007.htm">
+              07
+             </a>
+            </td>
+            <td width="30">
+             <a href="48008.htm">
+              08
+             </a>
+            </td>
+            <td width="30">
+             <a href="48009.htm">
+              09
+             </a>
+            </td>
+            <td width="30">
+             <a href="48010.htm">
+              10
+             </a>
+            </td>
+            <td width="30">
+             <a href="48011.htm">
+              11
+             </a>
+            </td>
+            <td width="30">
+             <a href="48012.htm">
+              12
+             </a>
+            </td>
+            <td width="30">
+             13
+            </td>
+            <td width="30">
+             <a href="48014.htm">
+              14
+             </a>
+            </td>
+            <td width="30">
+             <a href="48015.htm">
+              15
+             </a>
+            </td>
+            <td width="30">
+             <a href="48016.htm">
+              16
+             </a>
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+            <td width="30">
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <center>
+          <table align="left" border="0" cellpadding="0" cellspacing="0" class="texttable">
+           <tbody>
+            <tr>
+             <td class="textarea" valign="top">
+              <p class="desc">
+               Christ foretells the destruction of the temple and the signs that shall forerun the day of judgment.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=1-#x">
+                [1]
+               </a>
+               And as he was going out of the temple, one of his disciples said to him: Master, behold what manner of stones and what buildings are here.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=2-#x">
+                [2]
+               </a>
+               And Jesus answering, said to him: Seest thou all these great buildings? There shall not be left a stone upon a stone, that shall not be thrown down.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=3-#x">
+                [3]
+               </a>
+               And as he sat on the mount of Olivet over against the temple, Peter and James and John and Andrew asked him apart:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=4-#x">
+                [4]
+               </a>
+               Tell us, when shall these things be? and what shall be the sign when all these things shall begin to be fulfilled?
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=5-#x">
+                [5]
+               </a>
+               And Jesus answering, began to say to them, Take heed lest any man deceive you.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=6-#x">
+                [6]
+               </a>
+               For many shall come in my name, saying, I am he; and they shall deceive many.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=7-#x">
+                [7]
+               </a>
+               And when you shall hear of wars and rumours of wars, fear ye not. For such things must needs be, but the end is not yet.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=8-#x">
+                [8]
+               </a>
+               For nation shall rise against nation and kingdom against kingdom, and there shall be earthquakes in divers places, and famines. These things are the beginning of sorrows.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=9-#x">
+                [9]
+               </a>
+               But look to yourselves. For they shall deliver you up to councils, and in the synagogues you shall be beaten, and you shall stand before governors and kings for my sake, for a testimony unto them.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=10-#x">
+                [10]
+               </a>
+               And unto all nations the gospel must first be preached.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=11-#x">
+                [11]
+               </a>
+               And when they shall lead you and deliver you up, be not thoughtful beforehand what you shall speak; but whatsoever shall be given you in that hour, that speak ye. For it is not you that speak, but the Holy Ghost.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=12-#x">
+                [12]
+               </a>
+               And the brother shall betray his brother unto death, and the father his son; and children shall rise up against the parents, and shall work their death.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=13-#x">
+                [13]
+               </a>
+               And you shall be hated by all men for my name's sake. But he that shall endure unto the end, he shall be saved.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=14-#x">
+                [14]
+               </a>
+               And when you shall see the abomination of desolation, standing where it ought not: he that readeth let him understand: then let them that are in Judea, flee unto the mountains:
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=15-#x">
+                [15]
+               </a>
+               And let him that is on the housetop, not go down into the house, nor enter therein to take any thing out of the house:
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=16-#x">
+                [16]
+               </a>
+               And let him that shall be in the field, not turn back to take up his garment.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=17-#x">
+                [17]
+               </a>
+               And woe to them that are with child, and that give suck in those days.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=18-#x">
+                [18]
+               </a>
+               But pray ye, that these things happen not in winter.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=19-#x">
+                [19]
+               </a>
+               For in those days shall be such tribulations, as were not from the beginning of the creation which God created until now, neither shall be.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=20-#x">
+                [20]
+               </a>
+               And unless the Lord had shortened the days, no flesh should be saved: but for the sake of the elect which he hath chosen, he hath shortened the days.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=21-#x">
+                [21]
+               </a>
+               And then if any man shall say to you, Lo, here is Christ; lo, he is here: do not believe.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=22-#x">
+                [22]
+               </a>
+               For there will rise up false Christs and false prophets, and they shall shew signs and wonders, to seduce (if it were possible) even the elect.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=23-#x">
+                [23]
+               </a>
+               Take you heed therefore; behold I have foretold you all things.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=24-#x">
+                [24]
+               </a>
+               But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=25-#x">
+                [25]
+               </a>
+               And the stars of heaven shall be falling down, and the powers that are in heaven, shall be moved.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=26-#x">
+                [26]
+               </a>
+               And then shall they see the Son of man coming in the clouds, with great power and glory.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=27-#x">
+                [27]
+               </a>
+               And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=28-#x">
+                [28]
+               </a>
+               Now of the fig tree learn ye a parable. When the branch thereof is now tender, and the leaves are come forth, you know that summer is very near.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=29-#x">
+                [29]
+               </a>
+               So you also when you shall see these things come to pass, know ye that it is very nigh, even at the doors.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=30-#x">
+                [30]
+               </a>
+               Amen I say to you, that this generation shall not pass, until all these things be done.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=31-#x">
+                [31]
+               </a>
+               Heaven and earth shall pass away, but my word shall not pass away.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=32-#x">
+                [32]
+               </a>
+               But of that day or hour no man knoweth, neither the angels in heaven,
+               <u>
+                nor the Son
+               </u>
+               , but the Father.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=33-#x">
+                [33]
+               </a>
+               Take ye heed, watch and pray. For ye know not when the time is.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=34-#x">
+                [34]
+               </a>
+               Even as a man who going into a far country, left his house; and gave authority to his servants over every work, and commanded the porter to watch.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=35-#x">
+                [35]
+               </a>
+               Watch ye therefore, (for you know not when the lord of the house cometh: at even, or at midnight, or at the cockcrowing, or in the morning,)
+              </p>
+              <p class="note">
+               [32]
+               <u>
+                "Nor the Son"
+               </u>
+               : Not that the Son of God is absolutely ignorant of the day of judgment, but that he knoweth it not, as our teacher; that is, he knoweth it not so as to teach it to us, as not being expedient.
+              </p>
+              <p>
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=36-#x">
+                [36]
+               </a>
+               Lest coming on a sudden, he find you sleeping.
+               <a href="/x/d?b=drb&amp;bk=48&amp;ch=13&amp;l=37-#x">
+                [37]
+               </a>
+               And what I say to you, I say to all: Watch.
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <center>
+           <table align="left" border="0" cellpadding="0" cellspacing="0" class="booknametable">
+            <tbody>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="47001.htm">
+                previous
+               </a>
+              </td>
+              <td class="bookname">
+               Gospel According to Saint Mark
+              </td>
+              <td class="next">
+               <a href="49001.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+             <tr>
+              <td class="prev">
+               &lt;
+               <a href="48012.htm">
+                previous
+               </a>
+              </td>
+              <td class="chapname">
+               Chapter 13
+              </td>
+              <td class="next">
+               <a href="48014.htm">
+                next
+               </a>
+               &gt;
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </center>
+         </center>
+        </center>
+       </center>
+      </center>
+     </td>
+     <td class="adcol" valign="top">
+      <script>
+       side_ads ("../")
+      </script>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" class="topcolor">
+   <tbody>
+    <tr>
+     <td class="botcenter">
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+   var sc_project=10778189; 
+var sc_invisible=0; 
+var sc_security="317c9666"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+  </script>
+  <noscript>
+   <div class="statcounter">
+    <a href="http://statcounter.com/" target="_blank" title="web stats">
+     <img alt="web stats" class="statcounter" src="//c.statcounter.com/10778189/0/317c9666/0/"/>
+    </a>
+   </div>
+  </noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+ </body>
+</html>
+<!-- Â© Copyright drbo.org 2001-2017.  All rights reserved. -->

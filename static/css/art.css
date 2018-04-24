@@ -1,0 +1,142 @@
+body {
+  color: #062F4F;
+  /*padding-top: 65px;*/
+  background: #EFEFEF;
+}
+
+.navbar {
+  background-color: #292b2c;
+  /*background-color: #95def9;*/
+}
+
+.nav-item > .nav-link {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(250, 57, 57, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.logo {
+  float: left;
+  width: 15%;
+}
+
+section a {
+    margin: 0.5rem 0 0.5rem 0.5rem;
+}
+
+.row {
+  padding-top: 15px;
+}
+
+.login-logo {
+  margin:auto;
+}
+
+.login-form-row {
+  max-width:350px;
+  margin:auto;
+  border:1px solid blue;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.upload-form {
+  max-width:400px;
+  padding: 0 1rem 1rem 1rem;
+  border-radius: 5px;
+  padding-bottom: 50px;
+  background: aliceblue;
+}
+
+th, td {
+  white-space: nowrap;
+}
+
+.form-control {
+  background: #fcfcfc;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+}
+
+.form-control:focus {
+  border: 1px solid black;
+  background-color: #F5FDFB;
+}
+
+/* Add icons to registration form fields */
+
+.form-group {
+  position: relative;
+  color: #aaa;
+}
+
+input#id_username {
+  text-indent: 30px;
+  position: relative;
+  background: #fcfcfc;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+}
+
+input#id_password {
+  text-indent: 30px;
+  position: relative;
+  background: #fcfcfc;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+}
+
+input#id_email {
+  text-indent: 30px;
+  position: relative;
+  background: #fcfcfc;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+}
+
+.fa-user {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  font-size: 25px;
+  color: rebeccapurple;
+  border-right: 1px solid #ccc;
+  padding-right: 5px;
+}
+
+.fa-unlock-alt {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  font-size: 25px;
+  color: rebeccapurple;
+  border-right: 1px solid #ccc;
+  padding-right: 5px;
+}
+
+.table th {
+  padding: 0 .5rem 0 .5rem;
+  border-bottom: 1px solid;
+  color: #fff;
+  background-color: #212529;
+  border-color: #32383e;
+}
+
+.pagination {
+  text-align: center;
+  font-weight: bold;
+  display: block;
+  margin: 4rem 0;
+}
+
+footer {
+    margin-top: 10rem;
+    margin-bottom: 3rem;
+}

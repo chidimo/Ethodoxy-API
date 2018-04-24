@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Pillart &raquo; {% block title %}Viva Art{% endblock title %}</title>
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
+
+		<!-- font awesome for icons -->
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+		{% comment %}[if lt IE 9] {% endcomment %}
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		{% comment %} [endif] {% endcomment %}
+
+		{% load static %}
+		<link rel="stylesheet" href="{% static 'css/art.css' %}">
+		<script type="text/javascript" src="{% static 'admin/js/vendor/jquery/jquery.js' %}"></script>
+		<script type="text/javascript" src="{% static 'js/pillart.js' %}"></script>
+		{{ form.media }}
+    </head>
+
+    <body>
+
+	{% block navigation %}
+        <div class="collapse bg-inverse container-fluid" id="navbarHeader">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-8 py-2">
+                <h4>About</h4>
+                <p>{% block about %}Add some information{% endblock about %}</p>
+              </div>
+              <div class="col-sm-4 py-2">
+              	<div class="row">
+              		<div class="col-xs-6">
+		                <ul class="list-unstyled">
+		                    <li class="nav-item"><a class="nav-link" href="{% url 'art:index' %}">Albums</a></li>
+												<li class="nav-item"><a class="nav-link" href="{% url 'art:artworks' %}">Artworks</a></li>
+												<li class="nav-item"><a class="nav-link" href="{% url 'art:stories' %}">Stories</a></li>
+												<li class="nav-item"><a class="nav-link" href="{% url 'artist:artists' %}">Artists</a></li>
+		                </ul>
+		              </div>
+		              <div class="col-xs-6">
+		                <ul class="list-unstyled">
+		    				{% if user.is_authenticated %}
+		    				    {% if user.is_admin %}
+		    						<li class="nav-item"><a class="nav-link" href="/admin/">admin</a></li>
+		    					{% endif %}
+		    					<li class="nav-item"><a class="nav-link {% block act-usr %}{% endblock %}" href="{% url 'artist:dashboard' %}">{{ user.artist.screen_name }}</a></li>
+		    					<li class="nav-item"><a class="nav-link" href="{% url 'artist:logout' %}">Logout</a></li>
+		    				{% else %}
+		    					<li class="nav-item">
+		    						<a class="nav-link" href="{% url 'artist:login' %}">Login</a>
+		    					</li>
+		    					<li class="nav-item">
+		    						<a href="{% url 'artist:new' %}" class="nav-link" role="button">Join</a></li>
+		    				{% endif %}
+		                </ul>
+		              </div>
+              	</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="navbar navbar-inverse bg-inverse">
+          <div class="container d-flex justify-content-between">
+            <h3><a href="/" class="navbar-brand">Pillart</a></h3>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          </div>
+        </div>
+	{% endblock navigation %}
+
+	{% block introduction %}
+		<section class="jumbotron text-center d-none d-md-block">
+            <div class="container">
+                <h1 class="jumbotron-heading">Pillart</h1>
+                <p>A picture is worth ...<p>
+                    <a href="{% url 'art:new_album' %}#" class="btn btn-primary">Share your stories</a>
+                    <a href="{% url 'art:index' %}" class="btn btn-secondary">Explore albums</a>
+                    <a href="{% url 'art:artworks' %}" class="btn btn-secondary">Explore artworks</a>
+                </p>
+            </div>
+        </section>
+	{% endblock introduction %}
+
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-2 left_sidebar d-none d-md-block">
+					{% block left_sidebar %}
+					left sidebar
+					{% endblock left_sidebar %}
+				</div>
+
+				<div class="col-sm-8 album text-muted" role='main'>
+				    <div class='container'>
+        					{% block content_content %}
+        						content block
+        					{% endblock content_content %}
+        			</div>
+
+					{% block javascript %}{% endblock javascript %}
+
+					{% if is_paginated %}
+						<div>{% include "pure_pagination.html" %}</div>
+					{% endif %}
+				</div>
+
+				<div class="col-sm-2 right_sidebar d-none d-md-block">
+					{% block right_sidebar %}
+					right sidebar
+					{% endblock right_sidebar %}
+				</div>
+			</div>
+		</div>
+
+		{% block footer %}
+		    {% include "footer.html" %}
+		{% endblock footer %}
+
+		<!-- jquery to add extra attributes to login form fields -->
+		<script type="text/javascript" >
+			// add attributes to form input elements
+			$(document).ready(function(){
+				$("#id_username").attr('placeholder', '{{ form.username.label }}');
+				$("#id_username").attr('class', 'form-control');
+
+				$("#id_password").attr('placeholder', '{{ form.password.label }}');
+				$("#id_password").attr('class', 'form-control');
+
+				$("#id_email").attr('class', 'form-control');
+				$("#id_email").attr('placeholder', '{{ form.email.label }}');
+
+				$("#id_old_password").attr('class', 'form-control');
+				$("#id_old_password").attr('placeholder', '{{ form.old_password.label }}');
+				$("#id_new_password1").attr('class', 'form-control');
+				$("#id_new_password1").attr('placeholder', '{{ form.new_password1.label }}');
+				$("#id_new_password2").attr('class', 'form-control');
+				$("#id_new_password2").attr('placeholder', '{{ form.new_password2.label }}');
+			});
+		</script>
+
+		<script>
+			// Initialize tooltip component
+			$(function () {
+				$('[data-toggle="tooltip"]').tooltip()
+			})
+			// Initialize popover component
+			$(function () {
+				$('[data-toggle="popover"]').popover()
+			})
+		</script>
+	</body>
+</html>

@@ -101,7 +101,7 @@ def send_email_upon_registration(request, new_siteuser, via_social=False):
         text_email = render_to_string("siteuser/welcome_email.txt", context)
         html_email = render_to_string("siteuser/welcome_email.html", context)
 
-    for each in [email, "choralcentral@gmail.com"]:
+    for each in [email, "accessibleorthodoxy@outlook.com"]:
         msg = EmailMultiAlternatives(subject, text_email, from_email, [each])
         msg.attach_alternative(html_email, "text/html")
         msg.send()

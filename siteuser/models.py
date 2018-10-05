@@ -109,7 +109,7 @@ class SiteUser(TimeStampedModel):
         return reverse('siteuser:library', kwargs={'pk' : self.pk, 'slug' : self.slug})
 
     def get_absolute_uri(self):
-        return "https://www.choralcentral.net" + reverse('siteuser:library', kwargs={'pk' : self.pk, 'slug' : self.slug})
+        return reverse('douay-rheims:bible_index')
 
     def get_user_success_url(self):
         return reverse()

@@ -8,13 +8,13 @@
 		<meta charset="utf-8">
 		<meta content="text/html">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta property="og:image" content="https://www.choralcentral.net{% static 'img/cc_logo.png' %}"/>
-		<meta name="twitter:image" content="https://www.choralcentral.net{% static 'img/cc_logo.png' %}">
+		<meta property="og:image" content="http://accessibleorthodoxy.pythonanywhere.com/{% static 'img/cc_logo.png' %}"/>
+		<meta name="twitter:image" content="http://accessibleorthodoxy.pythonanywhere.com/{% static 'img/cc_logo.png' %}">
 		<meta property="fb:app_id" content="977674249054153"/>
 		<meta property="og:type" content="website"/>
 
 		{% block meta_tags %}
-    		<meta property="og:url" content="https://www.choralcentral.net"/>
+    		<meta property="og:url" content="http://accessibleorthodoxy.pythonanywhere.com/"/>
     		<meta property="og:title" content="How to share choral music"/>
     		<meta property="og:description" content="Find the best choral music scores."/>
     	{% endblock meta_tags %}
@@ -32,7 +32,7 @@
 		<!-- <script type='text/javascript' src='//www.midijs.net/lib/midi.js'></script> -->
 
 		<link rel="shortcut icon" type="image/png" href="{% static 'favicons/favicon.ico' %}"/>
-		<link rel="stylesheet" href="{% static 'css/catholic.min.css' %}">
+		<link rel="stylesheet" href="{% static 'css/catholic.css' %}">
 
 		<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
@@ -44,8 +44,8 @@
 		{% block navigation %}
 		<nav class="navbar fixed-top navbar-expand-lg">
 			<a class="navbar-brand" href="/">
-				<h3 style="color:blanchedalmond" title="https://www.choralcentral.net/">
-					ChoralCentral{% if unread %}<sup class="notification" title="{{ unread }} unread messages">{{ unread }}</sup>{% endif %}
+				<h3 style="color:blanchedalmond" title="http://accessibleorthodoxy.pythonanywhere.com/">
+					Accessible Orthodoxy
 				</h3>
 			</a>
 
@@ -156,7 +156,6 @@
 
 		<footer>
 			{% block footer_top %}{% include "footer_top.html" %}{% endblock footer_top %}
-			{% block footer_middle %}{% include "footer_middle.html" %}{% endblock footer_middle %}
 			{% block footer_bottom %}{% include "footer_bottom.html" %}{% endblock footer_bottom %}
 		</footer>
 

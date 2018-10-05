@@ -1,59 +1,26 @@
 {% extends "drb_base.html" %}
-
 {% block title %}List of all commentaries{% endblock title %}
-
+{% block introduction %}{% endblock introduction %}
 {% block  content_content %}
 
-<div class="container">
-    
-    <div class="row">
-        <div class="col-sm-12">
-            <h2>Commentaries</h2>
-        </div>
+<div class='container siteuser-index-heading'>
+    <div class='row'>
+        <h3 class='float-left'>Commentaries</h3>
     </div>
-
-
+</div>
+    
+<div class="container">
     <div class="row">
         <div class="col-sm-12">
             {% for commentary in commentaries %}
-            <h4>{{ commentary.heading }}</h4>
-            <p>{{ commentary.commentary_book_chapter_verse }}</p>
-            <p>{{ commentary.text }}</p>
-            <hr>
+                <h4>{{ commentary.heading }}</h4>
+                <h6>{{ commentary.commentary_source }}</h6>
+                <p>{{ commentary.text }}</p>
+    
+            {% empty %}
+                <p style="margin-bottom:25rem">Coming soon</p>                
             {% endfor %}
         </div>
     </div>
 </div>
-
-
-<a href="" data-toggle="modal" data-target="#Commentary">Here</a>
-
-<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#Commentary">
-    Click Me
-</button>
-
-
-<div class="modal fade" id="Commentary" tabindex="-1" role="dialog" aria-labelledby="commentaryDetail" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title" id="albumDetail">{{ commentary.heading }} heading here</h4>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-
-            <div class="modal-body">
-                <p>{{ commentary.text }} some text here</p>
-                
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
-
 {% endblock content_content %}
-
-

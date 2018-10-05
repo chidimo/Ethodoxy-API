@@ -177,23 +177,3 @@ class RoleEditForm(forms.ModelForm):
             "name" : forms.TextInput(
                 attrs={'class' : 'form-control', "placeholder" : "Role"})
         }
-
-class NewMessageForm(forms.ModelForm):
-    class Meta:
-        model = Message
-        fields = ('body', )
-
-        widgets = {
-            "body" : forms.Textarea(
-                attrs={'class' : 'form-control', "placeholder" : "Message body. 200 words only"}),
-        }
-
-class ReplyMessageForm(forms.ModelForm):
-    class Meta:
-        model = Message
-        fields = ('body', )
-
-        widgets = {
-            "body" : forms.Textarea(
-                attrs={'class' : 'form-control', "placeholder" : "Message body. 200 words only"}),
-        }

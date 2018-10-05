@@ -59,9 +59,11 @@ PREREQ_APPS = [
 
 PROJECT_APPS = [
     'drb',
+    'siteuser',
 ]
 
 THIRD_PARTY_APPS = [
+    'sorl.thumbnail',
     'rest_framework',
     'django_extensions',
 ]

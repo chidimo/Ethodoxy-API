@@ -9,7 +9,6 @@ app_name = "siteuser"
 
 urlpatterns = [
     path('', views.SiteUserIndex.as_view(), name="index"),
-    path('roles-<str:role>/', views.SiteUserCommonRoles.as_view(), name="siteusers_common_roles"),
     path('location-<str:location>/', views.SiteUserCommonLocation.as_view(), name="siteusers_common_location"),
     path('ajax/validate-screen-name/', views.validate_screen_name, name='validate_screen_name'),
     path("new/", views.new_siteuser, name="new"),
@@ -19,17 +18,6 @@ urlpatterns = [
     path("edit-profile/", views.SiteUserEdit.as_view(), name="edit_profile"),
     path("welcome/<str:screen_name>/", views.welcome_siteuser, name="new_success"),
     path("activate/<int:pk>/<str:screen_name>/", views.activate_siteuser, name="new_activation"),
-    path('media-index/', views.admin_media_index, name='admin_media_index'),
-    path("library/<int:pk>/<slug:slug>/", views.SiteUserLibrary.as_view(), name="library"),
-    path("comments/<int:pk>/<slug:slug>/", views.SiteUserComments.as_view(), name="siteuser_comments"),
-]
-
-urlpatterns += [
-    path("new-role/", views.NewRole.as_view(), name="role_create"),
-    path("view/roles/", views.RoleIndex.as_view(), name="role_index"),
-    path('song-likers/<int:pk>/', views.SongLikers.as_view(), name='song_likers'),
-    path('post-likers/<int:pk>/', views.PostLikers.as_view(), name='post_likers'),
-    path('comment-likers/<int:pk>/', views.CommentLikers.as_view(), name='comment_likers'),
 ]
 
 urlpatterns += [
@@ -40,14 +28,6 @@ urlpatterns += [
 urlpatterns += [
     path('manage-account/', views.account_management, name='account_management'),
     path('set-social-password/', views.social_password, name='social_password'),
-]
-
-
-urlpatterns += [
-    path('message-new/<int:pk>/<slug:slug>/', views.NewMessage.as_view(), name='new_message'),
-    path('message-reply/<int:pk>/', views.reply_message, name='reply_message'),
-    path('message-view/<int:pk>/', views.ViewMessage.as_view(), name='view_message'),
-    path('message-view-thread/<int:pk>/', views.ViewMessageThread.as_view(), name='view_message_thread'),
 ]
 
 urlpatterns += [

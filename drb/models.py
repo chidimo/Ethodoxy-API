@@ -16,23 +16,15 @@ class Version(TimeStampedModel):
         pass
 
 class Book(TimeStampedModel):
-    OT = "OLD TESTAMENT"
-    NT = "NEW TESTAMENT"
-
-    T_CHOICES = (
-        (OT, "Old Testament"),
-        (NT, "New Testament")
-    )
     version = models.ForeignKey(Version, on_delete=models.CASCADE)
-    name = models.CharField(max_length=50)
-    short_name = models.CharField(max_length=10)
-    alternative_name = models.CharField(max_length=100, blank=True)
+    name = models.CharField(max_length=50, unique=True)
+    alt_name = models.CharField(max_length=100, blank=True)
     position = models.IntegerField()
-    testament = models.CharField(max_length=20, choices=T_CHOICES)
+    testament = models.CharField(max_length=20)
     slug = AutoSlugField(set_using='name')
     deutero = models.BooleanField(default=False)
     location = models.URLField(blank=True)
-    about = models.TextField(blank=True)
+    about = models.CharField(max_length=500, blank=True)
 
     class Meta:
         ordering = ["position", "testament", "name"]
@@ -45,6 +37,9 @@ class Book(TimeStampedModel):
 
     def get_absolute_url(self):
         pass
+
+    def number_of_chapters(self):
+        return self.chapter_set.count()
 
 class Chapter(TimeStampedModel):
     book = models.ForeignKey(Book, on_delete=models.CASCADE)
@@ -66,7 +61,7 @@ class Chapter(TimeStampedModel):
 class Verse(TimeStampedModel):
     chapter = models.ForeignKey(Chapter, on_delete=models.CASCADE)
     number = models.IntegerField()
-    text = models.TextField()
+    text = models.CharField(max_length=600)
 
     class Meta:
         ordering = ["chapter", "number"]
@@ -79,22 +74,6 @@ class Verse(TimeStampedModel):
 
     def __str__(self):
         return "{} {}: {}".format(self.chapter.book.name, self.chapter.number, self.number)
-
-    def get_absolute_url(self):
-        pass
-
-class VerseAlt(TimeStampedModel):
-    book = models.ForeignKey(Book, on_delete=models.CASCADE)
-    chapter = models.IntegerField()
-    number = models.IntegerField()
-    slug = AutoSlugField(set_using='name')
-    text = models.TextField()
-
-    class Meta:
-        ordering = ["chapter", "number"]
-
-    def __str__(self):
-        return "{} {}: {}".format(self.book.name, self.chapter, self.number)
 
     def get_absolute_url(self):
         pass
@@ -119,7 +98,7 @@ class CommentaryText(TimeStampedModel):
     class Meta:
         ordering = ("commentary", "book", "chapter", "verse")
 
-    def commentary_book_chapter_verse(self):
+    def commentary_source(self):
         return "{} {} : {}".format(self.book, self.chapter, self.verse)
 
     def __str__(self):

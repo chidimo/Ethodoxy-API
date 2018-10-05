@@ -1,15 +1,16 @@
 from django.contrib import admin
 
-from .models import Version, Book, Chapter, Verse, VerseAlt, Commentary, CommentaryText, Topic
+from .models import Version, Book, Chapter, Verse, Commentary, CommentaryText, Topic
 
 class BookAdmin(admin.ModelAdmin):
-    list_display = ("__str__", "version_name", "position", "name", "alternative_name", "testament", "slug", "deutero")
-    list_filter = ("alternative_name",)
+    list_display = ("name", "version_name", "position", "number_of_chapters", "alt_name", "testament", "slug", "deutero")
+    list_filter = ("alt_name",)
+    search_fields = ('name', 'alt_name')
 
 class ChapterAdmin(admin.ModelAdmin):
     list_display = ("__str__", "book_name", "number", "location")
     list_filter = ("book", )
-    search_fields = ("book", "number")
+    search_fields = ('book',)
 
 class VerseAdmin(admin.ModelAdmin):
     list_display = ("chapter", "number", "__str__", "text")
@@ -25,7 +26,6 @@ admin.site.register(Version)
 admin.site.register(Book, BookAdmin)
 admin.site.register(Chapter, ChapterAdmin)
 admin.site.register(Verse, VerseAdmin)
-admin.site.register(VerseAlt)
 
 admin.site.register(Commentary, CommentaryAdmin)
 admin.site.register(CommentaryText, CommentaryTextAdmin)

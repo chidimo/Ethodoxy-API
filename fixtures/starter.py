@@ -17,29 +17,22 @@ OT = (os.path.join(data_store, "old_test.json"))
 CHAPS = glob.glob("{}/*.json".format(chapter_store))
 VERSES = glob.glob("{}/*.json".format(verse_store))
 COMMENTARIES = glob.glob("{}/*.json".format(challoner_store))
-# print(CHAPS)
-# print(VERSES)
-# print(COMMENTARIES)
 
 def clean_name(name):
     """Remove asterisk"""
-    return name.replace("*", "").lstrip().rstrip()
+    name = name.replace("*", "").strip().lower()
+    return name
 
-def create_version(name="Douay-Rheims", location="http://drbo.org/"):
-    Version.objects.create(name=name, location=location)
+def create_version(name="douay-rheims", location="http://drbo.org/"):
+    Version.objects.get_or_create(name=name, location=location)
 
 def create_old_testament_books():
-    version, _ = Version.objects.get_or_create(name="Douay-Rheims")
+    version, _ = Version.objects.get_or_create(name="douay-rheims")
     with open(OT, "r+") as rh:
         booking = json.load(rh)
 
     for name, value in booking.items():
-        book = Book(
-            version=version,
-            name=clean_name(name),
-            testament="OLD TESTAMENT",
-            position=int(value[1][:2]),
-            location=value[0])
+        book, _ = Book.objects.get_or_create(version=version, name=clean_name(name), testament="old testament", position=int(value[1][:2]), location=value[0])
 
         if "*" in name:
             book.deutero = True
@@ -48,91 +41,56 @@ def create_old_testament_books():
             both_names = name.split(" or ")
             book.name = clean_name(both_names[0])
             book.alt_name = clean_name(both_names[1])
-        book.save()
+        book.save(update_fields=['name', 'deutero', 'alt_name'])
 
 def create_new_testament_books():
-    version, _ = Version.objects.get_or_create(name="Douay-Rheims")
+    version, _ = Version.objects.get_or_create(name="douay-rheims")
     with open(NT, "r+") as rh:
         booking = json.load(rh)
     for name, value in booking.items():
-        book = Book(
-            version=version,
-            name=clean_name(name),
-            testament="NEW TESTAMENT",
-            position=int(value[1][:2]),
-            location=value[0])
-        book.save()
+        Book.objects.get_or_create(version=version, name=clean_name(name), testament="new testament", position=int(value[1][:2]), location=value[0])
 
-def create_all_books_all_chapters():
+def create_chapters_for_all_books():
     for each_book in CHAPS:
         with open(each_book, "r+") as rh:
             chapters_dictionary = json.load(rh)
 
-        for name, number_and_location in chapters_dictionary.items():
+        for name, number_and_location_dict in chapters_dictionary.items():
             if " or " in name:
                 name = name.split(" or ")[0]
-            book_object = Book.objects.get(name=clean_name(name))
+            book_object, _ = Book.objects.get_or_create(name=clean_name(name))
 
-            for number, location in number_and_location.items():
-                _ = Chapter.objects.create(
-                    book=book_object,
-                    number=int(number),
-                    location=location)
+            for number, location in number_and_location_dict.items():
+                Chapter.objects.create(book=book_object, number=int(number), location=location)
 
-def create_all_books_all_verses():
+def create_verse_for_all_books():
     for each in VERSES:
         with open(each, "r+") as rh:
             verses = json.load(rh)
-        for name_dash_chapter, chapter_text_dictionary in verses.items():
+        for verse_chapter, chapter_text_dict in verses.items():
 
-            parts = name_dash_chapter.split("__")
-            name = parts[0]
+            parts = verse_chapter.split("__")
+            book_name = parts[0]
             chapter_number = parts[1].lstrip().rstrip()
 
-            if " or " in name:
-                name = name.split(" or ")[0]
-            name = clean_name(name)
-            book = Book.objects.get(name=name)
-            chapter = Chapter.objects.get(book=book, number=chapter_number)
+            if " or " in book_name:
+                book_name = clean_name(book_name.split(" or ")[0])
+            else:
+                book_name = clean_name(book_name)
 
-            for number, text in chapter_text_dictionary.items():
-                verse = Verse.objects.create(
-                    chapter=chapter,
-                    number=number,
-                    text=text.strip())
+            book = Book.objects.get(name=book_name)
+            chapter = Chapter.objects.get(book__name=book_name, number=chapter_number)
 
-def create_all_books_all_alt_verses():
-    for each in CHAPS:
-        with open(each, "r+") as rh:
-            verses = json.load(rh)
-        for name_dash_chapter, chapter_text_dictionary in verses.items():
-
-            parts = name_dash_chapter.split("__")
-            name = parts[0]
-            chapter_number = parts[1].lstrip().rstrip()
-
-            if " or " in name:
-                name = name.split(" or ")[0]
-            name = clean_name(name)
-            book = Book.objects.get(name=name)
-
-            for number, text in chapter_text_dictionary.items():
-                verse = Verse(
-                    book=book,
-                    chapter=chapter_number,
-                    number=number,
-                    text=text.strip())
-                verse.save()
+            for number, text in chapter_text_dict.items():
+                Verse.objects.create(chapter=chapter, number=number, text=text.strip())
 
 def create_all_commentaries():
     for each in COMMENTARIES:
         with open(each, "r+") as rh:
             commentary_file = json.load(rh)
 
-        version, _ = Version.objects.get_or_create(name="Douay-Rheims")
-        commentary, _ = Commentary.objects.get_or_create(
-            name="Challoner",
-            version=version)
+        version, _ = Version.objects.get_or_create(name="douay-rheims")
+        commentary, _ = Commentary.objects.get_or_create(name="challoner", version=version)
 
         for book_chapter, comment_dictionary in commentary_file.items():
             bcn = book_chapter.split("__")
@@ -150,17 +108,20 @@ def create_all_commentaries():
                 verse = vhg[0]
                 heading = vhg[1]
 
-                commtext = CommentaryText(
-                    commentary=commentary,
-                    heading=heading,
-                    book=book,
-                    chapter=chapter,
-                    verse=verse,
-                    text=text)
-                commtext.save()
+                commtext = CommentaryText.objects.get_or_create(
+                    commentary=commentary, heading=heading, book=book,
+                    chapter=chapter, verse=verse, text=text)
+
+def run_all():
+    create_version()
+    create_old_testament_books()
+    create_new_testament_books()
+    create_chapters_for_all_books()
+    create_verse_for_all_books()
+    create_all_commentaries()
 
 if __name__ == "__main__":
     pass
-    # create_all_books_all_chapters(CHAPS)
-    # create_all_books_all_verses(VERSES)
+    # create_chapters_for_all_books(CHAPS)
+    # create_verse_for_all_books(VERSES)
     # create_all_commentaries(COMMENTARIES)

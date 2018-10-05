@@ -18,6 +18,7 @@ django-addanother = "*"
 pillow = "*"
 python-social-auth = "*"
 social-auth-app-django = "*"
+whitenoise = "*"
 
 [dev-packages]
 

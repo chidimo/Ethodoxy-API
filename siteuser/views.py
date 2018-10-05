@@ -88,7 +88,7 @@ def send_email_upon_registration(request, new_siteuser, via_social=False):
 
     screen_name = new_siteuser.screen_name
     email = new_siteuser.user.email
-    subject = "ChoralCentral - Welcome {}.".format(screen_name)
+    subject = "Accessible Orthodoxy - Welcome {}.".format(screen_name)
     from_email = settings.EMAIL_HOST_USER
 
     if via_social:

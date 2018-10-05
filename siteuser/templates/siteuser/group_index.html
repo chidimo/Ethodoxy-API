@@ -1,0 +1,35 @@
+{% extends "drb_base.html" %}
+{% block title %}Groups{% endblock title %}
+{% load thumbnail %}
+{% load static %}
+{% block introduction %}{% endblock introduction %}
+
+{% block content_content %}
+
+<div class='container siteuser-index-heading'>
+    <div class='row'>
+        <h3 class='float-left'>Groups</h3>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        {% for group in groups %}
+            <div class="col-lg-3 col-md-4 col-xs-6 col-sm-6 py-2 my-2 siteuser-index-details">
+                {% thumbnail groups.avatar "150x150" crop="center" as im %}
+                   <a href="{{ groups.avatar.url }}" target="_blank"><img alt="" src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}" class="img-fluid card"></a>
+                {% empty %}
+                   <img alt="" src="{% static 'img/cc_logo.png' %}" width="150" height="150" class="img-fluid card">
+                {% endthumbnail %}
+                <p class="text-left"><a href="" title="Request to join this group">Join</a></p>
+                <p class="text-left"><a href="{% url 'siteuser:group_detail' group.pk %}">{{ group.name }}</a></p>
+                <p class="text-left">{{ group.about_group }}</p>
+            </div>
+        {% empty %}
+            <p style="margin-bottom:25rem">No groups added yet.</p>
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock content_content %}
+

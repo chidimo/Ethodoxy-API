@@ -1,0 +1,39 @@
+
+<div class="container song-about">
+    <div class="row">
+        <div class="col-sm-3 col-md-6">
+            <a class="nav-link px-0" href="#">
+                {% include "siteuser/avatar.html" %}
+            </a>
+        </div>
+        <div class="col-sm-3 col-md-6">
+            <h4>{{ siteuser.screen_name }}</h4>
+            <h6 class="text-secondary ml-0">
+                {% for role in siteuser.roles.all %}<a href="{% url 'siteuser:siteusers_common_roles' role %}" title='See all {{ role.name|title }}s'>{{ role.name|title }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}
+            </h6>
+            <h6 class="text-secondary my-1"><a href="{% url 'siteuser:siteusers_common_location' siteuser.location %}" title='See others in {{ siteuser.location|title }}'>{{ siteuser.location|title }}</a></h6>
+            <p class="text-secondary my-1">
+                {% if user == siteuser.user %}
+                    <a href="mailto:{{ user.siteuser.user.email }}" title="{{ siteuser.user.email }}">{{ siteuser.user.email }}</a>
+                {% else %}
+                    <a href="{% url 'siteuser:new_message' siteuser.pk siteuser.slug %}" title="Message {{ siteuser }}">Send a message</a>
+                {% endif %}
+            </p>
+            <p class="text-secondary my-1">Joined {{ siteuser.created|date }}</p>
+            <p class="text-secondary my-1">Last seen {{ siteuser.user.last_login|date }}</p>
+        </div>
+        <div class="col-sm-3 col-md-6">
+            <p class="my-1"><span class="activity-stats-count" style="font-weight:bold;">{{ user_songs.count }}</span> songs</p>
+            <p class="my-1"><span class="activity-stats-count" style="font-weight:bold;">{{ user_posts.count }}</span> blog posts</p>
+            <p class="my-1"><span class="activity-stats-count" style="font-weight:bold;">{{ siteuser.score_set.count }}</span> scores</p>
+            <p class="my-1"><span class="activity-stats-count" style="font-weight:bold;">{{ siteuser.midi_set.count }}</span> midis</p>
+            <p class="my-1"><span class="activity-stats-count" style="font-weight:bold;">{{ siteuser.comment_set.count }}</span> <a href="{% url 'siteuser:siteuser_comments' siteuser.pk siteuser.slug %}">comments</a></p>
+            <p class="my-1"><span class="activity-stats-count" style="font-weight:bold;">{{ total_likes }}</span> likes</p>
+        </div>
+        <div class="col-sm-3 col-md-6">
+            <p class="my-1"><i class="fab fa-google"></i> <a href="https://plus.google.com/u/0/+{{ google_login.uid }}/" target="_blank">{{ google_login.uid }}</a></p>
+            <p class="my-1"><i class="fab fa-facebook-f"></i> <a href="https://facebook.com/{{ facebook_login.extra_data.id }}/" target="_blank">{{ facebook_login.extra_data.id }}</a></p>
+            <p class="my-1"><i class="fab fa-twitter"></i> <a href="https://twitter.com/{{ twitter_login.extra_data.access_token.screen_name }}/" target="_blank">{{ twitter_login.extra_data.access_token.screen_name }}</a></p>
+        </div>
+    </div>
+</div>

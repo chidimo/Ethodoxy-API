@@ -1,0 +1,61 @@
+{% extends "drb_base.html" %}
+{% block title %}{{ siteuser.screen_name }}'s comments{% endblock title %}
+{% block introduction %}{% endblock introduction %}
+{% load blog_ttags %}
+{% block content_content %}
+
+<div class='container siteuser-index-heading'>
+    <div class='row'>
+        <h3 class='float-left'>{{ siteuser.screen_name }}'s comments</h3>
+    </div>
+</div>
+
+{% for comment in user_comments %}
+    <div class="list-comments">
+        <div class="row commenter-stats">
+            <div class='col-sm-12'>
+                <strong>
+                    <a href="{% url 'blog:detail' comment.post.pk comment.post.slug %}">{{ comment.post }}</a>
+                    <span class="float-right">
+                        <span title="Comment date">{{ comment.created|date }}</span> |
+                        <span title="Modified">{{ comment.modified|date }}</span>
+                    </span>
+                </strong>
+            </div>
+        </div>
+
+        <div class='comment-body'>
+            {{ comment.comment|markdown_format }}
+        </div>
+
+        <span class='float-left' id="commentStatBox{{ forloop.counter }}">
+            {% if user.is_authenticated %}
+                {% if request.user.siteuser in comment.likes.all %}
+                    <span class="btn btn-sm btn-primary star-icon-button like-comment-{{ forloop.counter}}-on-click" data-pk="{{ comment.pk }}" data-app-label="blog" data-model="comment" title="Unlike">
+                        <i class="fas fa-thumbs-up text-primary"></i>
+                    </span>
+                {% else %}
+                    <span class="btn btn-sm btn-primary star-icon-button like-comment-{{ forloop.counter}}-on-click" data-pk="{{ comment.pk }}" data-app-label="blog" data-model="comment" title="Like">
+                        <i class="fas fa-thumbs-up text-secondary"></i>
+                    </span>
+                {% endif %}
+            {% else %}
+                    <a class="btn btn-sm btn-primary icon-buttons" href="{% url 'siteuser:login' %}?next={{ request.path }}">Login to like</a>
+            {% endif %}
+            {% include "blog/ajax_like_comment.html" %}
+
+            <a class="btn btn-sm btn-primary icon-buttons" title="{{ comment.like_count }} likes" href="{% url 'siteuser:comment_likers' comment.pk %}">{{ comment.like_count }} <i class="fas fa-thumbs-up"></i></a>
+        </span>
+
+        <span class="float-right">
+            {% if request.user == comment.creator.user %}
+                <a class="btn btn-sm btn-primary icon-buttons" href="{% url 'blog:edit_comment' comment.pk %}" title="Edit"><i class="fas fa-edit"></i></a>
+                <a class="btn btn-sm btn-primary icon-buttons" href="{% url 'blog:comment_delete' comment.pk %}" title="Delete"><i class="fas fa-trash"></i></a>
+            {% endif %}
+            <a class="btn btn-sm btn-primary icon-buttons" href="{% url 'blog:comment_reply' comment.pk comment.post.pk %}" title="Reply"><i class="fas fa-reply"></i></a>
+        </span>
+    </div>
+{% empty %}
+    <p style="margin-bottom:25rem;">No comments to display</p>
+{% endfor %}
+{% endblock content_content %}

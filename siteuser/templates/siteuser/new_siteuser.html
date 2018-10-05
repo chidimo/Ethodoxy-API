@@ -1,0 +1,61 @@
+{% extends "drb_base.html" %}
+
+{% block title %}Register{% endblock %}
+
+{% block body %}
+
+    <h1 class='text-center'><a href="/" title='Return to homepage' style='text-decoration: none'>ChoralCentral</a></h1>
+    <hr>
+
+    <div class="container register-forms">
+        <h2 class='text-center'>Sign Up</h2>
+
+        {% include "registration/social_logins.html" %}
+        <p>By registering via social account you consent with our <a href="/terms-of-use/" target="_blank">Terms of Use</a> and
+            <a href="/privacy-policy/" target="_blank">Privacy policy</a>.</p>
+
+        <form action="" method="post" enctype="multipart/form-data" data-validate-screen-name-url="{% url 'siteuser:validate_screen_name' %}">
+            {% csrf_token %}
+                <p>{{ form.email }}</p>
+                <p>{{ form.email.errors }}</p>
+                <p class="screen-name-take"></p>
+                <p>{{ form.screen_name }}</p>
+                <p>{{ form.screen_name.errors }}</p>
+                <p>{{ form.password1 }}</p>
+                <p>{{ form.password1.errors }}</p>
+                <p>{{ form.password2 }}</p>
+                <p>{{ form.password2.errors }}</p>
+                <p>{{ form.agreement }} I consent with ChoralCentral's
+                    <a href="/terms-of-use/" target="_blank">Terms of Use</a> and
+                    <a href="/privacy-policy/" target="_blank">Privacy policy</a>.</p>
+            <button class="btn btn-primary btn-sm register-btn" type="submit" value="Sign Up">Sign Up</button>
+
+            <p>{{ form.non_field_errors }}</p>
+
+            <div class="g-recaptcha" data-sitekey="6Le22mEUAAAAAHiGN1pAiur6zr9nRuU5spSpBjvi"></div>
+        </form>
+    </div>
+
+<script type="text/javascript">
+    $('#id_screen_name').change(function() {
+
+        screen_name = $(this).val()
+
+        $.ajax({
+            type : 'GET',
+            url : "{% url 'siteuser:validate_screen_name' %}",
+            data : {screen_name : screen_name},
+            success : function (data, textStatus, jqXHR) {
+                if (data.is_taken) {
+                    $('.screen-name-take').html('<span class="text-danger">' + data.error_message + '</span>')
+                } else {
+                    $('.screen-name-take').html('')
+                }
+            },
+            error : function(jqXHR, textStatus, errorThrown) {
+                console.log(errorThrown)
+            }
+        });
+    });
+</script>
+{% endblock body %}

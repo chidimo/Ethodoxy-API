@@ -8,6 +8,7 @@ django = "*"
 django-pure-pagination = "*"
 markdown = "*"
 djangorestframework = "*"
+python-decouple = "*"
 
 [dev-packages]
 

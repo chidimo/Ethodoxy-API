@@ -1,0 +1,363 @@
+{% extends "drb_base.html" %}
+{% block title %}{{ siteuser.screen_name }}'s library{% endblock title %}
+{% block introduction %}{% endblock introduction %}
+
+{% block content_content %}
+
+<div class='container account-management-heading'>
+    <div class='row'>
+        <div class='col-sm-12'>
+            <span class='h5 float-left'>
+                Media index
+            </span>
+        </div>
+    </div>
+</div>
+
+<div class="container song-about">
+    <div class="row">
+        <div class="col-sm-6">
+            <p class="text-secondary">First name: {{ siteuser.first_name }}</p>
+            <p class="text-secondary">Last name: {{ siteuser.last_name }}</p>
+            <p class="text-secondary">Email: <a href="mailto:{{ user.siteuser.user.email }}">{{ siteuser.user.email }}</a></p>
+            <p class="text-secondary">Location: <a href='#' title='See others from {{ user.siteuser.location }}'>{{ siteuser.location }}</a></p>
+        </div>
+
+        <div class="col-sm-6">
+            <p class="text-secondary">Roles:
+                {% for role in siteuser.roles.all %}
+                    <a href="{% url 'siteuser:siteusers_common_roles' role %}" title='See other {{ role.name|upper }}s'>{{ role.name|title }}</a>
+                    {% if not forloop.last %}, {% endif %}
+                {% endfor %}
+            </p>
+            <p class="text-secondary">Member since: {{ siteuser.created }}</p>
+            <p class="text-secondary">Last seen: {{ siteuser.user.last_login }}</p>
+            <p class="text-secondary">Comments: <a href="{% url 'siteuser:siteuser_comments' siteuser.pk siteuser.slug %}">{{ siteuser.comment_set.count }}</a></p>
+        </div>
+    </div>
+</div>
+
+<div class="library-tabs">
+    <ul class="nav nav-tabs">
+        <li class="nav-item"><a class="nav-link" href="#songs" aria-controls="songs" role="tab" data-toggle="tab">Songs</a></li>
+        <li class="nav-item"><a class="nav-link" href="#posts" aria-controls="posts" role="tab" data-toggle="tab">Blog posts</a></li>
+        <li class="nav-item"><a class="nav-link" href="#requests" aria-controls="requests" role="tab" data-toggle="tab">Request</a></li>
+        <li class="nav-item"><a class="nav-link" href="#authors" aria-controls="authors" role="tab" data-toggle="tab">Authors</a></li>
+        <li class="nav-item"><a class="nav-link" href="#scores" aria-controls="scores" role="tab" data-toggle="tab">Scores</a></li>
+        <li class="nav-item"><a class="nav-link" href="#midis" aria-controls="midis" role="tab" data-toggle="tab">Midi</a></li>
+        <li class="nav-item"><a class="nav-link" href="#videos" aria-controls="videos" role="tab" data-toggle="tab">Videos</a></li>
+    </ul>
+</div>
+
+<hr>
+<!-- Tab panes -->
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="songs">
+        <div class="table-responsive">
+            <table class="table">
+                <thead class="thead-dark">
+                    <caption>Songs</caption>
+                    <tr>
+                        <th>Title</th>
+                        <th>Likes</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for song in user_songs %}
+                    {% if song.publish %}
+                        <tr>
+                    {% else %}
+                        {% if user == siteuser.user %}
+                            <tr class='text-danger'>
+                        {% else %}
+                            <tr class='d-none'>
+                        {% endif %}
+                    {% endif %}
+                            <td><a href="{% url 'song:detail' song.pk song.slug %}">{{ song.title }}</a></td>
+                            <td>{{ song.like_count }}</td>
+                            <td>{% if song.publish %}Public{% else %}Private{% endif %}</td>
+                            <td>
+                                {% if request.user == siteuser.user %}
+                                    <a href="{% url 'song:edit' song.pk song.slug %}" title='Edit'><i class="fas fa-edit"></i></a> |
+                                    <a href="{% url 'song:delete' song.pk %}" title='Delete {{ song.title }}'><i class="fas fa-trash"></i></a> |
+                                {% endif %}
+                            </td>
+                        </tr>
+                {% empty %}
+                    <p>No song to display</p>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="posts">
+        <div class="table-responsive">
+            <table class="table">
+                <thead class="thead-dark">
+                    <caption>Blog posts</caption>
+                    <tr>
+                        <th>Title</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for post in user_posts %}
+                    {% if post.publish %}
+                        <tr>
+                    {% else %}
+                        {% if user == siteuser.user %}
+                            <tr class='text-danger'>
+                        {% else %}
+                            <tr class='d-none'>
+                        {% endif %}
+                    {% endif %}
+                        <td><a href="{% url 'blog:detail' post.pk post.slug %}">{{ post.title }}</a></td>
+                        <td>{% if post.publish %}Public{% else %}Private{% endif %}</td>
+
+                        <td>
+                            {% if user == siteuser.user %}
+                                <a href="{% url 'blog:edit' post.pk %}"><i class="fas fa-edit"></i></a> |
+                                <a href="#"><i class="fas fa-trash"></i></a>
+                            {% endif %}
+                        </td>
+
+                    </td>
+                {% empty %}
+                    <p>No posts to display</p>
+                {% endfor %}
+                </tbody>
+            </table>
+    </div>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="requests">
+        <div class="table-responsive">
+            <table class="table">
+                <thead class="thead-dark">
+                    <caption>My blog posts</caption>
+                    <tr>
+                        <th>Title</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for request in user_requests %}
+                    <tr>
+                        {% if request.status == True %}
+                            <td><a href="{% url 'request:detail' request.pk %}">{{ request }}</a></td>
+                            <td>{{ request.status }}</td>
+                        {% else %}
+                            <td><a "text-danger" href="{% url 'request:detail' request.pk %}">{{ request }}</a></td>
+                            <td class="text-danger">{{ request.status }}</td>
+                        {% endif %}
+                        <td>
+                            <a href="{% url 'request:edit' request.pk %}"><i class="fas fa-edit"></i></a>
+                        </td>
+                    </tr>
+                {% empty %}
+                    <p>No request to display</p>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="authors">
+        <div class="table-responsive">
+            <table class="table">
+                <thead class="thead-dark">
+                    <caption>My authors</caption>
+                    <tr>
+                        <th>Name</th>
+                        <th>Type</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                    <tbody>
+                    {% for author in user_authors %}
+                        <tr>
+                            <td><a href="{% url 'author:detail' author.pk author.slug %}">{{ author }}</a></td>
+                            <td>{{ author.author_type|title }}</td>
+                            <td><a href="#"><i class="fas fa-edit"></i></a> |
+                            <a href="#"><i class="fas fa-trash"></i></a></td>
+                        </tr>
+                    {% empty %}
+                        <p>No author to display</p>
+                    {% endfor %}
+                    </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="scores">
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead class="thead-light">
+                    <caption>scores</caption>
+                </thead>
+                <tr>
+                    <th>Song</th>
+                    <th>Song owner</th>
+                    <th>Score owner</th>
+                    <th>Part</th>
+                    <th>Notation</th>
+                    <th>Size</th>
+                    <th><i class="fas fa-hdd" title="HDD download url"></i></th>
+                    <th><i class="fas fa-hdd" title="HDD link"></i></th>
+                    <th><i class="fab fa-google-drive" title="Google Drive view url"></i></i></th>
+                    <th><i class="fab fa-google-drive" title="Google Drive download url"></i></th>
+                    <th><i class="fab fa-google-drive" title="Google Drive embed url"></i></th>
+                    <th><i class="fas fa-cog"></i></th>
+                </tr>
+
+                {% if scores %}
+                <tbody>
+                {% for score in scores %}
+                    <tr>
+                        <td><a href="{% url 'song:detail' score.song.pk score.song.slug %}">{{ score.song.title }}</a></td>
+                        <td>{{ score.song.creator }}</td>
+                        <td>{{ score.creator }}</td>
+                        <td>{{ score.part }}</td>
+                        <td>{{ score.notation }}</td>
+                        <td>{{ score.fsize|filesizeformat }}</td>
+                        <td>
+                            <a href="{% url 'song-media:show_score' score.pk %}" target="_blank"><i class="fas fa-download"></i></a>
+                        </td>
+                        <td>
+                            {% if score.media_file %}
+                                <a href="{{ score.media_file.url }}" target="_blank"><i class="fas fa-link"></i></a>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if score.drive_view_link %}
+                                <a href="{{ score.drive_view_link }}" target="_blank"><i class="fas fa-eye"></i></a>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if score.drive_download_link %}
+                                <a href="{{ score.drive_download_link }}" target="_blank"><i class="fas fa-download"></i></a>
+                            {% endif %}
+                        </td>
+                        <td>{% if score.embed_link %}
+                                <a href="{{ score.embed_link }}" target="_blank"><i class="fas fa-link"></i></a>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <a href="{% url 'song-media:delete_score' score.pk %}"><i class="fas fa-trash"></i></a>
+                        </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+                {% else %}
+                    <p>No scores found</p>
+                {% endif %}
+            </table>
+        </div>
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="midis">
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead class="thead-light">
+                    <caption>midis</caption>
+                </thead>
+                <tr>
+                    <th>Song</th>
+                    <th>Song owner</th>
+                    <th>Midi owner</th>
+                    <th>Part</th>
+                    <th>Format</th>
+                    <th>Size</th>
+                    <th><i class="fas fa-hdd" title="HDD download url"></i></th>
+                    <th><i class="fas fa-hdd" title="HDD link"></i></th>
+                    <th><i class="fab fa-google-drive" title="Google Drive view url"></i></i></th>
+                    <th><i class="fab fa-google-drive" title="Google Drive download url"></i></th>
+                    <th><i class="fas fa-cog"></i></th>
+                </tr>
+
+                {% if midis %}
+                <tbody>
+                    {% for midi in midis %}
+                        <tr>
+                            <td><a href="{% url 'song:detail' midi.song.pk midi.song.slug %}">{{ midi.song.title }}</a></td>
+                            <td>{{ midi.song.creator }}</td>
+                            <td>{{ midi.creator }}</td>
+                            <td>{{ midi.part }}</td>
+                            <td>{{ midi.fformat }}</td>
+                            <td>{{ midi.fsize|filesizeformat }}</td>
+                            <td><!-- not used-->
+                                {% if midi.media_file %}
+                                   {% if midi.fformat == ".mp3" %}
+                                    <p class='text-left'>
+                                        <a href="{% url 'song-media:play_midiview' midi.pk %}" target="_blank"><i class="fas fa-play"></i></a>
+                                    </p>
+                                    {% else %}
+                                    <p class='text-left'>
+                                        <a class='text-success' href="" onClick="MIDIjs.play('{{ midi.media_file.url }}');"><i class='fas fa-play'></i></a> |
+                                        <a href="" onClick="MIDIjs.stop();"><i class='fas fa-stop'></i></a>
+                                    </p>
+                                    {% endif %}
+                                {% endif %}
+                            </td>
+                            <td>
+                                {% if midi.media_file %}
+                                    <a href="{{ midi.media_file.url }}" target="_blank"><i class="fas fa-link"></i></a>
+                                {% endif %}
+                            </td>
+                            <td>
+                                {% if midi.drive_view_link %}
+                                    <a href="{{ midi.drive_view_link }}" target="_blank"><i class="fas fa-eye"></i></a>
+                                {% endif %}
+                            </td>
+                            <td>
+                                {% if midi.drive_download_link %}
+                                    <a href="{{ midi.drive_download_link }}" target="_blank"><i class="fas fa-download"></i></a>
+                                {% endif %}
+                            </td>
+                            <td><a href="{% url 'song-media:delete_midi' midi.pk %}"><i class="fas fa-trash"></i></a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+                {% else %}
+                    <p>No midis found</p>
+                {% endif %}
+            </table>
+        </div>
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="videos">
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead class="thead-light">
+                    <caption>midis</caption>
+                </thead>
+                <tr>
+                    <th>Song</th>
+                    <th>Link creator</th>
+                    <th><i class="fab fa-google-drive" title="Google Drive download url"></i></th>
+                    <th>Play url</th>
+                </tr>
+
+                {% if user_videos %}
+                <tbody>
+                {% for video in user_videos %}
+                    <tr>
+                        <td><a href="{% url 'song:detail' video.song.pk video.song.slug %}">{{ video.song.title }}</a></td>
+                        <td>{{ video.song.creator }}</td>
+                        <td>{{ video.creator }}</td>
+                        <td><a href="{{ video.channel_link }}" target="_blank"><i class="fas fa-play"></i></a></td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+                {% else %}
+                    <p>No video links found</p>
+                {% endif %}
+            </table>
+        </div>
+    </div>
+</div>
+
+{% endblock content_content %}
+

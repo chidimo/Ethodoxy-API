@@ -1,0 +1,29 @@
+{% extends "drb_base.html" %}
+{% block title %}Members in {{ location|title }}s{% endblock title %}
+{% load thumbnail %}
+{% load static %}
+{% load siteuser_tags %}
+{% block introduction %}{% endblock introduction %}
+
+{% block content_content %}
+
+<div class='container siteuser-index-heading'>
+    <div class='row'>
+        <h3 class='float-left'>Members in {{ location|title }}</h3>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        {% for siteuser in siteuser_list %}
+            <div class="col-lg-3 col-md-4 col-xs-6 col-sm-6 py-2 my-2 siteuser-index-details">
+                {% include "siteuser/avatar.html" %}
+                <h6 class="text-left"><a href="{% url 'siteuser:library' siteuser.pk siteuser.slug %}">{{ siteuser.screen_name }}</a></h6>
+            </div>
+        {% empty %}
+            <p>No member in this area.</p>
+        {% endfor %}
+    </div>
+</div>
+{% endblock content_content %}
+

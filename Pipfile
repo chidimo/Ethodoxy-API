@@ -9,6 +9,9 @@ django-pure-pagination = "*"
 markdown = "*"
 djangorestframework = "*"
 python-decouple = "*"
+pylint = "*"
+django-debug-toolbar = "*"
+django-extensions = "*"
 
 [dev-packages]
 

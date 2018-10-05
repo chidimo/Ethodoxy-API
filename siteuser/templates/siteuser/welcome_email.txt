@@ -1,0 +1,3 @@
+{{ screen_name }}
+
+{{ activation_link }}

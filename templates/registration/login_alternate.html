@@ -1,0 +1,52 @@
+{% extends "drb_base.html" %}
+{% block title %}Login{% endblock title %}
+
+{% block body %}
+        <h1 class='text-center'><a href="/" title='Return to homepage' style='text-decoration: none'>Accessible Orthodoxy</a></h1>
+        <hr>
+
+<div class="container login-form">
+    <h2 class='text-center'>Login</h2>
+
+    <div class="row">
+        <div class="col-sm-6">
+
+            {% if form.errors %}
+                <p class="text-danger text-center">
+                    <strong>Your username and password didn't match</strong>
+                </p>
+                <hr>
+            {% endif %}
+
+            <form method="post" action="{% url 'siteuser:login' %}">
+                {% csrf_token %}
+
+                <div class="form-group">
+                    {{ form.username }}
+                    <span class="fas fa-user" aria-hidden="true"></span>
+                </div>
+
+                <div class="form-group">
+                    {{ form.password }}
+                    <span class="fas fa-unlock-alt" aria-hidden="true"></span>
+                </div>
+
+                <button class="btn btn-primary btn-sm login-btn" type="submit" value="login">Log In</button>
+                <input type="hidden" name="next" value="{{ next }}" />
+            </form>
+            <hr>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <a class="btn btn-primary btn-sm join-btn" href="{% url 'siteuser:new' %}" title="Create new account">Join</a>
+                    <a class="btn btn-danger btn-sm float-right forgot-password-btn" href="{% url 'siteuser:password_reset' %}" title="Retrieve password">Forgot password?</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            {% include "registration/social_logins.html" %}
+        </div>
+    </div>
+
+</div>
+{% endblock body %}

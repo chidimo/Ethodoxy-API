@@ -44,9 +44,7 @@
 		{% block navigation %}
 		<nav class="navbar fixed-top navbar-expand-lg">
 			<a class="navbar-brand" href="/">
-				<h3 style="color:blanchedalmond" title="http://accessibleorthodoxy.pythonanywhere.com/">
-					Accessible Orthodoxy
-				</h3>
+				<h3 style="color:blanchedalmond" title="http://accessibleorthodoxy.pythonanywhere.com/">Accessible Orthodoxy</h3>
 			</a>
 
 			<button type="button" class="navbar-toggler my-toggler" data-toggle="collapse" data-target=".navcontent">
@@ -56,7 +54,25 @@
 
 			<div class="collapse navbar-collapse navcontent">
 				<ul class="nav navbar-nav lefthand-navigation">
-					<li class="nav-item"><a class="nav-link" href="/" title="Home">Home</a></li>
+					<li class="nav-item"><a class="nav-link" href="/" title="DRB">DRB</a></li>
+					<li class="nav-item"><a class="nav-link" href="" title="DRB">Challoner</a></li>
+
+					<li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Encyclicals</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href=""">Encyc 1</a>
+                            <a class="dropdown-item" href=""">Encyc 2</a>
+                        </div>
+					</li>
+
+					<li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Papal bulls</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href=""">Bull 1</a>
+                            <a class="dropdown-item" href=""">Bull 2</a>
+                        </div>
+					</li>
+
 					<li class="nav-item"><a class="nav-link" href="{% url 'siteuser:index' %}" title="Users">Users</a></li>
 				</ul>
 
@@ -114,7 +130,7 @@
 		{% if not user.is_authenticated %}
 		<section class="jumbotron text-center d-none d-sm-block">
             <div class="container">
-                <h1 class="jumbotron-heading">ChoralCentral</h1>
+                <h1 class="jumbotron-heading">Accessible Orthodoxy</h1>
                 <p>If music be the food of love ..</p>
 
                 <p class="my-0">

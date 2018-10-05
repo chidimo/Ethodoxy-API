@@ -12,6 +12,12 @@ python-decouple = "*"
 pylint = "*"
 django-debug-toolbar = "*"
 django-extensions = "*"
+sorl-thumbnail = "*"
+requests = "*"
+django-addanother = "*"
+pillow = "*"
+python-social-auth = "*"
+social-auth-app-django = "*"
 
 [dev-packages]
 

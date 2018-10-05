@@ -1,46 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 	<head>
+		{% load staticfiles %}
+		{% load static %}
+		{% load thumbnail %}
+
 		<meta charset="utf-8">
 		<meta content="text/html">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>Douay-Rheims | {% block title %}Challoner commentary choralling !{% endblock title %}</title>
+		<meta property="og:image" content="https://www.choralcentral.net{% static 'img/cc_logo.png' %}"/>
+		<meta name="twitter:image" content="https://www.choralcentral.net{% static 'img/cc_logo.png' %}">
+		<meta property="fb:app_id" content="977674249054153"/>
+		<meta property="og:type" content="website"/>
 
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		{% block meta_tags %}
+    		<meta property="og:url" content="https://www.choralcentral.net"/>
+    		<meta property="og:title" content="How to share choral music"/>
+    		<meta property="og:description" content="Find the best choral music scores."/>
+    	{% endblock meta_tags %}
 
-		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		<title>
+			{% if unread %}
+				({{ unread }})
+			{% endif %}
+			Accessible Orthodoxy | {% block title %}Home{% endblock title %}
+		</title>
 
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Inconsolata:700" rel="stylesheet">
 
-		<!-- Algolia search javascript -->
-		<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+		<!-- <script type='text/javascript' src='//www.midijs.net/lib/midi.js'></script> -->
 
-		<script src="//cdn.jsdelivr.net/g/algoliasearch,algoliasearch.helper"></script>
-
-		<!-- font awesome for icons -->
-		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-
-		<script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
-
-		<!--midijs for playing midi-->
-		<script type='text/javascript' src='//www.midijs.net/lib/midi.js'></script>
-
-		{% comment %}[if lt IE 9] {% endcomment %}
-		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		{% comment %} [endif] {% endcomment %}
-
-		{% load static %}
 		<link rel="shortcut icon" type="image/png" href="{% static 'favicons/favicon.ico' %}"/>
-		<link rel="stylesheet" href="{% static 'css/choralcentral.css' %}">
-		<script type="text/javascript" src="{% static 'admin/js/vendor/jquery/jquery.js' %}"></script>
-		<script type="text/javascript" src="{% static 'js/choralcentral.js' %}"></script>
-		{{ form.media }}
+		<link rel="stylesheet" href="{% static 'css/catholic.min.css' %}">
 
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+		<script type='text/javascript' src='//www.midijs.net/lib/midi.js' defer></script>
 	</head>
 
 	{% block body %}
@@ -48,7 +44,9 @@
 		{% block navigation %}
 		<nav class="navbar fixed-top navbar-expand-lg">
 			<a class="navbar-brand" href="/">
-				<h3 style="color:blanchedalmond">DRB</h3>
+				<h3 style="color:blanchedalmond" title="https://www.choralcentral.net/">
+					ChoralCentral{% if unread %}<sup class="notification" title="{{ unread }} unread messages">{{ unread }}</sup>{% endif %}
+				</h3>
 			</a>
 
 			<button type="button" class="navbar-toggler my-toggler" data-toggle="collapse" data-target=".navcontent">
@@ -57,24 +55,76 @@
 			</button>
 
 			<div class="collapse navbar-collapse navcontent">
-				<ul class="nav navbar-nav">
-					<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-					<li class="nav-item"><a class="nav-link" href="">Users</a></li>
+				<ul class="nav navbar-nav lefthand-navigation">
+					<li class="nav-item"><a class="nav-link" href="/" title="Home">Home</a></li>
+					<li class="nav-item"><a class="nav-link" href="{% url 'siteuser:index' %}" title="Users">Users</a></li>
+				</ul>
+
+				<ul class="navbar-nav ml-auto righthand-navigation">
+					{% if user.is_authenticated %}
+
+						<li class="nav-item logged-in-username">
+							<a class="nav-link" href="{% url 'siteuser:account_management' %}">
+								{% thumbnail user.siteuser.avatar "35x35" crop="center" as im %}
+									<div class="profile-image"><img class="card" src="{{ user.siteuser.avatar.url }}"></div>
+								{% empty %}
+    								<div class="profile-image"><img class="card" src="{% static 'img/cc_logo.png' %}"></div>
+								{% endthumbnail %}
+								<div class="profile-name">{{ user.siteuser.screen_name }}</div>
+							 </a>
+						</li>
+
+						<li class="nav-item dropdown">
+						    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">New</a>
+							<div class="dropdown-menu">
+							    <a class="dropdown-item" href="">#</a>
+							</div>
+						</li>
+
+						<li class="nav-item dropdown">
+						    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-cog"></i></a>
+						    <div class="dropdown-menu">
+						        <a class="dropdown-item" href="{% url 'siteuser:account_management' %}">My account</a>
+						        <a class="dropdown-item" href="{% url 'siteuser:edit_profile' %}">Edit profile</a>
+							    <a class="dropdown-item" href="{% url 'siteuser:password_change' %}">Change password</a>
+							    <a class="dropdown-item" href="{% url 'siteuser:password_reset' %}">Reset password</a>
+							    <div class="dropdown-divider"></div>
+						        <a class="dropdown-item" href="{% url 'siteuser:library' user.siteuser.pk user.siteuser.slug %}">Library</a>
+						        <div class="dropdown-divider"></div>
+							    {% if user.siteuser.key %}
+							        <a class="dropdown-item" href="{% url 'siteuser:reset_api_key' %}">Reset API key</a>
+							    {% else %}
+							        <a class="dropdown-item" href="{% url 'siteuser:new_api_key' %}">Get API key</a>
+							    {% endif %}
+							    <div class="dropdown-divider"></div>
+							    <a class="dropdown-item" href="{% url 'siteuser:logout' %}">Logout</a>
+							</div>
+						</li>
+					{% else %}
+						<li class="nav-item login-logout"><a class="btn btn-info btn-sm upload-button" href="{% url 'siteuser:login' %}">Log In</a></li>
+						<li class="nav-item login-logout"><a class="btn btn-primary btn-sm upload-button" href="{% url 'siteuser:new' %}">Sign Up</a></li>
+					{% endif %}
+
 				</ul>
 			</div>
 		</nav>
 		{% endblock navigation %}
 
 		{% block introduction %}
+		{% if not user.is_authenticated %}
 		<section class="jumbotron text-center d-none d-sm-block">
             <div class="container">
-                <h1 class="jumbotron-heading">Douay-Rheims Bible</h1>
-                <p>If music be the food of love ...<p>
-                    <a href="#" class="btn btn-primary">READ</a>
-                    <a href="#" class="btn btn-secondary" target="_blank">Douay-Rheims bible</a>
+                <h1 class="jumbotron-heading">ChoralCentral</h1>
+                <p>If music be the food of love ..</p>
+
+                <p class="my-0">
+                	<a href="{% url 'siteuser:new' %}" class="btn btn-primary join-campaign">
+	                    Join us celebrate music in {{ lang_count }} languages and {{ voice_count }} voices
+	                </a>
                 </p>
             </div>
         </section>
+        {% endif %}
 		{% endblock introduction %}
 
 		<div class="container-fluid">
@@ -85,8 +135,7 @@
 					{% endblock left_sidebar %}
 				</div>
 
-				<div class="col-sm-6 centerspread" role='main'>
-
+				<div class="col-sm-6 centerspread" role='main' style="margin-top:2rem;">
 					{% block content_content %}
 					    content-block
 					{% endblock content_content %}
@@ -105,54 +154,35 @@
 			</div>
 		</div>
 
-		{% block footer %}
-			{% include "footer.html" %}
-		{% endblock footer %}
+		<footer>
+			{% block footer_top %}{% include "footer_top.html" %}{% endblock footer_top %}
+			{% block footer_middle %}{% include "footer_middle.html" %}{% endblock footer_middle %}
+			{% block footer_bottom %}{% include "footer_bottom.html" %}{% endblock footer_bottom %}
+		</footer>
 
 		{% endblock body %}
 
-		<script type="text/javascript" >
-			// add attributes to form input elements
-			$(document).ready(function(){
-				$("#id_username").attr('placeholder', '{{ form.username.label }}');
-				$("#id_username").attr('class', 'form-control');
+		<!--These javascript files are render-blocking and are not needed to render initial page, so I moved them here-->
 
-				$("#id_password").attr('placeholder', '{{ form.password.label }}');
-				$("#id_password").attr('class', 'form-control');
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous" async></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous" async></script>
 
-				$("#id_email").attr('class', 'form-control');
-				$("#id_email").attr('placeholder', '{{ form.email.label }}');
+		<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+		<script src="//cdn.jsdelivr.net/g/algoliasearch,algoliasearch.helper"></script>
+		<script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" async></script>
+		<script defer src='https://www.google.com/recaptcha/api.js' async></script>
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js" async></script>
 
+		
 
-				$("#id_old_password").attr('class', 'form-control');
-				$("#id_old_password").attr('placeholder', '{{ form.old_password.label }}');
-				$("#id_new_password1").attr('class', 'form-control');
-				$("#id_new_password1").attr('placeholder', '{{ form.new_password1.label }}');
-				$("#id_new_password2").attr('class', 'form-control');
-				$("#id_new_password2").attr('placeholder', '{{ form.new_password2.label }}');
-			});
-		</script>
+		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vue-resource@1.3.5"></script>
 
-		<script>
-        // Add .active class to navigation menu item.
-            $(document).ready(function() {
-            //   $('li.active').removeClass('active');
-              $('a[href="' + location.pathname + '"]').closest('li').addClass('active');
+		<!--Django add another, for view popup. These two below lines must follow one another in the same order.-->
+		<script type="text/javascript" src="{% static 'admin/js/vendor/jquery/jquery.js' %}"></script>
+		{{ form.media }}
 
-            //   Remove the class from the big upload button
-              $('#uploadButtonNav').removeClass('active');
-            });
-		</script>
+		{% block page_js %}{% endblock page_js %}
 
-		<script>
-			// Initialize tooltip component
-			$(function () {
-				$('[data-toggle="tooltip"]').tooltip()
-			})
-            // Initialize popover component
-			$(function () {
-				$('[data-toggle="popover"]').popover()
-			})
-		</script>
 	</body>
 </html>

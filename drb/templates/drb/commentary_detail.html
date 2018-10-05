@@ -1,22 +1,18 @@
 {% extends "drb_base.html" %}
-
+{% block introduction %}{% endblock introduction %}
 {% block  content_content %}
+<div class='container siteuser-index-heading'>
+    <div class='row'>
+        <h3 class='float-left'>{{ commentary.heading }}</h3>
+    </div>
+</div>
 
 <div class="container">
-    
     <div class="row">
         <div class="col-sm-12">
-            <h2>{{ commentary.heading }}</h2>
-            <h4>{{ commentary.commentary_book_chapter_verse }}</h4>
-        </div>
-    </div>
-
-
-    <div class="row">
-        <div class="col-sm-12">
+            <h4>{{ commentary.commentary_source }}</h4>
             <p>{{ commentary.text }}</p>
         </div>
     </div>
 </div>
-
 {% endblock content_content %}

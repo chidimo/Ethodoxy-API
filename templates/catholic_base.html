@@ -8,8 +8,8 @@
 		<meta charset="utf-8">
 		<meta content="text/html">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta property="og:image" content="http://accessibleorthodoxy.pythonanywhere.com/{% static 'img/cc_logo.png' %}"/>
-		<meta name="twitter:image" content="http://accessibleorthodoxy.pythonanywhere.com/{% static 'img/cc_logo.png' %}">
+		<meta property="og:image" content="http://accessibleorthodoxy.pythonanywhere.com/{% static 'img/django_logo.png' %}"/>
+		<meta name="twitter:image" content="http://accessibleorthodoxy.pythonanywhere.com/{% static 'img/django_logo.png' %}">
 		<meta property="fb:app_id" content="977674249054153"/>
 		<meta property="og:type" content="website"/>
 
@@ -118,7 +118,7 @@
 								{% thumbnail user.siteuser.avatar "35x35" crop="center" as im %}
 									<div class="profile-image"><img class="card" src="{{ user.siteuser.avatar.url }}"></div>
 								{% empty %}
-    								<div class="profile-image"><img class="card" src="{% static 'img/cc_logo.png' %}"></div>
+    								<div class="profile-image"><img class="card" src="{% static 'img/django_logo.png' %}"></div>
 								{% endthumbnail %}
 								<div class="profile-name">{{ user.siteuser.screen_name }}</div>
 							 </a>

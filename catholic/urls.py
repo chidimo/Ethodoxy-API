@@ -8,11 +8,14 @@ from django.conf.urls.static import static
 
 from drb.api.urls import apiurlpatterns
 
+from .import views
+
 api_urls = 'drb.api.urls'
 
 urlpatterns = [
+    path('', views.home),
     path('admin/', admin.site.urls),
-    path('', include('drb.urls')),
+    path('douay-rheims', include('drb.urls')),
     path("members/", include('siteuser.urls')),
     path('api/', include((apiurlpatterns , 'drb-api'))),
 ]

@@ -5,6 +5,6 @@
 	{% thumbnail siteuser.avatar "120x120" crop="center" as im %}
 		<div class="avatar-image"><img class="card" src="{{ siteuser.avatar.url }}"></div>
 	{% empty %}
-		<div class="avatar-image"><img class="card" src="{% static 'img/cc_logo.png' %}"></div>
+		<div class="avatar-image"><img class="card" src="{% static 'img/django_logo.png' %}"></div>
 	{% endthumbnail %}
  </a>

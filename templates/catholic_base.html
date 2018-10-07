@@ -54,58 +54,83 @@
 
 			<div class="collapse navbar-collapse navcontent">
 				<ul class="nav navbar-nav lefthand-navigation">
-					<li class="nav-item"><a class="nav-link" href="/" title="DRB">DRB</a></li>
+					<li class="nav-item"><a class="nav-link" href="{% url 'douay-rheims:bible_index' %}" title="DRB">DRB</a></li>
 					<li class="nav-item"><a class="nav-link" href="" title="DRB">Challoner</a></li>
 
-					<li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Vatican II: Constitutions</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href=""">Dei Verbum</a>
-                            <a class="dropdown-item" href=""">Lumen Gentium</a>
-                            <a class="dropdown-item" href=""">Sacrosanctum Concilium</a>
-                            <a class="dropdown-item" href=""">Gaudium et Spes</a>
-                        </div>
-					</li>
 
-					<li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Vatican II: Declarations</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href=""">Gravissimum Educationis</a>
-                            <a class="dropdown-item" href=""">Nostra Aetate</a>
-                            <a class="dropdown-item" href=""">Dignitatis Humanae</a>
-                        </div>
-					</li>
+					<div class="btn-group navigation-buttons">
+						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Vatican II</a>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" tabindex="-1" href="#">Constitutions</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="#">Dei Verbum</a></li>
+									<li><a class="dropdown-item" href="#">Lumen Gentium</a></li>
+									<li><a class="dropdown-item" href="#">Sacrosanctum Concilium</a></li>
+									<li><a class="dropdown-item" href="#">Gaudium et Spes</a></li>
+								</ul>
+							</li>
+							<li class="dropdown-divider"></li>
 
-					<li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Vatican II: Decrees</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href=""">Ad Gentes </a>
-                            <a class="dropdown-item" href=""">Presbyterorum Ordinis</a>
-                            <a class="dropdown-item" href=""">Apostolicam Actuositatem</a>
-                            <a class="dropdown-item" href=""">Optatam Totius</a>
-                            <a class="dropdown-item" href=""">Perfectae Caritatis</a>
-                            <a class="dropdown-item" href=""">Christus Dominus</a>
-                            <a class="dropdown-item" href=""">Unitatis Redintegratio</a>
-                            <a class="dropdown-item" href=""">Orientalium Ecclesiarum</a>
-                            <a class="dropdown-item" href=""">Inter Mirifica</a>
-                        </div>
-					</li>
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" tabindex="-1" href="#">Declarations</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="#">Gravissimum Educationis</a></li>
+									<li><a class="dropdown-item" href="#">Nostra Aetate</a></li>
+									<li><a class="dropdown-item" href="#">Dignitatis Humanae</a></li>
+								</ul>
+							</li>
+							<li class="dropdown-divider"></li>
 
-					<li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Encyclicals</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href=""">Encyc 1</a>
-                            <a class="dropdown-item" href=""">Encyc 2</a>
-                        </div>
-					</li>
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" tabindex="-1" href="#">Decrees</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="#">Ad Gentes</a></li>
+									<li><a class="dropdown-item" href="#">Presbyterorum Ordinis</a></li>
+									<li><a class="dropdown-item" href="#">Apostolicam Actuositatem</a></li>
+									<li><a class="dropdown-item" href="#">Optatam Totius</a></li>
+									<li><a class="dropdown-item" href="#">Perfectae Caritatis</a></li>
+									<li><a class="dropdown-item" href="#">Christus Dominus</a></li>
+									<li><a class="dropdown-item" href="#">Unitatis Redintegratio</a></li>
+									<li><a class="dropdown-item" href="#">Orientalium Ecclesiarum</a></li>
+									<li><a class="dropdown-item" href="#">Inter Mirifica</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
 
-					<li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Papal bulls</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href=""">Bull 1</a>
-                            <a class="dropdown-item" href=""">Bull 2</a>
-                        </div>
-					</li>
+					<div class="btn-group navigation-buttons">
+						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Encyclicals</a>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" tabindex="-1" href="#">Pope, St. John Paul II</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="#">Holder</a></li>
+								</ul>
+							</li>
+							<li class="dropdown-divider"></li>
+
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" tabindex="-1" href="#">Pope Benedict XVI</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="#">Holder</a></li>
+								</ul>
+							</li>
+
+						</ul>
+					</div>
+
+					<div class="btn-group navigation-buttons">
+						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Bulls</a>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+							<li class="dropdown-submenu">
+								<a class="dropdown-item" tabindex="-1" href="#">Pope Innocent</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="#">Hold</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
 
 					<li class="nav-item"><a class="nav-link" href="{% url 'siteuser:index' %}" title="Users">Users</a></li>
 				</ul>
@@ -219,10 +244,8 @@
 		<script src="//cdn.jsdelivr.net/g/algoliasearch,algoliasearch.helper"></script>
 		<script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" async></script>
 		<script defer src='https://www.google.com/recaptcha/api.js' async></script>
-		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js" async></script>
-
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 		
-
 		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/vue-resource@1.3.5"></script>
 
@@ -231,6 +254,8 @@
 		{{ form.media }}
 
 		{% block page_js %}{% endblock page_js %}
+
+		{% include "dropdown_js.html" %}
 
 	</body>
 </html>

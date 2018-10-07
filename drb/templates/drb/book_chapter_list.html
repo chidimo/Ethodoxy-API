@@ -13,7 +13,7 @@
 <div class="container">
     <div class="row">
         {% for chapter in book_chapter_list %}
-            <div class="col-lg-3 col-md-4 col-xs-6 col-sm-6 py-2 my-2 siteuser-index-details">
+            <div class="col-lg-3 col-md-4 col-xs-6 col-sm-6 py-2 my-2 item-boxing">
                 <p><a href="{% url 'douay-rheims:chapter_detail' chapter.book.slug chapter.number chapter.pk %}">{{ chapter|title }}
             </div>
         {% empty %}

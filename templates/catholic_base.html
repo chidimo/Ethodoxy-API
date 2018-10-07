@@ -54,8 +54,20 @@
 
 			<div class="collapse navbar-collapse navcontent">
 				<ul class="nav navbar-nav lefthand-navigation">
-					<li class="nav-item"><a class="nav-link" href="{% url 'douay-rheims:bible_index' %}" title="DRB">DRB</a></li>
-					<li class="nav-item"><a class="nav-link" href="" title="DRB">Challoner</a></li>
+
+					<div class="btn-group navigation-buttons">
+						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Bibles</a>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+							<li><a class="dropdown-item" tabindex="-1" href="{% url 'douay-rheims:bible_index' %}">Douay-Rheims</a></li>
+						</ul>
+					</div>
+
+					<div class="btn-group navigation-buttons">
+						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Commentaries</a>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+							<li><a class="dropdown-item" tabindex="-1" href="{% url 'douay-rheims:bible_index' %}">Challoner</a></li>
+						</ul>
+					</div>
 
 
 					<div class="btn-group navigation-buttons">
@@ -103,7 +115,7 @@
 						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Encyclicals</a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
 							<li class="dropdown-submenu">
-								<a class="dropdown-item" tabindex="-1" href="#">Pope, St. John Paul II</a>
+								<a class="dropdown-item" tabindex="-1" href="#">Pope, St. JP II</a>
 								<ul class="dropdown-menu">
 									<li><a class="dropdown-item" href="#">Holder</a></li>
 								</ul>
@@ -111,7 +123,7 @@
 							<li class="dropdown-divider"></li>
 
 							<li class="dropdown-submenu">
-								<a class="dropdown-item" tabindex="-1" href="#">Pope Benedict XVI</a>
+								<a class="dropdown-item" tabindex="-1" href="#">Benedict XVI</a>
 								<ul class="dropdown-menu">
 									<li><a class="dropdown-item" href="#">Holder</a></li>
 								</ul>
@@ -131,8 +143,6 @@
 							</li>
 						</ul>
 					</div>
-
-					<li class="nav-item"><a class="nav-link" href="{% url 'siteuser:index' %}" title="Users">Users</a></li>
 				</ul>
 
 				<ul class="navbar-nav ml-auto righthand-navigation">

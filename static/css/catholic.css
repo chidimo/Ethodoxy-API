@@ -1,13 +1,14 @@
 body {
   color: midnightblue;
-  padding-top: 2.4rem;
+  padding-top: 8rem;
 }
 nav {
   background: midnightblue;
 }
 .fixed-top {
   font-size: 15px;
-  padding: 0;
+  /* padding: 0; */
+  min-height: 10rem;
   font-family: 'Inconsolata', monospace;
 }
 
@@ -76,22 +77,13 @@ ul.righthand-navigation {
 .logged-in-username > a:hover {
   background: #34348f;
 }
-.avatar-image > img {
-  height: 120px;
-  width: 120px;
+
+.navigation-buttons a.top-level-button {
+  background: midnightblue;
+  border: none;
 }
-.profile-image > img {
-  height: 25px;
-  width: 25px;
-}
-.profile-image {
-  float: left!important;
-}
-.profile-name {
-  padding-left: 0.3rem;
-  float: left!important;
-}
-.dropdown-menu > a.dropdown-item {
+
+a.dropdown-item {
   color: midnightblue;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -104,17 +96,7 @@ a {
 a:hover {
   text-decoration: none;
 }
-.jumbotron {
-  margin-bottom: 0;
-  background: #cacaca;
-  border-radius: 0;
-}
-section.jumbotron {
-  border-radius: 0;
-}
-section a {
-  margin: 0.5rem 0 0.5rem 0.5rem;
-}
+
 label {
   font-weight: bold;
 }
@@ -187,11 +169,6 @@ h5 {
   margin-left: 0.6rem;
 }
 
-.love-bird-detail > p.text-left, .siteuser-index-details > p.text-left {
-  font-size: 14px;
-  margin-top: 0.25rem;
-  margin-bottom: 0;
-}
 .account-management-heading {
   background: #f2f3fb;
   border: 0.6px solid midnightblue;
@@ -321,50 +298,57 @@ input#id_password {
   vertical-align: middle;
   font-size: 22px;
 }
+
+
+/* dropdown styling */
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+  top: 0;
+  left: 50%;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: .25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #212529;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+.dropdown-submenu > a.dropdown-item:after {
+  font-family: "Font Awesome 5 Free";
+  content: "\f0da";
+  float: right;
+}
+
+/* end dropdown styling */
+
 .password-reset-conditions {
   border: 1px solid midnightblue;
   text-align: left;
   color: red;
   border-radius: 0.15rem;
 }
-a.likes-button-style,
-span.icon-buttons {
-  float: left;
-  padding: 3px 10px;
-  font-size: 13px;
-  font-weight: 600;
-  line-height: 20px;
-  vertical-align: middle;
-  background-color: #fff;
-  border: 1px solid rgba(27,31,35,0.2);
-  border-radius: 3px;
-  margin: 2px 1px;
-}
-a.likes-button-style,
-button.likes-button-style {
-  color: #007bff;
-  text-decoration: none;
-}
-a.likes-button-style > span.like-count-embed {
+
+.item-boxing {
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.15rem;
+  background: #fff;
   color: midnightblue;
-  border-right: 0.6px solid midnightblue;
-  padding-right: 0.5rem;
-}
-span.star-icon-button {
-  float: left;
-  padding: 3px 10px;
-  font-size: 13px;
-  font-weight: 600;
-  line-height: 20px;
-  vertical-align: middle;
-  background-color: #fff;
-  border: 1px solid rgba(27,31,35,0.2);
-  border-radius: 3px;
-  margin: 2px 1px;
-}
-span.star-icon-button:not(:disabled):not(.disabled) {
-  cursor: pointer;
-  color: #0062cc;
 }
 
 .fine-prints {

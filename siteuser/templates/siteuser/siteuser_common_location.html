@@ -16,7 +16,7 @@
 <div class="container">
     <div class="row">
         {% for siteuser in siteuser_list %}
-            <div class="col-lg-3 col-md-4 col-xs-6 col-sm-6 py-2 my-2 item-boxing">
+            <div class="col-lg-3 col-md-4 col-xs-6 col-sm-6 py-2 my-2 verse-box">
                 {% include "siteuser/avatar.html" %}
                 <h6 class="text-left"><a href="{% url 'siteuser:library' siteuser.pk siteuser.slug %}">{{ siteuser.screen_name }}</a></h6>
             </div>

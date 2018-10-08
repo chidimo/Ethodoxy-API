@@ -15,7 +15,7 @@
     <div class="row">
         <div class="col-sm-12">
             {% for verse in chapter.verse_set.all %}
-                <p><strong>{{ verse.number }}:</strong> {{ verse.text|markdown_format }}</p>
+                <p class="verse-text"><strong>{{ verse.number }}:</strong> {{ verse.text|markdown_format }}</p>
             {% endfor %}
         </div>
     </div>
@@ -28,7 +28,5 @@
         </div>
     </div>
 </div>
-
-
 
 {% endblock content_content %}

@@ -33,6 +33,7 @@
 
 		<link rel="shortcut icon" type="image/png" href="{% static 'favicons/favicon.ico' %}"/>
 		<link rel="stylesheet" href="{% static 'css/catholic.css' %}">
+		<link rel="stylesheet" href="{% static 'css/drb_styles.css' %}">
 
 		<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
@@ -210,12 +211,12 @@
 		<div class="container-fluid">
 		    {% include 'messages.html' %}
 			<div class="row">
-				<div class="col-sm-3 leftsidebar">
+				<div class="col-sm-1 leftsidebar">
 					{% block left_sidebar %}
 					{% endblock left_sidebar %}
 				</div>
 
-				<div class="col-sm-6 centerspread" role='main' style="margin-top:2rem;">
+				<div class="col-sm-7 centerspread" role='main' style="margin-top:2rem;">
 					{% block content_content %}
 					    content-block
 					{% endblock content_content %}
@@ -227,7 +228,7 @@
 					{% endif %}
 				</div>
 
-				<div class="col-sm-3 rightsidebar">
+				<div class="col-sm-4 rightsidebar">
 					{% block right_sidebar %}
 					{% endblock right_sidebar %}
 				</div>

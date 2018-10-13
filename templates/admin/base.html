@@ -15,12 +15,7 @@
   data-admin-utc-offset="{% now "Z" %}">
 
 <!-- Container -->
-<div id="container">
-
-        <h2><a class="dropdown-item" href="{% url 'google-api:drive_authorize' %}" target="_blank">Drive</a> | 
-            <a class="dropdown-item" href="{% url 'google-api:youtube_authorize' %}" target="_blank">YouTube</a> |
-            <a class="dropdown-item" href="{% url 'siteuser:admin_media_index' %}">Media index</a></h2>
-        
+<div id="container">        
 
     {% if not is_popup %}
     <!-- Header -->

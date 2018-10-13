@@ -5,6 +5,14 @@ import json
 import glob
 from drb.models import (Version, Book, Chapter, Verse, Commentary, CommentaryText)
 
+import django
+from django.conf import settings
+from django.db import IntegrityError
+
+from siteuser.models import CustomUser
+
+from council.models import Council, Category, Document, Chapter, Paragraph
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 save_path = os.path.join(BASE_DIR, "drbo_org_scrap")
 data_store = os.path.join(BASE_DIR, "drbo_data")
@@ -17,6 +25,22 @@ OT = (os.path.join(data_store, "old_test.json"))
 CHAPS = glob.glob("{}/*.json".format(chapter_store))
 VERSES = glob.glob("{}/*.json".format(verse_store))
 COMMENTARIES = glob.glob("{}/*.json".format(challoner_store))
+
+def superuser():
+    try:
+        su = CustomUser.objects.create_user(email='orjichidi95@gmail.com', password='dwarfstar')
+        su.is_superuser = True
+        su.is_admin = True
+        su.is_active = True
+        su.save()
+    except IntegrityError:
+        su = CustomUser.objects.get(email='orjichidi95@gmail.com')
+        pass
+
+def setup_council():
+    Council.objects.get_or_create(name='second vatican')
+    for each in ['constitution', 'declaration', 'decree']:
+        Category.objects.get_or_create(name=each)
 
 def clean_name(name):
     """Remove asterisk"""
@@ -112,12 +136,14 @@ def create_all_commentaries():
                     commentary=commentary, heading=heading, book=book,
                     chapter=chapter, verse=verse, text=text)
 
-def run_all():
+def setup_drb():
     create_version()
     create_old_testament_books()
     create_new_testament_books()
     create_chapters_for_all_books()
     create_verse_for_all_books()
+
+def setup_challoner():
     create_all_commentaries()
 
 if __name__ == "__main__":

@@ -68,22 +68,9 @@ class CustomUser(AbstractBaseUser):
     def siteuser(self):
         return self.siteuser
 
-class Role(TimeStampedModel):
-    name = models.CharField(max_length=20, unique=True)
-
-    class Meta:
-        ordering = ('name',)
-
-    def __str__(self):
-        return self.name
-
-    def get_absolute_url(self):
-        return reverse('siteuser:role_index')
-
 class SiteUser(TimeStampedModel):
     user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     slug = AutoSlugField(set_using="screen_name")
-    roles = models.ManyToManyField(Role, default=1)
     screen_name = models.CharField(max_length=20, unique=True)
     first_name = models.CharField(max_length=20, blank=True, null=True)
     last_name = models.CharField(max_length=20, blank=True, null=True)
@@ -112,26 +99,11 @@ class SiteUser(TimeStampedModel):
         return reverse('douay-rheims:bible_index')
 
     def get_user_success_url(self):
-        return reverse()
+        pass
+        # return reverse()
 
     def get_user_creation_url(self):
         return reverse('siteuser:new_activation', args=[str(self.user.id), str(self.screen_name)])
-
-class Message(TimeStampedModel):
-    creator = models.ForeignKey(SiteUser, on_delete=models.SET_DEFAULT, default=1)
-    body = models.CharField(max_length=200)
-    read = models.BooleanField(default=False)
-    thread_id = models.CharField(max_length=50, default=uuid.uuid4)
-    receiver = models.ForeignKey(SiteUser, on_delete=models.SET_NULL, null=True, related_name='message_recipient')
-
-    class Meta:
-        ordering = ('read', '-created')
-
-    def __str__(self):
-        return "Message for {}".format(self.receiver.screen_name)
-
-    def get_absolute_url(self):
-        return reverse('siteuser:library', kwargs={'pk' : self.creator.pk, 'slug' : self.creator.slug})
 
 class SiteUserPermission(TimeStampedModel):
     name = models.CharField(max_length=50)
@@ -148,42 +120,12 @@ class SiteUserPermission(TimeStampedModel):
     def permitted_siteusers(self):
         return ", ".join([siteuser.screen_name for siteuser in self.siteuser.all()])
 
-# class SiteUserGroup(TimeStampedModel):
-#     name = models.CharField(max_length=30, blank=True, null=True)
-#     about_group = models.TextField()
-#     group_social = models.URLField(blank=True, null=True)
-#     members = models.ManyToManyField(SiteUser, through='GroupMembership')
+class Pontiff(TimeStampedModel):
+    first_name = models.CharField(max_length=50)
+    last_name = models.CharField(max_length=50)
+    papal_name = models.CharField(max_length=50)
+    begin = models.DateField()
+    finish = models.DateField()
 
-#     def __str__(self):
-#         return self.name
-
-#     def get_absolute_url(self):
-#         return reverse('siteuser:group_detail', kwargs={'pk' : self.pk})
-
-# class GroupMembership(TimeStampedModel):
-#     creator = models.ForeignKey(SiteUser, blank=True, null=True, on_delete=models.SET_NULL)
-#     group = models.ForeignKey(SiteUserGroup, blank=True, null=True, on_delete=models.SET_NULL)
-#     is_group_admin = models.BooleanField(default=False)
-
-#     def __str__(self):
-#         return self.group.name + " membership"
-
-#     def get_absolute_url(self):
-#         return reverse('siteuser:group_detail', kwargs={'pk' : self.group.pk})
-
-# class GroupJoinRequest(TimeStampedModel):
-#     creator = models.ForeignKey(SiteUser, null=True, blank=True, on_delete=models.SET_NULL)
-#     group_of_interest = models.ForeignKey(SiteUserGroup, null=True, blank=True, on_delete=models.SET_NULL)
-
-# class Badge(TimeStampedModel):
-#     name = models.CharField(max_length=30)
-#     description = models.CharField(max_length=200)
-#     hierarchy = models.IntegerField()
-#     color = models.CharField(max_length=30)
-#     siteuser = models.ManyToManyField(SiteUser)
-
-#     class Meta:
-#         ordering = ('hierarchy', )
-
-#     def __str__(self):
-#         return self.name
+    def __str__(self):
+        return self.papal_name

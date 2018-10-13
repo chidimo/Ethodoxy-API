@@ -151,11 +151,6 @@
 
 						<li class="nav-item logged-in-username">
 							<a class="nav-link" href="{% url 'siteuser:account_management' %}">
-								{% thumbnail user.siteuser.avatar "35x35" crop="center" as im %}
-									<div class="profile-image"><img class="card" src="{{ user.siteuser.avatar.url }}"></div>
-								{% empty %}
-    								<div class="profile-image"><img class="card" src="{% static 'img/django_logo.png' %}"></div>
-								{% endthumbnail %}
 								<div class="profile-name">{{ user.siteuser.screen_name }}</div>
 							 </a>
 						</li>

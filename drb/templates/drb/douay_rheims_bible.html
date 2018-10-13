@@ -6,7 +6,7 @@
 
 <div class="container" id="vue-instance">
     <div class="row" id="show-current-location">
-        <h6 class='float-left'>${ bible_version }$${ book_name }$${ chapter_number }$</h6>
+        <h6 class='float-left'>${ site_name }$${ pointer }$${ bible_version }$${ pointer }$${ book_name }$${ pointer }$${ chapter_number }$</h6>
     </div>
 
     <div class="row">
@@ -53,6 +53,8 @@
             book_name: "",
             chapter_number: "",
             bible_version: "",
+            site_name: "",
+            pointer: '',
         },
         mounted : function() {
         },
@@ -71,9 +73,12 @@
                         this.bible_text = response.data
                     });
                 $('#show-current-location').addClass('top-heading')
+                
                 this.bible_version = "Douay-Rheims bible",
-                this.book_name = ' >> ' + book_name;
-                this.chapter_number = ' >> ' + chapter_number
+                this.pointer = ' >> '
+                this.book_name = book_name;
+                this.chapter_number = chapter_number
+                this.site_name = 'Accessible Orthodoxy'
 
                 //scroll to top of page
                 document.body.scrollTop = document.documentElement.scrollTop = 0;

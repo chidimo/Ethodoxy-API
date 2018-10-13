@@ -6,12 +6,11 @@ from . import views
 app_name = 'douay-rheims'
 
 urlpatterns = [
-    path('', views.Index.as_view(), name='bible_index'),
     path('book/<slug:slug>/<int:pk>/', views.BookChapters.as_view(), name='book_detail'),
     path('<str:book_name>-<int:number>/<int:pk>/', views.ChapterDetail.as_view(), name='chapter_detail'),
     path('verse/<int:pk>/', views.VerseDetail.as_view(), name='verse_detail'),
     
-    path('single-page-view/', views.single_page_view, name='single_page_view'),
+    path('', views.douay_rheims_bible, name='douay_rheims_bible'),
     path('chapter/<int:pk>/', views.get_chapter, name='get_chapter'),
 ]
 

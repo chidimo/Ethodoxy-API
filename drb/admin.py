@@ -3,7 +3,7 @@ from django.contrib import admin
 from .models import Version, Book, Chapter, Verse, Commentary, CommentaryText, Topic
 
 class BookAdmin(admin.ModelAdmin):
-    list_display = ("name", "version_name", "position", "number_of_chapters", "alt_name", "testament", "slug", "deutero")
+    list_display = ("name", "version_name", "position", "book_chapter_count", "alt_name", "testament", "slug", "deutero")
     list_filter = ("alt_name",)
     search_fields = ('name', 'alt_name')
 

@@ -1,0 +1,72 @@
+{% extends "catholic_base.html" %}
+{% block title %}Douay-Rheims bible{% endblock title %}
+{% block introduction %}{% endblock introduction %}
+{% load drb_ttags_and_filters %}
+{% block  content_content %}
+
+<div class='container siteuser-index-heading'>
+    <div class='row'>
+        <h3 class='float-left'>The Complete Douay-Rheims bible</h3>
+    </div>
+</div>
+
+<div class="container" id="vue-instance">
+    <div class="row">
+        <div class="col-sm-3 book-listing">
+
+            {% for book in books %}
+
+                <div id="accordion">
+                    <div class="book-names" id="{{ book.name }}{{ forloop.counter }}">
+                        <button class="btn btn-md text-left book-name-buttons" data-toggle="collapse" data-target="#Collapse{{ forloop.counter }}" aria-expanded="true" aria-controls="collapse{{ forloop.counter }}">
+                            {{ book.name.title }}
+                        </button>
+                    </div>
+
+                        <div id="Collapse{{ forloop.counter }}" class="collapse" aria-labelledby="{{ book.name }}{{ forloop.counter }}" data-parent="#accordion">
+                            {% for chapter in book.chapter_set.all %}
+                                <p class="chapter-number-paragraph"><button class="btn btn-sm text-left chapter-buttons" v-on:click="getVerses({{ chapter.pk }})">{{ chapter }}</button></p>
+                            {% endfor %}
+                        </div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="col-sm-9" id="book-text">
+            <h2 id="intro">Click to open a chapter</h2>
+            <p class="show-verse-text" v-for="(text, index) in bible_text"><strong>${ index }$:</strong> ${ text }$</p>
+        </div>
+        
+    </div>
+</div>
+
+{% endblock content_content %}
+
+
+{% block page_js %}
+
+<script>
+    new Vue({
+        el: '#vue-instance',
+        delimiters: ['${', '}$'],
+        data : {
+            chapter: '',
+            books: [],
+            bible_text: "",
+        },
+        mounted : function() {
+        },
+        methods: {
+            getVerses:function (pk) {
+                this.$http.get("/douay-rheims/chapter/" + pk)
+                    .then((response) => {
+                        console.log(response.data)
+                        this.bible_text = response.data
+                    });
+                    var elem = document.getElementById("intro");
+                    elem.remove();
+            },
+        },
+    })
+
+</script>
+{% endblock page_js %}

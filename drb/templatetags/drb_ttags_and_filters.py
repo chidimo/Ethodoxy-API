@@ -52,3 +52,8 @@ def hyperlink_underlined(string_to_process):
 def markdown_format(text):
     convert_underlines = hyperlink_underlined(text)
     return mark_safe(convert_underlines)
+
+@register.filter()
+def render_queryset_as_list(queryset):
+    """Render a queryset as a list"""
+    return list(queryset)

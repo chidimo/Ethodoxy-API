@@ -38,8 +38,24 @@ class Book(TimeStampedModel):
     def get_absolute_url(self):
         pass
 
-    def number_of_chapters(self):
-        return self.chapter_set.count()
+    def book_chapter_count(self):
+        pass
+        # return self.chapter_set.count()
+
+    def book_verse_count(self):
+        pass
+        # count = 0
+        # for each in self.chapter_set.all():
+        #     count += each.chapter_verse_count()
+        # return count
+
+    def book_word_count(self):
+        pass
+        # word_count = 0
+        # for chapter in self.chapter_set.all():
+        #     for verse in chapter.verse_set.all():
+        #         word_count += len(verse.text)
+        # return word_count
 
 class Chapter(TimeStampedModel):
     book = models.ForeignKey(Book, on_delete=models.CASCADE)
@@ -53,10 +69,14 @@ class Chapter(TimeStampedModel):
         return self.book.name
 
     def __str__(self):
-        return "{} {}".format(self.book.name, self.number)
+        return "{} {}".format(self.book.name.title(), self.number)
 
     def get_absolute_url(self):
         pass
+
+    def chapter_verse_count(self):
+        pass
+        # return self.verse_set.count()
 
 class Verse(TimeStampedModel):
     chapter = models.ForeignKey(Chapter, on_delete=models.CASCADE)

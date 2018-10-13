@@ -1,11 +1,16 @@
 body {
   color: #830065;
   padding-top: 8rem;
-  background: #BCC6CC;
 }
 
 nav {
   background: #830065;
+}
+
+.night-mode{
+  background: black;
+  color: white;
+  /* color: white; */
 }
 
 .fixed-top {
@@ -151,7 +156,7 @@ a.upload-button {
 }
 
 .siteuser-index-heading {
-  background: #f2f3fb;
+  background: #F5D2D5;
   margin: 0.5rem 0;
   border-radius: 0.5rem;
   padding-bottom: 0.5rem;
@@ -316,27 +321,19 @@ input#id_password {
   content: "\f0da";
   float: right;
 }
-
 /* end dropdown styling */
+
+.single-commentary-entry {
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.5rem;
+  background: #ffe6ea;
+}
 
 .password-reset-conditions {
   border: 1px solid rgba(0,0,0,.125);
   text-align: left;
   color: red;
-  border-radius: 0.15rem;
-}
-
-.verse-box {
-  border: 1px solid rgba(0,0,0,.125);
   border-radius: 0.5rem;
-  background: #fff;
-}
-
-.container > .row > .col-sm-12 p.verse-text {
-  border: 1px solid rgba(0,0,0,.125);
-  padding: .25rem .5rem;
-  border-radius: 0.5rem;
-  background: #f2f3fb;
 }
 
 .fine-prints {
@@ -417,4 +414,59 @@ ul.errorlist {
   border: 1px solid #aaa;
   border-radius: 0.15rem;
   box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+}
+
+/* style bible SPA */
+.book-listing {
+  padding: 0;
+}
+
+.book-names {
+  padding:0;
+  color:blanchedalmond;
+}
+
+.chapter-display-name {
+  color:#830065;
+  background: #BCC6CC;
+  padding: 0 .5rem;
+  margin-bottom: .2rem;
+  /* border: 1px solid black; */
+  border-radius: .3rem;
+}
+
+.chapter-body {
+  padding: .15rem .25rem;
+}
+
+.book-name-buttons {
+  background:#F5D2D5;
+  margin-top:.25rem;
+  color:#830065; 
+  font-weight:bold;
+  border:.5px solid #830065;
+  font-family:serif;font-size:16px;
+  width:100%;
+  white-space: normal;
+  word-break: break-all;
+}
+
+.chapter-number-paragraph {
+  margin-top:.5rem;
+  margin-bottom:0;
+}
+
+.chapter-buttons {
+  border:1px solid black;
+  margin-left:.75rem;
+  width:90%;
+  white-space: normal;
+  word-break: break-all;
+}
+
+p.show-verse-text {
+  border: 1px solid rgba(0,0,0,.125);
+  padding: .25rem;
+  border-radius: 0.5rem;
+  background: #ffe6ea;
 }

@@ -1,3 +1,16 @@
+.top-heading {
+    background: #F5D2D5;
+    margin-top: 0.5rem;
+    border-radius: 0.5rem;
+    padding-bottom: 0.5rem;
+    border: .5px solid;
+}
+
+.top-heading h3, h6 {
+  margin-top: 0.6rem;
+  margin-left: 0.6rem;
+}
+
 .book-listing {
   padding: 0;
 }
@@ -50,4 +63,6 @@ p.show-verse-text {
   padding: .25rem;
   border-radius: 0.5rem;
   background: #ffe6ea;
+  margin-bottom: 0;
+  margin-top: .35rem;
 }

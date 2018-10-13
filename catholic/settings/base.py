@@ -60,6 +60,7 @@ PREREQ_APPS = [
 PROJECT_APPS = [
     'drb',
     'siteuser',
+    'council',
 ]
 
 THIRD_PARTY_APPS = [

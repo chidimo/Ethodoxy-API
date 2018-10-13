@@ -27,8 +27,8 @@ from pure_pagination.mixins import PaginationMixin
 from social_django.models import UserSocialAuth
 
 from .utils import star_or_unstar_object, check_recaptcha
-from .models import SiteUser, Role, Message
-from .forms import PassWordGetterForm, EmailAndPassWordGetterForm, SiteUserRegistrationForm, SiteUserEditForm, NewRoleForm
+from .models import SiteUser
+from .forms import PassWordGetterForm, EmailAndPassWordGetterForm, SiteUserRegistrationForm, SiteUserEditForm
 
 CustomUser = get_user_model()
 
@@ -248,8 +248,6 @@ def account_management(request):
     context['siteuser'] = siteuser
     context['user_songs'] = Song.objects.filter(creator=siteuser)
     context['user_posts'] = Post.objects.filter(creator=siteuser)
-    context['inbox_messages'] = Message.objects.filter(receiver=siteuser)
-    context['outbox_messages'] = Message.objects.filter(creator=siteuser)
     context['total_likes'] = "y"
 
     return render(request, template, context)

@@ -1,17 +1,12 @@
 # Catholic
 
-
 ## Json files data structure for DR bible
 
 new_test.json and old_test.json `{book name : [book url, book number]}`
 
-
 chapters folder json files `{book name : {chapter number : chapter url }}`
 
-
 verses folder json files `{book name-chapter number : {verse number : verse text}}`
-
-
 
 How it works
 

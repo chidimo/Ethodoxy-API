@@ -9,7 +9,7 @@ from django_addanother.widgets import AddAnotherWidgetWrapper
 from django.contrib.auth.forms import ReadOnlyPasswordHashField
 from django.forms.widgets import ClearableFileInput
 
-from .models import SiteUser, Role, Message
+from .models import SiteUser
 
 CustomUser = get_user_model()
 
@@ -113,15 +113,12 @@ class SiteUserRegistrationForm(forms.Form):
 class SiteUserEditForm(forms.ModelForm):
     class Meta:
         model = SiteUser
-        fields = ["first_name", "last_name", "location", "avatar", "roles"]
+        fields = ["first_name", "last_name", "location", "avatar"]
 
         widgets = {
             "first_name" : forms.TextInput(attrs={'class' : 'form-control', "placeholder" : "First name (maximum of 20 characters)"}),
             "last_name" : forms.TextInput(attrs={'class' : 'form-control', "placeholder" : "Last name (maximum of 20 characters)"}),
             "location" : forms.TextInput(attrs={'class' : 'form-control', "placeholder" : "Location (maximum of 50 characters)"}),
-            "roles" : AddAnotherWidgetWrapper(
-                forms.SelectMultiple(attrs={'class' : 'form-control'}),
-                reverse_lazy('siteuser:role_create')),
             'avatar' : ClearableFileInput(attrs={'class' : 'form-control', 'accept' : '.png, .PNG, .jpg, .JPG, .jpeg, .JPG'}),
         }
 
@@ -152,28 +149,3 @@ class EmailAndPassWordGetterForm(forms.Form):
     email = forms.CharField(
         required=True,
         widget=forms.TextInput(attrs={'class':'form-control', 'type':'password', "placeholder" : "Enter password"}))
-
-class NewRoleForm(forms.ModelForm):
-    class Meta:
-        model = Role
-        fields = ("name", )
-
-        widgets = {
-            "name" : forms.TextInput(
-                attrs={'class' : 'form-control', "placeholder" : "Role"})
-        }
-
-    def clean(self):
-        name = self.cleaned_data.get("name", None).lower().strip()
-        if Role.objects.filter(name=name):
-            self.add_error('name', "Role with this name already exists")
-
-class RoleEditForm(forms.ModelForm):
-    class Meta:
-        model = Role
-        fields = ("name", )
-
-        widgets = {
-            "name" : forms.TextInput(
-                attrs={'class' : 'form-control', "placeholder" : "Role"})
-        }

@@ -1,26 +1,26 @@
 {% extends "catholic_base.html" %}
-{% block title %}List of all commentaries{% endblock title %}
+{% block title %}Challoner commentary{% endblock title %}
 {% block introduction %}{% endblock introduction %}
 {% block  content_content %}
 
 <div class='container siteuser-index-heading'>
     <div class='row'>
-        <h3 class='float-left'>Commentaries</h3>
+        <h3 class='float-left'>Challoner commentary</h3>
     </div>
 </div>
     
 <div class="container">
     <div class="row">
-        <div class="col-sm-12">
-            {% for commentary in commentaries %}
-                <h4>{{ commentary.heading }}</h4>
-                <h6>{{ commentary.commentary_source }}</h6>
+        {% for commentary in commentaries %}
+            <div class="col-sm-12 single-commentary-entry">
+                <h4 class="text-success">{{ commentary.commentary_source.title }}</h4>
+                <h6>{{ commentary.heading }}</h6>
                 <p>{{ commentary.text }}</p>
+            </div>
     
             {% empty %}
                 <p style="margin-bottom:25rem">Coming soon</p>                
             {% endfor %}
-        </div>
     </div>
 </div>
 {% endblock content_content %}

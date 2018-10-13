@@ -19,3 +19,6 @@ urlpatterns += [
     path('challoner/', views.CommentaryByChapter.as_view(), name='commentaries'),
     path('commentary/challoner/<slug:slug>/', views.CommentaryTextDetail.as_view(), name='commentary_detail'),
 ]
+
+
+# <h3 class='float-left'>The Complete Douay-Rheims bible<span class="current-book"> >>  ${ book_name }$</span><span class="current-chapter"> >> ${ book_chapter }$</span></h3>

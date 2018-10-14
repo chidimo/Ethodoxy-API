@@ -26,6 +26,28 @@ CHAPS = glob.glob("{}/*.json".format(chapter_store))
 VERSES = glob.glob("{}/*.json".format(verse_store))
 COMMENTARIES = glob.glob("{}/*.json".format(challoner_store))
 
+# Constitutions
+#     Dei Verbum
+#     Lumen Gentium
+#     Sacrosanctum Concilium
+#     Gaudium et Spes
+
+# Declarations
+#     Gravissimum Educationis
+#     Nostra Aetate
+#     Dignitatis Humanae
+
+# Decrees
+#     Ad Gentes
+#     Presbyterorum Ordinis
+#     Apostolicam Actuositatem
+#     Optatam Totius
+#     Perfectae Caritatis
+#     Christus Dominus
+#     Unitatis Redintegratio
+#     Orientalium Ecclesiarum
+#     Inter Mirifica
+
 def superuser():
     try:
         su = CustomUser.objects.create_user(email='orjichidi95@gmail.com', password='dwarfstar')

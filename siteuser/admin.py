@@ -22,7 +22,7 @@ class SiteUserPermissionAdmin(admin.ModelAdmin):
     list_display = ('name', 'code_name', 'permitted_siteusers')
 
 class PontiffAdmin(admin.ModelAdmin):
-    list_display = ('papal_name', 'first_name', 'last_name',)
+    list_display = ('papal_name', 'first_name', 'last_name', 'begin', 'finish')
 
 class UserAdmin(BaseUserAdmin):
     form = UserChangeForm
@@ -48,7 +48,7 @@ class UserAdmin(BaseUserAdmin):
 
 admin.site.register(SiteUser, SiteUserAdmin)
 admin.site.register(CustomUser, UserAdmin)
-admin.site.register(Pontiff)
+admin.site.register(Pontiff, PontiffAdmin)
 admin.site.register(Permission)
 admin.site.register(SiteUserPermission, SiteUserPermissionAdmin)
 

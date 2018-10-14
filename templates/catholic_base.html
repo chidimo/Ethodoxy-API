@@ -57,84 +57,23 @@
 				<ul class="nav navbar-nav lefthand-navigation">
 
 					<div class="btn-group navigation-buttons">
-						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Bibles</a>
+						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Scripture</a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
-							<li><a class="dropdown-item" tabindex="-1" href="{% url 'douay-rheims:douay_rheims_bible' %}">Douay-Rheims</a></li>
+							<li><a class="dropdown-item" tabindex="-1" href="{% url 'douay-rheims:douay_rheims_bible' %}">Douay-Rheims bible</a></li>
+							<li><a class="dropdown-item" tabindex="-1" href="{% url 'douay-rheims:commentaries' %}">Challoner commentary</a></li>
 						</ul>
 					</div>
 
 					<div class="btn-group navigation-buttons">
-						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Commentaries</a>
+						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Church documents</a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
-							<li><a class="dropdown-item" tabindex="-1" href="{% url 'douay-rheims:commentaries' %}">Challoner</a></li>
-						</ul>
-					</div>
-
-
-					<div class="btn-group navigation-buttons">
-						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Vatican II</a>
-						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
-							<li class="dropdown-submenu">
-								<a class="dropdown-item" tabindex="-1" href="#">Constitutions</a>
-								<ul class="dropdown-menu">
-									<li><a class="dropdown-item" href="#">Dei Verbum</a></li>
-									<li><a class="dropdown-item" href="#">Lumen Gentium</a></li>
-									<li><a class="dropdown-item" href="#">Sacrosanctum Concilium</a></li>
-									<li><a class="dropdown-item" href="#">Gaudium et Spes</a></li>
-								</ul>
-							</li>
-							<li class="dropdown-divider"></li>
-
-							<li class="dropdown-submenu">
-								<a class="dropdown-item" tabindex="-1" href="#">Declarations</a>
-								<ul class="dropdown-menu">
-									<li><a class="dropdown-item" href="#">Gravissimum Educationis</a></li>
-									<li><a class="dropdown-item" href="#">Nostra Aetate</a></li>
-									<li><a class="dropdown-item" href="#">Dignitatis Humanae</a></li>
-								</ul>
-							</li>
-							<li class="dropdown-divider"></li>
-
-							<li class="dropdown-submenu">
-								<a class="dropdown-item" tabindex="-1" href="#">Decrees</a>
-								<ul class="dropdown-menu">
-									<li><a class="dropdown-item" href="#">Ad Gentes</a></li>
-									<li><a class="dropdown-item" href="#">Presbyterorum Ordinis</a></li>
-									<li><a class="dropdown-item" href="#">Apostolicam Actuositatem</a></li>
-									<li><a class="dropdown-item" href="#">Optatam Totius</a></li>
-									<li><a class="dropdown-item" href="#">Perfectae Caritatis</a></li>
-									<li><a class="dropdown-item" href="#">Christus Dominus</a></li>
-									<li><a class="dropdown-item" href="#">Unitatis Redintegratio</a></li>
-									<li><a class="dropdown-item" href="#">Orientalium Ecclesiarum</a></li>
-									<li><a class="dropdown-item" href="#">Inter Mirifica</a></li>
-								</ul>
-							</li>
+							<li><a class="dropdown-item" tabindex="-1" href="">Council documents</a></li>
+							<li><a class="dropdown-item" tabindex="-1" href="">Encyclicals</a></li>
 						</ul>
 					</div>
 
 					<div class="btn-group navigation-buttons">
-						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Encyclicals</a>
-						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
-							<li class="dropdown-submenu">
-								<a class="dropdown-item" tabindex="-1" href="#">Pope, St. JP II</a>
-								<ul class="dropdown-menu">
-									<li><a class="dropdown-item" href="#">Holder</a></li>
-								</ul>
-							</li>
-							<li class="dropdown-divider"></li>
-
-							<li class="dropdown-submenu">
-								<a class="dropdown-item" tabindex="-1" href="#">Benedict XVI</a>
-								<ul class="dropdown-menu">
-									<li><a class="dropdown-item" href="#">Holder</a></li>
-								</ul>
-							</li>
-
-						</ul>
-					</div>
-
-					<div class="btn-group navigation-buttons">
-						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Bulls</a>
+						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Papal bulls</a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
 							<li class="dropdown-submenu">
 								<a class="dropdown-item" tabindex="-1" href="#">Pope Innocent</a>
@@ -147,6 +86,8 @@
 				</ul>
 
 				<ul class="navbar-nav ml-auto righthand-navigation">
+					<li class="nav-item login-logout enter-night-mode"><a class="btn btn-primary btn-sm upload-button" href="#">Night mode</a></li>
+					<li class="nav-item login-logout enter-day-mode"><a class="btn btn-primary btn-sm upload-button" href="#">Day mode</a></li>
 					{% if user.is_authenticated %}
 
 						<li class="nav-item logged-in-username">
@@ -174,10 +115,8 @@
 							</div>
 						</li>
 					{% else %}
-						<li class="nav-item login-logout enter-night-mode"><a class="btn btn-primary btn-sm upload-button" href="#">Night mode</a></li>
-						<li class="nav-item login-logout enter-day-mode"><a class="btn btn-primary btn-sm upload-button" href="#">Day mode</a></li>
-						<li class="nav-item login-logout"><a class="btn btn-info btn-sm upload-button" href="{% url 'siteuser:login' %}">Log In</a></li>
-						<li class="nav-item login-logout"><a class="btn btn-primary btn-sm upload-button" href="{% url 'siteuser:new' %}">Sign Up</a></li>
+					<li class="nav-item login-logout"><a class="btn btn-info btn-sm upload-button" href="{% url 'siteuser:login' %}">Log In</a></li>
+					<li class="nav-item login-logout"><a class="btn btn-primary btn-sm upload-button" href="{% url 'siteuser:new' %}">Sign Up</a></li>
 					{% endif %}
 
 				</ul>

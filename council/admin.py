@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Council, Category, Document, Chapter, Paragraph
+from .models import Council, Category, Document, Chapter, Article, Note
 
 class CouncilAdmin(admin.ModelAdmin):
     list_display = ('name', 'slug', 'location')
@@ -14,11 +14,15 @@ class DocumentAdmin(admin.ModelAdmin):
 class ChapterAdmin(admin.ModelAdmin):
     list_display = ('document', 'title', 'number')
 
-class ParagraphAdmin(admin.ModelAdmin):
+class ArticleAdmin(admin.ModelAdmin):
     list_display = ('chapter', 'number', 'text')
+
+class NoteAdmin(admin.ModelAdmin):
+    list_display = ('number', 'article', 'text')
 
 admin.site.register(Council, CouncilAdmin)
 admin.site.register(Category, CategoryAdmin)
 admin.site.register(Document, DocumentAdmin)
 admin.site.register(Chapter, ChapterAdmin)
-admin.site.register(Paragraph, ParagraphAdmin)
+admin.site.register(Article, ArticleAdmin)
+admin.site.register(Note, NoteAdmin)

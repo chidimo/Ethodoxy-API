@@ -54,12 +54,12 @@ class Chapter(TimeStampedModel):
         return self.document.name
 
     def __str__(self):
-        return "{} {}".format(self.document.latin_name.title(), self.number)
+        return "{} chapter {}: {}".format(self.document.latin_name.title(), self.number, self.title)
 
     def get_absolute_url(self):
         pass
 
-class Paragraph(TimeStampedModel):
+class Article(TimeStampedModel):
     chapter = models.ForeignKey(Chapter, on_delete=models.CASCADE)
     number = models.IntegerField()
     text = models.TextField()
@@ -74,7 +74,15 @@ class Paragraph(TimeStampedModel):
         return self.chapter.number
 
     def __str__(self):
-        return "{} {}: {}".format(self.chapter.document.latin_name, self.chapter.number, self.number)
+        return "{} Chapter {}: {}".format(self.chapter.document.latin_name.title(), self.number, self.chapter.title)
 
     def get_absolute_url(self):
         pass
+
+class Note(TimeStampedModel):
+    number = models.IntegerField()
+    article = models.ForeignKey(Article, on_delete=models.CASCADE)
+    text = models.CharField(max_length=1000)
+
+    def __str__(self):
+        return "{}. {}".format(self.number, self.article.chapter.title)

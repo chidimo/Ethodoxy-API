@@ -29,7 +29,7 @@ challoner_store = os.path.join(BASE_DIR, "drbo_data", "challoner")
 def normalize_filename(file_name):
     return "_".join([each.lower() for each in re.split(r"[\, *, \/]", file_name) if each != ''])
 
-# home = Ripper(domain, save_path="D:\git\ethordoxy\drbo_org_scrap")
+# home = Ripper(domain, save_path="D:\git\ethodoxy\drbo_org_scrap")
 # home_links = list(home.links())
 
 # In[ ]:

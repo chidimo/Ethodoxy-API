@@ -1,5 +1,4 @@
 .top-heading {
-    background: #F5D2D5;
     margin-top: 0.5rem;
     border-radius: 0.5rem;
     padding-bottom: 0.5rem;
@@ -17,15 +16,12 @@
 
 .book-names {
   padding:0;
-  color:blanchedalmond;
+  /*color:blanchedalmond;*/
 }
 
 .chapter-display-name {
-  color:#830065;
-  background: #BCC6CC;
   padding: 0 .5rem;
   margin-bottom: .2rem;
-  /* border: 1px solid black; */
   border-radius: .3rem;
 }
 
@@ -34,9 +30,8 @@
 }
 
 .book-name-buttons {
-  background:#F5D2D5;
   margin-top:.25rem;
-  color:#830065; 
+  /*color:#830065; */
   font-weight:bold;
   border:.5px solid #830065;
   font-family:serif;font-size:16px;
@@ -62,7 +57,6 @@ p.show-verse-text {
   border: 1px solid rgba(0,0,0,.125);
   padding: .25rem;
   border-radius: 0.5rem;
-  background: #ffe6ea;
   margin-bottom: 0;
   margin-top: .35rem;
 }

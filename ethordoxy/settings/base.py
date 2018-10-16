@@ -2,7 +2,6 @@
 
 import os
 from django.urls import reverse_lazy
-from django.core.exceptions import ImproperlyConfigured
 from django.contrib.messages import constants as messages
 
 from decouple import config, Csv

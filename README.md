@@ -1,4 +1,4 @@
-# Ethordoxy
+# Ethodoxy
 
 ## Json files data structure for DR bible
 

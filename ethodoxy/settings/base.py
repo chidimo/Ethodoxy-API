@@ -9,10 +9,10 @@ from decouple import config, Csv
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
-ROOT_URLCONF = 'ethordoxy.urls'
+ROOT_URLCONF = 'ethodoxy.urls'
 SECRET_KEY = config('SECRET_KEY')
 
-WSGI_APPLICATION = 'ethordoxy.wsgi.application'
+WSGI_APPLICATION = 'ethodoxy.wsgi.application'
 INTERNAL_IPS = ('127.0.0.1', 'localhost')
 
 MESSAGE_LEVEL = 10  # DEBUG
@@ -27,9 +27,9 @@ MESSAGE_TAGS = {
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = config('EMAIL_PORT')
-EMAIL_HOST_USER = 'ethordoxy@outlook.com'
+EMAIL_HOST_USER = 'ethodoxy@outlook.com'
 EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
-DEFAULT_FROM_EMAIL = 'ethordoxy@outlook.com'
+DEFAULT_FROM_EMAIL = 'ethodoxy@outlook.com'
 
 LOGIN_URL = reverse_lazy('siteuser:login')
 LOGOUT_URL = reverse_lazy('siteuser:logout')

@@ -1,4 +1,4 @@
-# Catholic
+# Ethordoxy
 
 ## Json files data structure for DR bible
 

@@ -1,23 +1,20 @@
 body {
-  color: #830065;
-  padding-top: 8rem;
+  padding-top: 4.5rem;
 }
 
-nav {
-  background: #830065;
+.night-mode-headers {
+  color: #507aa6;
 }
-
 .night-mode{
-  background: black;
-  color: black;
-  /* color: white; */
+  color: white;
 }
 
 .fixed-top {
-  font-size: 15px;
-  /* padding: 0; */
-  min-height: 10rem;
   font-family: 'Inconsolata', monospace;
+}
+
+.navbar-brand {
+  font-size: 28px;
 }
 
 /* fix nav scrolling on small screens */
@@ -28,40 +25,14 @@ nav {
       overflow-x: hidden !important;
   }
 }
-.fixed-top > a.navbar-brand {
-  margin-left: 1.5rem;
-  padding-top: 0;
-  padding-bottom: 0;
-}
-.fixed-top > a.navbar-brand > h3 {
-  margin-bottom: 0.2rem;
-}
+
 .fixed-top > .navcontent {
   padding-right: 2.5rem;
   padding-top: 0;
   padding-bottom: 0;
 }
-.fixed-top > .navcontent > ul > li > a:hover {
-  background: #34348f;
-}
-.fixed-top sup.notification {
-  color: red;
-  font-size: 14px;
-}
-.navbar-nav a {
-  color: #BCC6CC;
-  font-size: 15px;
-  font-weight: bold;
-}
-.navbar-nav .nav-link {
-  padding-right: 0;
-  padding-left: 0.65rem;
-}
-.navbar-nav .login-logout {
-  padding-right: 0;
-  padding-left: 0.675rem;
-  margin-bottom: 0.2rem;
-}
+
+
 .my-toggler.navbar-toggler {
   border-color: rgb(250, 57, 57);
 }
@@ -82,41 +53,23 @@ ul.righthand-navigation {
   padding-bottom: 2rem;
   margin-top: 0.025rem;
 }
-.logged-in-username > a:hover {
-  background: #34348f;
-}
 
-.navigation-buttons a.top-level-button {
-  background: #830065;
-  border: none;
-}
-
-a.dropdown-item {
-  color: rgb(144, 54, 247);
-}
-h1, h2, h3, h4, h5, h6 {
-  color: #830065;
-  font-family: 'Inconsolata', monospace;
-}
-a {
-  color: rgb(144, 54, 247);
-}
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   border: none;
-  color: blue;
+  color: none;
 }
 
 label {
   font-weight: bold;
 }
+
 hr {
   border: 0;
   border-top: 1px solid rgb(144, 54, 247);
 }
 
 .content-block {
-  background-color: #cdd0d7;
   max-width: 1000px;
   margin: auto;
   box-shadow: 1px 3px 7px 3px #c4c7ce inset;
@@ -135,18 +88,14 @@ td, th {
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
   padding: 0 1rem 2.75rem;
-  background: #f0eeee;
   border: 1px solid #d7d7d7;
   border-radius: 0.15rem;
 }
 
 a.upload-button {
   color: white;
-  margin-right: 0.35rem;
+  margin-right: 0.25rem;
   margin-top: 0.3rem;
-}
-.related-widget-wrapper-link {
-  background: blanchedalmond;
 }
 
 .register-btn {
@@ -156,7 +105,6 @@ a.upload-button {
 }
 
 .siteuser-index-heading {
-  background: #F5D2D5;
   margin: 0.5rem 0;
   border-radius: 0.5rem;
   padding-bottom: 0.5rem;
@@ -172,14 +120,12 @@ h5 {
   z-index: 1020;
 }
 .social-google {
-  background: #8ac2ff;
   border-radius: 0.5rem;
   height: 2.5rem;
   margin-bottom: 0.5rem;
 }
 .social-google .login-using-icon-div {
   color: white;
-  background: #3071d5;
   border-top-left-radius: 0.2rem;
   border-bottom-left-radius: 0.2rem;
   width: 20%;
@@ -194,7 +140,6 @@ h5 {
 .social-google .login-using-text-div {
   color: white;
   font-family: 'Inconsolata', monospace;
-  background: #468dfa;
   border-top-right-radius: 0.15rem;
   border-bottom-right-radius: 0.15rem;
   width: 80%;
@@ -253,18 +198,7 @@ input#id_password {
   height: 40px;
   padding: 3px;
 }
-.social-logins > a.google-login {
-  background: #dd4b39;
-}
-.social-logins > a.facebook-login {
-  background: #3b5998;
-}
-.social-logins > a.yahoo-login {
-  background: #7B0099;
-}
-.social-logins > a.twitter-login {
-  background: #00aced;
-}
+
 .login-form {
   max-width: 350px;
   margin: auto;
@@ -312,7 +246,6 @@ input#id_password {
   color: #212529;
   text-align: inherit;
   white-space: nowrap;
-  background-color: transparent;
   border: 0;
 }
 
@@ -326,7 +259,6 @@ input#id_password {
 .single-commentary-entry {
   border: 1px solid rgba(0,0,0,.125);
   border-radius: 0.5rem;
-  background: #ffe6ea;
 }
 
 .password-reset-conditions {
@@ -344,12 +276,6 @@ input#id_password {
   margin: 20px 0;
 }
 
-tbody tr:nth-child(even) {
-  background-color: #e3e3e3;
-}
-tbody tr:nth-child(odd) {
-  background-color: #efefef;
-}
 .table td {
   padding: 0.2rem 0.5rem;
   border-top: 0;
@@ -358,7 +284,6 @@ tbody tr:nth-child(odd) {
   padding: 0 0.5rem;
   border-bottom: 1px solid;
   color: #fff;
-  background-color: #212529;
   border-color: #32383e;
 }
 .table {
@@ -373,7 +298,6 @@ tbody tr:nth-child(odd) {
   display: block;
   padding: 1rem;
   margin: 0.75rem 0;
-  background: #e9ecef;
   border-radius: 0.15rem;
   border: 0.6px solid;
 }
@@ -384,7 +308,6 @@ a.icon-buttons, button.icon-buttons, span.icon-buttons {
   font-weight: 600;
   line-height: 20px;
   vertical-align: middle;
-  background-color: #fff;
   border: 1px solid rgba(27,31,35,0.2);
   border-radius: 3px;
   margin: 2px 1px;
@@ -410,7 +333,6 @@ ul.errorlist {
   padding: 0;
 }
 .form-control {
-  background: #fcfcfc;
   border: 1px solid #aaa;
   border-radius: 0.15rem;
   box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;

@@ -49,7 +49,7 @@ class VerseDetail(generic.DetailView):
 
 class CommentaryByChapter(PaginationMixin, generic.ListView):
     model = CommentaryText
-    template_name = "drb/commentary_index.html"
+    template_name = "drb/challoner.html"
     context_object_name = "commentaries"
     paginate_by = 20
 

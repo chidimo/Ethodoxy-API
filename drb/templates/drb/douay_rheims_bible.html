@@ -2,6 +2,11 @@
 {% block title %}Douay-Rheims bible{% endblock title %}
 {% block introduction %}{% endblock introduction %}
 {% load drb_ttags_and_filters %}
+
+{% block breadcrumb %}
+    <li class="breadcrumb-item active" aria-current="page">Douay-Rheims bible</li>
+{% endblock breadcrumb %}
+
 {% block  content_content %}
 
 <div class="container" id="vue-instance">
@@ -16,14 +21,14 @@
 
                 <div id="accordion">
                     <div class="book-names" id="{{ book.name }}{{ forloop.counter }}">
-                        <button class="btn btn-md text-left book-name-buttons" data-toggle="collapse" data-target="#Collapse{{ forloop.counter }}" aria-expanded="true" aria-controls="collapse{{ forloop.counter }}">
+                        <button class="btn btn-md btn-primary disabled text-left book-name-buttons" data-toggle="collapse" data-target="#Collapse{{ forloop.counter }}" aria-expanded="true" aria-controls="collapse{{ forloop.counter }}">
                             {{ book.name.title }}
                         </button>
                     </div>
 
                         <div id="Collapse{{ forloop.counter }}" class="collapse" aria-labelledby="{{ book.name }}{{ forloop.counter }}" data-parent="#accordion">
                             {% for chapter in book.chapter_set.all %}
-                                <p class="chapter-number-paragraph"><button class="btn btn-sm text-left chapter-buttons" v-on:click="getVerses({{ chapter.pk }}, '{{ chapter.book.name.title }}', {{ chapter.number }})">{{ chapter }}</button></p>
+                                <p class="chapter-number-paragraph"><button class="btn btn-sm btn-secondary disabled text-left chapter-buttons" v-on:click="getVerses({{ chapter.pk }}, '{{ chapter.book.name.title }}', {{ chapter.number }})">{{ chapter }}</button></p>
                             {% endfor %}
                         </div>
                 </div>
@@ -78,7 +83,7 @@
                 this.pointer = ' >> '
                 this.book_name = book_name;
                 this.chapter_number = chapter_number
-                this.site_name = 'Accessible Orthodoxy'
+                this.site_name = 'Ethordoxy'
 
                 //scroll to top of page
                 document.body.scrollTop = document.documentElement.scrollTop = 0;

@@ -59,7 +59,9 @@ PREREQ_APPS = [
 ]
 
 PROJECT_APPS = [
-    'drb',
+    'bible',
+    'commentary',
+    'encyc',
     'siteuser',
     'council',
 ]

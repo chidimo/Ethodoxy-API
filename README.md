@@ -22,7 +22,12 @@ Each underlined item will link to a url. It will pass the following argument `bo
 1. Run `python manage.py shell_plus` to enter an interactive shell
 1. Create admin user by running `superuser()`. You can change the associated email from `fixtures/starter.py`
 1. Set up **Douay-Rheims** bible by running the following commands in order
-    `python manage.py add_version`
+    `python manage.py create_version`
+    `python manage.py create_ot`
+    `python manage.py create_nt`
+    `python manage.py create_chapters`
+    `python manage.py create_chapters`
+
 1. Run `setup_challoner()` to create the `Challoner` commentary entries.
 
 

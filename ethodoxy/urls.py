@@ -6,7 +6,8 @@ from django.conf import settings
 from django.contrib import admin
 from django.conf.urls.static import static
 
-from drb.api.urls import apiurlpatterns
+from bible.api.urls import bible_api_urls
+from commentary.api.urls import commentary_api_urls
 
 from .import views
 
@@ -15,9 +16,11 @@ api_urls = 'drb.api.urls'
 urlpatterns = [
     path('', views.home),
     path('admin/', admin.site.urls),
-    path('douay-rheims/', include('drb.urls')),
+    path('bible/', include('bible.urls')),
+    path('commentary/', include('commentary.urls')),
     path("members/", include('siteuser.urls')),
-    path('api/', include((apiurlpatterns , 'drb-api'))),
+    path('bible/api/', include((bible_api_urls , 'bible-api'))),
+    path('commentary/api/', include((commentary_api_urls , 'commentary-api'))),
 ]
 
 urlpatterns += [

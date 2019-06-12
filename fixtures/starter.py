@@ -11,7 +11,7 @@ from django.db import IntegrityError
 
 from siteuser.models import CustomUser
 
-from council.models import Council, Category, Document, Chapter, Paragraph
+from council.models import Council, Category, Document, Chapter, Article
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 save_path = os.path.join(BASE_DIR, "drbo_org_scrap")
@@ -48,17 +48,6 @@ COMMENTARIES = glob.glob("{}/*.json".format(challoner_store))
 #     Orientalium Ecclesiarum
 #     Inter Mirifica
 
-def superuser():
-    try:
-        su = CustomUser.objects.create_user(email='orjichidi95@gmail.com', password='dwarfstar')
-        su.is_superuser = True
-        su.is_admin = True
-        su.is_active = True
-        su.save()
-    except IntegrityError:
-        su = CustomUser.objects.get(email='orjichidi95@gmail.com')
-        pass
-
 def setup_council():
     Council.objects.get_or_create(name='second vatican')
     for each in ['constitution', 'declaration', 'decree']:
@@ -68,9 +57,6 @@ def clean_name(name):
     """Remove asterisk"""
     name = name.replace("*", "").strip().lower()
     return name
-
-def create_version(name="douay-rheims", location="http://drbo.org/"):
-    Version.objects.get_or_create(name=name, location=location)
 
 def create_old_testament_books():
     version, _ = Version.objects.get_or_create(name="douay-rheims")
@@ -159,7 +145,6 @@ def create_all_commentaries():
                     chapter=chapter, verse=verse, text=text)
 
 def setup_drb():
-    create_version()
     create_old_testament_books()
     create_new_testament_books()
     create_chapters_for_all_books()

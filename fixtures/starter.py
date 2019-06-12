@@ -3,7 +3,7 @@
 import os
 import json
 import glob
-from drb.models import (Version, Book, Chapter, Verse, Commentary, CommentaryText)
+from bible.models import (Version, Book, Chapter, Verse, Commentary, CommentaryText)
 
 import django
 from django.conf import settings

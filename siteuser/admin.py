@@ -4,7 +4,7 @@ from django.contrib import admin
 from django.contrib.auth.models import Group, Permission
 from django.contrib.auth.admin import UserAdmin as BaseUserAdmin
 
-from .models import CustomUser, SiteUser, SiteUserPermission, Pontiff
+from .models import CustomUser, SiteUser, SiteUserPermission
 from .forms import UserChangeForm, UserCreationForm
 
 from django.contrib.sessions.models import Session
@@ -20,9 +20,6 @@ class SiteUserAdmin(admin.ModelAdmin):
 
 class SiteUserPermissionAdmin(admin.ModelAdmin):
     list_display = ('name', 'code_name', 'permitted_siteusers')
-
-class PontiffAdmin(admin.ModelAdmin):
-    list_display = ('papal_name', 'first_name', 'last_name', 'begin', 'finish')
 
 class UserAdmin(BaseUserAdmin):
     form = UserChangeForm
@@ -48,7 +45,6 @@ class UserAdmin(BaseUserAdmin):
 
 admin.site.register(SiteUser, SiteUserAdmin)
 admin.site.register(CustomUser, UserAdmin)
-admin.site.register(Pontiff, PontiffAdmin)
 admin.site.register(Permission)
 admin.site.register(SiteUserPermission, SiteUserPermissionAdmin)
 

@@ -1,8 +1,8 @@
 from django.db import models
-from universal.models import TimeStampedModel
-from universal.fields import AutoSlugField, AutoMultipleSlugField
+from helpers.models import TimeStampedModel
+from helpers.fields import AutoSlugField, AutoMultipleSlugField
 
-from siteuser.models import Pontiff
+from encyc.models import Pontiff
 
 class Council(TimeStampedModel):
     name = models.CharField(max_length=100, unique=True)

@@ -1,7 +1,8 @@
 **/__pycache__
 __pycache__
 */__pycache__/
-.vscode
+.vscode/
 .ipynb_checkpoints
 .env
 staticfiles/
+db.sqlite3

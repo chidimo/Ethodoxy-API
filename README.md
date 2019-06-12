@@ -14,7 +14,43 @@ Each verse is a single unit in the database table.
 
 Each underlined item will link to a url. It will pass the following argument `book, chapter, underlined text`
 
-To Do
+## Recreating the database
+
+1. Clone the repo
+1. Run `pipenv install` and `pipenv install --dev`
+1. Run `python manage.py migrate`
+1. Run `python manage.py shell_plus` to enter an interactive shell
+1. Create admin user by running `superuser()`. You can change the associated email from `fixtures/starter.py`
+1. Set up **Douay-Rheims** bible by running the following commands in order
+    `python manage.py add_version`
+1. Run `setup_challoner()` to create the `Challoner` commentary entries.
+
+
+## Vatican II Documents
+
+# Constitutions
+#     Dei Verbum
+#     Lumen Gentium
+#     Sacrosanctum Concilium
+#     Gaudium et Spes
+
+# Declarations
+#     Gravissimum Educationis
+#     Nostra Aetate
+#     Dignitatis Humanae
+
+# Decrees
+#     Ad Gentes
+#     Presbyterorum Ordinis
+#     Apostolicam Actuositatem
+#     Optatam Totius
+#     Perfectae Caritatis
+#     Christus Dominus
+#     Unitatis Redintegratio
+#     Orientalium Ecclesiarum
+#     Inter Mirifica
+
+## To Do
 
 Scrap topics from drbo.org
 Include footnotes and cross-references for haydock

@@ -11,6 +11,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 ROOT_URLCONF = 'ethodoxy.urls'
 SECRET_KEY = config('SECRET_KEY')
+DATABASE_URL = config('DATABASE_URL')
 
 WSGI_APPLICATION = 'ethodoxy.wsgi.application'
 INTERNAL_IPS = ('127.0.0.1', 'localhost')
@@ -45,7 +46,8 @@ LOGOUT_URL = reverse_lazy('siteuser:logout')
 
 SHELL_PLUS_POST_IMPORTS = [
     ('fixtures', '*'),
-    ('fixtures'),]
+    ('fixtures'),
+]
 
 PREREQ_APPS = [
     'django.contrib.admin',

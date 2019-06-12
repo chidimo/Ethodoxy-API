@@ -2,6 +2,17 @@ from .base import *
 
 DEBUG = True
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': 'ethodoxy',
+#         'USER': 'postgres',
+#         'PASSWORD': config('DEV_DB_PASSWORD'),
+#         'HOST': 'localhost',
+#         'PORT': 5432
+#     }
+# }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',

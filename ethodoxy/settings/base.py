@@ -61,9 +61,10 @@ PREREQ_APPS = [
 PROJECT_APPS = [
     'bible',
     'commentary',
-    'encyc',
-    'siteuser',
     'council',
+    'encyc',
+    'people',
+    'siteuser',
 ]
 
 THIRD_PARTY_APPS = [

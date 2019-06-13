@@ -2,7 +2,7 @@ from django.db import models
 from helpers.models import TimeStampedModel
 from helpers.fields import AutoSlugField, AutoMultipleSlugField
 
-from encyc.models import Pontiff
+from people.models import Pope
 
 class Council(TimeStampedModel):
     name = models.CharField(max_length=100, unique=True)
@@ -23,7 +23,7 @@ class Category(TimeStampedModel):
         return self.name
 
 class Document(TimeStampedModel):
-    pontiff = models.ForeignKey(Pontiff, on_delete=models.CASCADE)
+    pontiff = models.ForeignKey(Pope, on_delete=models.CASCADE)
     promulgation_date = models.DateField()
     category = models.ForeignKey(Category, null=True, on_delete=models.SET_NULL)
     council = models.ForeignKey(Council, on_delete=models.CASCADE)

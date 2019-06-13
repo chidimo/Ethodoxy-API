@@ -3,7 +3,6 @@ from collections import OrderedDict
 from django.http import JsonResponse, HttpResponse
 
 from rest_framework import viewsets
-from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
 from .models import Version, Book, Chapter, Verse
@@ -11,9 +10,13 @@ from .serializers import VersionSerializer, BookSerializer, ChapterSerializer, V
 
 
 class VersionViewSet(viewsets.ModelViewSet):
+    queryset = Version.objects.all()
+    serializer_class = VersionSerializer
+
+    def destroy(self, request, *args, **kwargs):
+        return Response({'message': 'Unable to delete'})
 
     def create(self, request):
-        print(request)
         if request.method == 'POST':
             data = request.data
             name = data['name']
@@ -25,12 +28,13 @@ class VersionViewSet(viewsets.ModelViewSet):
                 version, created = Version.objects.get_or_create(name=name)
                 return JsonResponse(f'{name} version created.', status=201, safe=False)      
 
-    queryset = Version.objects.all()
-    serializer_class = VersionSerializer
 
 class BooksViewSet(viewsets.ModelViewSet):
     queryset = Book.objects.all()
     serializer_class = BookSerializer
+
+    def destroy(self, request, *args, **kwargs):
+        return Response({'message': 'Unable to delete'})
 
     def retrieve(self, request, pk=None):
         try:
@@ -52,29 +56,12 @@ class ChaptersViewSet(viewsets.ModelViewSet):
     queryset = Chapter.objects.all()
     serializer_class = ChapterSerializer
 
+    def destroy(self, request, *args, **kwargs):
+        return Response({'message': 'Unable to delete'})
+
 class VersesViewSet(viewsets.ModelViewSet):
     queryset = Verse.objects.all()
     serializer_class = VerseSerializer
 
-@api_view(['GET'])
-def get_chapter(request, book_pk, pk):
-    """Return chapter of particular book"""
-
-    return_data = OrderedDict()
-    chapter = Chapter.objects.get(pk=pk)
-
-    for verse in chapter.verse_set.all():
-        return_data[verse.number] = verse.text
-    return JsonResponse(return_data)
-
-@api_view(['GET'])
-def get_book(request, pk):
-    """Return single book with associated chapters and verses"""
-    book = Book.objects.get(pk=pk)
-    verses = Verse.objects.filter(chapter__book=book)
-    data = []
-    for verse in verses:
-        serialized_verse = VerseSerializer(verse)
-        data.append(serialized_verse.data)
-        print(serialized_verse)
-    return JsonResponse(data, safe=False)
+    def destroy(self, request, *args, **kwargs):
+        return Response({'message': 'Unable to delete'})

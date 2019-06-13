@@ -2,6 +2,12 @@
 
 Catholic Orthodoxy in electronic format
 
+## API
+
+API root url: <https://ethodoxy.herokuapp.com/api/v1>
+
+Swagger documentation: <https://ethodoxy.herokuapp.com/swagger/>
+
 ## Recreating the database
 
 1. Clone the repo

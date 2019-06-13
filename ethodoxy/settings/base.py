@@ -8,6 +8,7 @@ from decouple import config, Csv
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+DEBUG = config('DEBUG', default=False, cast=bool)
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 ROOT_URLCONF = 'ethodoxy.urls'
 SECRET_KEY = config('SECRET_KEY')

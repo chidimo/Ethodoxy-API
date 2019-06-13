@@ -11,6 +11,9 @@ class Version(TimeStampedModel):
     slug = AutoSlugField(set_using='name')
     location = models.URLField(blank=True)
 
+    class Meta:
+        ordering = ('name', 'slug', 'location')
+
     def __str__(self):
         return self.name
 

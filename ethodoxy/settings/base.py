@@ -68,9 +68,9 @@ PROJECT_APPS = [
 ]
 
 THIRD_PARTY_APPS = [
-    'sorl.thumbnail',
     'rest_framework',
     'django_extensions',
+    'drf_yasg',
 ]
 
 INSTALLED_APPS = PREREQ_APPS +  PROJECT_APPS + THIRD_PARTY_APPS

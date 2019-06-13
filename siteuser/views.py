@@ -51,31 +51,6 @@ def reset_api_key(request):
     messages.warning(request, msg)
     return redirect(reverse("siteuser:account_management"))
 
-class SiteUserIndex(PaginationMixin, generic.ListView):
-    model = SiteUser
-    context_object_name = 'siteuser_list'
-    template_name = "siteuser/index.html"
-    paginate_by = 20
-
-class SiteUserCommonLocation(PaginationMixin, generic.ListView):
-    model = SiteUser
-    context_object_name = 'siteuser_list'
-    template_name = "siteuser/siteuser_common_location.html"
-    paginate_by = 20
-
-    def get_queryset(self):
-        locations = self.kwargs['location'].split(" ")
-        query = []
-        for each in locations:
-            query.append(Q(location__contains=each))
-        query = reduce(operator.or_, query)
-        return SiteUser.objects.filter(query)
-
-    def get_context_data(self, *args):
-        context = super().get_context_data(*args)
-        context['location'] = self.kwargs['location']
-        return context
-
 def validate_screen_name(request):
     screen_name = request.GET.get('screen_name', None)
     data = {'is_taken': SiteUser.objects.filter(screen_name=screen_name).exists()}
@@ -220,55 +195,3 @@ def activate_account(request):
             messages.error(request, msg)
             return redirect('/')
     return render(request, template, {'form' : PassWordGetterForm(user=user) })
-
-@login_required
-def account_management(request):
-    template = "siteuser/account_management.html"
-    context = {}
-    user = request.user
-    siteuser = user.siteuser
-
-    try:
-        context['facebook_login'] = user.social_auth.get(provider='facebook')
-    except UserSocialAuth.DoesNotExist:
-        context['facebook_login'] = None
-
-    try:
-        context['google_login'] = user.social_auth.get(provider='google-oauth2')
-    except UserSocialAuth.DoesNotExist:
-        context['google_login'] = None
-
-    try:
-        context['twitter_login'] = user.social_auth.get(provider='twitter')
-    except UserSocialAuth.DoesNotExist:
-        context['twitter_login'] = None
-
-    context['can_disconnect'] = (user.social_auth.count() > 1 or user.has_usable_password())
-
-    context['siteuser'] = siteuser
-    context['user_songs'] = Song.objects.filter(creator=siteuser)
-    context['user_posts'] = Post.objects.filter(creator=siteuser)
-    context['total_likes'] = "y"
-
-    return render(request, template, context)
-
-@login_required
-def social_password(request):
-    if request.user.has_usable_password():
-        PasswordForm = PasswordChangeForm
-    else:
-        PasswordForm = AdminPasswordChangeForm
-
-    if request.method == 'POST':
-        form = PasswordForm(request.user, request.POST)
-        if form.is_valid():
-            form.save()
-            update_session_auth_hash(request, form.user)
-            messages.success(request, 'Your password was successfully updated!')
-            login(request, request.user, backend='django.contrib.auth.backends.ModelBackend',)
-            return redirect('/')
-        else:
-            messages.error(request, 'Please correct the error below.')
-    else:
-        form = PasswordForm(request.user)
-    return render(request, 'siteuser/social_password_change_form.html', {'form': form})

@@ -16,7 +16,7 @@ Catholic Orthodoxy in electronic format
     `python manage.py create_ot`
     `python manage.py create_nt`
     `python manage.py create_chapters`
-    `python manage.py create_chapters`
+    `python manage.py create_verses`
 
 1. Set up Challoner commentary by running `python manage.py create_commentary`
 

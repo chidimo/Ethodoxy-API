@@ -1,6 +1,8 @@
 """models"""
 
 from django.db import models
+from django.shortcuts import reverse
+
 from helpers.models import TimeStampedModel
 from helpers.fields import AutoSlugField, AutoMultipleSlugField
 
@@ -36,7 +38,7 @@ class Book(TimeStampedModel):
         return self.name
 
     def get_absolute_url(self):
-        pass
+        return f'{self.name}'
 
     def book_chapter_count(self):
         pass

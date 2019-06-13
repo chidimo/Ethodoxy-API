@@ -14,7 +14,8 @@ def clean_name(name):
 class Command(BaseCommand):
     help = 'Create Old Testament Books'
 
-    def handle(self, *args, **options):        
+    def handle(self, *args, **options):
+        self.stdout.write(self.style.SUCCESS('Creating OT books'))   
         version, _ = Version.objects.get_or_create(name="douay-rheims")
         with open(OT, "r+") as rh:
             booking = json.load(rh)

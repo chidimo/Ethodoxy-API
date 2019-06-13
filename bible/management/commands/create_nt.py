@@ -15,6 +15,7 @@ class Command(BaseCommand):
     help = 'Create New Testament Books'
 
     def handle(self, *args, **options):
+        self.stdout.write(self.style.SUCCESS('Creating NT books'))
         version, _ = Version.objects.get_or_create(name="douay-rheims")
         with open(NT, "r+") as rh:
             booking = json.load(rh)

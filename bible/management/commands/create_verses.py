@@ -16,6 +16,7 @@ class Command(BaseCommand):
     help = 'Create book verses'
 
     def handle(self, *args, **options):
+        self.stdout.write(self.style.SUCCESS('Creating Verses'))
         for each in VERSES:
             with open(each, "r+") as rh:
                 verses = json.load(rh)

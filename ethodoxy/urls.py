@@ -1,30 +1,13 @@
-"""doc"""
-
-
 from django.urls import include, path
 from django.conf import settings
 from django.contrib import admin
 from django.conf.urls.static import static
 
-from bible.api.urls import bible_api_urls
-from commentary.api.urls import commentary_api_urls
-
-from .import views
-
-api_urls = 'drb.api.urls'
-
 urlpatterns = [
-    path('', views.home),
     path('admin/', admin.site.urls),
-    path('bible/', include('bible.urls')),
-    path('commentary/', include('commentary.urls')),
-    path("members/", include('siteuser.urls')),
-    path('bible/api/', include((bible_api_urls , 'bible-api'))),
-    path('commentary/api/', include((commentary_api_urls , 'commentary-api'))),
-]
-
-urlpatterns += [
-    path('social/', include('social_django.urls', namespace='social')),
+    path('api-auth/', include('rest_framework.urls'), name='rest_framework'),
+    path('api/bible/', include(('bible.urls'))),
+    path('api/commentary/', include(('commentary.urls'))),
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

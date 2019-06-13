@@ -10,7 +10,6 @@ from django.contrib.auth.models import BaseUserManager, AbstractBaseUser
 
 from helpers.models import TimeStampedModel
 from helpers.fields import AutoSlugField
-from .utils import save_avatar, badge_icon
 
 class CustomUserManager(BaseUserManager):
     def create_user(self, email, password=None):

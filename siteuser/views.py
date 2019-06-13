@@ -26,7 +26,7 @@ from django_addanother.views import CreatePopupMixin
 from pure_pagination.mixins import PaginationMixin
 from social_django.models import UserSocialAuth
 
-from .utils import star_or_unstar_object, check_recaptcha
+from .utils import check_recaptcha
 from .models import SiteUser
 from .forms import PassWordGetterForm, EmailAndPassWordGetterForm, SiteUserRegistrationForm, SiteUserEditForm
 

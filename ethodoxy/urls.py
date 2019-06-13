@@ -7,6 +7,8 @@ from rest_framework import permissions
 from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 
+from router.urls import urlpatterns
+
 schema_view = get_schema_view(
    openapi.Info(
       title="Ethodoxy API",
@@ -23,8 +25,7 @@ schema_view = get_schema_view(
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('siteuser/', include('siteuser.urls')),
-    path('api/bible/', include(('bible.urls'))),
-    path('api/commentary/', include(('commentary.urls'))),
+    path('api/v1/', include(urlpatterns)),
     path('api-auth/', include('rest_framework.urls'), name='rest_framework'),
 ]
 

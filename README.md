@@ -4,7 +4,7 @@ Catholic Orthodoxy in electronic format
 
 ## API
 
-API root url: <https://ethodoxy.herokuapp.com/api/v1>
+API root URL: <https://ethodoxy.herokuapp.com/api/v1>
 
 Swagger documentation: <https://ethodoxy.herokuapp.com/swagger/>
 

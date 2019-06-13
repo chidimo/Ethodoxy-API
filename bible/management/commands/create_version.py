@@ -13,6 +13,7 @@ class Command(BaseCommand):
         parser.add_argument('-location', type=str)
 
     def handle(self, *args, **options):
+        self.stdout.write(self.style.SUCCESS('Creating version'))
         name = options['name'] if options['name'] else 'douay-rheims'
         location = options['location'] if options['location'] else "http://drbo.org/"
         

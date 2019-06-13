@@ -1,15 +1,11 @@
-from collections import OrderedDict
+from rest_framework import generics
 
-from django.core import serializers
+from rest_framework import viewsets
+# from rest_framework.decorators import api_view
 
-from django.shortcuts import render
-from django.views import generic
-from pure_pagination.mixins import PaginationMixin
-from .models import Commentary, CommentaryText
-from django.http import JsonResponse, HttpResponse
+from .serializers import CommentaryTextSerializer
+from .models import CommentaryText
 
-class CommentaryByChapter(PaginationMixin, generic.ListView):
-    model = CommentaryText
-    template_name = "commentary/index.html"
-    context_object_name = "commentaries"
-    paginate_by = 20
+class CommentaryTextViewSet(viewsets.ModelViewSet):
+    queryset = CommentaryText.objects.all()
+    serializer_class = CommentaryTextSerializer

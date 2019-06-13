@@ -1,11 +1,17 @@
-"""Urls"""
+from __future__ import unicode_literals
+from django.urls import path
 
 from django.urls import path
+from django.conf.urls import url, include
+from rest_framework import routers
+
 from . import views
 
-app_name = 'commentary'
-urlpatterns = []
+router = routers.DefaultRouter()
+router.register('commentary', views.CommentaryTextViewSet)
 
-urlpatterns += [
-    path('challoner/', views.CommentaryByChapter.as_view(), name='commentaries'),
+app_name = 'commentary'
+
+urlpatterns = [
+    path('', include(router.urls)),
 ]

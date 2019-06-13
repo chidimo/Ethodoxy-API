@@ -1,7 +1,9 @@
-from django.core.management.base import BaseCommand#, CommandError
+import json
+
 
 import django
 from django.conf import settings
+from django.core.management.base import BaseCommand#, CommandError
 
 from bible.models import Version, Book
 from commentary.models import Commentary, CommentaryText
@@ -14,10 +16,10 @@ def clean_name(name):
     return name
 
 class Command(BaseCommand):
-    help = 'Create New Testament Books'
+    help = 'Create Commentary'
 
     def handle(self, *args, **options):
-
+        self.stdout.write(self.style.SUCCESS('Creating commentary'))
 
         for each in COMMENTARIES:
             with open(each, "r+") as rh:
@@ -45,4 +47,5 @@ class Command(BaseCommand):
                     commtext = CommentaryText.objects.get_or_create(
                         commentary=commentary, heading=heading, book=book,
                         chapter=chapter, verse=verse, text=text)
+        self.stdout.write(self.style.SUCCESS('Commentaries created successfully'))
 

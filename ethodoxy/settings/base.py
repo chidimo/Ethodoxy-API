@@ -44,10 +44,10 @@ LOGOUT_REDIRECT_URL = '/'
 LOGIN_URL = reverse_lazy('siteuser:login')
 LOGOUT_URL = reverse_lazy('siteuser:logout')
 
-SHELL_PLUS_POST_IMPORTS = [
-    ('fixtures', '*'),
-    ('fixtures'),
-]
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 50
+}
 
 PREREQ_APPS = [
     'django.contrib.admin',

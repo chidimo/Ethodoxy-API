@@ -15,6 +15,7 @@ class Command(BaseCommand):
     help = 'Create book chapters'
 
     def handle(self, *args, **options):
+        self.stdout.write(self.style.SUCCESS('Creating chapters'))
         for each_book in CHAPS:
             with open(each_book, "r+") as rh:
                 chapters_dictionary = json.load(rh)

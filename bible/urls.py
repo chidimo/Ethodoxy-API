@@ -1,13 +1,17 @@
-"""Urls"""
+from __future__ import unicode_literals
 
 from django.urls import path
+from django.conf.urls import url, include
+from rest_framework import routers
+
 from . import views
+
+router = routers.DefaultRouter()
+router.register('versions', views.VersionViewSet)
+router.register('books', views.BooksViewSet)
+router.register('chapters', views.ChaptersViewSet)
+router.register('verses', views.VersesViewSet)
 
 app_name = 'bible'
 
-urlpatterns = [    
-    path('', views.bible_index, name='bible_index'),
-    path('chapter/<int:pk>/', views.get_chapter, name='get_chapter'),
-]
-
-# <h3 class='float-left'>The Complete Douay-Rheims bible<span class="current-book"> >>  ${ book_name }$</span><span class="current-chapter"> >> ${ book_chapter }$</span></h3>
+urlpatterns = router.urls

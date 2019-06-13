@@ -8,10 +8,8 @@ from django.conf import settings
 # from django.contrib.auth.models import Group
 from django.contrib.auth.models import BaseUserManager, AbstractBaseUser
 
-from sorl.thumbnail import ImageField
-from universal.models import TimeStampedModel
-from universal.fields import AutoSlugField
-from .utils import save_avatar, badge_icon
+from helpers.models import TimeStampedModel
+from helpers.fields import AutoSlugField
 
 class CustomUserManager(BaseUserManager):
     def create_user(self, email, password=None):
@@ -75,7 +73,7 @@ class SiteUser(TimeStampedModel):
     first_name = models.CharField(max_length=20, blank=True, null=True)
     last_name = models.CharField(max_length=20, blank=True, null=True)
     location = models.CharField(max_length=50, blank=True, null=True)
-    avatar = ImageField(upload_to=save_avatar, null=True, blank=True)
+    avatar = models.URLField(null=True, blank=True)
 
     quota = models.IntegerField(default=1000)
     used = models.IntegerField(default=0)
@@ -119,13 +117,3 @@ class SiteUserPermission(TimeStampedModel):
     @property
     def permitted_siteusers(self):
         return ", ".join([siteuser.screen_name for siteuser in self.siteuser.all()])
-
-class Pontiff(TimeStampedModel):
-    first_name = models.CharField(max_length=50)
-    last_name = models.CharField(max_length=50)
-    papal_name = models.CharField(max_length=50)
-    begin = models.DateField()
-    finish = models.DateField()
-
-    def __str__(self):
-        return self.papal_name

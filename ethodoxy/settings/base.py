@@ -11,6 +11,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 ROOT_URLCONF = 'ethodoxy.urls'
 SECRET_KEY = config('SECRET_KEY')
+DATABASE_URL = config('DATABASE_URL')
 
 WSGI_APPLICATION = 'ethodoxy.wsgi.application'
 INTERNAL_IPS = ('127.0.0.1', 'localhost')
@@ -43,9 +44,10 @@ LOGOUT_REDIRECT_URL = '/'
 LOGIN_URL = reverse_lazy('siteuser:login')
 LOGOUT_URL = reverse_lazy('siteuser:logout')
 
-SHELL_PLUS_POST_IMPORTS = [
-    ('fixtures', '*'),
-    ('fixtures'),]
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 50
+}
 
 PREREQ_APPS = [
     'django.contrib.admin',
@@ -57,15 +59,18 @@ PREREQ_APPS = [
 ]
 
 PROJECT_APPS = [
-    'drb',
-    'siteuser',
+    'bible',
+    'commentary',
     'council',
+    'encyc',
+    'people',
+    'siteuser',
 ]
 
 THIRD_PARTY_APPS = [
-    'sorl.thumbnail',
     'rest_framework',
     'django_extensions',
+    'drf_yasg',
 ]
 
 INSTALLED_APPS = PREREQ_APPS +  PROJECT_APPS + THIRD_PARTY_APPS

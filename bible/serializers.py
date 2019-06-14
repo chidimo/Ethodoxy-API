@@ -4,14 +4,15 @@ from .models import Version, Book, Verse, Chapter
 class VersionSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Version
-        fields = ('id', 'name', 'slug', 'url')
+        fields = ('id', 'name', 'url')
 
 class BookSerializer(serializers.HyperlinkedModelSerializer):
     version = VersionSerializer()
+    version = version.data
     class Meta:
         model = Book
         fields = (
-            'id', 'version', 'name', 'alt_name', 'position', 'testament', 'slug', 'deutero', 'url',
+            'id', 'version', 'name', 'alt_name', 'position', 'testament', 'deutero', 'url',
         )
 
 class ChapterSerializer(serializers.HyperlinkedModelSerializer):

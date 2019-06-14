@@ -43,7 +43,7 @@ class CustomUser(AbstractBaseUser):
         return self.email
 
     def __str__(self):
-        return "User - {}".format(self.email)
+        return f'User - {self.email}'
 
     def has_module_perms(self, app_label):
         return True
@@ -89,9 +89,6 @@ class SiteUser(TimeStampedModel):
 
     def __str__(self):
         return self.screen_name
-
-    def get_absolute_url(self):
-        return reverse('siteuser:library', kwargs={'pk' : self.pk, 'slug' : self.slug})
 
     def get_absolute_uri(self):
         return reverse('douay-rheims:bible_index')

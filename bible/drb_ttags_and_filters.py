@@ -26,11 +26,6 @@ def hyperlink_underlined_markdown(string_to_process):
         return new_string
     return string_to_process
 
-# @register.filter()
-# def markdown_format(text):
-#     convert_underlines = hyperlink_underlined_markdown(text)
-#     return mark_safe(markdown.markdown(convert_underlines))
-
 def hyperlink_underlined(string_to_process):
     """Added href to underline strings"""
 
@@ -46,14 +41,3 @@ def hyperlink_underlined(string_to_process):
         new_string = new_string.replace(" :", "")
         return new_string
     return string_to_process
-
-
-@register.filter()
-def markdown_format(text):
-    convert_underlines = hyperlink_underlined(text)
-    return mark_safe(convert_underlines)
-
-@register.filter()
-def render_queryset_as_list(queryset):
-    """Render a queryset as a list"""
-    return list(queryset)

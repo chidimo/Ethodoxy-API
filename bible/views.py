@@ -51,6 +51,15 @@ class BooksViewSet(viewsets.ModelViewSet):
         except Book.DoesNotExist:
             return Response({'message' : f'Book with id {pk} does not exist'})
 
+    def create(self, request):
+        return Response({'message': 'Unable to create'})
+
+    def update(self, request, pk=None):
+        return Response({'message': 'Unable to update'})
+
+    def partial_update(self, request, pk=None):
+        return Response({'message': 'Unable to partial update'})
+
 
 class ChaptersViewSet(viewsets.ModelViewSet):
     queryset = Chapter.objects.all()
@@ -59,9 +68,19 @@ class ChaptersViewSet(viewsets.ModelViewSet):
     def destroy(self, request, *args, **kwargs):
         return Response({'message': 'Unable to delete'})
 
-    def retrieve(self, request, book_pk=None, chapter_pk=None):
-        if (book_pk and chapter_pk):
+    def retrieve(self, request, pk=None, book_pk=None):
+        if (pk and book_pk):
             pass
+        return Response({'message': 'Unable to retrieve'})
+
+    def create(self, request):
+        return Response({'message': 'Unable to create'})
+
+    def update(self, request, pk=None):
+        return Response({'message': 'Unable to update'})
+
+    def partial_update(self, request, pk=None):
+        return Response({'message': 'Unable to partial update'})
 
 class VersesViewSet(viewsets.ModelViewSet):
     queryset = Verse.objects.all()
@@ -69,3 +88,12 @@ class VersesViewSet(viewsets.ModelViewSet):
 
     def destroy(self, request, *args, **kwargs):
         return Response({'message': 'Unable to delete'})
+
+    def create(self, request):
+        return Response({'message': 'Unable to create'})
+
+    def update(self, request, pk=None):
+        return Response({'message': 'Unable to update'})
+
+    def partial_update(self, request, pk=None):
+        return Response({'message': 'Unable to partial update'})

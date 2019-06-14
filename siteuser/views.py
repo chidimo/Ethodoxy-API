@@ -1,5 +1,5 @@
 
-"""Views"""
+'''Views'''
 
 import uuid
 import operator
@@ -35,21 +35,21 @@ CustomUser = get_user_model()
 def get_api_key(request):
     siteuser = request.user.siteuser
     if siteuser.key:
-        msg = "You already have an API key. Maybe you want to reset it."
+        msg = 'You already have an API key. Maybe you want to reset it.'
     else:
         siteuser.key = uuid.uuid4()
         siteuser.save(update_fields=['key'])
-        msg = "Your API key is {}".format(siteuser.key)
+        msg = f'Your API key is {siteuser.key}'
     messages.success(request, msg)
-    return redirect(reverse("siteuser:account_management"))
+    return redirect(reverse('siteuser:account_management'))
 
 def reset_api_key(request):
     siteuser = request.user.siteuser
     siteuser.key = uuid.uuid4()
     siteuser.save(update_fields=['key'])
-    msg = "Your new API key is {}. Don't forget to update your applications".format(siteuser.key)
+    msg = f'Your new API key is {siteuser.key}. Dont forget to update your applications'
     messages.warning(request, msg)
-    return redirect(reverse("siteuser:account_management"))
+    return redirect(reverse('siteuser:account_management'))
 
 def validate_screen_name(request):
     screen_name = request.GET.get('screen_name', None)
@@ -59,31 +59,31 @@ def validate_screen_name(request):
     return JsonResponse(data)
 
 def send_email_upon_registration(request, new_siteuser, via_social=False):
-    """Sends an email to a newly registered user"""
+    '''Sends an email to a newly registered user'''
 
     screen_name = new_siteuser.screen_name
     email = new_siteuser.user.email
-    subject = "Ethodoxy - Welcome {}.".format(screen_name)
+    subject = f'Ethodoxy - Welcome {screen_name}.'
     from_email = settings.EMAIL_HOST_USER
 
     if via_social:
         context = {'screen_name' : screen_name}
-        text_email = render_to_string("siteuser/welcome_email_social.txt", context)
-        html_email = render_to_string("siteuser/welcome_email_social.html", context)
+        text_email = render_to_string('siteuser/welcome_email_social.txt', context)
+        html_email = render_to_string('siteuser/welcome_email_social.html', context)
     else:
         activation_link = request.build_absolute_uri(new_siteuser.get_user_creation_url())
         context = {'screen_name' : screen_name, 'activation_link' : activation_link}
-        text_email = render_to_string("siteuser/welcome_email.txt", context)
-        html_email = render_to_string("siteuser/welcome_email.html", context)
+        text_email = render_to_string('siteuser/welcome_email.txt', context)
+        html_email = render_to_string('siteuser/welcome_email.html', context)
 
-    for each in [email, "accessibleorthodoxy@outlook.com"]:
+    for each in [email, 'accessibleorthodoxy@outlook.com']:
         msg = EmailMultiAlternatives(subject, text_email, from_email, [each])
-        msg.attach_alternative(html_email, "text/html")
+        msg.attach_alternative(html_email, 'text/html')
         msg.send()
 
 @check_recaptcha
 def new_siteuser(request):
-    template = "siteuser/new_siteuser.html"
+    template = 'siteuser/new_siteuser.html'
     if request.method == 'POST':
         form = SiteUserRegistrationForm(request.POST)
         if form.is_valid():
@@ -120,21 +120,21 @@ def activate_siteuser(request, screen_name, pk):
     context = {}
     if user.is_active:
         siteuser = SiteUser.objects.get(user=user)
-        context["active"] = "active"
-        context["siteuser"] = siteuser
+        context['active'] = 'active'
+        context['siteuser'] = siteuser
     else:
         user.is_active = True
         user.save()
         siteuser = SiteUser.objects.get(user=user)
-        context["siteuser"] = siteuser
-    context["screen_name"] = screen_name
-    return render(request, "siteuser/new_activation.html", context)
+        context['siteuser'] = siteuser
+    context['screen_name'] = screen_name
+    return render(request, 'siteuser/new_activation.html', context)
 
 class SiteUserEdit(LoginRequiredMixin, SuccessMessageMixin, generic.UpdateView):
     model = SiteUser
     form_class = SiteUserEditForm
     template_name = 'siteuser/edit.html'
-    success_message = "Profile updated successfully."
+    success_message = 'Profile updated successfully.'
 
     def get_object(self):
         return self.request.user.siteuser
@@ -151,12 +151,12 @@ def delete_account(request):
         if form.is_valid():
             siteuser.delete()
             user.delete()
-            msg = "Your account has been permanently deleted"
+            msg = 'Your account has been permanently deleted'
             messages.success(request, msg)
             return redirect('/')
         else:
             # return render(request, template, {'form' : form })
-            msg = "You entered a wrong password"
+            msg = 'You entered a wrong password'
             messages.error(request, msg)
             return redirect('/')
     return render(request, template, {'form' : PassWordGetterForm(user=user) })
@@ -169,12 +169,12 @@ def deactivate_account(request):
         if form.is_valid():
             user.is_active = False
             user.save()
-            msg = "Your account has been deactivated"
+            msg = 'Your account has been deactivated'
             messages.success(request, msg)
             return redirect('/')
         else:
             # return render(request, template, {'form' : form })
-            msg = "You entered a wrong password"
+            msg = 'You entered a wrong password'
             messages.error(request, msg)
             return redirect('/')
     return render(request, template, {'form' : PassWordGetterForm(user=user) })
@@ -187,11 +187,11 @@ def activate_account(request):
         if form.is_valid():
             user.is_active = False
             user.save()
-            msg = "Your account has been deactivated"
+            msg = 'Your account has been deactivated'
             messages.success(request, msg)
             return redirect('/')
         else:
-            msg = "You entered a wrong password"
+            msg = 'You entered a wrong password'
             messages.error(request, msg)
             return redirect('/')
     return render(request, template, {'form' : PassWordGetterForm(user=user) })

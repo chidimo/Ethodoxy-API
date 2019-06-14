@@ -4,8 +4,9 @@ from bible.serializers import BookSerializer
 
 class CommentaryTextSerializer(serializers.HyperlinkedModelSerializer):
     book = BookSerializer()
+    book = book.data
     class Meta:
         model = CommentaryText
         fields = (
-            'commentary_name', 'book_name', 'book', 'chapter', 'verse',  'heading', 'text', 'url'
+            'id', 'commentary_name', 'book_name', 'book', 'chapter', 'verse',  'heading', 'text', 'url'
         )

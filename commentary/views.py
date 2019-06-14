@@ -12,3 +12,12 @@ class CommentaryTextViewSet(viewsets.ModelViewSet):
 
     def destroy(self, request, *args, **kwargs):
         return Response({'message': 'Unable to delete'})
+    
+    def create(self, request):
+        return Response({'message': 'Unable to create'})
+
+    def update(self, request, pk=None):
+        return Response({'message': 'Unable to update'})
+
+    def partial_update(self, request, pk=None):
+        return Response({'message': 'Unable to partial update'})

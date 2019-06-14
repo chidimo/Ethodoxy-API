@@ -1,5 +1,3 @@
-"""models"""
-
 from django.db import models
 from helpers.models import TimeStampedModel
 from helpers.fields import AutoSlugField, AutoMultipleSlugField
@@ -12,7 +10,7 @@ class Commentary(TimeStampedModel):
     year = models.DateField(blank=True, null=True)
 
     def __str__(self):
-        return "Commentary: {}".format(self.name)
+        return f'Commentary: {self.name}'
 
 class CommentaryText(TimeStampedModel):
     commentary = models.ForeignKey(Commentary, on_delete=models.CASCADE)
@@ -24,10 +22,10 @@ class CommentaryText(TimeStampedModel):
     text = models.TextField()
 
     class Meta:
-        ordering = ("commentary", "book", "chapter", "verse")
+        ordering = ('commentary', 'book', 'chapter', 'verse')
 
     def commentary_source(self):
-        return "{} {} : {}".format(self.book, self.chapter, self.verse)
+        return f'{self.book} {self.chapter} : {self.verse}'
 
     def __str__(self):
         return self.heading

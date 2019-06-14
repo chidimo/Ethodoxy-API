@@ -12,9 +12,6 @@ class Council(TimeStampedModel):
     def __str__(self):
         return self.name
 
-    def get_absolute_url(self):
-        pass
-
 class Category(TimeStampedModel):
     """Whether a doc is constitution, declaration or decree"""
     name = models.CharField(max_length=50, unique=True)
@@ -54,10 +51,7 @@ class Chapter(TimeStampedModel):
         return self.document.name
 
     def __str__(self):
-        return "{} chapter {}: {}".format(self.document.latin_name.title(), self.number, self.title)
-
-    def get_absolute_url(self):
-        pass
+        return f'{self.document.latin_name.title()} chapter {self.number}: {self.title}'
 
 class Article(TimeStampedModel):
     chapter = models.ForeignKey(Chapter, on_delete=models.CASCADE)
@@ -74,10 +68,7 @@ class Article(TimeStampedModel):
         return self.chapter.number
 
     def __str__(self):
-        return "{} Chapter {}: {}".format(self.chapter.document.latin_name.title(), self.number, self.chapter.title)
-
-    def get_absolute_url(self):
-        pass
+        return f'{self.chapter.document.latin_name.title()} Chapter {self.number}: {self.chapter.title}'
 
 class Note(TimeStampedModel):
     number = models.IntegerField()
@@ -85,4 +76,4 @@ class Note(TimeStampedModel):
     text = models.CharField(max_length=1000)
 
     def __str__(self):
-        return "{}. {}".format(self.number, self.article.chapter.title)
+        return f'{self.number}. {self.article.chapter.title}'

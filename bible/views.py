@@ -38,8 +38,7 @@ class BooksViewSet(viewsets.ModelViewSet):
 
     def retrieve(self, request, pk=None):
         try:
-            book = Book.objects.get(pk=pk)
-            verses = Verse.objects.filter(chapter__book=book)
+            verses = Verse.objects.filter(chapter__book__pk=pk)
 
             page = self.paginate_queryset(verses)
             if page is not None:
@@ -68,9 +67,20 @@ class ChaptersViewSet(viewsets.ModelViewSet):
     def destroy(self, request, *args, **kwargs):
         return Response({'message': 'Unable to delete'})
 
-    def retrieve(self, request, pk=None, book_pk=None):
-        if (pk and book_pk):
-            pass
+    def retrieve(self, request, pk=None):
+        try:
+            verses = Verse.objects.filter(chapter__pk=pk)
+            page = self.paginate_queryset(verses)
+            if page is not None:
+                data = []
+                for verse in page:
+                    serialized_verse = VerseSerializer(verse, context={'request': request})
+                    data.append(serialized_verse.data)
+                return self.get_paginated_response(data)
+
+        except Chapter.DoesNotExist:
+            return Response({'message' : f'Chapter with id {pk} does not exist'})
+
         return Response({'message': 'Unable to retrieve'})
 
     def create(self, request):

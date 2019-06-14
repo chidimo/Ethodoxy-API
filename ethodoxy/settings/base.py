@@ -9,6 +9,7 @@ from decouple import config, Csv
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 DEBUG = config('DEBUG', default=False, cast=bool)
+DEBUG_PROPAGATE_EXCEPTIONS = True
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 ROOT_URLCONF = 'ethodoxy.urls'
 SECRET_KEY = config('SECRET_KEY')
@@ -16,13 +17,6 @@ DATABASE_URL = config('DATABASE_URL')
 
 WSGI_APPLICATION = 'ethodoxy.wsgi.application'
 INTERNAL_IPS = ('127.0.0.1', 'localhost')
-
-EMAIL_USE_TLS = True
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = config('EMAIL_PORT')
-EMAIL_HOST_USER = 'ethodoxy@outlook.com'
-EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
-DEFAULT_FROM_EMAIL = 'ethodoxy@outlook.com'
 
 LOGIN_URL = reverse_lazy('siteuser:login')
 LOGOUT_URL = reverse_lazy('siteuser:logout')
@@ -32,7 +26,6 @@ LOGOUT_REDIRECT_URL = '/'
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
-SITE_ID = 1
 PASSWORD_RESET_TIMEOUT_DAYS = 1
 
 DATABASES = {
@@ -136,7 +129,7 @@ USE_THOUSAND_SEPARATOR = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')

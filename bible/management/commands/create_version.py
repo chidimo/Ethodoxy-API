@@ -17,5 +17,5 @@ class Command(BaseCommand):
         name = options['name'] if options['name'] else 'douay-rheims'
         location = options['location'] if options['location'] else "http://drbo.org/"
         
-        Version.objects.get_or_create(name=name, location=location)
+        Version.objects.get_or_create(name=name)
         self.stdout.write(self.style.SUCCESS(f'{name.title()} version created successfully'))

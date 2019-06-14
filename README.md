@@ -18,7 +18,7 @@ Swagger documentation: <https://ethodoxy.herokuapp.com/swagger/>
 1. Both have the following optional arguments `-email admin@ethodoxy.net -password dwarfstar`
 
 1. Set up **Douay-Rheims** bible by running the following commands in order
-    `python manage.py create_version`
+    `python manage.py create_version -name -location`
     `python manage.py create_ot`
     `python manage.py create_nt`
     `python manage.py create_chapters`

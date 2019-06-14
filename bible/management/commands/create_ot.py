@@ -21,7 +21,7 @@ class Command(BaseCommand):
             booking = json.load(rh)
 
         for name, value in booking.items():
-            book, _ = Book.objects.get_or_create(version=version, name=clean_name(name), testament="old testament", position=int(value[1][:2]), location=value[0])
+            book, _ = Book.objects.get_or_create(version=version, name=clean_name(name), testament="old testament", position=int(value[1][:2]))
 
             if "*" in name:
                 book.deutero = True

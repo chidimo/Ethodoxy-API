@@ -26,5 +26,5 @@ class Command(BaseCommand):
                 book_object, _ = Book.objects.get_or_create(name=clean_name(name))
 
                 for number, location in number_and_location_dict.items():
-                    Chapter.objects.create(book=book_object, number=int(number), location=location)
+                    Chapter.objects.create(book=book_object, number=int(number))
         self.stdout.write(self.style.SUCCESS(f'Book chapters created successfully'))

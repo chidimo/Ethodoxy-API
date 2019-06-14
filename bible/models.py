@@ -9,10 +9,9 @@ from helpers.fields import AutoSlugField, AutoMultipleSlugField
 class Version(TimeStampedModel):
     name = models.CharField(max_length=100, unique=True)
     slug = AutoSlugField(set_using='name')
-    location = models.URLField(blank=True)
 
     class Meta:
-        ordering = ('name', 'slug', 'location')
+        ordering = ('name', )
 
     def __str__(self):
         return self.name
@@ -28,7 +27,6 @@ class Book(TimeStampedModel):
     testament = models.CharField(max_length=20)
     slug = AutoSlugField(set_using='name')
     deutero = models.BooleanField(default=False)
-    location = models.URLField(blank=True)
     about = models.CharField(max_length=500, blank=True)
 
     class Meta:
@@ -65,7 +63,6 @@ class Book(TimeStampedModel):
 class Chapter(TimeStampedModel):
     book = models.ForeignKey(Book, on_delete=models.CASCADE)
     number = models.IntegerField()
-    location = models.URLField(blank=True)
 
     class Meta:
         ordering = ("book", "number")

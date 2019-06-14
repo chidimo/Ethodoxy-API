@@ -45,7 +45,7 @@ class BooksViewSet(viewsets.ModelViewSet):
             if page is not None:
                 data = []
                 for verse in page:
-                    serialized_verse = VerseSerializer(verse)
+                    serialized_verse = VerseSerializer(verse, context={'request': request})
                     data.append(serialized_verse.data)
                 return self.get_paginated_response(data)
         except Book.DoesNotExist:

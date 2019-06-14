@@ -20,5 +20,5 @@ class Command(BaseCommand):
         with open(NT, "r+") as rh:
             booking = json.load(rh)
         for name, value in booking.items():
-            Book.objects.get_or_create(version=version, name=clean_name(name), testament="new testament", position=int(value[1][:2]), location=value[0])
+            Book.objects.get_or_create(version=version, name=clean_name(name), testament="new testament", position=int(value[1][:2]))
         self.stdout.write(self.style.SUCCESS(f'New Testament books created successfully'))

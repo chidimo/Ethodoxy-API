@@ -8,7 +8,7 @@ class BookAdmin(admin.ModelAdmin):
     search_fields = ('name', 'alt_name')
 
 class ChapterAdmin(admin.ModelAdmin):
-    list_display = ("__str__", "book_name", "number", "location")
+    list_display = ("__str__", "book_name", "number")
     list_filter = ("book", )
     search_fields = ('book',)
 

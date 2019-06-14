@@ -7,5 +7,5 @@ class CommentaryTextSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = CommentaryText
         fields = (
-            'commentary_name', 'book_name', 'book', 'chapter', 'verse',  'heading', 'text'
+            'commentary_name', 'book_name', 'book', 'chapter', 'verse',  'heading', 'text', 'url'
         )

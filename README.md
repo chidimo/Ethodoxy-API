@@ -13,9 +13,9 @@ Swagger documentation: <https://ethodoxy.herokuapp.com/swagger/>
 1. Clone the repo
 1. Run `pipenv install` and `pipenv install --dev`
 1. Run `python manage.py migrate`
-
-1. Run `python manage.py shell_plus` to enter an interactive shell
-1. Create admin user by running `python manage.py superuser` with the following optional arguments `-email admin@ethodoxy.net -password dwarfstar`
+1. Create superuser with `python manage.py superuser`
+1. Create user with `python manage.py user`
+1. Both have the following optional arguments `-email admin@ethodoxy.net -password dwarfstar`
 
 1. Set up **Douay-Rheims** bible by running the following commands in order
     `python manage.py create_version`
@@ -53,4 +53,5 @@ Swagger documentation: <https://ethodoxy.herokuapp.com/swagger/>
 ## To Do
 
 Scrap topics from drbo.org
+
 Include footnotes and cross-references for haydock

@@ -1,232 +1,34 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 	<head>
-		{% load staticfiles %}
-		{% load static %}
-
 		<meta charset="utf-8">
 		<meta content="text/html">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta property="og:image" content="http://accessibleorthodoxy.pythonanywhere.com/{% static 'img/django_logo.png' %}"/>
-		<meta name="twitter:image" content="http://accessibleorthodoxy.pythonanywhere.com/{% static 'img/django_logo.png' %}">
-		<meta property="fb:app_id" content="977674249054153"/>
 		<meta property="og:type" content="website"/>
-
-		{% block meta_tags %}
-    		<meta property="og:url" content="http://accessibleorthodoxy.pythonanywhere.com/"/>
-    		<meta property="og:title" content="How to share choral music"/>
-    		<meta property="og:description" content="Find the best choral music scores."/>
-    	{% endblock meta_tags %}
-
-		<title>
-			{% if unread %}
-				({{ unread }})
-			{% endif %}
-			{% block title %}{% endblock title %} - Ethodoxy
-		</title>
-
-		<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous"> -->
-
+		
+		<title>{% block title %}{% endblock title %} - Ethodoxy</title>
+		
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.3/superhero/bootstrap.min.css">
-
-        <link href="https://fonts.googleapis.com/css?family=Inconsolata:700" rel="stylesheet">
-
-		<!-- <script type='text/javascript' src='//www.midijs.net/lib/midi.js'></script> -->
-
-		<link rel="shortcut icon" type="image/png" href="{% static 'favicons/favicon.ico' %}"/>
+		
+		{% load static %}
 		<link rel="stylesheet" href="{% static 'css/style.css' %}">
-
 		<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-
-		<script type='text/javascript' src='//www.midijs.net/lib/midi.js' defer></script>
 	</head>
 
 	{% block body %}
 	<body>
-		{% block navigation %}
-		<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
-			<a class="navbar-brand" href="/">Ethodoxy</a>
-
-			<button type="button" class="navbar-toggler my-toggler" data-toggle="collapse" data-target=".navcontent">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="navbar-toggler-icon"></span>
-			</button>
-
-			<div class="collapse navbar-collapse navcontent">
-				<ul class="nav navbar-nav lefthand-navigation">
-
-					<div class="btn-group navigation-buttons btn-sm">
-						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Scripture</a>
-						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
-							<li><a class="dropdown-item" tabindex="-1" href="{% url 'douay-rheims:bible_index' %}">Douay-Rheims bible</a></li>
-							<li><a class="dropdown-item" tabindex="-1" href="{% url 'douay-rheims:commentaries' %}">Challoner commentary</a></li>
-						</ul>
-					</div>
-
-					<div class="btn-group navigation-buttons btn-sm">
-						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Church documents</a>
-						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
-							<li><a class="dropdown-item" tabindex="-1" href="">Council documents</a></li>
-							<li><a class="dropdown-item" tabindex="-1" href="">Encyclicals</a></li>
-						</ul>
-					</div>
-
-					<div class="btn-group navigation-buttons btn-sm">
-						<a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle top-level-button" href="" aria-expanded="false">Papal bulls</a>
-						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
-							<li class="dropdown-submenu">
-								<a class="dropdown-item" tabindex="-1" href="#">Pope Innocent</a>
-								<ul class="dropdown-menu">
-									<li><a class="dropdown-item" href="#">Hold</a></li>
-								</ul>
-							</li>
-						</ul>
-					</div>
-				</ul>
-
-				<ul class="navbar-nav ml-auto righthand-navigation">
-					<li class="nav-item login-logout enter-night-mode"><a class="btn btn-primary btn-sm upload-button" href="#">Night mode</a></li>
-					<li class="nav-item login-logout enter-day-mode"><a class="btn btn-primary btn-sm upload-button" href="#">Day mode</a></li>
-					{% if user.is_authenticated %}
-
-						<li class="nav-item logged-in-username">
-							<a class="nav-link" href="{% url 'siteuser:account_management' %}">
-								<div class="profile-name">{{ user.siteuser.screen_name }}</div>
-							 </a>
-						</li>
-
-						<li class="nav-item dropdown">
-						    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">New</a>
-							<div class="dropdown-menu">
-							    <a class="dropdown-item" href="">#</a>
-							</div>
-						</li>
-
-						<li class="nav-item dropdown">
-						    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-cog"></i></a>
-						    <div class="dropdown-menu">
-						        <a class="dropdown-item" href="">My account</a>
-						        <a class="dropdown-item" href="">Edit profile</a>
-							    <a class="dropdown-item" href="{% url 'siteuser:password_change' %}">Change password</a>
-							    <a class="dropdown-item" href="{% url 'siteuser:password_reset' %}">Reset password</a>
-							    <div class="dropdown-divider"></div>
-							    <a class="dropdown-item" href="{% url 'siteuser:logout' %}">Logout</a>
-							</div>
-						</li>
-					{% else %}
-					<li class="nav-item login-logout"><a class="btn btn-info btn-sm upload-button" href="{% url 'siteuser:login' %}">Log In</a></li>
-					<li class="nav-item login-logout"><a class="btn btn-primary btn-sm upload-button" href="{% url 'siteuser:new' %}">Sign Up</a></li>
-					{% endif %}
-
-				</ul>
-			</div>
-		</nav>
-
-		<nav aria-label="breadcrumb">
-			<ol class="breadcrumb">
-				<li class="breadcrumb-item active"><a href="/">Home</a></li>
-				{% block breadcrumb %}
-				{% endblock breadcrumb %}
-			</ol>
-		</nav>
-
-		{% endblock navigation %}
-
-		{% block introduction %}
-		{% if not user.is_authenticated %}
-		<section class="jumbotron text-center d-none d-sm-block">
-            <div class="container">
-                <h1 class="jumbotron-heading">Ethodoxy</h1>
-                <p>If music be the food of love ..</p>
-
-                <p class="my-0">
-                	<a href="{% url 'siteuser:new' %}" class="btn btn-primary join-campaign">
-	                    Join us celebrate music in {{ lang_count }} languages and {{ voice_count }} voices
-	                </a>
-                </p>
-            </div>
-        </section>
-        {% endif %}
-		{% endblock introduction %}
-
-		<div class="container-fluid">
-		    {% include 'messages.html' %}
-			<div class="row">
-				<div class="col-sm-1 leftsidebar">
-					{% block left_sidebar %}
-					{% endblock left_sidebar %}
-				</div>
-
-				<div class="col-sm-7 centerspread" role='main'>
-					{% block content_content %}
-					    content-block
-					{% endblock content_content %}
-
-					{% block javascript %}{% endblock javascript %}
-
-					{% if is_paginated %}
-						{% include "pure_pagination.html" %}
-					{% endif %}
-				</div>
-
-				<div class="col-sm-4 rightsidebar">
-					{% block right_sidebar %}
-					{% endblock right_sidebar %}
-				</div>
-			</div>
-		</div>
-
-		{% include "footer.html" %}
 
 		{% endblock body %}
 
-		<!--These javascript files are render-blocking and are not needed to render initial page, so I moved them here-->
-
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous" async></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous" async></script>
-
-		<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
-		<script src="//cdn.jsdelivr.net/g/algoliasearch,algoliasearch.helper"></script>
-		<script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js" async></script>
-		<script defer src='https://www.google.com/recaptcha/api.js' async></script>
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-
-		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/vue-resource@1.3.5"></script>
 
 		<!--Django add another, for view popup. These two below lines must follow one another in the same order.-->
 		<script type="text/javascript" src="{% static 'admin/js/vendor/jquery/jquery.js' %}"></script>
 		{{ form.media }}
 
 		{% block page_js %}{% endblock page_js %}
-
-		{% include "dropdown_js.html" %}
-
-		<script>
-				$('.enter-night-mode').click( function() {
-						$('body').addClass('bg-dark');
-						$('body').addClass('night-mode');
-						$('h1').addClass('night-mode-headers');
-						$('h2').addClass('night-mode-headers');
-						$('h3').addClass('night-mode-headers');
-						$('h4').addClass('night-mode-headers');
-						$('h5').addClass('night-mode-headers');
-						$('h6').addClass('night-mode-headers');
-						// $('div').addClass('night-mode');
-					});
-					
-					$('.enter-day-mode').click( function() {
-						$('body').removeClass('bg-dark');
-						$('body').removeClass('night-mode');
-						$('h1').removeClass('night-mode-headers');
-						$('h2').removeClass('night-mode-headers');
-						$('h3').removeClass('night-mode-headers');
-						$('h4').removeClass('night-mode-headers');
-						$('h5').removeClass('night-mode-headers');
-						$('h6').removeClass('night-mode-headers');
-					// $('div').removeClass('night-mode');
-				});
-		</script>
 
 	</body>
 </html>

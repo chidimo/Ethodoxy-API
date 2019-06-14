@@ -59,6 +59,10 @@ class ChaptersViewSet(viewsets.ModelViewSet):
     def destroy(self, request, *args, **kwargs):
         return Response({'message': 'Unable to delete'})
 
+    def retrieve(self, request, book_pk=None, chapter_pk=None):
+        if (book_pk and chapter_pk):
+            pass
+
 class VersesViewSet(viewsets.ModelViewSet):
     queryset = Verse.objects.all()
     serializer_class = VerseSerializer

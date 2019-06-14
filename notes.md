@@ -15,3 +15,5 @@ python manage.py create_ot
 python manage.py create_chapters
 python manage.py create_commentary
 python manage.py create_verses
+
+python manage.py create_nt&&python manage.py create_ot&&python manage.py create_chapters&&python manage.py create_commentary&&python manage.py create_verses

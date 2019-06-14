@@ -17,15 +17,6 @@ DATABASE_URL = config('DATABASE_URL')
 WSGI_APPLICATION = 'ethodoxy.wsgi.application'
 INTERNAL_IPS = ('127.0.0.1', 'localhost')
 
-MESSAGE_LEVEL = 10  # DEBUG
-MESSAGE_TAGS = {
-    messages.DEBUG: 'alert-info',
-    messages.INFO: 'alert-info',
-    messages.SUCCESS: 'alert-success',
-    messages.WARNING: 'alert-warning',
-    messages.ERROR: 'alert-danger',
-}
-
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = config('EMAIL_PORT')
@@ -38,6 +29,8 @@ LOGOUT_URL = reverse_lazy('siteuser:logout')
 LOGOUT_REDIRECT_URL = reverse_lazy('siteuser:login')
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 SITE_ID = 1
 PASSWORD_RESET_TIMEOUT_DAYS = 1
@@ -59,6 +52,7 @@ REST_FRAMEWORK = {
 }
 
 PREREQ_APPS = [
+    'whitenoise.runserver_nostatic',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

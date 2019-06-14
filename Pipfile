@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "==2.1.9"
+django = "==2.2.2"
 django-pure-pagination = "==0.3.0"
 markdown = "==3.1.1"
 djangorestframework = "==3.9.4"
@@ -21,7 +21,6 @@ whitenoise = "==4.1.2"
 psycopg2 = "==2.7.7"
 dj-database-url = "==0.5.0"
 drf-yasg = "==1.16.0"
-django-debug-toolbar = "==1.11"
 
 [dev-packages]
 coverage = "==4.0.3"

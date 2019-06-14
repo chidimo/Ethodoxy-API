@@ -8,7 +8,6 @@ class VersionSerializer(serializers.HyperlinkedModelSerializer):
 
 class BookSerializer(serializers.HyperlinkedModelSerializer):
     version = VersionSerializer()
-    version = version.data
     class Meta:
         model = Book
         fields = (

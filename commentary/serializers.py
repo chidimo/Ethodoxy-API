@@ -4,7 +4,6 @@ from bible.serializers import BookSerializer
 
 class CommentaryTextSerializer(serializers.HyperlinkedModelSerializer):
     book = BookSerializer()
-    book = book.data
     class Meta:
         model = CommentaryText
         fields = (

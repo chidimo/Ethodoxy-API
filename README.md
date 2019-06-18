@@ -4,54 +4,45 @@ Catholic Orthodoxy in electronic format
 
 ## API
 
-API root URL: <https://ethodoxy.herokuapp.com/api/v1>
+The API root URL is located at <https://ethodoxy.herokuapp.com/api/v1>. The swagger documentation is available at <https://ethodoxy.herokuapp.com/swagger/>.
 
-Swagger documentation: <https://ethodoxy.herokuapp.com/swagger/>
+The following API endpoints have been exposed
+
+1. <https://ethodoxy.herokuapp.com/api/v1/versions/>
+1. <https://ethodoxy.herokuapp.com/api/v1/books/>
+1. <https://ethodoxy.herokuapp.com/api/v1/chapters/>
+1. <https://ethodoxy.herokuapp.com/api/v1/verses/>
+1. <https://ethodoxy.herokuapp.com/api/v1/commentary/>
+
+All API endpoint calls have a `count` key which tells the total number of results returned. The actual data is contained in the `results` key.
+
+All results are paginated by `50` pages.
 
 ## Recreating the database
+
+It is possible to recreate the database on your local machine as the necessary `.json` files have been included in the `drbo_data` folder. The raw scrapped files are also available in the `drbo_org_scrap` folder.
 
 1. Clone the repo
 1. Run `pipenv install` and `pipenv install --dev`
 1. Run `python manage.py migrate`
-1. Create superuser with `python manage.py superuser`
-1. Create user with `python manage.py user`
+1. Optional. Create superuser with `python manage.py superuser`
+1. Optional. Create user with `python manage.py user`
 1. Both have the following optional arguments `-email admin@ethodoxy.net -password dwarfstar`
 
-1. Set up **Douay-Rheims** bible by running the following commands in order
-    `python manage.py create_version -name -location`
-    `python manage.py create_ot`
-    `python manage.py create_nt`
-    `python manage.py create_chapters`
-    `python manage.py create_verses`
+1. Set up **Douay-Rheims** bible database by running the following commands in order
+
+        python manage.py create_version -name -location
+        python manage.py create_ot
+        python manage.py create_nt
+        python manage.py create_chapters
+        python manage.py create_verses
 
 1. Set up Challoner commentary by running `python manage.py create_commentary`
 
-## Vatican II Documents
+## Contributing
 
-### Constitutions
-    Dei Verbum
-    Lumen Gentium
-    Sacrosanctum Concilium
-    Gaudium et Spes
+I am still working on this project and I haven't quite figured out how to query verses.
 
-### Declarations
-    Gravissimum Educationis
-    Nostra Aetate
-    Dignitatis Humanae
+## Querying
 
-### Decrees
-    Ad Gentes
-    Presbyterorum Ordinis
-    Apostolicam Actuositatem
-    Optatam Totius
-    Perfectae Caritatis
-    Christus Dominus
-    Unitatis Redintegratio
-    Orientalium Ecclesiarum
-    Inter Mirifica
-
-## To Do
-
-Scrap topics from drbo.org
-
-Include footnotes and cross-references for haydock
+1. How to query verses

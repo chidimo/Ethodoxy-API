@@ -11,11 +11,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 DEBUG = config('DEBUG', default=False, cast=bool)
 DEBUG_PROPAGATE_EXCEPTIONS = True
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
-ROOT_URLCONF = 'ethodoxy.urls'
+ROOT_URLCONF = 'ethodoxy-api.urls'
 SECRET_KEY = config('SECRET_KEY')
 DATABASE_URL = config('DATABASE_URL')
 
-WSGI_APPLICATION = 'ethodoxy.wsgi.application'
+WSGI_APPLICATION = 'ethodoxy-api.wsgi.application'
 INTERNAL_IPS = ('127.0.0.1', 'localhost')
 
 LOGIN_URL = reverse_lazy('siteuser:login')
@@ -31,7 +31,7 @@ PASSWORD_RESET_TIMEOUT_DAYS = 1
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'ethodoxy',
+        'NAME': 'ethodoxy-api',
         'USER': 'postgres',
         'PASSWORD': config('DB_PASSWORD', default='postgres'),
         'HOST': 'localhost',

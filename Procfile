@@ -1,1 +1,1 @@
-web: gunicorn ethodoxy.wsgi
+web: gunicorn ethodoxy-api.wsgi

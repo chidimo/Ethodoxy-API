@@ -1,0 +1,12 @@
+# Local `.env` variables
+
+```.env
+DEBUG=
+DJANGO_SETTINGS_MODULE=
+SECRET_KEY=
+EMAIL_HOST_PASSWORD=
+EMAIL_PORT=587
+ALLOWED_HOSTS=localhost, ethodoxy.herokuapp.com
+DATABASE_URL=
+DB_PASSWORD
+```

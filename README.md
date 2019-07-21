@@ -2,6 +2,10 @@
 
 Catholic Orthodoxy in electronic format
 
+## Site
+
+<http://chidimo.github.io/Ethodoxy/>
+
 ## API
 
 The API root URL is located at <https://ethodoxy.herokuapp.com/api/v1>. The swagger documentation is available at <https://ethodoxy.herokuapp.com/swagger/>.

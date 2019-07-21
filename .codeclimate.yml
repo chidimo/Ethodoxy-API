@@ -1,0 +1,12 @@
+engines:
+  pylint:
+    enabled: true
+    channel: "beta"
+    plugins:
+      - django
+exclude_patterns:
+  - drbo/
+  - extras/
+  - hay/
+  - templates/
+  - vat2/

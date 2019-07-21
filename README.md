@@ -1,4 +1,9 @@
-# Ethodoxy
+# Ethodoxy API
+
+[![Build Status](https://travis-ci.com/chidimo/Ethodoxy-API.svg?branch=develop)](https://travis-ci.com/chidimo/Ethodoxy-API)
+[![Coverage Status](https://coveralls.io/repos/github/chidimo/Ethodoxy-API/badge.svg?branch=develop)](https://coveralls.io/github/chidimo/Ethodoxy-API?branch=develop)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a111cd63dfe6f15bd844/maintainability)](https://codeclimate.com/github/chidimo/Ethodoxy-API/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a111cd63dfe6f15bd844/test_coverage)](https://codeclimate.com/github/chidimo/Ethodoxy-API/test_coverage)
 
 Catholic Orthodoxy in electronic format
 

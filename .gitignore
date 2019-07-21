@@ -4,5 +4,8 @@ __pycache__
 .vscode/
 .ipynb_checkpoints
 .env
+htmlcov/
+.coverage
+.vscode/
 staticfiles/
 db.sqlite3

@@ -1,0 +1,24 @@
+dist: xenial
+language: python
+python:
+    - "3.7"
+env:
+  global:
+    # codeclimate test reporter
+    - DJANGO_SETTINGS_MODULE=ethodoxy-api.settings.travis
+    - CC_TEST_REPORTER_ID=72991da2d7ef78bd3d75af56f061fa2831770c36d14baab7ad8b9ffd4adcfaf6
+install:
+    - pip install pipenv
+    - pipenv install --skip-lock
+    - pipenv install --dev --skip-lock
+script:
+    - coverage run manage.py test
+after_success:
+    - coveralls
+# codeclimate config
+before_script:
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+  - ./cc-test-reporter before-build
+after_script:
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT

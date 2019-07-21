@@ -7,15 +7,13 @@
 
 Catholic Orthodoxy in electronic format
 
-## Site
+## URLs
 
-<http://chidimo.github.io/Ethodoxy/>
+1. Site: <http://chidimo.github.io/Ethodoxy/>
+1. API root: <https://ethodoxy.herokuapp.com/api/v1>
+1. Swagger documentation: <https://ethodoxy.herokuapp.com/swagger/>
 
-## API
-
-The API root URL is located at <https://ethodoxy.herokuapp.com/api/v1>. The swagger documentation is available at <https://ethodoxy.herokuapp.com/swagger/>.
-
-The following API endpoints have been exposed
+## Available endpoints
 
 1. <https://ethodoxy.herokuapp.com/api/v1/versions/>
 1. <https://ethodoxy.herokuapp.com/api/v1/books/>
@@ -37,6 +35,17 @@ It is possible to recreate the database on your local machine as the necessary `
 1. Optional. Create superuser with `python manage.py superuser`
 1. Optional. Create user with `python manage.py user`
 1. Both have the following optional arguments `-email admin@ethodoxy.net -password dwarfstar`
+1. Create a `PostgreSQL` database name `ethodoxy-api`.
+1. Set up the following environment variables
+
+        DEBUG
+        DJANGO_SETTINGS_MODULE=ethodoxy-api.settings.dev
+        SECRET_KEY
+        EMAIL_HOST_PASSWORD
+        EMAIL_PORT
+        ALLOWED_HOSTS=localhost
+        DATABASE_URL
+        DB_PASSWORD
 
 1. Set up **Douay-Rheims** bible database by running the following commands in order
 
@@ -45,12 +54,11 @@ It is possible to recreate the database on your local machine as the necessary `
         python manage.py create_nt
         python manage.py create_chapters
         python manage.py create_verses
-
-1. Set up Challoner commentary by running `python manage.py create_commentary`
+        python manage.py create_commentary # challoner commentary
 
 ## Contributing
 
-I am still working on this project and I haven't quite figured out how to query verses.
+I haven't figured it out yet. Feel free to message me at orjichidi95@gmail.com
 
 ## Querying
 

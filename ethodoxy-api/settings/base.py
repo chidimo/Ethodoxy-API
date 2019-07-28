@@ -35,10 +35,10 @@ CORS_ALLOW_METHODS = [
 ]
 
 CORS_ALLOW_HEADERS = list(default_headers) + [
-    'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'PUT, GET, PATCH, POST',
-    'Access-Control-Allow-Headers': 'Content-Type',
-    'Access-Control-Max-Age': '3000',
+    'Access-Control-Allow-Origin',
+    'Access-Control-Allow-Methods',
+    'Access-Control-Allow-Headers',
+    'Access-Control-Max-Age',
 ]
 
 DATABASES = {

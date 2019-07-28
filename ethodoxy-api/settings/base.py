@@ -6,6 +6,8 @@ from django.contrib.messages import constants as messages
 
 from decouple import config, Csv
 
+from corsheaders.defaults import default_headers
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 DEBUG = config('DEBUG', default=False, cast=bool)
@@ -30,6 +32,13 @@ PASSWORD_RESET_TIMEOUT_DAYpiS = 1
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_METHODS = [
     'GET',
+]
+
+CORS_ALLOW_HEADERS = list(default_headers) + [
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'PUT, GET, PATCH, POST',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Max-Age': '3000',
 ]
 
 DATABASES = {

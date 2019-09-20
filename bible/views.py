@@ -59,7 +59,6 @@ class BooksViewSet(viewsets.ModelViewSet):
     def partial_update(self, request, pk=None):
         return Response({'message': 'Unable to partial update'})
 
-
 class ChaptersViewSet(viewsets.ModelViewSet):
     queryset = Chapter.objects.all()
     serializer_class = ChapterSerializer

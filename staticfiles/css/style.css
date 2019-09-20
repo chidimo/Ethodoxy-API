@@ -1,0 +1,189 @@
+body {
+  padding-top: 3.5rem;
+}
+
+.night-mode-headers {
+  color: #507aa6;
+}
+.night-mode{
+  color: white;
+}
+
+.fixed-top {
+  font-family: 'Inconsolata', monospace;
+}
+
+.navbar-brand {
+  font-size: 28px;
+}
+
+/* fix nav scrolling on small screens */
+@media (min-width: 300px) {
+  .navbar-collapse.navcontent.collapse.show {
+      max-height: 540px !important;
+      overflow-y: scroll !important;
+      overflow-x: hidden !important;
+  }
+}
+
+.fixed-top > .navcontent {
+  padding-right: 2.5rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+ul.nav > li.social-management {
+  padding: 0.35rem;
+}
+ul.righthand-navigation {
+  padding: 0;
+  margin-right: 8rem;
+}
+
+.content-block {
+  max-width: 1000px;
+  margin: auto;
+  box-shadow: 1px 3px 7px 3px #c4c7ce inset;
+  border-radius: 0.15rem;
+  padding-bottom: 10px;
+}
+
+
+.upload-forms {
+  max-width: 450px;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  padding: 0 1rem 2.75rem;
+  border: 1px solid #d7d7d7;
+  border-radius: 0.15rem;
+}
+
+.register-btn {
+  width: 100%;
+  font-size: 1.25rem;
+  margin-bottom: 5rem;
+}
+
+.modal-backdrop {
+  z-index: 1020;
+}
+
+.form-group {
+  position: relative;
+  color: #aaa;
+}
+input#id_username {
+  text-indent: 30px;
+  position: relative;
+  box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+}
+input#id_password {
+  text-indent: 30px;
+  position: relative;
+  box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+}
+.fa-user {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  font-size: 25px;
+  border-right: 1px solid #ccc;
+  padding-right: 5px;
+}
+.fa-unlock-alt {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  font-size: 25px;
+  border-right: 1px solid #ccc;
+  padding-right: 5px;
+}
+.social-logins {
+  font-size: 22px;
+  border-radius: 0.15rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+}
+.social-logins > a {
+  color: white;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  padding: 3px;
+}
+
+.login-form {
+  max-width: 350px;
+  margin: auto;
+  padding-bottom: 1rem;
+}
+.login-btn {
+  width: 100%;
+}
+.forgot-password-btn {
+  width: 45%;
+  margin-left: 0.3rem;
+}
+.join-btn {
+  width: 45%;
+  margin-right: 0.3rem;
+}
+.btn-md-span {
+  vertical-align: middle;
+  font-size: 22px;
+}
+
+/* end dropdown styling */
+
+.single-commentary-entry {
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.5rem;
+}
+
+.password-reset-conditions {
+  border: 1px solid rgba(0,0,0,.125);
+  text-align: left;
+  color: red;
+  border-radius: 0.5rem;
+}
+
+.pagination {
+  text-align: center;
+  font-weight: 600;
+  display: block;
+  padding: 1rem;
+  margin: 0.75rem 0;
+  border-radius: 0.15rem;
+  border: 0.6px solid;
+}
+
+ul.messages {
+  color: green;
+  text-align: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul.errorlist {
+  color: red;
+  text-align: left;
+  list-style-type: none;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+.form-control {
+  border: 1px solid #aaa;
+  border-radius: 0.15rem;
+  box-shadow: 0 0 3px #ccc, 0 10px 15px #ebebeb inset;
+}
+
+footer {
+  margin-top: 15rem;
+}

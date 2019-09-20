@@ -7,5 +7,4 @@ __pycache__
 htmlcov/
 .coverage
 .vscode/
-staticfiles/
 db.sqlite3

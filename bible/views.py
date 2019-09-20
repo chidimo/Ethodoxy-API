@@ -26,7 +26,7 @@ class VersionViewSet(viewsets.ModelViewSet):
                 return JsonResponse(f'{name} version already exists.', status=400, safe=False)
             except:
                 version, created = Version.objects.get_or_create(name=name)
-                return JsonResponse(f'{name} version created.', status=201, safe=False)      
+                return JsonResponse(f'{name} version created.', status=201, safe=False)
 
 
 class BooksViewSet(viewsets.ModelViewSet):
@@ -69,7 +69,7 @@ class ChaptersViewSet(viewsets.ModelViewSet):
 
     def retrieve(self, request, pk=None):
         try:
-            verses = Verse.objects.filter(chapter__pk=pk)
+            verses = Verse.objects.filter(chapter__book__pk=pk)
             page = self.paginate_queryset(verses)
             if page is not None:
                 data = []
